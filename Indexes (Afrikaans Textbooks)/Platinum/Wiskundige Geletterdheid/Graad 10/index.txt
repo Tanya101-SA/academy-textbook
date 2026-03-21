@@ -1,0 +1,677 @@
+======================================================================
+Platinum Wiskundige Geletterdheid Graad 10 Leerderboek
+ISBN: 9780636189959
+Uitgewer: Platinum (Pearson Suid-Afrika)
+Kurrikulum: KABV (CAPS)
+======================================================================
+
+INHOUDSOPGAWE
+──────────────────────────────────────────────────────────────────────
+
+
+Platinum Wiskundige Geletterdheid Learner's Book 10
+Inhoudsopgawe
+Kwartaal 1
+    Onderwerp 1 Getalle en berekeninge met getalle
+        CHAPTER 1 Number formats and conventions
+            Eenheid 1: The decimal comma, decimal point and thousands separators
+                Understanding different number conventions
+                EXERCISE 1
+            Eenheid 2: Numbers expressed in words
+                EXERCISE 2
+                EXERCISE 3
+                Working with large numbers
+                EXERCISE 4
+            Eenheid 3: Positive and negative numbers
+                EXERCISE 5
+                Positive and negative temperatures
+                EXERCISE 6
+                Positive and negative numbers in scoring
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 7
+                Positive and negative numbers in the world of finance
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 8
+                EXERCISE 9
+            Hersiening
+        CHAPTER 2 Estimating and rounding off
+            Eenheid 1: Estimate solutions
+                EXERCISE 10
+                Rounding numbers off to estimate
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 11
+            Eenheid 2: Rounding off to significant numbers
+                Rounding up or down
+                WORKED EXAMPLE
+                SOLUTION
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 12
+                Rounding off within a context
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+                WORKED EXAMPLE 3
+                EXERCISE 13
+            Hersiening
+        CHAPTER 3 Operations and calculator skills
+            Eenheid 1: Add, subtract, multiply and divide numbers and decimals
+                Hersiening of basic arithmetic skills
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 14
+            Eenheid 2: Multiply and divide by 10, 100, and 1 000 without a calculator
+                EXERCISE 15
+            Eenheid 3: Order of operations
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+                WORKED EXAMPLE 3
+                SOLUTION
+                WORKED EXAMPLE 4
+                SOLUTION
+                WORKED EXAMPLE 5
+                SOLUTION
+                WORKED EXAMPLE 6
+                SOLUTION
+                EXERCISE 16
+            Eenheid 4: The use of brackets
+                EXERCISE 17
+                The use of invisible brackets when working with fractions
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 18
+            Eenheid 5: Addition and multiplication facts
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 19
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 20
+            Eenheid 6: Squares and cubes
+                WORKED EXAMPLE
+                SOLUTION
+                Using a calculator to find the square of a number
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 21
+                Cubes
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 22
+            Eenheid 7: Square roots
+                Using a calculator to find the square root of a number
+                WORKED EXAMPLE
+                SOLUTION
+                Working with decimals
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+                EXERCISE 23
+            Eenheid 8: Breuke
+                Simplification and equivalent fractions
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+                EXERCISE 24
+                Simplifying fractions
+                WORKED EXAMPLE
+                SOLUTION
+                Using a calculator to simplify fractions
+                EXERCISE 25
+                Mixed numbers
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 26
+                Optelling en aftrekking van breuke
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+                WORKED EXAMPLE 3
+                SOLUTION
+                EXERCISE 27
+                Breuke in the real world
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 28
+                Vermenigvuldiging en deling of fractions
+                WORKED EXAMPLES
+                SOLUTION
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 29
+                Converting common fractions to decimal form
+                Using a calculator to convert to decimal form
+                WORKED EXAMPLE
+                SOLUTION
+                Using a calculator to convert mixed numbers to decimal form
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 30
+            Hersiening
+        CHAPTER 4 Ratio
+            Eenheid 1: Express and simplify ratios
+                WORKED EXAMPLE
+                SOLUTION
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 31
+            Eenheid 2: Calculations with ratios
+                WORKED EXAMPLE
+                SOLUTION
+                Two methods to solve problems using ratios
+                WORKED EXAMPLE 1: THE RATIO METHOD
+                SOLUTION
+                WORKED EXAMPLE 2: THE UNITARY METHOD
+                SOLUTION
+                EXERCISE 32
+                PRACTICAL EXERCISE: ADVERTISING
+            Eenheid 3: Divide in a given ratio
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+                EXERCISE 33
+            Hersiening
+        CHAPTER 5 Proportion
+            Eenheid 1: Direct proportion
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 34
+            Eenheid 2: Indirect (inverse) proportion
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+                EXERCISE 35
+            Hersiening
+        CHAPTER 6 Rates
+            Eenheid 1: Cost rates
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 36
+            Eenheid 2: Consumption rates
+                EXERCISE 37
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 38
+            Eenheid 3: Distance, time and speed rates
+                Convert rates to different units
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 39
+            Hersiening
+        CHAPTER 7 Persentasies
+            Eenheid 1: Express parts of a whole as a percentage
+                Using a calculator to calculate percentages
+                WORKED EXAMPLE
+                SOLUTION
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+                EXERCISE 40
+            Eenheid 2: Calculate a percentage of a quantity
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+                WORKED EXAMPLE 3
+                SOLUTION
+                EXERCISE 41
+            Eenheid 3: Increase and decrease a value by a percentage
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+                WORKED EXAMPLE 3
+                SOLUTION
+                Formulae for calculating the new price after a percentage increase.
+                Formulae for calculating the new price after a percentage decrease.
+                EXERCISE 42
+            Eenheid 4: Percentage increase and decrease
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 43
+            Eenheid 5: Original values of discounted prices
+                WORKED EXAMPLE
+                SOLUTION
+                Calculating a presale price
+                Calculating the price before the percentage increase
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+                EXERCISE 44
+            Hersiening
+        Opdrag: Number magic
+        Summary of Onderwerp 1
+            Chapter 1 Number formats and conventions
+            Chapter 2 Estimating and rounding
+            Chapter 3 Operations and calculator skills
+            Chapter 4 Ratio
+            Chapter 5 Proportion
+            Chapter 6 Rates
+            Chapter 7 Persentasies
+Kwartaal 2
+    Onderwerp 2 Patrone, verwantskappe en voorstellings
+        CHAPTER 1 Inleiding to graphs
+            Eenheid 1: Explain and interpret graphs
+                EXERCISE 1
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 2
+                EXERCISE 3
+            Eenheid 2: Describe relationships represented by graphs
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 4
+            Eenheid 3: Interpret shape and direction of graphs
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+                EXERCISE 5
+                Hersiening
+        CHAPTER 2 Patterns and relationships
+            Eenheid 1: Fixed relationships and constant difference relationships
+                WORKED EXAMPLE
+                SOLUTION
+                SOLUTION
+                EXERCISE 6
+            Eenheid 2: Inverse proportion
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 7
+            Eenheid 3: Describe patterns in words
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 8
+            Eenheid 4: Find missing terms in a pattern
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+                EXERCISE 9
+            Eenheid 5: Describe, represent and construct patterns
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+            Eenheid 6: Identify and extend patterns using formulae
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+            Hersiening
+        CHAPTER 3 Tabelle, equations and graphs
+            Eenheid 1: Use tables, equations and graphs
+                WORKED EXAMPLE
+                SOLUTION
+                Solving problems using tables and equations
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 10
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 11
+            Eenheid 2: Dependent and independent variables
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+                EXERCISE 12
+            Eenheid 3: Formulate equations from tables and graphs
+                Formulate equations from tables
+                WORKED EXAMPLE
+                SOLUTION
+                Formulate equations from graphs
+                WORKED EXAMPLE 1
+                SOLUTION
+            Eenheid 4: Los vergelykings op
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 13
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 14
+            Eenheid 5: Grafieke
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 15
+                Drawing straight line graphs from equations using two points
+                WORKED EXAMPLE 1
+                SOLUTION
+                Solving problems using graphs
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 16
+                Hersiening
+        Ondersoek
+            To complete this investigation, you will need:
+            EXERCISE
+        Summary of Onderwerp 2
+            Chapter 1 Inleiding to graphs
+            Chapter 2 Patterns and relationships
+            Chapter 3 Tabelle, equations and graphs
+    Onderwerp 3 Finansies
+        CHAPTER 1 Financial documents
+            Eenheid 1 Personal or household finance
+                WORKED EXAMPLE
+                SOLUTION
+                Paying accounts
+                Telephone Accounts
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 1
+                Other household accounts, invoices and statements
+                WORKED EXAMPLE
+                SOLUTION
+                Hersiening
+        CHAPTER 2 Tariefstelsels
+            Eenheid 1 Calculating costs using tariffs
+                WORKED EXAMPLE
+                SOLUTION
+                WORKED EXAMPLE
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+                EXERCISE 2
+            Eenheid 2 Draw and interpret graphs of tariff systems
+                Drawing a tariff graph
+                EXERCISE 3
+                Interpreting tariff graphs
+                EXERCISE 4
+            Hersiening
+        CHAPTER 3 Income and expenditure
+            Eenheid 1 Personal income
+                WORKED EXAMPLE 1: CASUAL WORK
+                SOLUTION
+                WORKED EXAMPLE 2: PIECE WORK
+                SOLUTION
+                WORKED EXAMPLE 3: SALARIED EMPLOYMENT
+                SOLUTION
+                WORKED EXAMPLE 4: COMMISSION-BASED WORK
+                SOLUTION
+                Salary slips
+                EXERCISE 5
+            Eenheid 2 Personal expenditure
+                GROUP EXERCISE
+                EXERCISE 6
+            Hersiening
+        CHAPTER 4 Rente
+            Eenheid 1 Rente rate
+                Rente on savings
+                Calculating simple interest per annum
+                Calculating compound interest per annum
+                EXERCISE 7
+                Grafieke of simple and compound interest
+                EXERCISE 8
+                EXERCISE 9
+                Rente calculations involving different time periods
+                WORKED EXAMPLE
+                SOLUTION
+                Rente calculations on frequent payment intervals
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 10
+                Rente paid on loans
+                WORKED EXAMPLE: LUMP SUM REPAYMENTS
+                SOLUTION
+                WORKED EXAMPLE: MONTHLY REPAYMENT LOANS
+                EXERCISE 11
+                Rente on overdue accounts
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 12
+            Hersiening
+        CHAPTER 5 Bankwese
+            Eenheid 1 Bank Accounts
+                Bank charges
+                Bank services
+                EXERCISE 13
+            Eenheid 2 Bankwese documents
+                EXERCISE 14
+                EXERCISE 15
+            Hersiening
+        CHAPTER 6 Belastingation
+            Eenheid 1 VAT
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+                WORKED EXAMPLE 3
+                SOLUTION
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 16
+            Hersiening
+        Summary of Onderwerp 3
+            Chapter 1 Financial documents
+            Chapter 2 Tariefstelsels
+            Chapter 3 Income and expenditure
+            Chapter 4 Rente
+            Chapter 5 Bankwese
+            Chapter 6 Belastingation
+Kwartaal 3
+    Onderwerp 4 Meting
+        CHAPTER 1 Conversions
+            Eenheid 1: Convert units of measurement from memory
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+                EXERCISE 1
+            Eenheid 2: Conversion factors and tables
+                Using a length conversion table
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+                EXERCISE 2
+            Eenheid 3: Express in appropriate units
+                EXERCISE 3
+            Hersiening
+        CHAPTER 2 Lengte and distance
+            Eenheid 1: Estimate and measure
+                WORKED EXAMPLE
+                SOLUTION
+                GROUP EXERCISE 1
+                GROUP EXERCISE 2
+                EXERCISE 4
+            Eenheid 2: Metings and calculations
+                EXERCISE 5
+                EXERCISE 6
+                Accuracy and precision
+                WORKED EXAMPLE
+                SOLUTION
+                GROUP EXERCISE: MEASURING ROAD DISTANCES
+                EXERCISE 7
+            Hersiening
+        CHAPTER 3 Massa
+            Eenheid 1: Massa measurement
+                PRACTICAL EXERCISE: BECOMING FAMILIAR WITH STANDARD MASSES
+                EXERCISE 8
+            Eenheid 2: Manage and calculate mass
+                PRACTICAL EXERCISE 1
+                PRACTICAL EXERCISE 2
+                Managing the mass of a household pet
+                EXERCISE 9
+            Hersiening
+        CHAPTER 4 Kapasiteit
+            Eenheid 1: Kapasiteit measurements
+                PRACTICAL EXERCISE
+                WORKED EXAMPLE 1
+                SOLUTIONS
+                WORKED EXAMPLE 2
+                SOLUTION
+                EXERCISE 10
+                PRACTICAL ASSIGNMENT
+            Hersiening
+        CHAPTER 5 Temperatuur
+            Eenheid 1: Measure and interpret temperature
+                EXERCISE 11
+                EXERCISE 12
+            Eenheid 2: Convert between Celsius and Fahrenheit
+                Conversions
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+                EXERCISE 13
+            Hersiening
+        CHAPTER 6 Omtrek, oppervlakte en volume
+            Eenheid 1: Calculate perimeter and area
+                Rectangles
+                WORKED EXAMPLE
+                SOLUTION
+                Driehoeke
+                WORKED EXAMPLE
+                Sirkels
+                CLASS EXERCISE
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+                EXERCISE 14
+            Eenheid 2: Calculate volume
+                WORKED EXAMPLE
+                SOLUTIONS
+                EXERCISE 15
+            Hersiening
+        CHAPTER 7 Tyd
+            Eenheid 1: Calculations with time
+                WORKED EXAMPLE
+                SOLUTION
+                Calculating elapsed time using different time formats
+                WORKED EXAMPLES
+                SOLUTION
+                EXERCISE 16
+                TV timetables
+                EXERCISE 17
+            Hersiening
+        Summary of Onderwerp 4
+            Chapter 1 Conversions
+            Chapter 2 Measure length and distance
+            Chapter 3 Massa
+            Chapter 4 Kapasiteit
+            Chapter 5 Temperatuur
+            Chapter 6 Omtrek, oppervlakte en volume
+            Chapter 7 Tyd
+    Onderwerp 5 Maps, plans and representations
+        CHAPTER 1 Scale
+            Eenheid 1: Types of scales
+                Verbal scales
+                Number scales
+                WORKED EXAMPLE
+                SOLUTION
+                Advantages
+                Disadvantages
+                Bar scales
+                Advantages
+                EXERCISE 1
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 2
+            Hersiening
+        CHAPTER 2 Plans
+            Eenheid 1: Read and interpret plans
+                EXERCISE 3
+                PRACTICAL EXERCISE: WELCOME TO OUR SCHOOL
+                Seating plans for stadiums
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 4
+            Hersiening
+        CHAPTER 3 Planne en modelle
+            Eenheid 1: Read and interpret plans and models
+                EXERCISE 5
+                EXERCISE 6
+            Hersiening
+        CHAPTER 4 Packing arrangements
+            Eenheid 1: Work with packaging
+                PRACTICAL EXERCISE: SAVING SPACE WITH CLEVER PACKING ARRANGEMENTS
+                REVISION
+                Ondersoek: Resizing images and plans
+                A) Manually enlarge an image
+                B) Enlarge an image using a photocopier
+        Summary of Onderwerp 5
+            Chapter 1 Scale
+            Chapter 2 Plans
+            Chapter 3 Planne en modelle
+            Chapter 4 Packing and arrangements
+Kwartaal 4
+    Onderwerp 6 Datahantering
+        CHAPTER 1 Develop questions and collect data
+            Eenheid 1: Ontwikkel vrae
+                EXERCISE 1
+                REVISION
+        CHAPTER 2 Classify and organise data
+            Eenheid 1: Using frequency tables
+                EXERCISE 2
+                Hersiening
+        CHAPTER 3 Represent Data
+            Eenheid 1: Bar graphs, line graphs, histograms and pie charts
+                Single bar graphs
+                EXERCISE 3
+                Histograms
+                EXERCISE 4
+                Pie Charts
+                EXERCISE 5
+                Line graphs
+                EXERCISE 6
+                Hersiening
+        CHAPTER 4 Summarise Data
+            Eenheid 1: Mean, median, mode and range
+                Mean
+                Median
+                WORKED EXAMPLE
+                SOLUTION
+                Mode
+                WORKED EXAMPLE
+                SOLUTION
+                Range
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 7
+                Hersiening
+        Practical investigation: Electricity usage
+            Objectives:
+        Summary of Onderwerp 6
+            Chapter 1 Develop questions and collect data
+            Chapter 2 Classify and organise data
+            Chapter 3 Stel data voor
+            Chapter 4 Som data op
+    Onderwerp 7 Waarskynlikheid
+        CHAPTER 1 Expressions of likelihood
+            Eenheid 1: Waarskynlikheid and certainty
+                Certain and impossible events
+                EXERCISE 1
+                WORKED EXAMPLE
+                SOLUTION
+            Hersiening
+        CHAPTER 2 Predictions
+            Eenheid 1: Two events and tree diagrams
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+                EXERCISE 2
+                Tree Diagrams
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 3
+            Hersiening
+        Summary of Onderwerp 7
+            Chapter 1
+            Chapter 2
+Test Yourself
+Woordelys

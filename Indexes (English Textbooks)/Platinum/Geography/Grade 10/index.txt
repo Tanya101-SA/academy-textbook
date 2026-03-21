@@ -1,0 +1,715 @@
+======================================================================
+Platinum Geography Grade 10 Learner's Book
+ISBN: 9780636158719
+Publisher: Platinum (Pearson South Africa)
+Curriculum: CAPS
+======================================================================
+
+TABLE OF CONTENTS
+──────────────────────────────────────────────────────────────────────
+
+
+Platinum Geography Grade 10 Learner’s Book
+TOPIC 1 Geographical skills and techniques
+    CHAPTER 1 Map skills
+        Unit 1: Locating places on maps
+            ACTIVITY 1 UNDERSTANDING MAP READING
+            1. Locating exact position
+                ACTIVITY 2 LOCATING EXACT POSITION USING DEGREES, MINUTES AND SECONDS
+        Unit 2: Scale
+            1. Three ways of representing scale
+                Word scale
+                Ratio scale
+                Line scale
+                ACTIVITY 3 DESCRIBING SCALE ON A MAP
+    CHAPTER 2 Topographic maps
+        Unit 1: The South African 1:50 000 map referencing system
+            ACTIVITY 1 FINDING MAPS USING MAP REFERENCE NUMBERS
+        Unit 2: Conventional signs and symbols
+            ACTIVITY 2 USING CONVENTIONAL MAP SYMBOLS
+        Unit 3: Direction, bearing and magnetic bearing
+            1. Navigating using compass directions
+                ACTIVITY 3 DETERMINING DIRECTION
+            2. Bearing
+                True bearing
+                ACTIVITY 4 DETERMINING TRUE BEARING
+                Magnetic bearing
+                Calculating magnetic bearing
+                ACTIVITY 5 WORKING WITH BEARING AND MAGNETIC DECLINATION
+        Unit 4: Landforms and contours
+            1. Landforms
+            2. How landforms are illustrated on maps
+                ACTIVITY 6 WORKING WITH ALTITUDE ON MAPS
+            3. Identifying landforms from contour lines
+            4. Contour lines illustrating slopes
+                ACTIVITY 7 INTERPRETING MAPS
+            5. Cross-sections
+                Constructing cross-sections
+                ACTIVITY 8 CONSTRUCTING CROSS-SECTIONS
+    CHAPTER 3 Aerial photographs and orthophoto maps
+        Unit 1: Photographs of landscapes
+        Unit 2: Oblique and vertical aerial photographs
+            1. Oblique and vertical aerial photographs
+                ACTIVITY 1 WORKING WITH AERIAL PHOTOGRAPHS
+            2. How aerial photographs are taken
+        Unit 3: Orthophoto maps
+            ACTIVITY 2 WORKING WITH ORTHOPHOTO MAPS
+    CHAPTER 4 Geographical Information Systems (GIS)
+        Unit 1: The development of a GIS
+            1. Reasons for the development of GIS
+                ACTIVITY 1 GETTING TO KNOW GIS
+        Unit 2: How remote sensing works
+            1. What is remote sensing?
+            2. Types of remote sensing data
+            3. Active and passive remote sensing
+            4. Applications of remote sensing
+                ACTIVITY 2 EXPLORING REMOTE SENSING
+        Unit 3: GIS concepts explained
+            1. The components of GIS
+                Hardware
+                Software
+                Data
+                Personnel
+                ACTIVITY 3 IDENTIFYING GIS COMPONENTS
+                Data capture
+                Capturing spatial data
+                Capturing attribute data
+                Advantages of a GIS
+    CHAPTER 5 Using atlases
+        Unit 1: Kinds of maps in an atlas
+            ACTIVITY 1 EXAMINING VARIOUS MAPS
+            1. Thematic maps
+                ACTIVITY 2 CROSS-REFERENCING PATTERNS ON DIFFERENT MAPS
+            2. Interpreting different kinds of graphs
+                ACTIVITY 3 INTERPRETING CLIMATE GRAPHS
+        Unit 2: Map projections
+            ACTIVITY 4 DOING AN EXPERIMENT TO FIND OUT ABOUT MAKING A MAP PROJECTION
+            1. Equal area projections
+                Value of equal area projections
+                Limitations of an equal area projection
+            2. True direction projections
+                Value of true direction projections
+                Limitations of true direction projections
+                ACTIVITY 5 UNDERSTANDING THE CONCEPT OF PROJECTIONS
+        Unit 3: Map reading and map interpretation
+            1. Grid referencing using latitude and longitude
+        Unit 4: Using the index of an atlas
+            ACTIVITY 6 FINDING PLACES ON A MAP USING AN ATLAS INDEX
+            ACTIVITY 7 LOCATING PHYSICAL AND CONSTRUCTED FEATURES
+    CHAPTER 6 Fieldwork and practical work
+        Unit 1: Collecting information about the weather
+            ACTIVITY 1 GETTING INFORMATION FROM A WEATHER MAP IN A NEWSPAPER
+            1. Using a maximum and minimum thermometer
+                ACTIVITY 2 USING A MAXIMUM AND MINIMUM THERMOMETER
+        Unit 2: Collecting, processing and presenting fieldwork findings
+            1. Collecting data
+            2. Processing data
+            3. Presenting data
+                Temperature and rainfall graphs in atlases
+                ACTIVITY 3 INTERPRETING TEMPERATURE AND RAINFALL GRAPHS
+                Programme of assessment: Research Project
+                Interpreting and presenting information about climate and weather
+                ACTIVITY 4 INTERPRETING CLIMATE INFORMATION AND DRAWING A TEMPERATURE AND RAINFALL GRAPH
+                ACTIVITY 5 DRAWING A WEATHER STATION MODEL
+                ACTIVITY 6 INTERPRETING A SYNOPTIC WEATHER MAP
+        Revision
+            QUESTION 1: MULTIPLE CHOICE QUESTIONS
+            QUESTION 2: TRUE OR FALSE QUESTIONS
+            QUESTION 3: TERMINOLOGY
+            QUESTION 4: MAP ORIENTATION
+            QUESTION 5: DIRECTION AND BEARING
+            QUESTION 6: ORTHOPHOTO MAPS
+            QUESTION 7: FIELDWORK
+            QUESTION 8: GIS
+        Summary of Term 1 Topic 1 Geographical Skills Geographical Skills And Techniques
+            Chapter 1: Map skills
+            Chapter 2: Topographic maps
+            Chapter 3: Aerial photographs and orthophoto maps
+            Chapter 4: Geographical Information Systems (GIS)
+            Chapter 5: Using atlases
+            Chapter 6: Fieldwork and practical work
+TOPIC 2 The atmosphere
+    CHAPTER 1 Composition and structure of the atmosphere
+        Unit 1: Importance of the atmosphere
+            1. What is the atmosphere?
+            2. Why is the atmosphere important for life on Earth?
+            3. The composition of the atmosphere
+                Gasses
+                Liquids
+                Solid particles
+                ACTIVITY 1 INVESTIGATING THE ATMOSPHERE
+            4. The structure of the atmosphere
+                The troposphere
+                The stratosphere
+                The mesosphere
+                The thermosphere
+                ACTIVITY 2 EXPLORING THE STRUCTURE OF THE ATMOSPHERE
+                ACTIVITY 3 FIELDWORK: DEMONSTRATING THAT THE ATMOSPHERE IS COMPOSED OF SOLID PARTICLES
+        Unit 2: The ozone layer – in the stratosphere
+            1. The ozone layer and its function
+            2. Causes and effects of ozone depletion
+                Causes of ozone depletion
+                ACTIVITY 4 INVESTIGATING OZONE
+                Effects of ozone depletion
+                ACTIVITY 5 ANALYSING THE EFFECTS OF OZONE DEPLETION
+                3. Ways to reduce ozone depletion
+                ACTIVITY 6 REDUCING OZONE DEPLETION
+                ACTIVITY 7 FIELDWORK
+                Case study: UNIDO introduces ozone-friendly standards and technology
+                Helping farmers in Morocco compete on the European Union market
+    CHAPTER 2 Heating of the atmosphere
+        Unit 1: Heating of the atmosphere
+            1. Processes involved with heating the atmosphere
+                Insolation
+                Absorption
+                Scattering
+                Reflection
+                ACTIVITY 1 FIELDWORK
+            2. How heat is transferred in the atmosphere
+                Radiation
+                Conduction
+                Convection
+                ACTIVITY 2 UNDERSTANDING HOW THE ATMOSPHERE IS HEATED
+        Unit 2: The Greenhouse Effect
+            1. What is the Greenhouse Effect?
+                ACTIVITY 3 FIELDWORK
+            2. Impact on people and the environment
+                Impact on the environment
+                Positive impact of the enhanced Greenhouse Effect
+                Negative impact of the enhanced Greenhouse Effect
+                Impact on people
+                ACTIVITY 4 EXPLORING ISSUES ABOUT THE GREENHOUSE EFFECT AND THE VALUES OF DECISION MAKERS
+        Unit 3: Factors affecting temperature at different places around the world
+            ACTIVITY 5 USING AN ATLAS: INTRODUCTORY ACTIVITY
+            1. Latitude
+                The shape of Earth
+                The angle of Earth in space
+                ACTIVITY 6 INTERPRETING A TEMPERATURE MAP OF THE WORLD
+            2. Altitude
+            3. Ocean currents
+            4. Distance from oceans (continentality)
+                ACTIVITY 7 FIELDWORK: USING WEATHER FORECAST MAPS TO IDENTIFY FACTORS AFFECTING SOUTH AFRICA’S TEMPERATURE
+                ACTIVITY 8 INTERPRETING HOW DISTANCE FROM OCEAN AFFECTS TEMPERATURE
+                ACTIVITY 9 IDENTIFYING FACTORS AFFECTING TEMPERATURE IN DIFFERENT PLACES
+        Unit 4: Global warming – evidence, causes and consequences with reference to Africa
+            ACTIVITY 10 REVISING THE GREENHOUSE EFFECT
+            1. Evidence of global warming
+                Case study: NASA: Global warming: 2009 ends warmest decade on record
+                Case study: Sea level rise: It’s worse than we thought 1 July 2009
+                Case study: NASA examines Arctic sea ice changes leading to record low in 2007 12 October 2007
+                ACTIVITY 11 UNDERSTANDING CHANGES TAKING PLACE OVER TIME IN PLACES AND LANDSCAPES
+            2. Causes of global warming
+                ACTIVITY 12 ANALYSING GEOGRAPHIC DATA FROM GRAPHS (PIE CHARTS)
+            3. Consequences of global warming
+                Case study: Consequences of global warming
+                Case study: Facing rising seas
+                ACTIVITY 13 EVALUATING THE CONSEQUENCES OF GLOBAL WARMING
+        Unit 5: The impact of climate and climate change on Africa’s environment and people
+            1. Droughts and floods
+                Case study: The effect drought has on people in Africa
+                ACTIVITY 14 EXAMINING THE EFFECTS OF EXTREME WEATHER ON PEOPLE IN AFRICA
+            2. Rising sea levels
+            3. Deserts
+                ACTIVITY 15 EXPLORING THE IMPACT OF CLIMATE CHANGE ON PEOPLE AND ENVIRONMENTS IN AFRICA
+    CHAPTER 3 Moisture in the atmosphere
+        Unit 1: Forms of water in the atmosphere and the processes associated with evaporation, condensation and precipitation
+            1. Forms of water in the atmosphere
+                Water vapour
+                Liquid
+                Ice
+                ACTIVITY 1 UNDERSTANDING THE FORMS OF WATER IN THE ATMOSPHERE
+            2. Processes associated with evaporation, condensation and precipitation
+                Evaporation and condensation
+                Precipitation
+        Unit 2: Dew point, condensation level, humidity and relative humidity
+            1. Humidity and relative humidity
+                Calculations illustrating relative humidity
+            2. Dew point and condensation level
+                ACTIVITY 2 UNDERSTANDING THE RELATIONSHIP BETWEEN TEMPERATURE AND HUMIDITY
+        Unit 3: Clouds
+            1. How and why clouds form
+            2. Cloud names and associated weather conditions
+                Cloud shapes
+                ACTIVITY 3 EXPLORING CLOUDS
+                ACTIVITY 4: FIELDWORK: MAKING A CLOUD IN A BOTTLE
+        Unit 4: Forms of precipitation and the mechanisms that produce different kinds of rain
+            1. Rain
+                Types of rain
+                Convectional rain
+                Orographic rain (also called relief rain)
+                Frontal rain (also called cyclonic rain)
+                ACTIVITY 5 FIELDWORK: MEASURING THE SIZE OF RAINDROPS
+            2. Hail
+            3. Snow
+            4. Dew
+            5. Frost
+                ACTIVITY 6 UNDERSTANDING PRECIPITATION
+    CHAPTER 4 Reading and interpreting synoptic weather maps
+        Unit 1: Synoptic weather maps
+            1. Weather elements
+                Amount of cloud cover
+                Wind direction
+                Wind speed
+                Air temperature
+                Dew point temperature
+                Precipitation
+                Atmospheric pressure
+            2. Weather conditions
+                ACTIVITY 1 UNDERSTANDING WEATHER STATION MODELS
+        Unit 2: Reading and interpreting synoptic weather maps
+            ACTIVITY 2 INTERPRETING A SYNOPTIC WEATHER MAP
+            ACTIVITY 3 INTERPRETING THE SYNOPTIC WEATHER MAP FOR 13 DECEMBER 2006
+        Revision
+            QUESTION 1: COMPOSITION AND STRUCTURE OF THE ATMOSPHERE
+            QUESTION 2: HEATING THE ATMOSPHERE
+            QUESTION 3: FACTORS AFFECTING TEMPERATURE
+            QUESTION 4: MOISTURE IN THE ATMOSPHERE
+            Summary of Term 1 Topic 2 THE ATMOSPHERE
+                Chapter 1: Composition and structure of the atmosphere
+                Chapter 2: Heating of the atmosphere
+                Chapter 3: Moisture in the atmosphere
+                Chapter 4: Reading and interpreting synoptic weather maps
+TOPIC 3 Geomorphology
+    CHAPTER 1 The structure of Earth
+        Unit 1: The internal structure of Earth
+            ACTIVITY 1 EXAMINING THE INTERNAL STRUCTURE OF EARTH
+        Unit 2: Classification of rocks
+            1. Igneous rocks
+            2. Sedimentary rocks
+                Clastic sedimentary rocks
+                Organic sedimentary rocks
+                Chemical and biochemical sedimentary rocks
+            3. Metamorphic rocks
+                Metamorphic rocks formed by heat
+                Metamorphic rocks formed by pressure
+                ACTIVITY 2 CLASSIFYING ROCKS
+        Unit 3: The rock cycle
+            ACTIVITY 3 UNDERSTANDING THE ROCK CYCLE
+        Unit 4: Intrusive igneous activity and associated features
+        Unit 5: Overview of landforms associated with different rocks
+            1. Landforms and igneous rocks
+            2. Landforms associated with sedimentary rocks
+                Landforms associated with horizontal strata
+                Landforms associated with inclined strata
+                Landforms associated with metamorphic rocks
+                ACTIVITY 5 RECOGNISING LANDFORMS ASSOCIATED WITH ROCK TYPES FROM CONTOUR PATTERNS
+    CHAPTER 2 Plate tectonics
+        Unit 1: Changes in the position of continents over time
+            ACTIVITY 1 DEMONSTRATING THE THEORY OF CONTINENTAL DRIFT
+        Unit 2: Evidence for the movement of continents
+            ACTIVITY 2 EXPLAINING EVIDENCE OF CONTINENTAL DRIFT
+        Unit 3: Plate tectonics – an explanation for the movement of continents
+            1. What is plate tectonics?
+            2. Kinds of plate boundaries
+                ACTIVITY 3 IDENTIFYING THE WORLD’S PLATES
+        Unit 4: The mechanics of plate movements
+            ACTIVITY 4 DRAWING AND LABELLING A DIAGRAM TO SHOW PLATE MOVEMENTS
+        Unit 5: Processes and landforms associated with plate boundaries
+            1. Landforms associated with divergent plate boundaries
+                A divergent plate boundary between two ocean plates
+                A divergent plate boundary involving continental crust
+            2. Landforms associated with convergent plate boundaries
+                A convergent plate boundary between two ocean plates
+                A convergent plate boundary between an ocean plate and a continental plate
+                A convergent plate boundary between two continental plates
+            3. Landforms associated with transform plate boundaries
+                ACTIVITY 5 IDENTIFYING PROCESSES CAUSING LANDFORMS ASSOCIATED WITH PLATE BOUNDARIES
+        Unit 6: The world’s volcanic and earthquake zones
+            ACTIVITY 6 ACCESSING INFORMATION FROM SATELLITE IMAGES AND PHOTOGRAPHS
+    CHAPTER 3 Folding and faulting
+        Unit 1: Folding
+            1. The formation of fold mountains
+                ACTIVITY 1 EXAMINING THE WORLD DISTRIBUTION OF FOLD MOUNTAINS
+        Unit 2: Landforms associated with folding
+            1. Anticlines and synclines
+            2. Different kinds of fold
+                ACTIVITY 2 DESCRIBING AND IDENTIFYING DIFFERENT KINDS OF FOLD
+        Unit 3: Faulting
+            1. Different types of faults
+                ACTIVITY 3 IDENTIFYING, LABELLING, AND DRAWING FAULTS
+        Unit 4: Landforms associated with faulting
+            1. Rift valleys
+                Rifting in Africa
+            2. Block mountains
+                ACTIVITY 4 DRAWING AND LABELLING DIAGRAMS SHOWING LANDFORMS ASSOCIATED WITH RIFTING
+    CHAPTER 4 Earthquakes
+        Unit 1: How and where earthquakes occur
+            1. Earthquakes and tectonic forces
+                ACTIVITY 1 LOCATING EARTHQUAKES ON THE WORLD MAP
+        Unit 2: Measuring and predicting earthquakes
+            1. Measuring earthquakes
+            2. Can people predict earthquakes?
+                Kinds of predicting
+                ACTIVITY 2 MEASURING AND PREDICTING EARTHQUAKES
+        Unit 3: How earthquakes impact on people and settlements
+            Case study: Haiti earthquake, 2010
+            Case study: Northridge earthquake, California, USA, 1994
+            ACTIVITY 3 EXPLORING THE IMPACT OF EARTHQUAKES ON PEOPLE AND SETTLEMENTS
+        Unit 4: Strategies to reduce the impact of earthquakes
+            1. Early-warning systems
+                Case study: Japan’s early-warning system
+            2. Stronger buildings
+                ACTIVITY 4 DESCRIBING WAYS THE IMPACT OF EARTHQUAKES CAN BE REDUCED
+        Unit 5: Examples of earthquakes
+            Case study: New Zealand, 22 February 2011
+            Case study: Haiti, 12 January 2010
+            Case study: Tohoku, Japan, 11 March 2011
+                Facts
+            ACTIVITY 5 FINDING INFORMATION ABOUT EARTHQUAKES FROM CASE STUDIES
+    CHAPTER 5 Volcanoes
+        Unit 1: Types of volcanoes
+            1. Kinds of volcanic activity
+            2. Types of volcanoes
+                Active, dormant and extinct volcanoes
+                Classifying volcanoes by their shape and the way they erupt
+                Cinder cone volcano
+                Shield volcano
+                Composite volcano
+                ACTIVITY 1 IDENTIFYING TYPES OF VOLCANOES
+        Unit 2: The structure of volcanoes
+            ACTIVITY 2 DRAWING A DIAGRAM AND A CROSS-SECTION
+        Unit 3: The impact of volcanoes on people and the environment
+            1. Positive effects of volcanoes on people and the environment
+            2. Negative effects of volcanoes on people and the environment
+                ACTIVITY 3 EXPLORING POSITIVE AND NEGATIVE EFFECTS OF VOLCANOES
+            Unit 4: Case studies of volcanic eruptions
+                Case study: Mount Merapi, Indonesia
+                Case study: Arenal, Costa Rica
+                Case study: Eyjafjallajökull, Iceland
+                ACTIVITY 4 FINDING INFORMATION FROM CASE STUDIES OF VOLCANOES
+        Revision
+            QUESTION 1: THE STRUCTURE OF EARTH
+            QUESTION 2: PLATE TECTONICS
+            QUESTION 3: FOLDING AND FAULTING
+            QUESTION 4: EARTHQUAKES
+            QUESTION 5: VOLCANOES
+        Summary of Term 2 Topic 3 GEOMORPHOLOGY
+            Chapter 1: The structure of Earth
+            Chapter 2: Plate tectonics
+            Chapter 3: Folding and faulting
+            Chapter 4: Earthquakes
+            Chapter 5: Volcanoes
+TOPIC 4 Population
+    CHAPTER 1 Population distribution and density
+        Unit 1: Understanding population distribution and density
+            1. Population distribution
+                Population distribution patterns
+            2. Population density
+                Calculating population density
+                ACTIVITY 1 WORKING WITH POPULATION DISTRIBUTION AND DENSITY INFORMATION
+        Unit 2: World population distribution and density
+            1. World population distribution
+                ACTIVITY 2 READING THE WORLD POPULATION DISTRIBUTION MAP
+            2. World population density
+                ACTIVITY 3 WORKING WITH POPULATION DENSITY INFORMATION
+        Unit 3: Factors that affect distribution and density of the world’s population
+            ACTIVITY 4 EXPLORING FACTORS AFFECTING POPULATION DISTRIBUTION AND DENSITY
+            ACTIVITY 5 ACCOUNTING FOR THE POPULATION DENSITY OF THE AMAZON BASIN
+            ACTIVITY 6 FINDING OUT ABOUT POPULATION DISTRIBUTION AND DENSITY IN EGYPT
+    CHAPTER 2 Population structure
+        Unit 1: Population indicators
+            1. Indicators of fertility
+                Crude birth rate
+                Calculating the crude birth rate
+                Total fertility rate
+                Replacement rate
+                ACTIVITY 1 WORKING WITH FERTILITY DATA IN A TABLE AND ON A MAP
+            2. Indicators of mortality
+                Crude death rate
+                Calculating the crude death rate
+                Infant mortality rate
+                Life expectancy
+                ACTIVITY 2 WORKING WITH MORTALITY DATA IN A TABLE AND A MAP
+            3. Natural population increase
+                Calculating the rate of natural population increase
+                ACTIVITY 3 WORKING WITH NATURAL INCREASE DATA IN TABLES AND A MAP
+                ACTIVITY 4 COMPARING INFORMATION ON SEVERAL MAPS
+        Unit 2: Factors that influence population indicators
+            1. Factors that influence fertility
+                ACTIVITY 5 DRAWING CONCLUSIONS ABOUT FERTILITY RATES FROM STATISTICS
+                ACTIVITY 6 DRAWING CONCLUSIONS FROM TWO WOMEN’S ACCOUNTS OF THEIR LIVES
+                Case study: Woman 1
+                Case study: Woman 2
+            2. Factors that influence mortality
+                ACTIVITY 7 EXPLORING FACTORS INFLUENCING MORTALITY
+                Levels of education and literacy
+                Quality of healthcare services
+                Levels of access to clean water and sanitation
+                Diet and nutrition
+                Infrastructure and levels of technology
+            3. Factors that influence life expectancy
+            4. Factors that influence natural increase
+                ACTIVITY 8 DRAWING CONCLUSIONS ABOUT FACTORS AFFECTING MORTALITY RATES FROM STATISTICS
+                ACTIVITY 9 DRAWING CONCLUSIONS ABOUT FACTORS THAT INFLUENCE POPULATION INDICATORS FROM A CASE STUDY
+                Case study: Women benefit from literacy project
+                Literacy boosts women’s status in Central Afghanistan
+                ACTIVITY 10 CROSS-REFERENCE INFORMATION FROM DIFFERENT MAPS TO LEARN ABOUT FACTORS AFFECTING INFANT MORTALITY AND LIFE EXPECTANCY
+        Unit 3: Population structure
+            1. Age structure
+                ACTIVITY 11 INTERPRETING DATA ABOUT AGE STRUCTURE
+            2. The dependency ratio
+                Calculating the dependency ratio
+            3. Sex structure
+                ACTIVITY 12 USING DATA IN A TABLE TO FIND OUT ABOUT AGE STRUCTURE IN JAPAN
+                Case study: An aging population – Japan
+                ACTIVITY 13 READING AN EXTRACT TO FIND OUT ABOUT JAPAN’S POPULATION CRISIS
+        Unit 4: Population pyramids
+            1. Interpreting a population pyramid
+                ACTIVITY 14 FINDING OUT HOW TO INTERPRET INFORMATION FROM A POPULATION PYRAMID
+    CHAPTER 3 Population growth
+        Unit 1: World population growth over time
+            1. Growth of the world’s population over time
+                ACTIVITY 1 DESCRIBING THE PATTERN OF WORLD POPULATION GROWTH SHOWN IN A GRAPH
+                Population explosion
+                Regional differences in the growth of population over time
+                ACTIVITY 2 INTERPRETING GRAPHS TO FIND OUT ABOUT REGIONAL PATTERNS IN POPULATION GROWTH
+                ACTIVITY 3 INTERPRETING GRAPHS TO FIND OUT ABOUT FUTURE SHARE OF THE WORLD POPULATION
+        Unit 2: The demographic transition model
+            1. Background to the demographic transition model
+            2. The stages of the demographic transition model
+                ACTIVITY 4 READING A GRAPH TO FIND OUT ABOUT THE DEMOGRAPHIC TRANSITION MODEL
+            3. Changes in socio-economic conditions and the demographic model
+                Case study: The eradication of smallpox
+                ACTIVITY 5 FINDING OUT ABOUT A MEDICAL INTERVENTION THAT AFFECTED DEATH RATES
+            4. Regional differences in the demographic transition model
+                Case study: The demographic transition in Sweden and India
+                ACTIVITY 6 READING TEXT AND GRAPHS TO FIND OUT ABOUT THE DEMOGRAPHIC TRANSITION
+            5. The demographic transition model and population pyramids
+                ACTIVITY 7 USING POPULATION PYRAMIDS AND MODELS TO EXPLORE STAGES OF DEMOGRAPHIC TRANSITION
+        Unit 3: Concept of overpopulation
+            1. Earth’s carrying capacity and overpopulation
+                Ecological footprint
+            2. The balance between people and resources
+                Case study: Canada
+                Farming
+                Fishing
+                Mineral wealth and energy resources
+                Manufacturing
+                Environmental issues
+                ACTIVITY 8 EXPLORING THE BALANCE BETWEEN PEOPLE AND RESOURCES IN CANADA
+                Case study: Ethiopia
+                Topography of Ethiopia
+                Agriculture, livestock and forestry
+                Forestry and fishing
+                Minerals and energy resources
+                Manufacturing
+                Environmental issues
+                ACTIVITY 9 EXPLORING THE BALANCE BETWEEN PEOPLE AND RESOURCES IN ETHIOPIA
+            3. Suggestions for reducing the risk of overpopulation
+                ACTIVITY 10 WEIGHING UP INFORMATION AND MAKING A DECISION
+        Unit 4: Managing population growth
+            1. Population management strategies
+                Case study: China’s one-child policy
+                Positive effects of the policy
+                Negative effects of the policy
+                The future of the policy
+                Case study: India – focus on birth control
+                Reasons for the slow success
+                Regional differences
+                ACTIVITY 11 EXPLORING THE MANAGEMENT OF POPULATION GROWTH IN INDIA AND CHINA
+    CHAPTER 4 Population movements
+        Unit 1: Kinds of population movement
+            1. International migration
+                Emigration and immigration
+            2. Regional migration
+                Rural–urban migration
+                Urbanisation
+            3. Voluntary and forced migration
+                ACTIVITY 1 CLASSIFYING MIGRATIONS
+        Unit 2: Causes and effects of population movements
+            1. Causes of forced population movements
+            2. Effects of forced population movements
+                Case study: Forced migration in Iraq
+                Case study: Forced migration in China – the Three Gorges project
+                ACTIVITY 2 INVESTIGATING CAUSES AND EFFECTS OF FORCED MIGRATIONS FROM CASE STUDIES
+            3. Causes of voluntary population movements
+                ACTIVITY 3 IDENTIFYING PUSH AND PULL FACTORS
+            4. Effects of voluntary migration
+                Case study: Effects of voluntary migration from South Africa
+                Fleeing from South Africa: why are the best and brightest leaving Africa’s most successful state?
+                ACTIVITY 4 FINDING OUT ABOUT CAUSES AND EFFECTS OF VOLUNTARY MIGRATION THROUGH A CASE STUDY
+        Unit 3: Temporary and permanent movements
+            1. Economic migrants
+                Case study: The Irish migration to the USA
+                ACTIVITY 5 EXPLORING ECONOMIC MIGRATION THROUGH A CASE STUDY
+            2. Migrant labour
+                Case study: Turkish guest workers in Germany
+                Case study: Migrant labour from the Philippines
+                ACTIVITY 6 FINDING OUT ABOUT MIGRANT LABOUR THROUGH CASE STUDIES
+            3. Political migrants
+                Case study: South African political migrants
+                ACTIVITY 7 FIND OUT ABOUT EXILES FROM A CASE STUDY
+            4. Refugees
+                Case study: Somali refugees in Kenya
+                ACTIVITY 8 FINDING OUT ABOUT REFUGEES FROM A CASE STUDY
+                ACTIVITY 9 FINDING OUT ABOUT REFUGEES FROM GRAPHS
+                Refugees in South Africa
+        Unit 4: Attitudes to migrants
+            1. Positive attitudes and negative attitudes
+                ACTIVITY 10 FINDING OUT ABOUT ATTITUDES TO MIGRANTS FROM SURVEY FINDINGS
+            2. Xenophobia
+                Case study: Xenophobic attacks in South Africa
+                ACTIVITY 11 FINDING OUT ABOUT XENOPHOBIC ATTACKS IN SOUTH AFRICA FROM A CASE STUDY
+        Programme of assessment: Research Project
+            Population movements in your community
+                The task
+    CHAPTER 5 HIV and AIDS
+        Unit 1: HIV infection rates in southern Africa
+            1. Rates of HIV infection in Southern Africa in 2009
+                ACTIVITY 1 INTERPRETING GRAPHS AND MAPS TO FIND OUT ABOUT HIV INFECTION RATES IN SOUTHERN AFRICA IN 2009
+            2. Changes in HIV infection rates over time
+                ACTIVITY 2 INTERPRETING GRAPHS TO FIND OUT ABOUT CHANGES IN HIV INFECTION RATES OVER TIME
+            3. Factors accounting for declining rates of HIV infection in southern Africa
+                Case study: Zimbabwe’s declining HIV infection rates
+                ACTIVITY 3 USING A CASE STUDY TO EXPLORE DECLINING RATES OF HIV INFECTION IN SOUTHERN AFRICA
+        Unit 2: Social and economic effects of HIV and AIDS
+            1. Effects of HIV and AIDS on business, social services and the economy
+                ACTIVITY 4 FINDING OUT ABOUT THE IMPACT OF HIV ON A BUSINESS FROM A NEWSPAPER ARTICLE
+                Case study: Economic effects of HIV/AIDS in South Africa
+                Anglo American on the frontline in fight against HIV/AIDS in South Africa
+            2. Effects of HIV and AIDS on households
+                Economic impacts
+                Social impacts
+                Case study: Impact on older people
+                Case study: Fewer children receiving a basic education
+                Case study: Impacts on household finances and resources
+                ACTIVITY 5 DRAWING A MIND MAP
+        Unit 3: The impact of HIV and AIDS on population structure
+            ACTIVITY 6 INTERPRETING A GRAPH SHOWING HIV INFECTION RATES IN DIFFERENT AGE AND SEX GROUPS
+            ACTIVITY 7 INTERPRETING POPULATION PYRAMIDS TO FIND OUT ABOUT HOW HIV AND AIDS CAN AFFECT POPULATION STRUCTURE
+        Revision
+            QUESTION 1: POPULATION DENSITY AND DISTRIBUTION
+            QUESTION 2: POPULATION STRUCTURE
+            QUESTION 3: MANAGING POPULATION GROWTH
+            QUESTION 4: POPULATION MOVEMENTS
+                Case study
+            QUESTION 5: HIV AND AIDS
+        Summary of Term 3 Topic 4 POPULATION
+            Chapter 1: Population distribution and density
+            Chapter 2: Population structure
+            Chapter 3: Population growth
+            Chapter 4: Population movements
+            Chapter 5: HIV and AIDS
+TOPIC 5 Water resources
+    CHAPTER 1 Water in the world
+        Unit 1: Different forms of water in the world
+            1. Processes associated with water’s changing states
+            2. Occurrence of salt water and fresh water
+            3. Water in the atmosphere
+            4. Water on land
+                Rivers and lakes
+                Groundwater
+            5. Water in the oceans
+                ACTIVITY 1 UNDERSTANDING THE OCCURRENCE OF WATER IN THE WORLD
+        Unit 2: The hydrological cycle
+            1. Processes that drive the hydrological cycle
+            2. Processes that take place on land
+                ACTIVITY 2 UNDERSTANDING THE HYDROLOGICAL CYCLE
+    CHAPTER 2 The world’s oceans
+        Unit 1: Oceans as sources of oxygen, food and energy
+            1. Oceans as a source of oxygen
+            2. Oceans as a source of food
+            3. Oceans as a source of energy
+                Energy from the oceans
+                Tidal energy
+                Wave energy
+                ACTIVITY 1 EXPLORING HOW OXYGEN, FOOD AND ENERGY COME FROM THE OCEANS
+        Unit 2: Ocean circulation
+            1. Warm surface currents
+            2. Cold surface currents
+        3. The importance of ocean currents for fishing
+        4. The importance of ocean currents for trade
+        5. The importance of the ocean currents for tourism
+            ACTIVITY 2 UNDERSTANDING THE IMPORTANCE OF OCEAN CURRENTS TO FISHING, TRADE AND TOURISM
+        Unit 3: The relationship between oceans and people
+            1. Pollution
+                Effects of ocean pollution
+                ACTIVITY 3 EXPLORING POLLUTION IN THE OCEANS
+                Case study: Pollution in the Mediterranean Sea
+            2. Overfishing
+                Reasons for overfishing
+                Effects of overfishing
+                ACTIVITY 4 UNDERSTANDING THE CAUSES AND EFFECTS OF OVERFISHING
+                Case study: Overfishing in Mozambique
+                Checking if seafood is threatened
+            3. Desalination
+                Advantages of desalination
+                Disadvantages of desalination
+                Use of desalination across the world
+                ACTIVITY 5 CONSIDERING ARGUMENTS FOR AND AGAINST DESALINATION
+        Unit 4: Strategies for managing the world’s oceans
+            1. Laws to protect fish populations
+            2. Establishing conservation areas
+                Case study: South Africa’s Marine Protected Areas
+            3. Ecosystem-based management
+                ACTIVITY 6 EXPLORING STRATEGIES FOR MANAGING THE WORLD’S OCEANS
+    CHAPTER 3 Water management in South Africa
+        Unit 1: Rivers, lakes and dams in South Africa
+            1. Factors influencing the availability of water in South Africa
+                Rainfall distribution
+                Evaporation rates
+                Groundwater availability
+                Water storage in dams
+                ACTIVITY 1 FACTORS AFFECTING WATER AVAILABILITY IN SOUTH AFRICA
+        Unit 2: Challenges of providing free basic water
+            ACTIVITY 2 EXPLORING HOW TO PROVIDE CLEAN AND SAFE DRINKING WATER TO PEOPLE
+            1. Free basic water
+            2. Challenges to providing water to people in rural areas
+            3. Challenges to providing water to people in urban areas
+                ACTIVITY 3 EXPLORING HOW TO PROVIDE WATER TO PEOPLE IN RURAL AND URBAN AREAS
+        Unit 3: The role of government and other water providers
+            1. Inter-basin water transfers
+                ACTIVITY 4 UNDERSTANDING GOVERNMENT-CONTROLLED INTER-BASIN WATER TRANSFERS
+            2. Building dams
+                Case study: Lesotho Highlands Water Project
+            3. Water purification and the role of municipalities
+                ACTIVITY 5 UNDERSTANDING WATER STORAGE, TRANSFER, Purification And Provision
+        Unit 4: The sustainable use of water
+            1. Government strategies towards sustainable use of water
+                More efficient water-delivery systems
+                Case study: Joburg Water
+                Reducing water pollution
+                Case study: Acid mine drainage
+                Environmental and agricultural management
+                Case study: Working for water
+            2. The role of individuals in water sustainability
+                ACTIVITY 6 EXPLORING USING WATER MORE SUSTAINABLY
+    CHAPTER 4 Floods
+        Unit 1: Causes and characteristics of flooding
+            1. Physical causes of floods
+            2. Human causes of flooding
+            3. Characteristics of river floods
+                ACTIVITY 1 INTERPRETING A PHOTOGRAPH, DIAGRAMS AND HYDROGRAPHS
+        Unit 2: Managing flooding in various settlements
+            1. Managing floods in urban areas
+            2. Managing flooding in rural areas
+            3. Managing flooding in informal settlements
+                ACTIVITY 2 UNDERSTANDING HOW TO MANAGE FLOODING IN VARIOUS SETTLEMENTS
+        Unit 3: Case study of a flood in South Africa
+            1. Case study
+                Case study: South Africa counts the cost of recent floods
+                ACTIVITY 3 EXPLORING FLOODING IN SOUTH AFRICA
+            2. Collecting, processing and presenting information
+                Collecting information
+                Processing information
+                Presenting information
+                ACTIVITY 4 ANALYSING A NEWSPAPER REPORT
+                Programme of assessment: Drawing and interpreting graphs
+        Part 1 Drawing line graphs
+        Part 2 Drawing bar graphs
+        Part 3 Interpreting a hydrograph
+        Part 4 Drawing a pie graph
+        Revision
+            QUESTION 1: MULTIPLE CHOICE QUESTIONS
+            QUESTION 2: ONE LINE ANSWER QUESTIONS
+            QUESTION 3: LABELLING DIAGRAM QUESTIONS
+            QUESTION 4: WORKING WITH DATA QUESTIONS
+            QUESTION 5: PARAGRAPH QUESTIONS
+        Summary of Term 4 Topic 5 WATER RESOURCES
+            Chapter 1: Water in the world
+            Chapter 2: The world’s oceans
+            Chapter 3: Water management in South Africa
+            Chapter 4: Floods
+Glossary
+Acknowledgements
+Photograph acknowledgements

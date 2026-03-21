@@ -1,0 +1,706 @@
+======================================================================
+Focus Life Sciences Grade 11 Learner's Book
+ISBN: 9780636160057
+Publisher: Focus (Pearson South Africa)
+Curriculum: CAPS
+======================================================================
+
+TABLE OF CONTENTS
+──────────────────────────────────────────────────────────────────────
+
+
+Focus Life Sciences Learner’s Book Grade 11
+Contents
+TERM 1 Knowledge strand: Diversity, change and continuity
+    Topic 1: Biodiversity and classification of micro-organisms
+        Unit 1: The biodiversity of micro-organisms
+            1.1 Classification of micro-organisms
+            1.2 Structure and characteristics of viruses
+            1.3 Structure and characteristics of bacteria
+                Structure of bacteria
+                Characteristics of bacteria
+                Activity 2: Compare viruses and bacteria
+                Activity 3: Investigate growth of bacteria
+                How to plan and conduct an investigation
+            1.4 Structure and characteristics of the Protista
+            1.5 Structure and characteristics of the Fungi
+                Characteristics of Fungi:
+                Activity 4: Design and carry out an investigation on fungi growth
+        Unit 2: Roles of micro-organisms in the web of life
+            2.1 Importance of micro-organisms in the environment
+            2.2 Role of symbiotic bacteria in digestion and formation of vitamins
+                Role of E.coli
+            2.3 Bacteria in the nitrogen cycle
+        Unit 3: Diseases caused by micro-organisms
+            3.1 Effects and management of viral diseases
+            3.2 Effects and management of bacterial diseases
+                Activity 5: Design a poster about TB
+            3.3 Effects and management of diseases caused by protists – malaria
+                Effects of malaria
+                Management of malaria
+                Activity 6: Analyse temperature changes in a malaria patient
+            3.4 Effects and management of fungal diseases
+                Activity 7: Investigate fungal diseases
+        Unit 4: Immunity and the use of drugs
+            4.1 The human immune system
+            4.2 Immune responses in plants and animals
+            4.3 Vaccination
+                Vaccinations in South Africa
+                Activity 8: Discuss Jenner’s methods of investigation
+            4.4 The effect of drugs on micro-organisms
+                How antibiotics work
+                Antibiotic resistance
+        Unit 5: Uses of micro-organisms in medicine and food production
+            5.1 The use of micro-organisms to produce medicines
+                Antibiotics
+                Insulin
+            5.2 The use of traditional technology to produce food products
+                Traditional maas and cheese
+                Activity 9: Explain and investigate traditional use of fermentation
+        Content summary: Biodiversity and classification of micro-organisms
+            Unit 1: The biodiversity of micro-organisms
+            Unit 2: Roles of micro-organisms in the web of life
+            Unit 3: Diseases caused by micro-organisms
+            Unit 4: Immunity and the use of drugs
+            Unit 5: Uses of micro-organisms in medicine and food production
+        Test practice
+            Question 1
+            Question 2
+            Question 3
+            Question 4
+            Question 5
+            Question 6
+    Topic 2: Biodiversity of plants
+        Unit 1: Introduction to plant diversity
+            1.1 Grouping of plants
+            1.2 Alternation of generations
+                Activity 2: Show that you understand the alternation of generations
+        Unit 2: Bryophytes
+            2.1 Diversity of bryophytes
+            2.2 Structure of bryophytes
+            2.3 Life cycle of bryophytes
+                Activity 3: Show that you understand bryophytes
+        Unit 3: Pteridophytes
+            3.1 Diversity of pteridophytes
+            3.2 Structure of pteridophytes
+            3.3 Reproduction of pteridophytes
+                Activity 4: Show that you understand pteridophytes
+        Unit 4: Seed-bearing plants and survival on land
+        Unit 5: Gymnosperms
+            5.1 Structure of gymnosperms
+            5.2 Reproduction of gymnosperms
+                Activity 5: Show that you understand gymnosperms
+        Unit 6: Angiosperms
+            6.1 Diversity of angiosperms
+            6.2 Structure of angiosperms
+            6.3 Reproduction of angiosperms
+                Activity 6: Show that you understand angiosperms
+                Formal Assessment Task: Observe and draw examples of bryophytes, pteridophytes, gymnosperms and angiosperms
+        Unit 7: Phylogenetic trees
+            7.1 Phylogenetic trees
+                Activity 7: Interpret a phylogenetic tree
+        Content summary: Biodiversity of plants
+            Unit 1: Introduction to plant diversity
+            Unit 2: Bryophytes
+            Unit 3: Pteridophytes
+            Unit 4: Seed-bearing plants and survival on land
+            Unit 5: Gymnosperms
+            Unit 6: Angiosperms
+            Unit 7: Phylogenetic trees
+        Test practice
+            Question 1
+            Question 2
+            Question 3
+    Topic 3: Reproduction in plants
+        Unit 1: Asexual reproduction
+            1.1 Advantages and disadvantages of asexual reproduction
+                Advantages of asexual reproduction
+                Disadvantages of asexual reproduction
+        Unit 2: Flowers as organs of sexual reproduction
+            2.1 Sexual reproduction in flowering plants
+            2.2 Structure of flowers
+                Activity 2: Show that you understand the structure of flowers
+            2.3 Pollination
+            2.4 Adaptations for different pollinators
+            2.5 Dissecting flowers
+                Formal Assessment Practical Task: Dissect a flower
+            2.6 Fertilisation
+            2.7 Seed and fruit formation
+                Activity 4: Germinating seeds (optional activity)
+            2.8 Dispersal of seeds and fruits
+            2.9 Advantages and disadvantages of sexual reproduction in plants
+                Advantages
+                Disadvantages
+        Unit 3: Comparison of advantages and disadvantages of asexual and sexual reproduction
+            3.1 Advantages and disadvantages of asexual and sexual reproduction in plants
+        Unit 4: Biological significance of seeds
+            4.1 Significance of seeds to the success of seed plants
+            4.2 Seed banks
+                Conservation of endemic species in South Africa
+            4.3 The importance of seeds as a food source
+        Content summary: Reproduction in plants
+            Unit 1: Asexual reproduction
+            Unit 2: Flowers as organs of sexual reproduction
+            Unit 3: Comparison of advantages and disadvantages of asexual and sexual reproduction
+            Unit 4: Biological significance of seeds
+        Test practice
+            Question 1
+            Question 2
+            Question 3
+            Question 4
+            Question 5
+            Question 6
+            Question 7
+    Topic 4: Biodiversity of animals
+        Unit 1: Six animal phyla and body plans
+            1.1 Relationship between body plans and grouping of animals in phyla
+            1.2 Calculating surface area : volume ratios
+                Activity 2: Calculate approximate surface area : volume ratios in animals
+            1.3 Phylogenetic tree for animals
+                Activity 3: Interpreting a phylogenetic tree
+        Unit 2: Key features of the body plans of animals
+            2.1 Body symmetry and cephalisation
+                Body symmetry
+                Activity 4: Investigate symmetry in living organisms
+                Cephalisation
+            2.2 Number of tissue layers developed from the embryo
+            2.3 Presence or absence of a coelom
+                Coelom
+            2.4 Number of openings in the gut
+            2.5 Blood system
+                Activity 5: Revise the key features of body plans
+        Unit 3: Body plans of six phyla of animals
+            3.1 Phylum Porifera
+            3.2 Phylum Cnidaria
+                Activity 6: Revise new words
+            3.3 Phylum Platyhelminthes
+                Activity 7: Work out the body plan of a flatworm
+            3.4 Phylum Annelida
+                Activity 8: Locate structures in a diagram of an annelid
+            3.5 Phylum Arthropoda
+                Activity 9: Work out the body plan of arthropods
+            3.6 Phylum Chordata
+                Activity 10: Tabulate and compare the body plans of six animal phyla
+            3.7 Relationship between body plans and modes of living
+        Unit 4: The role of invertebrates in agriculture and ecosystems
+            4.1 Importance of invertebrates
+                Activity 12: Discuss the beneficial effects of arthropods for agriculture and the environment
+        Content summary: Biodiversity of animals
+            Unit 1: Six animal phyla and body plans
+            Unit 2: Key features of the body plans of animals
+            Unit 3: Body plans of six phyla of animals
+            Unit 4: The role of invertebrates in agriculture and ecosystems
+        Test practice
+            Question 1
+            Question 2
+            Question 3
+            Question 4
+            Question 5
+        Programme of Assessment: Test Term 1
+            Question 1
+            Question 2
+            Question 3
+            Question 4
+            Question 5
+            Question 6
+            Question 7
+TERM 2 Knowledge strand: Life processes in plants and animals
+    Topic 5: Energy transformations: Photosynthesis
+        Unit 1: The process of photosynthesis
+            1.1 How plants make food by photosynthesis
+                The overall process of photosynthesis
+                The light and dark phases
+                Sugars are stored as starch
+                Activity 2: Demonstrate that starch is produced during photosynthesis
+                How to remove chlorophyll from leaves
+            1.2 Raw materials required for photosynthesis
+                Chlorophyll
+                Activity 3: Demonstrate that plants need chlorophyll for photosynthesis
+                Activity 4: Analyse the importance of chlorophyll
+                Light
+                Activity 5: Demonstrate that light is needed for photosynthesis
+                Carbon dioxide
+                Activity 6: Demonstrate that carbon dioxide is needed for photosynthesis
+                Photosynthesis releases oxygen
+                Activity 7: Demonstrate that plants give off oxygen during photosynthesis
+            1.3 Importance of photosynthesis
+            1.4 The role of ATP–the energy supply for the cell
+        Unit 2: Factors affecting the rate of photosynthesis
+            2.1 Temperature
+                Activity 8: Analyse the effect of temperature on the rate of photosynthesis
+            2.2 Light intensity
+                Activity 9: Analyse the effects of light level on photosynthesis
+            2.3 Carbon dioxide concentration
+                Activity 10: Analyse the effects of carbon dioxide concentration on photosynthesis
+        Unit 3: Effects of light, carbon dioxide and temperature in greenhouse systems
+            3.1 The function of greenhouses
+            3.2 Managing light in a greenhouse
+            3.3 Managing carbon dioxide in a greenhouse
+            3.4 Managing temperature in a greenhouse
+        Content summary: Energy transformations: Photosynthesis
+            Unit 1: The process of photosynthesis
+            Unit 2: Factors affecting the rate of photosynthesis
+            Unit 3: Effects of light, carbon dioxide and temperature in greenhouse systems
+        Test practice
+            Question 1
+            Question 2
+            Question 3
+            Question 4
+    Topic 6: Animal nutrition
+        Unit 1: Animal dentition
+            1.1 Dentition of mammals
+                Incisors
+                Canines
+                Premolars
+                Molars
+                Dental formula
+            1.2 Dentition of herbivores, carnivores and omnivores
+                Dentition of herbivores
+                Dentition of carnivores
+                Dentition of omnivores
+        Unit 2: Human nutrition – structure and functions of the alimentary canal
+            2.1 The alimentary canal
+                Activity 2: Dissect the alimentary canal of a sheep
+            2.2 Processes in the human digestive system
+        Unit 3: Mechanical digestion
+            3.1 The process of chewing
+            3.2 Types and functions of human teeth
+                Incisors
+                Canines
+                Premolars
+                Molars
+            3.3 Peristalsis
+            3.4 Mechanical digestion in the stomach
+        Unit 4: Chemical digestion
+            4.1 The process of chemical digestion
+            4.2 Types and functions of digestive enzymes
+        Unit 5: Absorption and assimilation of digested food
+            5.1 Adaptations to increase absorption
+            5.2 Structure and importance of villi
+            5.3 The absorption process in the small intestine
+                Absorption of carbohydrates
+                Absorption of proteins
+                Absorption of fats
+            5.4 The hepatic portal system
+            5.5 Assimilation
+                Role of the liver
+            5.6 Elimination or egestion of waste
+        Unit 6: Homeostatic control of glucose concentration in the blood
+            6.1 Homeostasis
+                Maintaining the internal environment
+            6.2 Hormonal control of blood sugar levels
+            6.3 Diabetes
+                Increase of diabetes
+                Signs of diabetes
+                Activity 3: Analyse the control of blood sugar levels
+        Unit 7: Food intake, energy, growth and health
+            7.1 Balanced diets
+            7.2 Nutritional requirements – age, gender and activity levels
+                Activity 4: Analyse energy requirements in different individuals
+                Activity 5: Analyse the nutrients found in bread
+                Activity 6: Analyse the nutritional value of a meal
+            7.3 Different diets
+                Activity 7: Identify diet choices and research different diets
+            7.4 Dietary supplements
+            7.5 Malnutrition
+                Undernutrition and unbalanced diets
+                Kwashiorkor
+                Bulimia
+                Starvation
+                Marasmus
+                Anorexia nervosa
+                Overnutrition
+                Obesity and lifestyle diseases
+                Activity 8: Analyse malnutrition in South Africa
+            7.6 Diet and tooth decay
+                Fluoride prevents tooth decay
+        Unit 8: Effects of alcohol and drug abuse
+            8.1 Alcohol abuse
+                Dangers of alcohol abuse
+                Activity 9: Discuss alcohol use
+            8.2 Drug abuse
+        Content summary: Animal nutrition
+            Unit 1: Animal dentition
+            Unit 2: Human nutrition – structure and functions of the alimentary canal
+            Unit 3: Mechanical digestion
+            Unit 4: Chemical digestion
+            Unit 5: Absorption and assimilation of digested food
+            Unit 6: Homeostatic control of glucose concentration in the blood
+            Unit 7: Food intake, energy, growth and health
+            Unit 8: Effects of alcohol and drug abuse
+        Test practice
+            Question 1
+            Question 2
+            Question 3
+            Question 4
+            Question 5
+            Question 7
+            Question 8
+    Topic 7: Energy transformations: Respiration
+        Unit 1: Cellular respiration
+            1.1 Where do cells get their energy?
+                Living cells respire
+            1.2 The process of cellular respiration
+                Activity 2: Apply the concept of respiration
+                The mitochondrion is the powerhouse of the cell
+                Activity 3: Make a model mitochondrion
+            1.3 Aerobic respiration
+                Stages in aerobic respiration
+                The role of ATP
+                Uses of energy from aerobic respiration
+            1.4 Evidence of aerobic respiration
+                Activity 4: Investigate that oxygen is used during respiration
+                Activity 5: Investigate the gas given off during respiration
+        Unit 2: Anaerobic respiration
+            2.1 Respiration without oxygen
+            2.2 Anaerobic respiration in animals
+                Disadvantages of anaerobic respiration
+                Oxygen debt
+            2.3 Anaerobic respiration in micro-organisms and plants
+            2.4 Uses of anaerobic respiration in industry
+                Baking and brewing
+            2.5 Comparison of aerobic and anaerobic respiration
+        Content summary: Energy transformations: Respiration
+            Unit 1: Cellular respiration
+            Unit 2: Anaerobic respiration
+        Test practice
+            Question 1
+            Question 2
+            Question 3
+            Question 4
+        Programme of Assessment: Test Term 2
+            Question 1
+            Question 2
+            Question 3
+            Question 4
+            Question 5
+            Question 6
+            Question 7
+        EXAM PAPER: LIFE SCIENCES – JUNE
+            INSTRUCTIONS AND INFORMATION
+            SECTION A
+                QUESTION 1
+            SECTION B
+            QUESTION 2
+            QUESTION 3
+            SECTION C
+            QUESTION 4
+TERM 3 Knowledge strand: Life processes in plants and animals (continued)
+    Topic 8: Gaseous exchange
+        Unit 1: The need for gaseous exchange
+            1.1 Cellular respiration, breathing and gaseous exchange
+            1.2 Requirements of efficient gaseous exchange organs
+            1.3 Gaseous exchange surfaces in different environments
+                Gaseous exchange in terrestrial organisms
+                Gaseous exchange in dicotyledonous plants
+                Gaseous exchange in an earthworms
+                Gaseous exchange in insects
+                Gaseous exchange in mammals
+                Gaseous exchange in aquatic organisms
+                Gaseous exchange in bony fish
+                Diffusion and surface area to volume ratios
+                Activity 2: Calculate surface area and volume of different body shapes
+        Unit 2: Gaseous exchange in humans
+            2.1 Structure and function of the human breathing system
+                Activity 3: Examine the breathing system of a mammal
+                Adaptations of the human breathing system for gaseous exchange
+            2.2 Breathing – inhalation and exhalation
+                Inhalation
+                Exhalation
+                Activity 4: Compare inhalation and exhalation
+                Activity 5: Make a model of the human breathing system
+            2.3 Gaseous exchange in alveoli
+                Diffusion of oxygen and carbon dioxide in the lungs
+            2.4 Gaseous exchange in tissues
+            2.5 Transport of oxygen and carbon dioxide around the body
+                Activity 6: Draw a flow diagram of movement of gases
+                Composition of inhaled and exhaled air
+                Activity 7: Analyse the composition of inhaled and exhaled air
+                Activity 8: Demonstrate that carbon dioxide is exhaled
+                Homeostatic control of breathing
+                Breathing rate
+                Activity 9: Investigate the effects of exercise on breathing
+            2.6 Effects of altitude on gaseous exchange
+                Activity 10: Explain effects of altitude on gaseous exchange
+            2.7 Artificial respiration
+                ABC – Airway, Breathing, Circulation
+        Unit 3: Respiratory disorders
+            3.1 Tuberculosis
+                Causes and origins of TB in South Africa
+                Symptoms of TB
+                Treatment of TB
+                Activity 11: Answer questions about TB
+            3.2 Other respiratory disorders
+                Asthma
+                Causes of asthma
+                Bronchitis
+                Hay fever
+                Emphysema
+                Lung cancer
+            3.3 Effects of smoking on gaseous exchange
+            3.4 Smoking legislation in South Africa
+                Activity 12: Analyse graphs about risks of smoking
+        Content summary: Gaseous exchange
+            Unit 1: The need for gaseous exchange
+            Unit 2: Gaseous exchange in humans
+            Unit 3: Respiratory diseases
+        Test practice
+            Question 1
+            Question 2
+            Question 3
+            Question 4
+            Question 5
+            Question 6
+            Question 7
+    Topic 9: Excretion in humans
+        Unit 1: Excretion in various organs
+            1.1 Excretory organs
+        Unit 2: The urinary system
+            2.1 Structure and function of the urinary system
+                Activity 2: Extract information from a diagram
+            2.2 The structure of a kidney
+                Biological diagrams: Points to keep in mind
+                Formal Assessment Practical Task: Dissect a kidney
+            2.3 The nephron
+                Activity 3: Examine the structure of the nephron
+                Blood supply to and from the nephron
+                1. Ultrafiltration
+                2. Reabsorption
+                3. Sodium pump
+                4. Tubular excretion
+                5. pH control
+                6. Osmoregulation
+                Activity 4: Interpret data on the nephron
+        Unit 3: Homeostatic control of water and salts – osmoregulation
+            3.1 Water balance
+            3.2 Salt balance
+                Activity 5: Interpret responses of the body
+        Unit 4: Diseases of the urinary system
+            4.1 Bilharzia
+            4.2 Kidney stones
+                Activity 6: Analyse kidney diseases and remedies
+            4.3 Kidney failure and treatment
+                Kidney dialysis
+                Kidney transplants
+                Activity 7: Discuss kidney transplants
+        Content summary: Excretion in humans
+            Unit 1: Excretion in various organs
+            Unit 2: The urinary system
+            Unit 3: Homeostatic control of water and salts – osmoregulation
+            Unit 4: Diseases of the urinary system
+        Test practice
+            Question 1
+            Question 2
+            Question 3
+            Question 4
+            Question 5
+Knowledge strand: Environmental studies
+    Topic 10: Population ecology
+        Unit 1: Population size
+            1.1 Characteristics of populations
+            1.2 Changes in population size
+                Activity 2: Explain the effects of population parameters
+                Natality
+                Mortality
+                Immigration and emigration
+                Activity 3: Predict and explain changes in population size
+            1.3 Fluctuations in population size
+            1.4 Factors that limit population size
+                Is culling the answer?
+                Activity 4: Discuss and survey opinions on culling elephants in the Kruger National Park
+        Unit 2: Population growth patterns
+            2.1 Geometric growth
+                Example of geometric growth
+                Activity 5: Interpret a graph of population growth
+                Interpreting the graph
+                Activity 6: Draw and interpret a population graph
+            2.2 Logistic growth
+                Example of environmental resistance
+                Activity 7: Analyse wild cat population growth data
+                Interpreting the graph
+                Activity 8: Draw and interpret a population growth curve
+        Unit 3: Estimating population size
+            3.1 The quadrat method
+                Activity 9: Calculate population size from quadrat samples
+            3.2 The mark–recapture method
+                Activity 10: Estimate population size using the mark – recapture technique
+                Using the mark–recapture method
+                Activity 11: Estimate population size using the mark–recapture method
+        Unit 4: Interactions in the environment
+            4.1 Predation
+            4.2 Competition
+                Intra-specific competition
+                Inter-specific competition
+            4.3 Specialisation – competitive exclusion and resource partitioning
+                Activity 13: Identify methods of resource partitioning
+            4.4 Parasitism
+                Bilharzia
+                Activity 14: Answers questions about bilharzia
+                The pork tapeworm – Taenia solium
+                Activity 15: Draw the life cycle of the beef tapeworm
+            4.5 Mutualism
+                Pollination
+                Removal of parasites
+            4.6 Commensalism
+                Activity 16: Identify and explain mutualism and commensalsism
+        Unit 5: Social organisation of populations
+            5.1 Herds and flocks
+            5.2 Co-operative hunting in packs
+            5.3 Dominance and breeding hierarchies
+            5.4 Organised societies and division of tasks
+        Unit 6: Community change over time – ecological succession
+            6.1 Stages in ecological succession
+            6.2 Primary succession
+                Coastal sand dunes
+                Activity 17: Interpret data on primary succession
+            6.3 Secondary succession
+                Formal Assessment Practical Task: Observe a secondary succession
+        Unit 7: Human population growth
+            7.1 Reasons for exponential human population growth
+            7.2 Age and gender distribution in populations
+                Population pyramids
+                Activity 18: Interpret a population pyramid
+                Activity 19: Compare population pyramids
+            7.3 Future population growth in South Africa
+                Impact of human population growth on the environment
+                The impact of HIV/AIDS on population growth in South Africa
+                Activity 20: Analyse the effects of HIV/AIDS on population growth in South Africa
+        Content summary: Population ecology
+            Unit 1: Population size
+            Unit 2: Population growth patterns
+            Unit 3: Estimating population size
+            Unit 4: Interactions in the environment
+            Unit 5: Social organisation of populations
+            Unit 6: Community change over time – ecological succession
+            Unit 7: Human population growth
+        Test practice
+            Question 1
+            Question 2
+            Question 3
+            Question 4
+            Question 5
+            Question 6
+        Programme of Assessment: Test Term 3
+            Question 1
+            Question 2
+            Question 3
+            Question 4
+            Question 5
+            Question 6
+            Question 7
+            Question 7
+TERM 4 Knowledge strand: Environmental studies
+    Topic 11: Human impact on the environment
+        Unit 1: The atmosphere and climate change
+            1.1 Earth’s atmosphere
+            1.2 The greenhouse effect
+            1.3 Global warming and the enhanced greenhouse effect
+            1.4 Climate change
+                Desertification, droughts and floods
+                Floods
+                Droughts
+                Melting ice and rising sea levels
+                Changing vegetation
+                Species loss
+                The Kyoto Protocol
+            1.5 Greenhouse gas emissions
+                Methane emissions
+                Carbon dioxide emissions
+                Burning of fossil fuels
+                Activity 2: Think about greenhouse gas emissions
+            1.6 Carbon footprint and the need to reduce it
+                Activity 3: Identify ways to reduce your carbon footprint
+            1.7 Deforestation
+                Activity 4: Think about deforestation and climate change
+                Activity 5: Analyse Wangari Maathai’s story
+            1.8 Ozone depletion
+        Unit 2: Water
+            2.1 The availability of water
+                Boreholes and effects on aquifers
+                Construction of dams
+                The benefits of dams
+                The cost of dams to the environment
+                Poor farming practices
+                Exotic (alien) plantations and depletion of water table
+                Destruction of wetlands
+                Droughts and floods
+                Cost of water and saving water
+                Activity 6: Investigate the availability of water
+            2.2 The quality of water
+                Water use and pollution in South Africa
+                Domestic use
+                Agriculture
+                Industry
+                The effect of mining on the quality of water
+                Activity 7: Analyse the problem of rising mine water in Gauteng
+                Need for water purification and recycling
+                Diseases from water
+                How to make the oral rehydration drink
+                Activity 8: Analyse information about water supplies and quality
+                Eutrophication, thermal pollution, algal blooms and alien plants
+                Activity 9: Investigate if a stream, river, or dam is polluted
+        Unit 3: Food security
+            3.1 Human exponential population growth
+            3.2 Farming practices
+                Monocultures
+                Genetically-engineered foods – Are they a problem or the solution?
+            3.3 Alien plants and reduction of agricultural land
+            3.4 Loss of wild varieties – impact on gene pools
+            3.5 Wastage
+        Unit 4: Loss of biodiversity (the sixth extinction)
+            4.1 Threats to biodiversity
+                Habitat destruction and urbanisation
+                Activity 10: Discuss the decline of the leopard toad
+                Farming methods – overgrazing and monocultures
+                Golf estates
+                Industry and mining
+            4.2 Value of retaining biodiversity
+                Life-sustaining systems
+                Food for everyone
+                Question of ethics
+            4.3 Alien plant invasions
+                Control by mechanical, chemical and biological methods, or bioremediation
+                Mechanical control
+                Chemical control
+                Biological control, or bioremediation
+                Integrated pest management
+                Activity 11: Analyse IPM to control alien plants
+                Formal Assessment Practical Task: Investigate the impact of alien species on biodiversity
+            4.4 Poaching
+                Activity 12: Think about rhino poaching – action and solutions
+            4.5 Indigenous knowledge systems and sustainable use of the environment
+                Activity 13: Respond to data about the buchu plant
+        Unit 5: Solid waste disposal
+            5.1 Managing dumpsites
+            5.2 Methane from dumpsites for domestic use
+                Activity 14: Visit a municipal landfill site or local refuse dump
+            5.3 The three Rs of waste management
+                Reduce
+                Reuse
+                Recycle
+                Activity 15: Analyse solid waste in your household
+            5.4 Disposal of nuclear waste
+                Activity 16: Assess the effectiveness of waste management
+        Content summary: Human impact on the environment
+            Unit 1: The atmosphere and climate change
+            Unit 2: Water
+            Unit 3: Food security
+            Unit 4: Loss of biodiversity (the sixth extinction)
+            Unit 5: Solid waste disposal
+        Test practice
+            Question 1
+            Question 2
+            Question 3
+            Question 4
+            Question 5
+            Question 6
+        Programme of Assessment: Test Term 4
+            Question 1
+            Question 2
+            Question 3
+            Question 4
+            Question 5
+            Question 6
+EXAM PAPER 1: LIFE SCIENCES – NOVEMBER
+EXAM PAPER 2: LIFE SCIENCES – NOVEMBER
+Glossary

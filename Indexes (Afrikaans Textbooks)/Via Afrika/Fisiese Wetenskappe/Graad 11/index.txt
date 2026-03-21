@@ -1,0 +1,208 @@
+======================================================================
+Via Afrika Fisiese Wetenskappe Graad 11 Leerderboek
+ISBN: 978-1-41546-024-5
+Uitgewer: Via Afrika
+Kurrikulum: KABV (CAPS)
+Fase: VOO-fase (FET Phase)
+Nota: KABV-gelynstel onderwerp/sub-onderwerp struktuur.
+Bron: https://viaafrika.com/product/via-afrika-fisiese-wetenskappe-graad-11-leerderboek/
+======================================================================
+
+INHOUDSOPGAWE
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 1 — Meganika (Fisika)
+
+    Onderwerp 1: Vektore in twee dimensies
+        Eenheid 1: Vektore (hersiening)
+        Eenheid 2: Resultante van reghoekige vektore
+        Eenheid 3: Resultante van meer as twee vektore
+        Eenheid 4: Kragte teen 'n hoek
+        Eenheid 5: Komponente van vektore
+        Eenheid 6: Kragte
+        Eenheid 7: Komponente van gewig
+        Eenheid 8: Wrywingskrag
+        Eenheid 9: Koëffisiënte van wrywing
+
+    Onderwerp 2: Newton se wette en toepassings — Kragte
+        Eenheid 1: Newton se eerste bewegingswet (wet van traagheid)
+            1.1 Toepassing van Newton se eerste wet
+        Eenheid 2: Nettokrag en versnelling
+        Eenheid 3: Newton se tweede bewegingswet (F_netto = ma)
+            3.1 Toepassing van Newton se tweede wet
+        Eenheid 4: Newton se derde bewegingswet (aksie-reaksie)
+        Eenheid 5: Universele gravitasie
+            5.1 Newton se wet van universele gravitasie (F = Gm₁m₂/r²)
+            5.2 Gewig en gravitasieversnelling
+            5.3 Meer oor versnelling weens swaartekrag
+
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 1 (vervolg) — Materie en Materiaal — Deel 1 (Chemie)
+
+    Onderwerp 3: Atoombindings en intermolekulêre kragte
+        Eenheid 1: Hersiening van valenselektrone en Lewis-diagramme
+        Eenheid 2: Chemiese bindings
+        Eenheid 3: Voorstelling van kovalente bindings
+        Eenheid 4: Voorspelling van molekulêre vorms met VSEPR-teorie
+        Eenheid 5: Vorms van molekules
+        Eenheid 6: Elektronegatiwiteit en polêre bindings
+        Eenheid 7: Bindingslengte en bindingsenergie
+        Eenheid 8: Intermolekulêre en interatomiese kragte
+        Eenheid 9: Tipes intermolekulêre kragte
+            9.1 Van der Waals-kragte (London-dispersiekragte)
+            9.2 Dipool-dipool-kragte
+            9.3 Waterstofbindings
+        Eenheid 10: Intermolekulêre kragte en fisiese eienskappe
+            10.1 Kookpunt en smeltpunt
+            10.2 Dampdruk
+            10.3 Viskositeit
+            10.4 Oplosbaarheid
+        Eenheid 11: Die chemie van water
+        Eenheid 12: Die eienskappe van water
+        Eenheid 13: Die rol van water in ons lewens
+
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 2 — Golwe, Klank en Lig (Fisika)
+
+    Onderwerp 4: Geometriese Optika en 2D-golffronte
+        Eenheid 1: Eienskappe van lig (hersiening)
+        Eenheid 2: Refraksie (breking)
+            2.1 Refraksie by die grens tussen twee media
+            2.2 Brekingsindeks
+            2.3 Optiese digtheid
+        Eenheid 3: Snell se wet
+            3.1 n₁ sin θ₁ = n₂ sin θ₂
+            3.2 Toepassings en berekeninge
+        Eenheid 4: Kritieke hoek en totale interne weerkaatsing
+            4.1 Berekening van die kritieke hoek
+            4.2 Voorwaardes vir totale interne weerkaatsing
+            4.3 Toepassings (optiese vesel, lugspieëlings)
+        Eenheid 5: 2D- en 3D-golffronte
+            5.1 Huygens se beginsel
+            5.2 Diffraksie van golwe deur openinge en om hindernisse
+            5.3 Diffraksie deur 'n enkelspleet
+            5.4 Verhouding tussen spleetwydte en golflengte
+
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 2 (vervolg) — Materie en Materiaal — Deel 2 (Chemie)
+
+    Onderwerp 5: Ideale gasse
+        Eenheid 1: Kinetiese molekulêre teorie van gasse (hersiening en uitbreiding)
+        Eenheid 2: Boyle se wet (p₁V₁ = p₂V₂ by konstante temperatuur)
+        Eenheid 3: Charles se wet (V₁/T₁ = V₂/T₂ by konstante druk)
+        Eenheid 4: Gay-Lussac se wet (p₁/T₁ = p₂/T₂ by konstante volume)
+        Eenheid 5: Die algemene gasvergelyking (p₁V₁/T₁ = p₂V₂/T₂)
+        Eenheid 6: Die ideale gasvergelyking (pV = nRT)
+        Eenheid 7: Temperatuur in Kelvin (K = °C + 273)
+
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 2 (vervolg) — Chemiese Verandering (Chemie)
+
+    Onderwerp 6: Kwantitatiewe aspekte van chemiese verandering
+        Eenheid 1: Hersiening van die molkonsep
+        Eenheid 2: Molêre volume van gasse by STP (22,4 dm³)
+        Eenheid 3: Konsentrasie van oplossings (c = n/V)
+        Eenheid 4: Stoïgiometriese berekeninge (massa, molle, konsentrasie, volume)
+        Eenheid 5: Beperkende reagense en oortollige reagense
+        Eenheid 6: Persentasieopbrengs en persentasiesuiwerheid
+        Eenheid 7: Volumeverwantskappe in gasreaksies (Avogadro se wet)
+
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 3 — Elektrisiteit en Magnetisme (Fisika)
+
+    Onderwerp 7: Elektrostatika
+        Eenheid 1: Hersiening van lading, geleiers en isolators
+        Eenheid 2: Coulomb se wet (F = kQ₁Q₂/r²)
+            2.1 Krag tussen twee puntladings
+            2.2 Ooreenkoms met Newton se wet van universele gravitasie
+            2.3 Nettokrag op 'n lading in lineêre en 2D-konfigurasies
+        Eenheid 3: Elektriese velde
+            3.1 Elektriese veldlyne rondom puntladings
+            3.2 Elektriese veld rondom twee teenoorgestelde ladings
+            3.3 Elektriese veld rondom twee gelyksoortige ladings
+            3.4 Elektriese veldsterkte (E = F/q = kQ/r²)
+
+    Onderwerp 8: Elektromagnetisme
+        Eenheid 1: Magnetiese veld rondom 'n reguit stroomdraende geleier (Regterhandreël)
+        Eenheid 2: Magnetiese veld rondom 'n stroomdraende lus
+        Eenheid 3: Magnetiese veld rondom 'n solenoïed
+        Eenheid 4: Elektromagnete en toepassings
+        Eenheid 5: Faraday se wet van elektromagnetiese induksie
+            5.1 Elektromagnetiese induksie
+            5.2 Faktore wat geïnduseerde EMK beïnvloed
+            5.3 Rigting van geïnduseerde stroom
+            5.4 Toepassings (generators, transformators)
+
+    Onderwerp 9: Elektriese stroombane
+        Eenheid 1: Ohm se wet (hersiening)
+        Eenheid 2: Serie- en parallelstroombane (komplekse probleme)
+        Eenheid 3: Interne weerstand en EMK
+            3.1 EMK = I(R_ekstern + r_intern)
+            3.2 Klempotensiaalverskil
+        Eenheid 4: Drywing en energie in elektriese stroombane
+            4.1 Elektriese drywing (P = VI = I²R = V²/R)
+            4.2 Elektriese energie (E = Pt = VIt)
+            4.3 Koste van elektrisiteit (kWh)
+
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 3 (vervolg) — Chemiese Verandering (Chemie)
+
+    Onderwerp 10: Energie en chemiese verandering
+        Eenheid 1: Energieveranderinge in chemiese reaksies
+            1.1 Bindingsbreking (energie geabsorbeer) en bindingsvorming (energie vrygestel)
+            1.2 Bindingsenergie
+        Eenheid 2: Eksotermie en endotermiese reaksies
+            2.1 Eksotermie reaksies (ΔH < 0)
+            2.2 Endotermiese reaksies (ΔH > 0)
+            2.3 Energieprofiele/-diagramme
+        Eenheid 3: Aktiveringsenergie en die geaktiveerde kompleks
+
+    Onderwerp 11: Tipes reaksies
+        Eenheid 1: Sure en basisse
+            1.1 Arrhenius-definisie
+            1.2 Brønsted-Lowry-definisie (protonskenkere en -aanvaarders)
+            1.3 Gekonjugeerde suur-basis-pare
+            1.4 Sterk en swak sure en basisse
+            1.5 Die pH-skaal
+        Eenheid 2: Suur-basis-reaksies
+            2.1 Neutralisasiereaksies
+            2.2 Suur + metaalhydroksied, suur + metaaloksied
+            2.3 Suur + metaalkarbonaat
+            2.4 Suur + metaal
+            2.5 Titrasies en indikators
+        Eenheid 3: Redoksreaksies
+            3.1 Oksidasiegetalle (reëls)
+            3.2 Oksidasie (verlies van elektrone) en reduksie (wins van elektrone)
+            3.3 Oksideermiddels en reduseermiddels
+            3.4 Halfreaksies
+            3.5 Balansering van redoksreaksies
+
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 4 — Chemiese Stelsels (Chemie)
+
+    Onderwerp 12: Die litosfeer
+        Eenheid 1: Die Aarde se kors en samestelling
+        Eenheid 2: Minerale en ertse
+        Eenheid 3: Mynbou in Suid-Afrika
+            3.1 Goud, yster, fosfaat, steenkool, diamante, chroom, mangaan, platinum
+            3.2 Stappe in mynbou en mineraalverwerking
+        Eenheid 4: Omgewingsimpak van mynbou
+        Eenheid 5: Energiebronne
+            5.1 Fossielbrandstowwe (steenkool, olie, aardgas)
+            5.2 Hernubare en nie-hernubare energiebronne
+            5.3 Omgewingsimpak van energiegebruik
+
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 4 (vervolg) — Hersiening en Eksamen
+    Hersiening van alle onderwerpe uit Kwartaal 1-3
+    Vraestel 1 (Fisika): Vektore, Newton se Wette, Elektrostatika, Elektromagnetisme, Elektriese Stroombane, Geometriese Optika, 2D/3D-golffronte
+    Vraestel 2 (Chemie): Atoombindings, Intermolekulêre Kragte, Ideale Gasse, Stoïgiometrie, Energie en Chemiese Verandering, Tipes Reaksies, Die Litosfeer
+    Woordelys

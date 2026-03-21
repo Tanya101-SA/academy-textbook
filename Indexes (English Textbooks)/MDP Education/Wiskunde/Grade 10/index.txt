@@ -1,0 +1,75 @@
+MDP Education - CAPS Approved
+Subject: Wiskunde
+Grade 10
+Phase: FET Phase
+Publisher: MDP Education
+Book: Mindbourne Wiskunde Handboek Graad 10
+Source: CAPS Policy Document
+
+--- TABLE OF CONTENTS ---
+
+Term 1
+  Algebraic Expressions
+    - Real numbers
+    - Surds
+    - Rounding
+    - Products
+    - Factorisation
+    - Algebraic fractions
+  Exponents
+    - Laws of exponents
+    - Simplifying expressions
+  Number Patterns
+    - Linear number patterns
+  Equations and Inequalities
+    - Linear equations
+    - Quadratic equations
+    - Simultaneous equations
+    - Literal equations
+    - Linear inequalities
+  Trigonometry
+    - Definitions of trig ratios
+    - Special angles
+    - Reciprocal ratios
+    - Solving right-angled triangle problems
+    - Trigonometric equations
+
+Term 2
+  Functions
+    - Concept of a function
+    - Linear, quadratic, hyperbolic and exponential functions
+    - Interpreting graphs
+  Trigonometric Functions
+    - Graphs of sin, cos and tan
+    - Effect of a and q on graphs
+  Euclidean Geometry
+    - Properties of quadrilaterals
+    - Midpoint theorem
+
+Term 3
+  Analytical Geometry
+    - Distance between two points
+    - Gradient of a line segment
+    - Midpoint of a line segment
+  Finance and Growth
+    - Simple and compound interest
+    - Foreign exchange rates
+  Statistics
+    - Measures of central tendency
+    - Measures of dispersion
+    - Five-number summary
+    - Box-and-whisker plots
+  Trigonometry (continued)
+    - 2D problems
+    - Trigonometric identities
+  Euclidean Geometry (continued)
+    - Problems and proofs using geometric properties
+  Measurement
+    - Volume and surface area
+
+Term 4
+  Probability
+    - Theoretical probability
+    - Venn diagrams
+    - Mutually exclusive events
+    - Complementary events

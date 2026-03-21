@@ -1,0 +1,20 @@
+Afrikaans sonder grense CAPS Textbook Index Summary
+==================================================
+Date: 2026-02-17T07:08:29.245Z
+Total books: 9
+Successful: 9
+Failed: 0
+Total time: 6.9 minutes
+
+
+Afrikaans Eerste Addisionele Taal
+────────────────────────────────────────
+  Grade 4: OK (285 entries)
+  Grade 5: OK (297 entries)
+  Grade 6: OK (297 entries)
+  Grade 7: OK (304 entries)
+  Grade 8: OK (339 entries)
+  Grade 9: OK (334 entries)
+  Grade 10: OK (300 entries)
+  Grade 11: OK (375 entries)
+  Grade 12: OK (378 entries)

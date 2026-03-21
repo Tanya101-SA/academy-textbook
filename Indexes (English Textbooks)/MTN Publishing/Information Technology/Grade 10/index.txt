@@ -1,0 +1,16 @@
+MTN Information Technology - Grade 10 (CAPS IT Theory)
+Publisher: MTN Publishing (Authors: Malan, Tuswa, Naidoo)
+
+Chapter 1: Basic Concepts of Computing / Introduction to Computers
+Chapter 2: Hardware (System unit, input devices, output devices, storage devices)
+Chapter 3: Software (System software, application software)
+Chapter 4: Networks and the Internet (Basics)
+Chapter 5: Electronic Communications (Email, netiquette)
+Chapter 6: Social Implications of IT / ICT and Society
+Chapter 7: Data and Information Management (Introduction)
+Chapter 8: Introduction to Problem Solving and Programming Concepts (Flowcharts, pseudocode)
+Chapter 9: Spreadsheets (Basic)
+Chapter 10: Word Processing and Document Management
+Chapter 11: Web Technologies (HTML basics)
+
+Source: Web research - CAPS Information Technology theory curriculum

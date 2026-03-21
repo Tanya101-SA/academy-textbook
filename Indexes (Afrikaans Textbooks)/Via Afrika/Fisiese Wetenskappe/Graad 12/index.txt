@@ -1,0 +1,271 @@
+======================================================================
+Via Afrika Fisiese Wetenskappe Graad 12 Leerderboek
+ISBN: 978-1-41546-032-0
+Uitgewer: Via Afrika
+Kurrikulum: KABV (CAPS)
+Fase: VOO-fase (FET Phase)
+Nota: KABV-gelynstel onderwerp/sub-onderwerp struktuur.
+Bron: https://viaafrika.com/product/via-afrika-fisiese-wetenskappe-graad-12-leerderboek/
+======================================================================
+
+INHOUDSOPGAWE
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 1 — Meganika (Fisika)
+
+    Onderwerp 1: Momentum en impuls
+        Eenheid 1: Momentum (p = mv)
+            1.1 Momentum as 'n vektorgrootheid
+            1.2 Berekening van momentum van bewegende voorwerpe
+        Eenheid 2: Newton se tweede wet in terme van momentum
+            2.1 F_netto = Δp / Δt
+            2.2 Impuls (J = F_netto × Δt)
+            2.3 Impuls-momentum-stelling (F_netto × Δt = m × Δv)
+        Eenheid 3: Behoud van momentum
+            3.1 Geïsoleerde stelsels (interne en eksterne kragte)
+            3.2 Elastiese en nie-elastiese botsings
+            3.3 Ontploffings
+        Eenheid 4: Toepassings van impuls
+            4.1 Veiligheidskenmerke (lugsakke, kreukelzones, veiligheidsgordels, stuitbeddens, helms)
+            4.2 Krag-tyd-grafieke
+
+    Onderwerp 2: Vertikale projektielbeweging
+        Eenheid 1: Gravitasieversnelling
+        Eenheid 2: Bewegingsvergelykings vir vertikale projektielbeweging
+            2.1 Voorwerpe opwaarts gegooi, afwaarts gegooi of laat val
+            2.2 Voorwerpe opwaarts gegooi vanaf die bokant van 'n gebou
+            2.3 Weerkaatsende-bal-probleme
+        Eenheid 3: Grafieke van vertikale projektielbeweging
+            3.1 Posisie-tyd-grafieke
+            3.2 Snelheid-tyd-grafieke
+            3.3 Versnelling-tyd-grafieke
+            3.4 Verwantskappe tussen grafieke
+
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 1 (vervolg) — Golwe, Klank en Lig (Fisika)
+
+    Onderwerp 3: Dopplereffek
+        Eenheid 1: Die Dopplereffek met klank
+            1.1 Definisie en verduideliking met golffrontdiagramme
+            1.2 Dopplereffek-vergelyking: fL = (v ± vL) / (v ± vS) × fS
+            1.3 Toepassings (ultraklank, radarspoedbeheervalstrikke)
+        Eenheid 2: Die Dopplereffek met lig
+            2.1 Rooiverskuiwing en blouverskuiwing
+            2.2 Uitdying van die heelal en bewyse vir die Oerknal
+
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 1 (vervolg) — Materie en Materiaal (Chemie)
+
+    Onderwerp 4: Organiese chemie
+        Eenheid 1: Inleiding tot organiese chemie
+            1.1 Koolstofatome en unieke bindingseienskappe
+            1.2 Bronne van koolstof (steenkool, petroleum, aardgas)
+            1.3 Organiese vs anorganiese molekules
+        Eenheid 2: Organiese molekulêre strukture
+            2.1 Molekulêre, strukturele en verkorte strukturele formules
+            2.2 Funksionele groepe
+            2.3 Versadigde en onversadigde verbindings
+        Eenheid 3: Homoloë reekse
+            3.1 Alkane (CₙH₂ₙ₊₂)
+            3.2 Alkene (CₙH₂ₙ)
+            3.3 Alkyne (CₙH₂ₙ₋₂)
+            3.4 Alkohole (-OH)
+            3.5 Karboksielsure (-COOH)
+            3.6 Esters (-COO-)
+            3.7 Aldehiede (-CHO)
+            3.8 Ketone (-CO-)
+            3.9 Haloalkane (alkielhalied)
+        Eenheid 4: IUPAC-naamgewing en formules
+            4.1 Naamgewingsreëls vir elke homoloë reeks (tot 8 koolstofatome)
+            4.2 Naamgewing van vertakte molekules en substituente
+        Eenheid 5: Strukturele isomere
+            5.1 Kettingisomere
+            5.2 Posisie-isomere
+            5.3 Funksionele-groep-isomere
+        Eenheid 6: Fisiese eienskappe en struktuur
+            6.1 Intermolekulêre kragte en kook-/smeltpunte
+            6.2 Dampdruk en oplosbaarheid
+            6.3 Effek van kettinglengte en vertakking
+        Eenheid 7: Reaksies van organiese verbindings
+            7.1 Addisiereaksies (hidrohalogenering, halogenering, hidrasie, hidrogenering)
+            7.2 Eliminasiereaksies (dehidrohalogenering, dehidrasie, kraking)
+            7.3 Substitusiereaksies (halogenering van alkane, esterifikasie)
+            7.4 Verbrandingsreaksies
+        Eenheid 8: Plastiek en polimere
+            8.1 Addisiepolimerisasie (poliëtileen, PVC, polistireen, polipropileen, Teflon)
+            8.2 Kondensasiepolimerisasie (poliësters, nylon)
+            8.3 Gebruike, herwinning en omgewingsimpak
+
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 2 — Meganika (Fisika)
+
+    Onderwerp 5: Arbeid, energie en drywing
+        Eenheid 1: Arbeid
+            1.1 Definisie (W = F × Δx × cos θ)
+            1.2 Positiewe arbeid, negatiewe arbeid, nul arbeid
+            1.3 Netto-arbeid verrig op 'n voorwerp
+        Eenheid 2: Arbeid-energie-stelling
+            2.1 W_netto = ΔEk = ½mv_f² − ½mv_i²
+        Eenheid 3: Behoud van energie
+            3.1 Konserwatiewe en nie-konserwatiewe kragte
+            3.2 Slegs konserwatiewe kragte: Ek₁ + Ep₁ = Ek₂ + Ep₂
+            3.3 Nie-konserwatiewe kragte: W_nk = ΔEk + ΔEp
+        Eenheid 4: Drywing
+            4.1 Definisie (P = W / Δt)
+            4.2 P = Fv (teen konstante snelheid)
+            4.3 Doeltreffendheid (Eff = P_uit / P_in × 100%)
+
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 2 (vervolg) — Chemiese Verandering (Chemie)
+
+    Onderwerp 6: Tempo en omvang van reaksie
+        Eenheid 1: Reaksietempo
+            1.1 Definisie (verandering in konsentrasie per tydseenheid)
+            1.2 Meting van tempo's (volume gas, massaverlies, kleurverandering, presipitaat)
+        Eenheid 2: Faktore wat reaksietempo beïnvloed
+            2.1 Aard van reagense (oppervlakte-area)
+            2.2 Konsentrasie van reagense
+            2.3 Temperatuur
+            2.4 Teenwoordigheid van 'n katalisator
+            2.5 Botsingsteorie-verduideliking vir elke faktor
+        Eenheid 3: Reaksiemeganisme en katalise
+            3.1 Aktiveringsenergie en die geaktiveerde kompleks
+            3.2 Energieprofiele vir eksotermie en endotermiese reaksies
+            3.3 Rol van 'n katalisator (alternatiewe weg met laer aktiveringsenergie)
+
+    Onderwerp 7: Chemiese ewewig
+        Eenheid 1: Oop en geslote stelsels
+        Eenheid 2: Omkeerbare reaksies en dinamiese ewewig
+        Eenheid 3: Die ewewigskonstante (Kc)
+            3.1 Skryf van Kc-uitdrukkings
+            3.2 Berekening van Kc uit ewewigskonsentrasies
+            3.3 Interpretasie van Kc-waardes (produkte vs reagense bevoordeel)
+        Eenheid 4: Le Chatelier se beginsel
+            4.1 Effek van konsentrasieveranderinge
+            4.2 Effek van temperatuurveranderinge
+            4.3 Effek van drukveranderinge (gasewewigte)
+            4.4 Rol van 'n katalisator (geen verskuiwing, vinniger ewewig)
+        Eenheid 5: Industriële toepassings (Haber-proses, Kontakproses)
+
+    Onderwerp 8: Sure en basisse
+        Eenheid 1: Suur-basis-modelle
+            1.1 Arrhenius-teorie (hersiening)
+            1.2 Brønsted-Lowry-teorie (proton-oordrag)
+            1.3 Gekonjugeerde suur-basis-pare
+            1.4 Amfoliete (amfiprotiese stowwe)
+            1.5 Sterk vs swak sure en basisse
+        Eenheid 2: Suur-basis-reaksies
+            2.1 Suur + metaaloksied, suur + metaalhydroksied
+            2.2 Suur + metaalkarbonaat
+            2.3 Suur + metaal
+            2.4 Neutralisasiereaksies
+        Eenheid 3: Die pH-skaal
+            3.1 pH = −log[H₃O⁺]
+            3.2 Kw = [H₃O⁺][OH⁻] = 1 × 10⁻¹⁴
+            3.3 pH-berekeninge
+        Eenheid 4: Titrasies
+            4.1 Standaardoplossings en primêre standaarde
+            4.2 Titrasieprosedure (buret, pipet, indikator)
+            4.3 Ekwivalensiepunt en eindpunt
+            4.4 Titrasieberekeninge
+
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 3 — Elektrisiteit en Magnetisme (Fisika)
+
+    Onderwerp 9: Elektrostatika
+        Eenheid 1: Coulomb se wet (F = kQ₁Q₂/r²)
+            1.1 Krag tussen twee puntladings
+            1.2 Nettokrag op 'n lading weens veelvuldige ladings
+        Eenheid 2: Elektriese velde
+            2.1 E = F/q en E = kQ/r²
+            2.2 Veldpatrone (enkelladings, twee gelyk-/teenoorgestelde ladings, parallelle plate)
+
+    Onderwerp 10: Elektriese stroombane
+        Eenheid 1: Serie- en parallelweerstandnetwerke (hersiening en uitbreiding)
+        Eenheid 2: Batterye en interne weerstand
+            2.1 EMK en interne weerstand (r)
+            2.2 emk = I(R_ekst + r) en V_ekst = emk − Ir
+        Eenheid 3: Drywing- en energieberekeninge in stroombane met interne weerstand
+
+    Onderwerp 11: Elektrodinamika
+        Eenheid 1: Elektriese masjiene
+            1.1 WS-generator (alternator) — komponente en werkingsbeginsel
+            1.2 GS-generator — komponente, gesplitsring-kommutator
+            1.3 GS-motor — komponente en werkingsbeginsel
+            1.4 Verskille tussen generators en motors
+        Eenheid 2: Wisselstroom
+            2.1 WS vs GS
+            2.2 Piekspanning en piekstroom
+            2.3 WGK-waardes (V_wgk = V_piek / √2, I_wgk = I_piek / √2)
+            2.4 Gemiddelde drywing (P_gem = V_wgk × I_wgk)
+
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 3 (vervolg) — Materie en Materiaal (Fisika)
+
+    Onderwerp 12: Optiese verskynsels en eienskappe van materiaal
+        Eenheid 1: Die foto-elektriese effek
+            1.1 Definisie en waarnemings
+            1.2 Drempelfrekwensie (f₀) en werksfunksie (W₀ = hf₀)
+            1.3 Fotonenergie (E = hf = hc/λ)
+            1.4 Kinetiese energie van foto-elektron (Ek_maks = hf − W₀)
+            1.5 Interpretasie van Ek vs f grafieke
+            1.6 Golf-deeltjie-dualiteit van lig
+        Eenheid 2: Emissie- en absorpsiespektra
+            2.1 Atomiese emissiespektra (Bohr-model verduideliking)
+            2.2 Atomiese absorpsiespektra
+            2.3 Lynspektra as elementvingerafdrukke
+            2.4 Toepassings (identifisering van elemente in sterre)
+
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 3 (vervolg) — Chemiese Verandering (Chemie)
+
+    Onderwerp 13: Elektrochemiese reaksies
+        Eenheid 1: Hersiening van oksidasie en reduksie
+            1.1 Oksidasiegetalle
+            1.2 Oksideer- en reduseermiddels
+            1.3 Halfreaksies
+        Eenheid 2: Galvaniese (voltaïese) selle
+            2.1 Komponente (halfselle, soutbrug, eksterne stroomkring)
+            2.2 Anode (oksidasie) en katode (reduksie)
+            2.3 Selnotasie
+            2.4 Standaard-elektrodepotensiale (E°)
+            2.5 EMK-berekening (EMK = E°_katode − E°_anode)
+            2.6 Voorspelling van spontaneïteit
+        Eenheid 3: Elektrolitiese selle
+            3.1 Komponente en werkingsbeginsel
+            3.2 Elektrolise van oplossings
+            3.3 Vergelyking van galvaniese en elektrolitiese selle
+        Eenheid 4: Toepassings
+            4.1 Elektroplastering
+            4.2 Chloor-alkali-proses
+            4.3 Raffinering van metale
+
+    Onderwerp 14: Die chemiese nywerheid — Kunsmis
+        Eenheid 1: Voedingstowwe vir plantgroei (N, P, K)
+        Eenheid 2: Organiese en anorganiese kunsmis
+        Eenheid 3: NPK-verhouding en berekeninge
+        Eenheid 4: Industriële produksie van kunsmis
+            4.1 Haber-proses (produksie van ammoniak)
+            4.2 Ostwald-proses (produksie van salpetersuur)
+            4.3 Kontakproses (produksie van swaelsuur)
+            4.4 Produksie van fosforsuur
+            4.5 Produksie van ammoniumnitraat, superfosfaat, ureum
+        Eenheid 5: Omgewingsimpak van kunsmis
+            5.1 Eutrofikasie
+            5.2 Grondverval en versuring
+            5.3 Waterbesoedeling
+
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 4 — Hersiening en Eksamen
+    Hersiening van alle onderwerpe uit Kwartaal 1-3
+    Vraestel 1 (Fisika — 150 punte): Momentum/Impuls (~63), Dopplereffek (~15), Elektrostatika/Stroombane/Elektrodinamika (~55), Optiese Verskynsels (~17)
+    Vraestel 2 (Chemie — 150 punte): Organiese Chemie (~36), Tempo/Ewewig/Sure/Elektrochemie/Kunsmis (~114)
+    Woordelys

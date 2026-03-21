@@ -1,0 +1,14 @@
+Delphi Programming for Grade 10 to 12 - Grade 12 Section (CAPS IT Practical)
+Publisher: Better Books (Authors: Heathcote and Sobey)
+
+Chapter 1: Object-Oriented Programming (Classes, objects, encapsulation, inheritance)
+Chapter 2: Advanced Arrays and Data Structures
+Chapter 3: Advanced Sorting and Searching
+Chapter 4: Stacks and Queues (Basic data structures)
+Chapter 5: Database Programming with SQL (SELECT, INSERT, UPDATE, DELETE)
+Chapter 6: Working with ADO/dbGo Components in Delphi
+Chapter 7: Two-dimensional Arrays (Advanced)
+Chapter 8: Advanced File Handling
+Chapter 9: Problem Solving and Application Development
+
+Source: Web research - CAPS Information Technology practical curriculum

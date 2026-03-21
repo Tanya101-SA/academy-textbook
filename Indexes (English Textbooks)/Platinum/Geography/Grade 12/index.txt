@@ -1,0 +1,168 @@
+======================================================================
+Platinum Geography Grade 12 Learner's Book
+ISBN: 9780636151123
+Publisher: Platinum (Pearson South Africa)
+Curriculum: CAPS
+======================================================================
+
+TABLE OF CONTENTS
+──────────────────────────────────────────────────────────────────────
+
+
+Title page
+Imprint page
+Contents
+TERM ONE
+    Topic 1: Geographical skills and techniques
+        Chapter 1: Mapwork techniques
+            Unit 1: Map skills techniques and applications: scale, contours and cross sections
+            Unit 2: Direction: Magnetic North, True North and magnetic declination
+            Unit 3: Grid referencing
+            Unit 4: Map and photo interpretation
+            Unit 5: Using maps and other graphical representations
+        Chapter 2: Topographic maps
+            Unit 1: 1:50 000 maps, conventional signs and symbols
+            Unit 2: Contours and landforms
+            Unit 3: Cross-sections on 1:50 000 maps
+            Unit 4: Vertical exaggeration
+            Unit 5: Intervisibility
+            Unit 6: Gradient 
+        Chapter 3: Aerial photographs and orthophoto maps
+            Unit 1: Interpreting vertical aerial photographs
+            Unit 2: Orthophoto maps
+            Unit 3: Comparing a topographic map with an orthophoto map 
+        Chapter 4: Geographical Information Systems (GIS)
+            Unit 1: Satellite images
+            Unit 2: GIS concepts: remote sensing and resolution
+            Unit 3: Spatial and attribute data
+            Unit 4: Data standardisation, data sharing and data security
+            Unit 5: Data manipulation and application of GIS techniques
+            Unit 6: ‘Paper GIS‘
+        Chapter 5: Using atlases
+            Unit 1: Examining thematic maps
+            Unit 2: Comparing information from different maps
+        Revision
+        Summary of Topic 1
+    Topic 2: Climate and weather
+        Chapter 1: Mid-latitude cyclones
+            Unit 1: Characteristics, area of formation, and conditions needed for formation
+            Unit 2: Stages of development and related weather conditions
+            Unit 3: Weather patterns associated with cold, warm and occluded fronts
+            Unit 4: Reading and interpreting satellite images and synoptic weather maps
+        Chapter 2: Tropical cyclones
+            Unit 1: General characteristics, areas where they form and factors necessary for their formation
+            Unit 2: Stages of development of tropical cyclones
+            Unit 3: Weather patterns associated with tropical cyclones
+            Unit 4: Reading and interpreting satellite images and synoptic weather maps
+            Unit 5: Case study of a tropical cyclone
+            Unit 6: Impact of tropical cyclones and strategies for managing their effects
+        Chapter 3: Subtropical anticyclones and associatedweather conditions
+            Unit 1: Location and general characteristics of high-pressure cells that affect South Africa
+            Unit 2: Anticyclonic air circulation around South Africa and its influence on weather and climate
+            Unit 3: Travelling disturbances associated with anticyclonic circulation
+            Unit 4: Reading and interpreting satellite images and synoptic weather maps
+        Chapter 4: Valley climates
+            Unit 1: The micro-climate of valleys (the effect of the slope aspect)
+            Unit 2: Development of anabatic and katabatic winds, inversions, frost pockets and radiation fog
+            Unit 3: The influence of local climates on human activities such as settlement and farming
+        Chapter 5: Urban climates
+            Unit 1: Reasons for differences between rural and urban climates
+            Unit 2: Urban heat islands
+        Revision and consolidation: Data handling
+        Revision
+        Summary of Topic 2
+    Topic 3: Geomorphology
+        Chapter 1: Drainage systems in South Africa
+            Unit 1: Important concepts
+            Unit 2: Types of rivers
+            Unit 3: Drainage patterns
+            Unit 4: Drainage density
+            Unit 5: Stream order and density on topographic maps
+            Unit 6: Discharge of a river (stream flow)
+        Chapter 2: Fluvial processes
+            Unit 1: River profiles
+            Unit 2: Fluvial landforms
+            Unit 3: River grading
+            Unit 4: Rejuvenation of rivers
+            Unit 5: River capture (stream piracy)
+            Unit 6: Superimposed and antecedent drainage patterns
+        Chapter 3: Catchment and river management
+            Unit 1: Importance of managing drainage basins and catchment areas
+            Unit 2: Impact of people on drainage basins and catchment areas
+            Unit 3: Case study: catchment area management strategy
+        Formal assessment task: Geomorphology
+        Summary of Topic 3
+TERM TWO
+    Topic 4: Rural settlement and urban settlement
+        Chapter 1: Study of settlements
+            Unit 1: Concept of settlement
+            Unit 2: Site and situation
+            Unit 3: Rural and urban settlements
+            Unit 4: Classification of settlements
+        Chapter 2: Rural settlements
+            Unit 1: How site and situation affect the location of rural settlements
+            Unit 2: Classification of rural settlements
+            Unit 3: Settlement shapes
+            Unit 4: Land use in rural settlements
+        Chapter 3: Rural settlement issues
+            Unit 1: Rural-urban migration
+            Unit 2: Causes and consequences of rural depopulation on people and the economy
+            Unit 3: Effects of rural depopulation and strategies to address them
+            Unit 4: Social justice issues in rural areas
+            Programme of assessment: Mapwork task
+        Chapter 4: Urban settlements
+            Unit 1: The origin and development of urban settlements
+            Unit 2: How site and situation affect the location of urban settlements
+            Unit 3: Classifying urban settlements according to function
+        Chapter 5: Urban hierarchies
+            Unit 1: The concepts related to urban hierarchies
+            Unit 2: Lower and higher order functions and services
+            Unit 3: Lower and higher order centres
+        Chapter 6: Urban structure and patterns
+            Unit 1: Internal structure and patterns of urban settlements
+            Unit 2: Models of urban structure
+            Unit 3: Changing urban patterns and land use in South African cities
+        Chapter 7: Urban settlement issues
+            Unit 1: Recent urbanisation patterns in South Africa
+            Unit 2: Urban issues related to rapid urbanisation
+            Unit 3: The growth of informal settlements and associated issues
+            Unit 4: Case studies that show how selected urban areas in South Africa are managing urban challenge
+        Revision
+        Summary of Topic 4
+TERM THREE
+    Topic 5: Economic geography of South Africa
+        Chapter 1: Structure of the economy
+            Unit 1: Economic sectors (primary, secondary, tertiary and quaternary)
+            Unit 2: Economic sectors’ contribution to the South African economy
+            Unit 3: Use of statistical and graphical information
+        Chapter 2: Agriculture
+            Unit 1: Contribution of agriculture to the South African economy
+            Unit 2: The role of small-scale and large-scale farmers
+            Unit 3: The main agricultural products produced for the home market and export market
+            Unit 4: Factors that favour and hinder agriculture in South Africa
+            Unit 5: The importance of food security in South Africa
+            Unit 6: Case study related to food security and strategies to alleviate food shortage
+        Chapter 3: Mining
+            Unit 1: Contribution of mining to the South African economy
+            Unit 2: Significance of mining to the development of South Africa
+            Unit 3: Factors that favour and hinder mining in South Africa
+            Unit 4: A case study of coal mining in South Africa
+        Chapter 4: Secondary and tertiary sectors
+            Unit 1: Contribution of secondary and tertiary sectors to the South African economy
+            Unit 2: Types of industries
+            Unit 3: Factors influencing industrial development in South Africa
+            Unit 4: South Africa’s industrial regions
+        Chapter 5: Strategies for industrial development
+            Unit 1: Overview of apartheid and post-apartheid industrial development strategies
+            Unit 2: Concept and distribution of Industrial Development Zones (IDZs)
+            Unit 3: Case studies on two SEZs
+            Unit 4: Issues associated with industrial centralisation and industrial decentralisation
+        Chapter 6: The informal Sector
+            Unit 1: Concept and characteristics of informal sector employment
+            Unit 2: Reasons for high informal sector employment in South Africa
+            Unit 3: Challenges facing South Africa’s informal sector
+        Programme of assessment:  Research/essay writing task
+        Revision
+        Summary of Topic 5
+Glossary
+Index

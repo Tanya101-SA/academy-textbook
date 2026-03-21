@@ -1,0 +1,108 @@
+======================================================================
+Platinum Wiskunde Graad 12 Leerderboek
+ISBN: 9780636143326
+Uitgewer: Platinum (Pearson Suid-Afrika)
+Kurrikulum: KABV (CAPS)
+======================================================================
+
+INHOUDSOPGAWE
+──────────────────────────────────────────────────────────────────────
+
+
+Inhoudsopgawe
+Kwartaal 1
+    Onderwerp 1: Patrone, rye en reekse
+        Eenheid 1: Rekenkundige rye
+        Eenheid 2: Meetkundige rye
+        Eenheid 3: Die som van rekenkundige reekse
+        Eenheid 4: Die som van meetkundige reekse
+        Eenheid 5: Sigma-notasie
+        Eenheid 6: Praktiese toepassings
+        Eenheid 7: Kwadratiese patrone en kombinasies van rekenkundige en meetkundige rye
+        Hersieningstoets Onderwerp 1
+        Formele Assessering: Opdrag
+    Onderwerp 2: Funksies en omgekeerde funksies
+        Eenheid 1: Funksies
+        Eenheid 2:  Omgekeerde funksies
+        Hersieningstoets Onderwerp 2
+    Onderwerp 3: Eksponensiële en logaritmiese funksies
+        Eenheid 1:  Hersiening van eksponensiële wette en funksies
+        Eenheid 2: Logaritmes en logaritmiese funksies
+        Hersieningstoets Onderwerp 3
+    Onderwerp 4: Finansies, groei en verval
+        Eenheid 1: Hersiening: Graad 11 Finansies, groei en verval
+        Eenheid 2: Afleiding en gebruik van formules vir annuïteite
+        Eenheid 3: Annuïteitstoepassing en probleemoplossing
+        Eenheid 4: Bereken tydperke met logaritmes
+        Eenheid 5: Ontleed beleggings- en leningsopsies
+        Hersieningstoets Onderwerp 4
+    Onderwerp 5: Trigonometrie: Saamgestelde en dubbelhoekidentiteite
+        Eenheid 1: Hersiening: Graad 11 Trigonometrie
+        Eenheid 2: Lei die saamgestelde en dubbelhoekidentiteite af
+        Eenheid 3: Bewys identiteite met saamgestelde en dubbelhoekidentiteite
+        Eenheid 4: Los vergelykings op en bepaal die algemene oplossing
+        Hersieningstoets Onderwerp 5
+        Formele Assessering:
+        Opsie 1: Ondersoek: Oppervlakte of polygons
+        Opsie 2: Projek: Compound interest
+    Kwartaal 1 opsomming
+Kwartaal 2
+    Onderwerp 6: Trigonometrie: Probleemoplossing in twee en drie dimensies
+        Eenheid 1: Probleme in twee dimensies 
+        Eenheid 2: Probleme in drie dimensies 
+        Hersieningstoets Onderwerp 6
+    Onderwerp 7: Polinome
+        Eenheid 1: Faktoriseer derdegraadse polinome 
+        Eenheid 2: Faktoriseer en los derdegraadse polinome op met die res- of faktorstelling
+        Hersieningstoets Onderwerp 7
+    Onderwerp 8: Differensiaalrekening
+        Eenheid 1: Limiete
+        Eenheid 2: Gebruik limiete om die afgeleide van 'n funksie f te definieer
+        Eenheid 3: Differensiasie van funksies uit eerste beginsels
+        Eenheid 4: Gebruik die spesifieke reëls vir differensiasie
+        Eenheid 5: Vind die vergelykings van raaklyne aan funksies
+        Eenheid 6: Die tweede afgeleide
+        Eenheid 7: Skets derdegraadse grafieke 
+        Eenheid 8: Optimering en tempo van verandering
+        Hersieningstoets Onderwerp 8
+    Onderwerp 9: Analitiese meetkunde
+        Eenheid 1:  Vergelykings van 'n sirkel
+        Eenheid 2:  Vergelyking van 'n raaklyn aan 'n sirkel
+        Hersieningstoets Onderwerp 9
+            Middeljaar-eksamenpraktyk: Vraestel 1
+            Middeljaar-eksamenpraktyk: Vraestel 2
+    Kwartaal 2 opsomming
+Kwartaal 3
+    Onderwerp 10: Euklidiese meetkunde
+        Eenheid 1: Hersiening: Graad 11 Meetkunde
+        Eenheid 2: Gelykvormige veelhoeke
+        Eenheid 3: Proportionality theorem
+        Eenheid 4: Equiangular triangles and similarity
+        Eenheid 5: Driehoeke with proportional sides and similarity
+        Eenheid 6:  Pythagoras’ Theorem and similarity
+        Hersieningstoets Onderwerp 10
+    Onderwerp 11: Statistiek
+        Eenheid 1: Hersiening van skewe en simmetriese data
+        Eenheid 2: Tweeveranderlike data: strooidiagramme, regressielyne en korrelasie
+        Hersieningstoets Onderwerp 11
+    Onderwerp 12: Telbeginsels en waarskynlikheid
+        Eenheid 1: Hersiening van reëls vir onafhanklike, wedersyds uitsluitende en komplementêre gebeurtenisse
+        Eenheid 2: Gebruik Venn-diagramme, boomdiagramme en gebeurlikheidstabelle om probleme op te los
+        Eenheid 3: Die fundamentele telbeginsel
+        Eenheid 4: Toepassings van die telbeginsel om waarskynlikheidsprobleme op te los
+        Hersieningstoets Onderwerp 12
+            Voorlopige eksamenpraktyk: Vraestel 1
+            Voorlopige eksamenpraktyk: Vraestel 2
+    Kwartaal 3 opsomming
+Kwartaal 4
+    Eenheid 1 Struktuur van finale eksamen
+    Eenheid 2 Eksamenpraktyk A
+        Vraestel 1
+        Vraestel 2
+    Eenheid 3 Eksamenpraktyk B
+        Vraestel 1
+        Vraestel 2
+    Kwartaal 4 opsomming
+Antwoorde
+Woordelys
+Indeks

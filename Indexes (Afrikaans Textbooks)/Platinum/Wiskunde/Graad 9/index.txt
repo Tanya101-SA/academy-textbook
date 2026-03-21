@@ -1,0 +1,150 @@
+======================================================================
+Platinum Wiskunde Graad 9 Leerderboek
+ISBN: 9780636142480
+Uitgewer: Platinum (Pearson Suid-Afrika)
+Kurrikulum: KABV (CAPS)
+======================================================================
+
+INHOUDSOPGAWE
+──────────────────────────────────────────────────────────────────────
+
+
+Inhoudsopgawe
+Kwartaal 1
+    Onderwerp 1: Heelgetalle
+        Eienskappe van getalle
+        Berekeninge met getalle
+        Veelvoude en faktore
+        Los probleme op
+        Hersiening 
+    Onderwerp 2: Heelgetalle
+        Berekeninge met heelgetalle
+        Eienskappe van heelgetalle
+        Vierkante, kubusse, vierkantswortels en derdemagtswortels
+        Hersiening 
+    Onderwerp 3: Gewone breuke
+        Ekwivalente breuke en vorme
+        Berekeninge met gewone breuke
+        Los probleme op
+        Hersiening 
+    Onderwerp 4: Desimale breuke
+        Ekwivalente vorme
+        Berekeninge met desimale breuke
+        Los probleme op
+        Hersiening 
+    Onderwerp 5: Eksponente
+        Wette van eksponente
+        Bereken en los probleme op met eksponente
+        Hersiening 
+         Formele Assesseringseksemplaar: 
+            Opdrag – Eksponente in science
+    Onderwerp 6: Getal- en meetkundige patrone
+        Beskryf en brei patrone uit
+        Gebruik tabelle en reëls om patrone te beskryf
+        Bepaal die algemene reël of die nde term
+        Hersiening 
+    Onderwerp 7: Funksies en verwantskappe
+        Vloeidiagramme en tabelle
+        Beskrywing van verwantskappe in tabelle
+        Hersiening 
+    Onderwerp 8: Algebraïese uitdrukkings
+        Brei uit en vereenvoudig algebraïese uitdrukkings
+        Hersiening 
+    Onderwerp 9: Algebraïese vergelykings
+        Los vergelykings op
+        Hersiening 
+         Formele Assesseringseksemplaar:  Test
+Kwartaal 2
+    Onderwerp 10: Meetkunde van reguit lyne
+        Loodregte, kruisende en ewewydige lyne
+        Los meetkundige probleme op
+        Hersiening 
+    Onderwerp 11: Pythagoras
+        Die Stelling van Pythagoras 
+        The converse of Pythagoras’ theorem
+        Hersiening 
+    Onderwerp 12: Konstruksies
+        Konstruksies en basiese meetkundige verwantskappe
+        Driehoeke
+        Vierhoeke
+        Veelhoeke
+        Hersiening 
+         Formele Assesseringseksemplaar:  Test
+    Onderwerp 13: Meetkunde van 2D-vorms
+        Belangrike herinneringe
+        Vierhoeke
+        Kongruente driehoeke
+        Gelykvormige driehoeke
+        Meetkundige probleme
+        Hersiening
+         Formele Assesseringseksemplaar:  
+            Ondersoek – Plan and design a living space
+    Onderwerp 14: Omtrek en oppervlakte van 2D-vorms
+        Omtrekke en oppervlaktes van veelhoeke en sirkels
+        Omtrekke en oppervlaktes van saamgestelde vorms
+        Los vergelykings met omtrekke en oppervlaktes op
+        Hersiening 
+         Formele Assesseringseksemplaar:  Eksamenpraktyk
+Kwartaal 3
+    Onderwerp 15: Funksies en verwantskappe
+        Vloeidiagramme en tabelle
+        Beskrywing van verwantskappe in tabelle
+        Beskrywing van verwantskappe met grafieke
+        Hersiening 
+    Onderwerp 16: Algebraïese uitdrukkings
+        Brei uit en vereenvoudig algebraïese uitdrukkings
+        Faktorisering van algebraïese uitdrukkings
+        Hersiening 
+         Formele Assesseringseksemplaar:  
+            Projek – Motion around us
+    Onderwerp 17: Algebraïese vergelykings
+        Los vergelykings op
+        Los vergelykings op met faktorisering
+        Hersiening 
+    Onderwerp 18: Grafieke
+        Ontleed en interpreteer grafieke
+        Teken grafieke
+        Hersiening 
+        Formele Assessering: Opdrag
+         Formele Assesseringseksemplaar:  
+            Opdrag – Rates, graphs and shapes
+    Onderwerp 19: Oppervlakarea en volume van 3D-voorwerpe
+        Oppervlakarea
+        Volume en kapasiteit
+        Calculations and solving problems
+        Hersiening 
+         Formele Assesseringseksemplaar:  Test 
+Kwartaal 4
+    Onderwerp 20: Transformasies
+        Starre transformasies
+        Vergrotings en verkleiniings
+        Hersiening 
+    Onderwerp 21: Meetkunde van 3D-voorwerpe
+        Platoniese liggame, prismas en piramides
+        Silinders en sfere
+        Hersiening
+         Formele Assesseringseksemplaar:  
+            Opdrag – Create designs using tessellations
+    Onderwerp 22: Versamel, organiseer en som data op
+        Versamel data
+        Organiseer en som data op
+        Hersiening 
+    Onderwerp 23: Stel data voor
+        Teken grafieke
+        Hersiening 
+    Onderwerp 24: Interpreteer, ontleed en rapporteer data
+        Interpreteer data
+        Ontleed data
+        Rapporteer data
+        Hersiening 
+         Formele Assesseringseksemplaar:  
+            Ondersoek – Mystery puzzle
+    Onderwerp 25: Waarskynlikheid
+        Eksperimentele waarskynlikheid
+        Waarskynlikhede vir saamgestelde gebeurtenisse
+        Hersiening 
+         Formele Assesseringseksemplaar:  Eksamenpraktyk
+Antwoorde
+Woordelys
+Indeks
+Nuttige hulpbronne

@@ -1,0 +1,48 @@
+Funworks - CAPS Approved
+Subject: Information Technology
+Grade 12
+Phase: FET Phase
+Publisher: Funworks
+Book: Exploring IT: Theory & Java Programming Grade 12
+Source: CAPS Policy Document
+
+--- TABLE OF CONTENTS ---
+
+Term 1
+  IT Theory: Advanced Systems
+    - Emerging technologies
+    - Computer architecture
+    - Advanced software concepts
+  Programming: Advanced Algorithms
+    - Recursive algorithms
+    - Advanced data structures
+    - File handling
+  Database: Advanced Operations
+    - Complex queries
+    - Database design
+    - Normalisation
+
+Term 2
+  IT Theory: Advanced Networks
+    - Advanced networking concepts
+    - Network security
+    - Advanced internet services
+  Programming: Problem Solving
+    - Algorithm design
+    - Advanced OOP patterns
+    - Error handling
+  Database: Integration
+    - Database-driven applications
+
+Term 3
+  IT Theory: Consolidation
+    - All theory topics review
+  Programming: Consolidation
+    - Advanced problem solving
+    - Past paper practice
+  Solution Development
+    - Final practical project
+
+Term 4
+  Revision
+    - All topics

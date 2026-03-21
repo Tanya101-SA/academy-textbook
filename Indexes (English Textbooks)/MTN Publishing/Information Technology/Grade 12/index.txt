@@ -1,0 +1,15 @@
+MTN Information Technology - Grade 12 (CAPS IT Theory)
+Publisher: MTN Publishing (Authors: Malan, Tuswa, Naidoo)
+
+Chapter 1: System Technologies (Advanced hardware, emerging technologies, trends)
+Chapter 2: Communication Technologies (Advanced networking, cloud computing, convergence)
+Chapter 3: The Internet and the World Wide Web (Advanced, Web 2.0/3.0)
+Chapter 4: Data and Information Management (Relational databases, normalisation, SQL concepts)
+Chapter 5: Solution Development (Advanced algorithms, data structures in theory)
+Chapter 6: Social Implications (Privacy, security, intellectual property, digital citizenship, e-waste)
+Chapter 7: Spreadsheets (Advanced functions, pivot tables, macros)
+Chapter 8: Software Engineering Concepts
+Chapter 9: Emerging Technologies (AI, robotics, IoT)
+Chapter 10: Integrated Scenario-based Questions / Exam Preparation
+
+Source: Web research - CAPS Information Technology theory curriculum

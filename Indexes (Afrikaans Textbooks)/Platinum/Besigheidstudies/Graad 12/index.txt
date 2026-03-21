@@ -1,0 +1,828 @@
+======================================================================
+Verken Besigheidstudies Graad 12 Leerderboek
+ISBN: 9780636141285
+Uitgewer: Verken (Pearson Suid-Afrika)
+Kurrikulum: KABV (CAPS)
+======================================================================
+
+INHOUDSOPGAWE
+──────────────────────────────────────────────────────────────────────
+
+
+Platinum Business Studies Grade 12 Learner's Book
+Inhoudsopgawe
+Kwartaal 1
+    CHAPTER 1 Makro-omgewing: impact of recent legislation on business
+        UNIT 1 Skills Development Act No. 97 of 1998
+            1.1 Nature of the Skills Development Act (SDA)
+            1.2 Purpose of the Skills Development Act
+            1.3 The National Skills Development Strategy and Human Resources Development Strategy
+                1.3.1 The National Skills Development Strategy
+                1.3.2 The National Skills Authority
+                1.3.4 Sector Education and Training Authorities (SETAs)
+                1.3.5 Skills Development Levy
+                Calculating the skills development levy
+                1.3.6 The National Qualifications Framework (NQF)
+                1.3.7 Learnerships
+            ACTIVITY 1 EXPLAIN AND CALCULATE THE SKILLS DEVELOPMENT LEVIES
+            1.4 Advantages and disadvantages of the Skills Development Act
+                1.4.1 Advantages
+                1.4.2 Disadvantages
+                1.4.3 Rights of the business and employees
+                1.4.4 Compliance and penalties if the business does not comply
+                1.4.5 Actions regarded as discriminatory or fraudulent in terms of the SDA
+            ACTIVITY 2 EXPLAIN AND EVALUATE SKILLS DEVELOPMENT ISSUES
+        UNIT 2 Labour Relations Act No. 66 of 1995
+            1.5 Nature of the Labour Relations Act (LRA)
+            1.6 Purpose of the Labour Relations Act
+            1.7 Advantages and disadvantages of the Labour Relations Act
+                1.7.1 Advantages of the Labour Relations Act
+                1.7.2 Disadvantages of the Labour Relations Act
+            ACTIVITY 3 EXPLAIN AND INTERPRET THE LRA PROCESSES
+            1.8 Rights of the business and employees
+                1.8.1 Bargaining councils
+                1.8.2 The Commission for Conciliation, Mediation and Arbitration (CCMA)
+                1.8.3 Strikes and lock-outs
+            1.9 Compliance and penalties if the business does not comply
+            1.10 Actions regarded as discriminatory acts as listed in the LRA
+            ACTIVITY 4 DESCRIBE THE LRA
+        UNIT 3 Employment Equity Act No. 55 of 1998
+            1.11 Nature of the Employment Equity Act (EEA)
+                1.11.1 Discrimination
+            1.12 Affirmative Action
+            1.13 Purpose of the Employment Equity Act
+            ACTIVITY 5 ADVISE ON UNFAIR DISCRIMINATION
+            1.14 Advantages and disadvantages of the Employment Equity Act
+                1.14.1 Advantages of the Employment Equity Act
+                1.14.2 Disadvantages of the Employment Equity Act
+            1.15 Rights of the business and employees
+            1.16 Compliance and penalties if the business does not comply
+            1.17 Actions listed as discriminatory acts in the EEA
+        UNIT 4 Basic Conditions of Employment Act No. 75 of 1997
+            1.18 Nature of the Basic Conditions of Employment Act (BCEA)
+            1.19 Purpose of the Basic Conditions of Employment Act
+            1.20 Advantages and disadvantages of the Basic Conditions of Employment Act
+                1.20.1 Advantages of the BCEA
+                1.20.2 Disadvantages of the BCEA
+            1.21 Rights of the business and employees
+                1.21.1 Working hours
+                Ordinary hours of work
+                Overtime
+                Meal breaks and rest periods
+                Night work
+                Public holidays
+                1.21.2 Leave
+                Annual leave
+                Sick Leave
+                Maternity leave
+                Family responsibility leave
+                1.21.3 Job information
+                Remuneration issues
+                1.21.4 Termination of employment
+                1.21.5 Child labour and forced labour
+            ACTIVITY 6: APPLY YOUR KNOWLEDGE ON THE BCEA
+            1.22 Compliance and penalties if the business does not comply
+            1.23 Actions listed in the BCEA regarded as discriminatory acts
+            ACTIVITY 7 DESCRIBE AND REPRESENT THE ACTS VISUALLY
+        UNIT 5 Compensation for Occupational Injuries and Diseases Act No. 61 of 1997
+            1.24 Nature of the Compensation for Occupational Injuries and Diseases Act (COIDA)
+            1.25 Purpose of the Compensation for Occupational Injuries and Diseases Act
+            1.26 Advantages and disadvantages of the Compensation for Occupational Injuries and Diseases Act
+                1.26.1 Advantages of COIDA
+                1.26.2 Disadvantages of COIDA Compensation for Occupational Injuries and Diseases Act
+            1.27 Rights of employees and obligations of the business
+                1.27.1 Procedure for claiming compensation
+            ACTIVITY 8 DISCUSS THE IMPACT OF A WORK INJURY
+            1.28 Compliance and penalties if the business does not comply
+            1.29 Actions listed in COIDA regarded as discriminatory
+            ACTIVITY 9 ANALYSE CASE STUDIES ON COIDA
+                Gevallestudie 1
+                Gevallestudie 2
+                Gevallestudie 3
+                Gevallestudie 4
+        UNIT 6 Black Economic Empowerment and Broad-Based Black Economic Empowerment Act No. 53 of 2003
+            1.30 Nature of BEE and B-BBEE
+            1.31 Purpose of BEE and B-BBEE
+            1.32 Advantages and disadvantages of BEE and B-BBEE
+                1.32.1 Advantages of BEE and B-BBEE
+                1.32.2 Disadvantages of BEE and B-BBEE
+            1.33 Obligations of the business and the rights of employees
+                1.33.1 Human Rights
+                1.33.2 Inclusivity
+                1.33.3 Environmental issues
+            ACTIVITY 10 DISCUSS BLACK ECONOMIC EMPOWERMENT
+            1.34 Compliance and penalties if the business does not comply
+            1.35 Actions listed as discriminatory
+            ACTIVITY 11 INTERPRET A GRAPH TO DISCUSS B-BBEE
+        UNIT 7 National Credit Act No. 34 of 2005
+            1.36 Nature of the National Credit Act (NCA)
+            1.37 Purpose of the National Credit Act
+            1.38 Advantages and disadvantages
+                1.38.1 Advantages of National Credit Act
+                1.38.2 Disadvantages of National Credit Act
+            1.39 Obligations of the business and the rights of consumers
+                1.39.1 Credit Agreements
+                1.39.2 Registration of credit providers
+            1.40 Compliance and non-compliance penalties
+                1.40.1 Compliance
+                1.40.2 Penalties
+            1.41 Actions regarded as discriminatory
+            ACTIVITY 12 PROVIDE ADVICE ON PERSONAL CREDIT
+        UNIT 8 Consumer Protection Act No. 68 of 2008
+            1.42 Nature of the Consumer Protection Act (CPA)
+            1.43 Purpose of the Consumer Protection Act
+            1.44 Advantages and disadvantages of the Consumer Protection Act
+                1.44.1 Advantages of the CPA
+                1.44.2 Disadvantages of the CPA
+            1.45 Rights and obligations of the business and the rights of consumers
+            1.46 Compliance and penalties if the business does not comply
+            1.47 Actions regarded as discriminatory
+        Summary of Chapter 1
+        Eksamenpraktyk
+            SECTION A
+                QUESTION 1: MULTIPLE CHOICE
+                QUESTION 2: MATCHING COLUMNS
+            SECTION B
+                QUESTION 3:
+                QUESTION 4:
+            SECTION C
+                QUESTION 5: LONG ANSWER QUESTION
+    CHAPTER 2 Human Resources function
+        UNIT 1 Analysis of Human Resources activities and procedures
+            2.1 Recruitment
+                Recruitment procedure
+            2.2 Selection
+                2.2.1 Selection procedure
+            2.3 Interviewing
+                2.3.1 Interview procedure
+                2.3.2 Key aspects to a good interview
+            ACTIVITY 1: DEFINE AND ADVISE ON RECRUITMENT, SELECTION AND INTERVIEWING
+            2.4 Contracts of employment
+            2.5 Induction and placement
+                2.5.1 Aims and process of induction
+                2.5.2 What to include in an induction programme
+                2.5.3 Benefits of induction
+                2.5.4 Placement
+            2.6 Salaries and benefits
+            ACTIVITY 2 APPLY YOUR HUMAN RESOURCES SKILLS
+        UNIT 2 Human Resources policies and legal requirements
+            2.7 Labour Relations Act (LRA) No. 66 of 1995
+            ACTIVITY 3 DISCUSS THE LABOUR RELATIONS ACT
+            2.8 Basic Conditions of Employment Act (BCEA) No. 75 of 1997
+                2.8.1 Working time
+                2.8.2 Leave
+                2.8.3 Legalities of employment contracts
+                Key elements
+                Details in employment contracts
+            ACTIVITY 4: ANALYSE AN EMPLOYMENT SCENARIO
+            ACTIVITY 5: SUMMARISE THE BASIC CONDITIONS OF EMPLOYMENT ACT
+            2.9 Employment Equity Act (EEA) No. 55 of 1998
+            ACTIVITY 6: ANALYSE A RECRUITMENT SCENARIO
+            2.10 Compensation for Occupational Injuries and Diseases Act (COIDA) No. 61 of 1997
+            ACTIVITY 7 SUMMARISE THE OCCUPATIONAL INJURIES AND DISEASES ACT
+            2.11 Skills Development Act (SDA) No. 97 of 1998
+                2.11.1 The purpose of the Skills Development Act
+                Create a framework for skills improvement
+                Implement strategies on a national, sector and workplace basis through the Sector Education and Training Authorities (SETAs)
+                Integrate these strategies within the National Qualifications Framework (NQF)
+                Provide for learnerships and skills programmes which would lead to a recognised occupational qualification
+                Finance schemes through a levy-grant scheme and a National Skills Fund
+            ACTIVITY 8 SUMMARISE, EXPLAIN AND EVALUATE THE SKILLS DEVELOPMENT ACT
+            ACTIVITY 9 SUMMARISE, EXPLAIN AND EVALUATE EMPLOYMENT LEGISLATION
+        Summary of Chapter 2
+        Eksamenpraktyk
+            SECTION A
+                QUESTION 1: MULTIPLE CHOICE
+                QUESTION 2: MATCH THE COLUMNS
+                QUESTION 3: WRITE PARAGRAPHS
+            SECTION B
+                QUESTION 4: SHORT ANSWER QUESTIONS
+            SECTION C
+                QUESTION 5: LONG ANSWER QUESTION: CASE STUDY
+    CHAPTER 3 Etiek and professionalism
+        UNIT 1 Ethical and professional business practice
+            3.1 Ethical behaviour in business practice
+            ACTIVITY 1 DISCUSS AND CONDUCT INTERVIEWS ABOUT ETHICS
+            3.2 Code of Etiek
+                3.2.1 Ethical practices
+                Ethical practices explained
+            ACTIVITY 2 EXPLAIN AND REPRESENT ETHICAL PRACTICES
+            3.3 Ethical and unethical business practice
+                3.3.1 Ethical business practice
+                3.3.2 Unethical business practice
+            3.4 Professional and unprofessional business practices
+                3.4.1 Principles of professionalism
+            ACTIVITY 3 ANALYSE THE CASE STUDY
+                Gevallestudie:
+            3.5 The relationship between ethical and professional behaviour
+                3.5.1 Ways in which professional, responsible, ethical and effective business practice should be conducted
+                Principle 1: No business should be started at the expense of someone else.
+                Principle 2: Fair wages should be paid to both executives and employees.
+                Principle 3: Tax should be paid regularly.
+                Principle 4: Hire honest, trustworthy accountants with good reputations.
+                Principle 5: Staffing and other processes should be open and transparent.
+                Principle 6: Draw up a Code of Etiek.
+                Principle 7: Managers must set the tone and example.
+                Principle 8: On-going development and training for all employees.
+                Principle 9: Performance management systems should be in place.
+                Principle 10: There must be adequate internal controls.
+                Principle 11: There should be honesty in all relationships and transactions in the business.
+                Principle 12: The environment should be protected.
+            ACTIVITY 4 ANALYSE THE MASTERBOND AND FIDENTIA SCANDALS
+        UNIT 2 Issues that could challenge ethical and professional behaviour
+            3.6 Challenges to ethical and professional behaviour
+                3.6.1 Taxation
+                3.6.2 Sexual harassment
+                3.6.3 Pricing of goods in rural areas
+                3.6.4 Unfair advertising
+                3.6.5 False advertising
+                3.6.6 Unauthorised use of funds
+                3.6.7 Abusing work time
+                3.6.8 Tenderpreneurs
+                3.6.9 Nepotism
+                3.6.10 Cronyism
+                3.6.11 HIV and Aids
+                3.6.12 Productivity
+                3.6.13 Poverty
+                3.6.14 Inequality
+                3.6.15 Electricity
+                3.6.16 Access to finance
+            3.7 Strategies to address challenging issues
+                Practical example of strategy
+                Practical example of strategy
+                Practical example of strategy
+                Practical example of strategy
+                Practical example of strategy
+                Practical example of strategy
+                Practical example of strategy
+                3.7.1 Specific practical strategies that can be applied
+            ACTIVITY 5 DISCUSS ETHICAL PRINCIPLES IN BUSINESS
+        Summary of Chapter 3
+        Eksamenpraktyk
+            SECTION A
+                QUESTION 1: MULTIPLE CHOICE
+                QUESTION 2: MATCH THE COLUMNS
+                QUESTION 3: FILL IN THE MISSING WORD OR PHRASE
+            SECTION B
+                QUESTION 4: READ THE STATEMENT AND ANSWER THE QUESTIONS THAT FOLLOW
+                QUESTION 5: ANALYSE THE CASE STUDY
+            SECTION C
+                QUESTION 6: LONG ANSWER QUESTION
+    CHAPTER 4 Kreatiewe denke
+        UNIT 1 Acquiring advanced problem-solving skills
+            4.1 Probleemoplossing versus decision making
+                4.1.1 The problem-solving cycle
+            ACTIVITY 1 ANALYSE A BUSINESS SCENARIO
+            4.2 Acquiring advanced problem-solving skills
+                4.2.1 Mind mapping
+                4.2.2 Brainstorming
+            ACTIVITY 2 DISCUSS AND EVALUATE PROBLEM-SOLVING SKILLS
+            ACTIVITY 3 ANALYSE THE SCENARIO AND DO A FORCE-FIELD ANALYSIS
+            ACTIVITY 4 ANALYSE THE SCENARIO AND APPLY THE DELPHI TECHNIQUE
+            ACTIVITY 5 APPLY INDIGENOUS KNOWLEDGE
+            4.3 Summary of problem-solving techniques
+            ACTIVITY 6 APPLY A PROBLEM-SOLVING TECHNIQUE
+        UNIT 2 Application of creative thinking to solve complex business problems
+            4.4 What is creative thinking?
+                4.4.1 The benefits of creative thinking in businesses
+                4.4.2 Applying creative thinking in a changing world
+                Kreatiewe denke to solve business problems
+                Creating an environment that promotes creative thinking
+                Working with others to solve problems and generate ideas
+                Developing creative thinking skills
+                Using non-conventional solutions and indigenous approaches
+            ACTIVITY 7 APPLY CREATIVE THINKING TECHNIQUES
+            4.5 Evaluating creative solutions to complex business problems
+        Summary of Chapter 4
+        Eksamenpraktyk
+            SECTION A
+                QUESTION 1: MULTIPLE CHOICE
+                QUESTION 2: MATCH THE COLUMNS
+            SECTION B
+                QUESTION 3: CASE STUDY
+                QUESTION 4: ANALYSE THE DIAGRAM
+            SECTION C
+                QUESTION 5: LONG ANSWER QUESTION
+    CHAPTER 5 Macro-environment business strategies
+        UNIT 1 Development of strategies in response to the challenges in business environments
+            5.1 Advanced problem-solving skills
+                5.1.1 Mind mapping
+                5.1.2 Brainstorming
+                5.1.3 Force-field Analysis
+                5.1.4 Empty Chair Technique
+                5.1.5 Delphi Technique
+                5.1.6 Nominal Group Technique
+                5.1.7 Forced combinations
+                5.1.8 SCAMPER
+            ACTIVITY 1 ANALYSE THE CASE STUDY
+            5.2 Develop strategies in response to challenges in business environments
+                5.2.1 SWOT analysis of the business environment
+                5.2.2 PESTLE analysis
+                5.2.3 Porter’s Five Forces
+                5.2.4 Formulate strategies
+                5.2.5 Implement strategies
+                Steps in implementing strategies
+                5.2.6 Evaluate strategies
+                Steps to be used in the evaluation process
+            ACTIVITY 2 ANALYSE AND DISCUSS STRATEGY
+        UNIT 2 Types of business strategies and strategic evaluation
+            5.3 Integration strategies
+                5.3.1 Forward integration
+                5.3.2 Backward integration
+                5.3.3 Horizontal integration
+            ACTIVITY 3 DEBATE INTEGRATION STRATEGY
+            5.4 Intensive strategies
+                5.4.1 Market penetration
+                5.4.2 Market development
+                5.4.3 Product development
+            ACTIVITY 4 COMPARE INTENSIVE STRATEGIES
+            5.5 Diversification strategies
+                5.5.1 Concentric diversification
+                5.5.2 Horizontal diversification
+                5.5.3 Conglomerate diversification
+            ACTIVITY 5 EXPLAIN DIVERSIFICATION STRATEGIES
+            5.6 Defensive strategies
+                5.6.1 Retrenchment
+                5.6.2 Divestiture
+                5.6.3 Liquidation
+            5.7 Other strategies
+                5.7.1 Replacing individuals
+                5.7.2 Revising a business’s mission
+                5.7.3 Establishing or revising objectives
+                5.7.4 Developing new policies
+                5.7.5 Issuing stock to raise capital
+                5.7.6 Adding additional sales staff
+                5.7.8 Allocating resources differently
+                5.7.9 Developing new performance incentives
+            ACTIVITY 6 DISCUSS DIVERSIFICATION STRATEGIES
+            5.8 Strategic evaluation
+                5.8.1 Evaluating strategies and recommending improvements
+                The advantages and disadvantages of the strategies
+                5.8.2 Strategy evaluation includes three basic activities
+                Examining the underlying bases of an organisation’s strategy
+                Comparing expected results with actual results
+                Taking corrective actions to ensure that performance conforms to plans
+            ACTIVITY 7 ANALYSE AND DISCUSS INTENSIVE STRATEGIES
+        Summary of Chapter 5
+        Eksamenpraktyk
+            SECTION A
+                QUESTION 1: MULTIPLE CHOICE
+                QUESTION 2: MATCH THE TERM AND DEFINITION
+            SECTION B
+                QUESTION 3: FORMULATION OF STRATEGIES
+                QUESTION 4: STUDY THE DIAGRAM AND COMPLETE THE QUESTIONS THAT FOLLOW
+            SECTION C
+                QUESTION 5: LONGER ANSWER QUESTION
+        Programme of assessment: Opdrag
+        Programme of assessment: Controlled Test 1
+            INSTRUCTIONS AND INFORMATION
+            SECTION A
+                QUESTION 1
+            SECTION B: ANSWER ALL THE QUESTIONS
+                QUESTION 2
+                QUESTION 3
+                QUESTION 4
+            SECTION C: ESSAY
+                QUESTION 5
+                QUESTION 6
+Kwartaal 2
+    CHAPTER 6 Sosiale verantwoordelikheid and corporate citizenship/Corporate Social Responsibility
+        UNIT 1 The concept of social responsibility and its implications for both business and communities
+            6.1 Definition of social responsibility
+            6.2 Meaningful contribution of time and effort to advancing the well-being of others in a business context
+            6.3 Ways in which a business project can contribute towards the community
+            ACTIVITY 1 CONDUCT A SURVEY
+            6.4 Corporate Social Responsibility (CSR)
+                6.4.1 Definition
+                6.4.2 Nature and process of Corporate Social Responsibility
+                The Corporate Social Responsibility Pyramid
+                6.4.3 Benefits of CSR to business
+                6.4.4 Benefits of CSR to communities
+                6.4.5 Problems and challenges of CSR for business
+                6.4.6 Problems and challenges of CSR for the community
+                6.4.7 Components of Corporate Social Responsibility
+                Corporate governance
+                Corporative
+                Business ethics
+                Ethical practices
+                Workplace and labour relations
+                Investment practices
+                Diensbillikheid
+                Supply chain
+                Customers
+                Environment
+                Community
+                6.4.8 The Johannesburg Stock Exchange Social Responsibility Indeks (JSE SRI)
+            ACTIVITY 2 EXPLAIN AND REPRESENT THE BUSINESS’S RESPONSIBILITY TOWARDS THE COMMUNITY
+        UNIT 2 Corporate Social Investment
+            6.5 Definition
+            6.6 Nature of Corporate Social Investment
+            6.7 CSI projects (including human rights issues)
+                6.7.1 COCA-COLA and the WWF
+                6.7.2 WOOLWORTHS
+                6.7.3 DIS-CHEM FOUNDATION
+                6.7.4 STANDARD BANK
+                6.7.5 TOTAL SOUTH AFRICA
+            ACTIVITY 3 PLAN A COMMUNITY PROJECT
+            6.8 Responsible business practice
+                6.8.1 The five main elements of responsible business practice
+                Environmental
+                Community/social
+                Workplace practices
+                Marketplace and business conduct
+                Ethical governance
+                6.8.2 Challenges to the business
+                Conflict of purpose
+                Perceived actual benefit to the community
+                Consumer cynicism
+                Reversible benefits of CSR
+            6.9 A challenge to meet the longer term needs of the society
+            6.10 Legislative requirements
+                6.10.1 Employment Equity Act
+                6.10.2 Skills Development Act
+                6.10.3 Black Economic Empowerment and compliance
+            6.11 National Skills Development Strategy and Human Resources Development Strategy
+                6.11.1 Human Resources Development Strategy
+                6.11.2 National Skills Development Strategy
+            ACTIVITY 4 RESEARCH CORPORATE SOCIAL RESPONSIBILITY
+        Summary of Chapter 6
+        Eksamenpraktyk
+            SECTION A
+                QUESTION 1: MULTIPLE CHOICE
+                QUESTION 2: MATCH THE COLUMNS
+                QUESTION 3: FILL IN THE MISSING WORD OR PHRASE
+            SECTION B
+                QUESTION 4: COMPLETE THE TABLE
+                QUESTION 5: CASE STUDY
+            SECTION C
+                QUESTION 6: LONG ANSWER QUESTION
+    CHAPTER 7 Human rights, inclusivity and environmental issues
+        UNIT 1 Assess a business venture against criteria to measure human rights, inclusivity, and environmental issues
+            7.1 Human rights
+                7.1.1 Human rights issues as defined in the Constitution of the Republic of South Africa
+                High-risk areas
+                Medium-risk areas
+            7.2 Diversity in the business
+                7.2.1 Poverty
+                7.2.2 Inclusivity including race, gender, language, age, disability and other factors
+                7.2.3 The value of a diverse workplace
+                7.2.4 Assessing diversity in business
+                Diversity checklist
+            ACTIVITY 1 COLLECT AND ANALYSE INFORMATION ON DIVERSITY
+            7.3 Environmental protection and human health
+                7.3.1 Responsibilities of employers
+                7.2.3 Responsibilities of workers
+                7.3.3 Rights of workers
+                7.3.4 Health and safety representatives in the workplace
+            ACTIVITY 2 APPLY THE HEALTH AND SAFETY LAWS
+            7.4 Issues of equality, respect and dignity
+            ACTIVITY 3 DEFINE AND IDENTIFY DISCRIMINATION
+            7.5 Other economic, social and cultural rights
+                7.5.1 Economic rights
+                7.5.2 Social and cultural rights
+            ACTIVITY 4 CONDUCT AN INTERVIEW
+        Summary of Chapter 7
+        Eksamenpraktyk
+            SECTION A
+                QUESTION 1 MULTIPLE CHOICE
+                QUESTION 2 MATCHING COLUMNS
+                QUESTION 3 FILL IN THE MISSING WORD
+            SECTION B
+                QUESTION 4 DEBATE THE STATEMENT
+                QUESTION 5 CASE STUDY
+            SECTION C
+                QUESTION 6 ESSAY QUESTION
+    CHAPTER 8 Team performance assessment, conflict management and problem solving
+        UNIT 1 Collaboration with others to contribute towards the achievement of specific objectives
+            8.1 Criteria for successful team performance
+            8.2 Factors that can influence team relationships
+                8.2.1 Self-assessment and team-performance assessment according to specific criteria
+            ACTIVITY 1 EVALUATE YOUR ABILITY TO WORK AS A TEAM
+                Gevallestudie
+            ACTIVITY 2 WORK AS A TEAM TO DESIGN A NAME AND LOGO
+        UNIT 2 Probleemoplossing and the management of problems
+            8.3 Conflict that arises from working with others
+                8.3.1 Causes of conflict in business
+            ACTIVITY 3 DEMONSTRATE CAUSES OF CONFLICT IN A BUSINESS
+            8.4 Conflict that arises from working in a team
+                8.4.1 Bestuur of problems
+            8.5 Steps in resolving conflict
+            8.6 Konflikbestuur theories
+                8.6.1 Konflikbestuur skills to resolve differences
+            ACTIVITY 4: SOLVE THE CONFLICT IN THE CASE STUDY
+                Gevallestudie:
+            8.7 Correct procedures to deal with grievances in the workplace
+            8.8 Different ways of dealing with difficult people and their personalities
+                How different personalities deal with conflict
+                8.8.1 Different ways and strategies to deal with difficult people and their personalities
+                5 useful hints for a manager when dealing with difficult people:
+            ACTIVITY 5 ANALYSE YOUR OWN PERSONALITY TYPE
+        Summary of Chapter 8
+        Eksamenpraktyk
+            SECTION A
+                QUESTION 1: MULTIPLE CHOICE
+                QUESTION 2: MATCH THE COLUMNS
+            SECTION B
+                QUESTION 3:
+                QUESTION 4: CASE STUDY
+            SECTION C
+                QUESTION 5: LONG ANSWER QUESTION
+    CHAPTER 9 Besigheidssektore and their environments
+        UNIT 1 The three business environments related to the three economic sectors
+            9.1 The three economic sectors
+            ACTIVITY 1: IDENTIFY DIFFERENT BUSINESS SECTORS
+            9.2 The three business environments
+                Mikro-omgewing
+                Vision, mission statement, goals and objectives
+                9.2.1 The micro environment related to the three economic sectors
+                Influence of the micro environment on primary sector business
+                Influence of the micro environment on secondary sector business
+                Influence of the micro environment on tertiary sector business
+                Markomgewing
+                Customers
+                9.2.2 The market environment related to the three economic sectors
+                Influence of the market environment on the primary sector business
+                Influence of the market environment on secondary sector business
+                Influence of the market environment on tertiary sector business
+                Makro-omgewing
+                Physical/natural environment
+                9.2.3 The macro environment related to the three economic sectors
+                Influence of the macro environment on primary sector business
+                Influence of the macro environment on secondary sector business
+                Influence of the macro environment on tertiary sector business
+            ACTIVITY 2 SUMMARISE AND COMPARE THE KEY INFLUENCES
+        UNIT 2 The extent to which a business can control the three business environments
+            9.3 Primary sector industries
+                Gevallestudie:
+            9.4 Secondary sector industries
+                Gevallestudie:
+            9.5 Tertiary sector industries
+                Gevallestudie:
+            ACTIVITY 3: ANALYSE EXTENT OF CONTROL
+                Gevallestudie:
+        Summary of Chapter 9
+        Eksamenpraktyk
+            SECTION A
+                QUESTION 1: MULTIPLE CHOICE
+                QUESTION 2: MATCH AND FILL IN THE MISSING WORD
+                QUESTION 3: COMPLETE THE TABLE
+            SECTION B
+                QUESTION 4: SHORT ANSWER QUESTIONS
+                QUESTION 5: SHORT ANSWER QUESTIONS
+            SECTION C
+                QUESTION 6: LONG ANSWER QUESTION
+    CHAPTER 10 Bestuur and leadership
+        UNIT 1 The difference between leadership and management
+            10.1 Differences between a leader and a manager
+            ACTIVITY 1: Distinguish between activities of a leader and a manager
+            10.2 Difference between the functions of leadership and the functions of management
+                10.2.1 Functions of management
+                10.2.2 Functions of leadership
+            ACTIVITY 2 ANALYSE A CASE STUDY
+        UNIT 2 Leierskap styles
+            10.3 Authoritarian or autocratic leadership style
+                10.3.1 Advantages and disadvantages of autocratic style
+            10.4 Democratic or participative leadership style
+                10.4.1 Advantages and disadvantages of a democratic style
+            10.5 Laissez-faire or permissive leadership style
+                10.5.1 Advantages and disadvantages of laissez-faire style
+            ACTIVITY 3 COMPARE THE LEADERSHIP STYLES
+            10.6 Other forms of leadership
+                10.6.1 Transactional leadership
+                10.6.2 Primal leadership
+            ACTIVITY 4 EVALUATE EFFECTIVENESS OF LEADERSHIP STYLES
+        UNIT 3 Theories of management and leadership
+            10.7 Leaders and followers
+            10.8 Situational leadership
+                10.8.1 Summary of situational leadership theory
+            ACTIVITY 5 COMPARE LEADERSHIP THEORIES
+            10.9 Transitional and transformational leadership
+            ACTIVITY 6 COMPARE THE LEADERSHIP THEORIES
+        UNIT 4 The role of personal attitude in success and leadership
+            10.10 What is an attitude?
+                10.10.1 Three of the most important attitudes in effective leaders
+            10.11 Personal leadership
+            10.12 Leierskap presence
+            ACTIVITY 7 INVESTIGATE PERSONAL LEADERSHIP
+        Summary of Chapter 10
+        Eksamenpraktyk
+            SECTION A
+                QUESTION 1: MULTIPLE CHOICE
+                QUESTION 2: MATCH THE COLUMNS
+                QUESTION 3: FILL IN THE MISSING WORD
+                QUESTION 4: IDENTIFY WHETHER THE FOLLOWING ARE MANAGEMENT OR LEADERSHIP ACTIVITIES
+            SECTION B
+                QUESTION 5: SHORT ANSWER QUESTION
+            SECTION C
+                QUESTION 6: LONG ANSWER QUESTION
+    CHAPTER 11 Kwaliteit of performance
+        UNIT 1 The concept of quality and its relation to the various business functions
+            11.1 The concept of quality
+            ACTIVITY 1 ANALYSE SERVICE QUALITY IN A BUSINESS
+            11.2 Relationship between quality and the various business functions
+                11.2.1 Kwaliteit and management
+                11.2.2 Kwaliteit and finance
+                11.2.3 Kwaliteit and purchasing
+                11.2.4 Kwaliteit and production
+                South African Bureau of Standards (SABS)
+                SABS Marks
+                International Standards Organisation (ISO)
+                11.2.5 Kwaliteit and public relations
+                11.2.6 Kwaliteit and administration
+                11.2.7 Kwaliteit and human resources
+                Policies
+                11.2.8 Kwaliteit and marketing
+            ACTIVITY 2 IDENTIFY AND DESCRIBE QUALITY CONTROL
+            11.3 The impact of quality on different
+        UNIT 2 The impact of quality on different business structures
+            business structures
+            11.4 Total Kwaliteit Bestuur
+            ACTIVITY 3 DISCUSS QUALITY MANAGEMENT IN A BUSINESS
+            ACTIVITY 4 ANALYSE THE CASE STUDY
+        Summary of Chapter 11
+        Eksamenpraktyk
+            SECTION A
+                QUESTION 1: MULTIPLE CHOICE
+                QUESTION 2: SUPPLY THE CORRECT WORD/TERM
+                SECTION B
+                QUESTION 3: SHORT ANSWER QUESTIONS
+                QUESTION 4: CASE STUDY
+            SECTION C
+                QUESTION 5: LONG ANSWER QUESTION
+        Programme of assessment: Presentation
+Kwartaal 3
+    CHAPTER 12 Investment securities
+        UNIT 1 Business investment opportunities
+            12.1 Assurance and insurance
+                12.1.1 Compulsory and non-compulsory insurance and assurance
+                12.1.2 Relevance of assurance and insurance to businesses and individuals
+            ACTIVITY 1 ADVISE ON ASSURANCE AND INSURANCE REQUIREMENTS FOR BUSINESSES
+            12.2 Types of investments
+            ACTIVITY 2 DEFINE INVESTMENT TERMINOLOGY
+            12.3 The Johannesburg Stock Exchange (JSE Limited)
+                12.3.1 Functions of the JSE
+                Buying and selling shares on the JSE
+                12.3.2 Types of shares
+                Preference shares
+                Ordinary shares
+                Bonus shares
+            ACTIVITY 3: EXPLAIN AND COMPARE DIFFERENT TYPES OF SHARES
+            12.4 Eenheid trusts
+                12.4.1 Benefits of unit trusts
+                Bestuur
+                Diversification
+                Affordability
+                Liquidity
+            12.5 Government retail bonds
+                12.5.1 Benefits of a Government Retail Bond
+            12.6 Returns
+                12.6.1 Dividends
+                12.6.2 Interest
+            ACTIVITY 4 COMPARE DIVIDENDS AND INTEREST
+            ACTIVITY 5 CALCULATE TYPES OF INTEREST
+        Summary of Chapter 12
+        Eksamenpraktyk
+            SECTION A
+                QUESTION 1: MULTIPLE CHOICE
+                QUESTION 2: SUPPLY THE CORRECT WORD/TERM
+            SECTION B
+                QUESTION 3: STUDY THE STATEMENT BELOW AND ANSWER THE QUESTIONS
+                QUESTION 4
+            SECTION C
+                QUESTION 5: LONG ANSWER QUESTION
+    CHAPTER 13 Investment insurance
+        UNIT 1 Compulsory and non-compulsory insurance
+            13.1 Compulsory and non-compulsory insurance
+            13.2 Understanding life insurance and retirement annuities
+                13.2.1 Life insurance
+                Types of life insurance
+                A whole-life policy
+                Term insurance
+                Universal-life policy
+                13.2.2 Retirement annuities (RAs)
+            ACTIVITY 1 ANALYSE THE DIFFERENCES BETWEEN LIFE INSURANCE AND RETIREMENT ANNUITIES
+            13.3 Versekering of goods (compulsory and non-compulsory)
+                13.3.1 Compulsory insurance
+                13.3.2 Non-compulsory insurance
+            ACTIVITY 2 COMPARE, SUMMARISE AND DISCUSS THE TYPES OF INSURANCE
+            13.4 Unemployment Versekering Fund (UIF)
+            13.5 Road Accident Fund (RAF)
+            13.6 Worker’s Compensation Fund
+            ACTIVITY 3 COMPARE THE TYPES OF COMPULSORY INSURANCE
+        Summary of Chapter 13
+        Eksamenpraktyk
+            SECTION A
+                QUESTION 1: MULTIPLE CHOICE
+                QUESTION 2: SUPPLY THE CORRECT WORD/TERM
+            SECTION B
+                QUESTION 3: RESPOND TO THE STATEMENT
+                QUESTION 4: STUDY THE SCENARIO
+            SECTION C
+                QUESTION 5: LONG ANSWER QUESTION
+    CHAPTER 14 Vorme van eienaarskap
+        UNIT 1 Characteristics, advantages, disadvantages and comparison of forms of ownership
+            14.1 Vorme van eienaarskap
+            ACTIVITY 1 REVISE FORMS OF OWNERSHIP
+            ACTIVITY 2: EVALUATE AND ADVISE ON FORMS OF OWNERSHIP
+        UNIT 2 Vorme van eienaarskap and their impact on the success of a business
+            14.2 Importance of form of ownership
+            ACTIVITY 3 DISCUSS FORMS OF OWNERSHIP AND THEIR IMPACT ON THE SUCCESS OF THE BUSINESS
+            14.2 Selecting the correct form of ownership
+                14.3.1 Factors to consider when making the decision
+                The type of business
+                Needs of the owner
+                The needs of the business
+                14.3.2 Eenmansaak
+                14.3.3 Vennootskap
+                14.3.4 Beslote korporasie
+                14.3.5 Private company
+                14.3.6 Public company
+        Summary of Chapter 14
+        Eksamenpraktyk
+            SECTION A
+                QUESTION 1: MULTIPLE CHOICE
+                QUESTION 2: SUPPLY THE CORRECT WORD/TERM
+            SECTION B
+                QUESTION 3: COMPLETE THE TABLE
+                QUESTION 4: CASE STUDY
+            SECTION C
+                QUESTION 5: LONG ANSWER QUESTION
+    CHAPTER 15 Presentation and data response
+        UNIT 1 Presentation of business information in verbal and non-verbal format
+            15.1 Presentation of business information in a verbal format
+                15.1.1 Preparing a verbal presentation
+                How to prepare for an effective verbal presentation
+                Do’s and Don’ts for your verbal presentations
+                15.1.2 The use of support materials in verbal presentations
+                Audio-visual aids
+                Data projector
+                Overhead projectors
+                Interactive whiteboard
+                Video-conferencing equipment
+                Other support materials
+                Handouts
+                Posters
+                Flyers
+                Flip charts
+            15.2 Presentation of business information in a non-verbal format
+                15.2.1 Writing a business report
+                Steps in preparing a written business report
+                15.2.2 The use of support materials in non-verbal presentations
+                Tables, graphs, diagrams and illustrations
+            ACTIVITY 1 DESIGN A BAR GRAPH
+        UNIT 2 Responding to questions, handling feedback and identifying areas for improvement
+            15.3 Respond to questions in a non-aggressive and professional manner
+                15.3.1 The golden rules of answering questions
+            ACTIVITY 2 USE GRAPHICS IN A PRESENTATION
+            ACTIVITY 3 PROVIDE CONSTRUCTIVE FEEDBACK
+        Summary of Chapter 15
+        Eksamenpraktyk
+            SECTION A
+                QUESTION 1: MULTIPLE CHOICE
+                QUESTION 2: SUPPLY THE CORRECT WORD/TERM
+            SECTION B
+                QUESTION 3: STUDY THE DATA
+                QUESTION 4: ANSWER THE QUESTIONS
+            SECTION C
+                QUESTION 5: LONG ANSWER QUESTION
+        Programme of assessment: Projek
+            SECTION A
+            SECTION B
+        Programme of assessment: Controlled test 2
+            INSTRUCTIONS AND INFORMATION
+            SECTION A: COMPULSORY
+                Question 1
+            SECTION B: COMPULSORY
+                Question 2
+                Question 3
+                Question 4
+            SECTION C: ESSAY
+                Question 5
+Kwartaal 4
+    CHAPTER 16 Exam preparation
+        UNIT 1 Study timetable
+        UNIT 2 Study guidelines
+    CHAPTER 17 How to approach the exam
+        UNIT 1 Structure of the final Grade 12 exam paper
+        UNIT 2 Section A
+            17.1 Answering multiple-choice questions
+            17.2 Answering match columns questions
+            17.3 Answering choose the correct word/give the correct term questions
+            17.4 Eksamenpraktyk for Section A
+        UNIT 3 Section B
+            17.5 Answering paragraph questions
+            17.6 Answering case studies
+            17.7 Answering data response and source-based questions
+            17.8 Eksamenpraktyk for Section B
+        UNIT 4 Section C
+            17.9 Answering essay-style questions
+                17.9.1 Structure of an essay question
+                Begin with an introduction
+                Body of the essay
+                Hints and tips
+                Conclusion
+                17.9.2 How Grade 12 Business Studies essay questions are marked
+                Essay marking grid
+            17.10 Eksamenpraktyk for Section C
+Woordelys
+Acknowledgements

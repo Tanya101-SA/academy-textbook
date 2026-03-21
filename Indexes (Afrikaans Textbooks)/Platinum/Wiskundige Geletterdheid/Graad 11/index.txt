@@ -1,0 +1,391 @@
+======================================================================
+Platinum Wiskundige Geletterdheid Graad 11 Leerderboek
+ISBN: 9780636138490
+Uitgewer: Platinum (Pearson Suid-Afrika)
+Kurrikulum: KABV (CAPS)
+======================================================================
+
+INHOUDSOPGAWE
+──────────────────────────────────────────────────────────────────────
+
+
+Platinum Wiskundige Geletterdheid Grade 11 Learner’s Book
+Kwartaal 1
+    TOPIC 1 Patterns, relationships and representation
+        Eenheid 1 Grafieke that tell a story
+            Interpretasie van grafieke found in the media
+                WORKED EXAMPLE
+                SOLUTION
+            Understanding and interpreting points of intersection
+                WORKED EXAMPLE
+                SOLUTION
+            Grafieke in real life situations
+                WORKED EXAMPLE
+                SOLUTION
+        Eenheid 2 Patterns and relationships
+            Linear relationships
+            Constant (fixed) relationships
+            Constant difference relationships
+            Combination relationships
+            Inverse relationships
+            Meetkundige patrone and relationships
+                WORKED EXAMPLE
+                SOLUTION
+            Relationships with no obvious pattern
+                WORKED EXAMPLE
+                SOLUTION
+        Eenheid 3 Tabelle, equations and graphs
+            Choosing a suitable cellphone contract
+                WORKED EXAMPLE
+                SOLUTION
+            Interpretasie van grafieke by completing tables of values
+                WORKED EXAMPLE
+                SOLUTION
+            Interpretasie van grafieke and matching equations
+                WORKED EXAMPLE
+                SOLUTION
+            Working with and identifying equations
+                WORKED EXAMPLE
+                SOLUTION
+            Choosing an effective or the most effective representation when solving problems
+                WORKED EXAMPLE
+                SOLUTION
+        Hersiening
+    TOPIC 2 Meting: Omskakelings en tyd
+        Eenheid 1 Conversions
+            WORKED EXAMPLE 1
+                SOLUTION
+            WORKED EXAMPLE 2
+                SOLUTION
+            WORKED EXAMPLE 3
+                SOLUTION
+            WORKED EXAMPLE 4
+                SOLUTION
+            Eenheid 2 Tyd
+                Tyd recording formats
+                WORKED EXAMPLE
+                SOLUTION
+                Calculate elapsed time between two events
+                WORKED EXAMPLE
+                SOLUTION
+        Hersiening
+    TOPIC 3 Finansies: Documents, systems, statements and budgets
+        Eenheid 1 Financial documents
+            Bank statements
+            Household accounts, invoices and statements
+            Telephone (landline) invoices
+            Till slips
+                WORKED EXAMPLE
+                SOLUTION
+            Quotations
+            Salary slips
+            Travelling allowance claim forms
+                WORKED EXAMPLE
+                SOLUTION
+            Daily or weekly travelling allowance
+                WORKED EXAMPLE
+                SOLUTION
+        Eenheid 2 Tariefstelsels
+            Household utilities
+            Electricity tariffs
+                Pre-paid meters
+                Post-paid meters
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 9
+            Water and sewage tariffs
+                WORKED EXAMPLE
+                SOLUTION
+            Landline and cellphone tariffs
+                WORKED EXAMPLE
+                SOLUTION
+            Parking Tariffs
+        Eenheid 3 Income statements and budgets
+            Personal income, expenditure and budgets
+                Personal income
+                Personal expenditure
+                Personal budgets
+                WORKED EXAMPLE
+                SOLUTION
+            Household budgets
+                WORKED EXAMPLE
+                SOLUTION
+            Budgeting for trips and holidays
+                WORKED EXAMPLE
+                SOLUTION
+            Working with and comparing budgets
+                WORKED EXAMPLE
+                SOLUTION
+            Small business income statements and budgets
+            Setting up a projected budget
+                WORKED EXAMPLE
+                SOLUTION
+            Comparing actual income and expenditure with a projected budget
+                WORKED EXAMPLE
+                SOLUTION
+        Eenheid 4 Cost price and selling price
+            Determining the cost price
+            Determining profit and an appropriate selling price
+                WORKED EXAMPLE
+                SOLUTION
+            Calculations involving cost price, selling price and profit
+                WORKED EXAMPLE
+                SOLUTION
+        Eenheid 5 Break-even analysis
+            WORKED EXAMPLE
+                SOLUTION
+            Calculating Profit and Loss
+                WORKED EXAMPLE
+                SOLUTION
+        Hersiening
+        Assessment: Kwartaal 1 Ondersoek
+        Assessment: Kwartaal 1 Opdrag
+            Represent cellphone package deals graphically
+        Assessment: Control Test
+        Kwartaal 1 Summary
+            Onderwerp 1 Patrone, verwantskappe en voorstellings
+            Onderwerp 2 Meting: Omskakelings en tyd
+            Onderwerp 3 Finansies: Documents, systems, statements and budgets
+            Onderwerp 3 Finansies: Documents, systems, statements and budgets
+Kwartaal 2
+    TOPIC 4 Finansies: Rente, banking and inflation
+        Eenheid 1 Rente
+            Comparing simple and compound interest
+                WORKED EXAMPLE
+                SOLUTION
+            Using graphs to understand and represent interest growth patterns
+                WORKED EXAMPLE
+                SOLUTION
+            Calculating interest on bank accounts with frequently changing balances
+                WORKED EXAMPLE
+                SOLUTION
+        Eenheid 2 Bankwese, loans and investments
+            Different types of bank accounts
+                Savings accounts
+                Fixed deposit accounts
+                Cheque or current accounts (also known as transactional accounts)
+                Credit cards
+                Understanding credit cards and how interest is charged on them
+                WORKED EXAMPLE
+                SOLUTION
+                Debit cards
+            Bank charges and fees (transaction charges)
+                WORKED EXAMPLE
+                SOLUTION
+            Comparing bank charges
+        Eenheid 3 Inflasie
+            WORKED EXAMPLE
+                SOLUTION
+            The impact of inflation on purchasing power and the value of goods and services
+                WORKED EXAMPLE
+                SOLUTION
+            The impact of inflation on savings and investments
+                WORKED EXAMPLE
+                SOLUTION
+        Hersiening
+    TOPIC 5 Meting: Lengte, mass, volume and temperature
+        Eenheid 1 Meet lengte and distance
+            Eenheid 2 Meet massa
+                Body Massa Indeks
+                What the BMI value means
+                EXERCISE 5
+            Eenheid 3 Meet volume
+            Eenheid 4 Meet temperatuur
+                WORKED EXAMPLE
+                SOLUTION
+        Hersiening
+    TOPIC 6 Kaarte, planne en ander voorstellings van die fisiese wêreld: Scale and maps
+        Eenheid 1 Scale
+            Hersiening: Scales can be expressed in three different ways.
+                WORKED EXAMPLE
+                SOLUTION
+                WORKED EXAMPLE
+                SOLUTION
+            Eenheid 2 Maps
+                Road maps and grid references
+                WORKED EXAMPLE
+                SOLUTION
+                Profile Or Elevation Maps
+                WORKED EXAMPLE
+                SOLUTION
+        Hersiening
+        Assessment - Kwartaal 2 Opdrag
+            Which bank account?
+        Assessment: Kwartaal 2 Ondersoek
+            Simple and compound interest
+        Assessment - Kwartaal 2 Opdrag
+            Planning an outdoor outing for a group of learners
+                Stage 1
+                Stage 2
+                Stage 3
+        Eksamenpraktyk Vraestel 1
+        Eksamenpraktyk Vraestel 2
+        Kwartaal 2 Summary
+            Onderwerp 4 Finansies: Rente, banking and inflation
+            Onderwerp 5 Meting: Lengte, mass, volume and temperature
+            Onderwerp 6 Kaarte, planne en ander voorstellings van die fisiese wêreld: Scale and maps
+Kwartaal 3
+    Onderwerp 7 Meting: Omtrek, oppervlakte en volume
+        Eenheid 1 Perimeter
+        Eenheid 2 Oppervlakte
+            WORKED EXAMPLE
+                SOLUTION
+        Eenheid 3 Volume
+            WORKED EXAMPLE
+                SOLUTION
+        Hersiening
+    TOPIC 8 Kaarte, planne en ander voorstellings van die fisiese wêreld: Planne en modelle
+        Eenheid 1 Plans
+            Plans used for houses
+                WORKED EXAMPLE
+                SOLUTION
+            Shopping mall floor plans
+            Theatre seating plans
+            Assembly instructions
+                WORKED EXAMPLE
+                SOLUTION
+        Eenheid 2 Models
+            Packaging containers within containers
+                WORKED EXAMPLE
+                SOLUTION
+        Hersiening
+    TOPIC 9 Finansies: Belastingation
+        Eenheid 1 Belastingation
+            The Unemployment Insurance Fund (UIF)
+                WORKED EXAMPLE
+                SOLUTION
+        Hersiening
+    TOPIC 10 Waarskynlikheid
+        Eenheid 1 Expressions of probability
+            WORKED EXAMPLE
+                SOLUTION
+            WORKED EXAMPLE
+                SOLUTION
+        Eenheid 2 Prediction
+            WORKED EXAMPLE
+                SOLUTION
+            CLASS ACTIVITY: SIMULATE THE CLAIM THAT ‘80% OF WOMEN EXPERIENCE LESS WRINKLES WITH X NIGHT CREAM’.
+        Eenheid 3 Determining possible outcomes
+            WORKED EXAMPLE
+                SOLUTION
+            WORKED EXAMPLE
+                SOLUTION
+        Hersiening
+        Assessment: Kwartaal 3 Ondersoek
+            Painting the walls of your classroom
+        Assessment: Kwartaal 3 Ondersoek
+            Household water consumption
+        Assessment: Control test
+        Kwartaal 3 Summary
+            Onderwerp 7 Meting: Omtrek, oppervlakte en volume
+            Onderwerp 8 Kaarte, planne en ander voorstellings van die fisiese wêreld: Planne en modelle
+            Onderwerp 9 Finansies: Belastingation
+            Onderwerp 10 Waarskynlikheid
+Kwartaal 4
+    TOPIC 11 Finansies: Wisselkoerse
+        Eenheid 1 Wisselkoerse
+            WORKED EXAMPLE
+                SOLUTION
+        Hersiening
+    TOPIC 12 Datahantering
+        Eenheid 1 Develop questions and collect data
+            Ontwikkel vrae
+                WORKED EXAMPLE
+                SOLUTION
+            Versamel data
+                Observation
+                Interview
+                Questionnaires
+                WORKED EXAMPLE
+                SOLUTION
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 2
+        Eenheid 2
+            Classify and organise data
+                Categorical data (this is also called qualitative data)
+                Numerical data is divided into two types: discrete and continuous.
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 3
+            Sorting collected data using tally marks and frequency tables
+                WORKED EXAMPLE
+                SOLUTION
+        Eenheid 3 Som data op
+            Measures of central tendency – mean, median, and mode
+                Mean
+                Median
+                Mode
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+                WORKED EXAMPLE 3
+                SOLUTION
+                WORKED EXAMPLE 4
+                SOLUTION
+                EXERCISE 6
+        Eenheid 4 Stel data voor
+            Pie charts
+                WORKED EXAMPLE
+                SOLUTION
+            Histograms
+                WORKED EXAMPLE
+                SOLUTION
+            Bar graphs
+                Single bar graphs
+                WORKED EXAMPLE
+                SOLUTION
+                Multiple bar graphs
+                WORKED EXAMPLE
+                SOLUTIONS
+                EXERCISE 7
+            Line graphs
+                WORKED EXAMPLE
+                SOLUTION
+                Scatter plots
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 8
+        Eenheid 5 Interpreteer en ontleed data
+            WORKED EXAMPLE 1
+                SOLUTION
+            WORKED EXAMPLE 2
+                SOLUTION
+            WORKED EXAMPLE 3
+                SOLUTION
+        Hersiening
+        Assessment: Kwartaal 4 Ondersoek
+            Healthy living for adults
+        Eksamenpraktyk Vraestel 1
+            2 hours [100 marks]
+        Eksamenpraktyk Vraestel 2
+            2 hours [100 marks]
+        Kwartaal 4 Summary
+            Onderwerp 11 finance: exchange rates
+            Onderwerp 12 Datahantering
+            Overview of graph types and their uses
+Antwoorde
+Woordelys
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W

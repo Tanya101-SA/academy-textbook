@@ -1,0 +1,108 @@
+Oxford University Press - CAPS Approved
+Subject: Geography
+Grade 10
+Phase: FET Phase
+Publisher: Oxford University Press Southern Africa
+Source: https://oxford.co.za/schools/oxford-caps-approved/
+
+--- TABLE OF CONTENTS ---
+
+TERM 1
+  Topic 1: The Atmosphere
+    Unit 1: The Composition and Structure of the Atmosphere
+      - Composition of the atmosphere
+      - Structure of the atmosphere: troposphere, stratosphere, mesosphere, thermosphere
+      - Energy balance of the atmosphere
+    Unit 2: Heating of the Atmosphere
+      - Insolation and the heating of the Earth's surface
+      - Factors affecting insolation: angle of incidence, length of day, distance from the sun
+      - Conduction, convection and radiation
+      - The greenhouse effect
+    Unit 3: Temperature
+      - Measuring temperature
+      - Factors influencing temperature: latitude, altitude, ocean currents, distance from the sea, cloud cover, aspect
+      - Isotherms and temperature distribution maps
+    Unit 4: Moisture in the Atmosphere
+      - Humidity and condensation
+      - Types of rainfall: orographic, convectional, frontal
+      - Types of precipitation
+      - Isohyets and rainfall distribution maps
+    Unit 5: Heating and Cooling of the Atmosphere
+      - Air pressure and wind
+      - Global air circulation: Hadley, Ferrel and Polar cells
+      - Pressure belts and wind systems
+      - Coriolis effect
+
+  Topic 2: Geomorphology
+    Unit 1: The Earth's Interior and Plate Tectonics
+      - Internal structure of the Earth
+      - Continental drift theory (Wegener)
+      - Plate tectonics: types of plate boundaries
+      - Convection currents
+    Unit 2: Folding and Faulting
+      - Types of folds: anticlines, synclines
+      - Types of faults: normal, reverse, thrust
+      - Fold mountains and rift valleys
+      - Block mountains (horsts) and grabens
+    Unit 3: Volcanoes and Earthquakes
+      - Types of volcanoes: shield, composite, cinder cone
+      - Products of volcanic eruptions
+      - Distribution of volcanoes
+      - Causes and effects of earthquakes
+      - Measuring earthquakes: Richter and Mercalli scales
+      - Seismic waves
+
+TERM 2
+  Topic 3: Development Geography
+    Unit 1: Types and Sectors of the Economy
+      - Primary, secondary and tertiary sectors
+      - Formal and informal sectors
+    Unit 2: Factors Influencing Economic Growth and Development
+      - Resources, capital, labour, technology, transport, government policies
+      - Development indicators: GDP, GNP, HDI, life expectancy
+    Unit 3: Spatial Inequality in South Africa
+      - Causes of spatial inequality
+      - Core-periphery model
+      - Rural-urban inequalities
+      - Strategies to address inequality
+
+  Topic 4: Water Resources
+    Unit 1: The Hydrological Cycle
+      - Processes in the hydrological cycle
+      - Surface and groundwater
+    Unit 2: River Systems
+      - Drainage basins and watersheds
+      - Characteristics of river systems
+    Unit 3: Management of Water Resources
+      - Water demand and supply in South Africa
+      - Water management strategies
+      - Inter-basin water transfer schemes
+      - Water quality and pollution
+      - The impact of floods and droughts
+
+TERM 3
+  Topic 5: Mapwork and Practical Geography
+    Unit 1: Map Skills
+      - Types of maps: topographic, orthophoto, atlas
+      - Map scale: ratio, line, word
+      - Direction and bearing
+      - Co-ordinates: latitude, longitude, grid references
+    Unit 2: Contour Lines and Landforms
+      - Interpreting contour lines
+      - Cross-sections and profiles
+      - Gradient calculations
+      - Identifying landforms on maps
+    Unit 3: Aerial Photographs and GIS
+      - Interpreting aerial photographs
+      - Orthophoto maps
+      - Introduction to Geographic Information Systems (GIS)
+      - Satellite imagery
+
+TERM 4
+  Revision and Examination Preparation
+    - Climate and weather revision
+    - Geomorphology revision
+    - Development geography revision
+    - Water resources revision
+    - Mapwork skills revision
+    - Examination techniques

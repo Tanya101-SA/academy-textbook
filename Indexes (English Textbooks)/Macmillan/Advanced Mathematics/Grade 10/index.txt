@@ -1,0 +1,47 @@
+Macmillan - CAPS Approved
+Subject: Advanced Mathematics
+Grade 10
+Phase: FET Phase
+Publisher: Macmillan
+Book: Advanced Programme Mathematics for the Revised IEB Curriculum Gr 10
+Source: CAPS Policy Document
+
+--- TABLE OF CONTENTS ---
+
+Term 1
+  Algebra
+    - Nature of proof
+    - Direct and indirect proof
+    - Mathematical induction introduction
+  Calculus Introduction
+    - Functions and graphs review
+    - Limits introduction
+    - Rate of change
+
+Term 2
+  Calculus
+    - Differentiation from first principles
+    - Rules of differentiation
+    - Applications of differentiation
+  Finance and Modelling
+    - Compound interest and growth
+    - Annuities introduction
+    - Modelling with functions
+
+Term 3
+  Matrices
+    - Introduction to matrices
+    - Matrix operations (addition, scalar multiplication)
+    - Matrix multiplication
+    - Solving systems of equations
+  Geometry
+    - Euclidean geometry proofs
+    - Circle geometry extensions
+
+Term 4
+  Probability
+    - Advanced probability concepts
+    - Counting techniques
+    - Permutations and combinations
+  Revision
+    - All AP Mathematics topics

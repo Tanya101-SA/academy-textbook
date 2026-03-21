@@ -1,0 +1,152 @@
+======================================================================
+Siyavula Education - CAPS Approved
+Subject: Natural Sciences
+Grade 8
+Phase: Senior Phase
+Publisher: Siyavula Education
+Series: Siyavula Natural Sciences (Open Textbook)
+Curriculum: CAPS
+Source: CAPS Policy Document / siyavula.com
+Note: Siyavula is an open-source publisher. Page numbers not applicable for open digital textbook. Structure follows CAPS exactly.
+======================================================================
+
+TABLE OF CONTENTS
+──────────────────────────────────────────────────────────────────────
+
+TERM 1
+
+  Strand: Life and Living
+    Topic: Photosynthesis and respiration
+      - Photosynthesis (the process, word equation, importance)
+      - Requirements for photosynthesis (light energy, water, carbon dioxide, chlorophyll)
+      - Products of photosynthesis (glucose, oxygen)
+      - Where photosynthesis takes place (chloroplasts in leaves)
+      - Adaptations of leaves for photosynthesis
+      - Respiration (the process, word equation)
+      - Aerobic respiration in cells
+      - The relationship between photosynthesis and respiration
+      - Investigating photosynthesis (testing leaves for starch, effect of light)
+
+    Topic: Interactions and interdependence within the environment
+      - Ecosystems (biotic and abiotic components)
+      - Feeding relationships (food chains, food webs)
+      - Trophic levels (producers, primary consumers, secondary consumers, tertiary consumers, decomposers)
+      - Energy flow through an ecosystem
+      - Pyramids of numbers and biomass
+      - Predator-prey relationships
+      - Symbiotic relationships (mutualism, commensalism, parasitism)
+      - Competition (inter-specific and intra-specific)
+      - Adaptations of organisms to their environment
+      - Balance in an ecosystem
+
+    Topic: Micro-organisms
+      - What are micro-organisms?
+      - Types of micro-organisms (bacteria, viruses, fungi, protists)
+      - Useful micro-organisms (decomposition, food production, medicine)
+      - Harmful micro-organisms (diseases caused by bacteria, viruses, fungi)
+      - How diseases spread (contact, air, water, food, vectors)
+      - Preventing the spread of disease (hygiene, vaccination, sanitation)
+      - Antibiotics and antifungals
+      - HIV and AIDS
+      - Preserving food from micro-organisms
+
+TERM 2
+
+  Strand: Matter and Materials
+    Topic: Atoms
+      - What is an atom?
+      - Atomic structure (protons, neutrons, electrons)
+      - The nucleus and electron cloud
+      - Atomic number and mass number
+      - Elements (substances made of one type of atom)
+      - The periodic table of elements
+      - Metals, non-metals and semi-metals on the periodic table
+      - Symbols of common elements
+
+    Topic: Compounds
+      - What is a compound?
+      - How compounds form (chemical bonding)
+      - Difference between compounds and mixtures
+      - Chemical formulae of common compounds (water, carbon dioxide, salt, sugar)
+      - Properties of compounds differ from their elements
+      - Naming compounds
+
+    Topic: Chemical reactions
+      - What is a chemical reaction?
+      - Reactants and products
+      - Word equations for chemical reactions
+      - Signs that a chemical reaction has taken place
+      - Factors that affect the rate of reactions (temperature, concentration, surface area, catalyst)
+      - Exothermic and endothermic reactions
+      - Combustion reactions
+      - Reactions of metals with oxygen (oxidation, rusting)
+      - Reactions of non-metals with oxygen
+      - Reactions of acids with metals
+      - Reactions of acids with bases (neutralisation)
+
+TERM 3
+
+  Strand: Energy and Change
+    Topic: Static electricity
+      - What is static electricity?
+      - Positive and negative charges
+      - Charging by friction (triboelectric effect)
+      - Attraction and repulsion of charges
+      - Charging by contact and induction
+      - Lightning (how it forms, safety during thunderstorms)
+      - Uses of static electricity (photocopiers, spray painting)
+      - Dangers of static electricity
+
+    Topic: Energy transfer in electrical systems
+      - Electric current (flow of charge)
+      - Potential difference (voltage)
+      - Resistance
+      - Ohm's law (qualitative understanding)
+      - Series circuits (current, voltage, resistance)
+      - Parallel circuits (current, voltage, resistance)
+      - Effects of electric current (heating, lighting, magnetic, chemical)
+      - Calculating energy usage (kilowatt-hours)
+      - Cost of electricity
+      - Safe use of electricity in the home
+
+    Topic: Visible light and the electromagnetic spectrum
+      - What is visible light?
+      - Light travels in straight lines (ray model)
+      - Reflection of light (laws of reflection, plane mirrors)
+      - Refraction of light (bending of light, lenses)
+      - Dispersion of white light (prism, rainbow)
+      - The electromagnetic spectrum (radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, gamma rays)
+      - Uses and dangers of electromagnetic radiation
+
+TERM 4
+
+  Strand: Earth and Beyond
+    Topic: The rock cycle
+      - Three types of rocks (igneous, sedimentary, metamorphic)
+      - Igneous rocks (intrusive and extrusive, examples: granite, basalt)
+      - Sedimentary rocks (formation, examples: sandstone, shale, limestone)
+      - Metamorphic rocks (formation, examples: marble, slate, quartzite)
+      - The rock cycle (how rocks change from one type to another)
+      - Weathering (physical, chemical, biological)
+      - Erosion and deposition
+      - Soil formation from rocks
+
+    Topic: Mining in South Africa
+      - South Africa's mineral wealth
+      - Types of mining (surface mining, underground mining)
+      - Important minerals and metals mined in South Africa (gold, platinum, diamonds, coal, iron, manganese, chromium)
+      - The mining process (exploration, extraction, processing)
+      - Impact of mining on the environment (habitat destruction, water pollution, air pollution, acid mine drainage)
+      - Impact of mining on communities (jobs, health, social issues)
+      - Rehabilitation of mined land
+      - Responsible mining practices
+
+    Topic: Atmosphere and weather
+      - The atmosphere (composition, layers)
+      - Weather and climate (difference between weather and climate)
+      - Weather elements (temperature, rainfall, humidity, wind, air pressure, cloud cover)
+      - Measuring weather (thermometer, rain gauge, barometer, anemometer, wind vane)
+      - Types of clouds (cumulus, stratus, cirrus, cumulonimbus)
+      - Weather patterns and fronts
+      - Climate change (greenhouse effect, global warming, human impact)
+      - Reducing our carbon footprint

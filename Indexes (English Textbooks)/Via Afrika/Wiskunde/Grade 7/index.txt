@@ -1,0 +1,59 @@
+Via Afrika - CAPS Approved
+Subject: Wiskunde
+Graad 7
+Phase: Senior Phase
+Publisher: Via Afrika
+Book: Via Afrika Wiskunde Graad 7
+ISBN: 978-1-41542-224-3
+Source: CAPS Policy Document
+
+--- TABLE OF CONTENTS ---
+
+Term 1
+  Heelgetalle
+    - Eienskappe van heelgetalle
+    - Bewerkings met heelgetalle
+    - Vermenigvuldiging en deling
+  Eksponente
+    - Wetmatige notasie
+    - Bewerkings met eksponente
+  Heelgetalle
+    - Bewerkings met negatiewe getalle
+  Breuke
+    - Bewerkings met breuke
+
+Term 2
+  Desimale Breuke
+    - Bewerkings met desimale breuke
+    - Afrond
+  Patrone, Funksies en Algebra
+    - Getalpatrone en reëls
+    - Inleiding tot veranderlikes
+    - Algebraïese uitdrukkings
+  Meetkunde van 2D-vorms
+    - Hoeke en driehoeke
+    - Eienskappe van vierhoeke
+
+Term 3
+  Meetkunde van 2D-vorms (vervolg)
+    - Konstruksie van meetkundige figure
+    - Eienskappe van driehoeke en vierhoeke
+  Meetkunde van Reguit Lyne
+    - Hoeke by ewewydige lyne
+  Meting
+    - Omtrek en oppervlakte
+    - Volume en oppervlakte van 3D-vorms
+
+Term 4
+  Verhoudings en Koerse
+    - Verhoudings
+    - Koerse
+  Finansies
+    - Wins, verlies en korting
+    - Begrotings en rekeninge
+  Datahantering
+    - Versameling en organisering van data
+    - Gemiddeld, mediaan, modus
+    - Grafieke en diagramme
+  Waarskynlikheid
+    - Basiese waarskynlikheidskonsepte

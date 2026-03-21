@@ -1,0 +1,168 @@
+======================================================================
+Verken Geografie Graad 12 Leerderboek
+ISBN: 9780636142350
+Uitgewer: Verken (Pearson Suid-Afrika)
+Kurrikulum: KABV (CAPS)
+======================================================================
+
+INHOUDSOPGAWE
+──────────────────────────────────────────────────────────────────────
+
+
+Titelblad
+Kolofonblad
+Inhoudsopgawe
+TERM ONE
+    Onderwerp 1: Geographical skills and techniques
+        Chapter 1: Kaartwerk techniques
+            Eenheid 1: Map skills techniques and applications: scale, contours and cross sections
+            Eenheid 2: Direction: Magnetic North, True North and magnetic declination
+            Eenheid 3: Grid referencing
+            Eenheid 4: Map and photo interpretation
+            Eenheid 5: Using maps and other graphical representations
+        Chapter 2: Topographic maps
+            Eenheid 1: 1:50 000 maps, conventional signs and symbols
+            Eenheid 2: Contours and landforms
+            Eenheid 3: Cross-sections on 1:50 000 maps
+            Eenheid 4: Vertical exaggeration
+            Eenheid 5: Intervisibility
+            Eenheid 6: Gradient 
+        Chapter 3: Aerial photographs and orthophoto maps
+            Eenheid 1: Interpreting vertical aerial photographs
+            Eenheid 2: Orthophoto maps
+            Eenheid 3: Comparing a topographic map with an orthophoto map 
+        Chapter 4: Geografiese Inligtingstelsels (GIS)
+            Eenheid 1: Satellite images
+            Eenheid 2: GIS concepts: remote sensing and resolution
+            Eenheid 3: Spatial and attribute data
+            Eenheid 4: Data standardisation, data sharing and data security
+            Eenheid 5: Data manipulation and application of GIS techniques
+            Eenheid 6: ‘Paper GIS‘
+        Chapter 5: Using atlases
+            Eenheid 1: Examining thematic maps
+            Eenheid 2: Comparing information from different maps
+        Hersiening
+        Summary of Onderwerp 1
+    Onderwerp 2: Klimaat en weer
+        Chapter 1: Middelbreedtegraadsiklone
+            Eenheid 1: Characteristics, area of formation, and conditions needed for formation
+            Eenheid 2: Stages of development and related weather conditions
+            Eenheid 3: Weather patterns associated with cold, warm and occluded fronts
+            Eenheid 4: Reading and interpreting satellite images and synoptic weather maps
+        Chapter 2: Tropiese siklone
+            Eenheid 1: General characteristics, areas where they form and factors necessary for their formation
+            Eenheid 2: Stages of development of tropical cyclones
+            Eenheid 3: Weather patterns associated with tropical cyclones
+            Eenheid 4: Reading and interpreting satellite images and synoptic weather maps
+            Eenheid 5: Gevallestudie of a tropical cyclone
+            Eenheid 6: Impact of tropical cyclones and strategies for managing their effects
+        Chapter 3: Subtropiese antisiklone and associatedweather conditions
+            Eenheid 1: Location and general characteristics of high-pressure cells that affect South Africa
+            Eenheid 2: Anticyclonic air circulation around South Africa and its influence on weather and climate
+            Eenheid 3: Travelling disturbances associated with anticyclonic circulation
+            Eenheid 4: Reading and interpreting satellite images and synoptic weather maps
+        Chapter 4: Valley climates
+            Eenheid 1: The micro-climate of valleys (the effect of the slope aspect)
+            Eenheid 2: Development of anabatic and katabatic winds, inversions, frost pockets and radiation fog
+            Eenheid 3: The influence of local climates on human activities such as settlement and farming
+        Chapter 5: Urban climates
+            Eenheid 1: Reasons for differences between rural and urban climates
+            Eenheid 2: Urban heat islands
+        Hersiening and consolidation: Data handling
+        Hersiening
+        Summary of Onderwerp 2
+    Onderwerp 3: Geomorfologie
+        Chapter 1: Dreineringstelsels in South Africa
+            Eenheid 1: Important concepts
+            Eenheid 2: Types of rivers
+            Eenheid 3: Drainage patterns
+            Eenheid 4: Drainage density
+            Eenheid 5: Stream order and density on topographic maps
+            Eenheid 6: Discharge of a river (stream flow)
+        Chapter 2: Fluviale prosesse
+            Eenheid 1: Rivierprofiele
+            Eenheid 2: Fluviale landvorms
+            Eenheid 3: River grading
+            Eenheid 4: Rejuvenation of rivers
+            Eenheid 5: River capture (stream piracy)
+            Eenheid 6: Superimposed and antecedent drainage patterns
+        Chapter 3: Opvanggebied- en rivierbestuur
+            Eenheid 1: Importance of managing drainage basins and catchment areas
+            Eenheid 2: Impact of people on drainage basins and catchment areas
+            Eenheid 3: Gevallestudie: catchment area management strategy
+        Formal assessment task: Geomorfologie
+        Summary of Onderwerp 3
+TERM TWO
+    Onderwerp 4: Rural settlement and urban settlement
+        Chapter 1: Study of settlements
+            Eenheid 1: Concept of settlement
+            Eenheid 2: Site and situation
+            Eenheid 3: Landelike en stedelike nedersettings
+            Eenheid 4: Classification of settlements
+        Chapter 2: Rural settlements
+            Eenheid 1: How site and situation affect the location of rural settlements
+            Eenheid 2: Classification of rural settlements
+            Eenheid 3: Settlement shapes
+            Eenheid 4: Grondgebruik in rural settlements
+        Chapter 3: Rural settlement issues
+            Eenheid 1: Landelike-stedelike migrasie
+            Eenheid 2: Causes and consequences of rural depopulation on people and the economy
+            Eenheid 3: Effects of rural depopulation and strategies to address them
+            Eenheid 4: Social justice issues in rural areas
+            Programme of assessment: Kaartwerk task
+        Chapter 4: Urban settlements
+            Eenheid 1: The origin and development of urban settlements
+            Eenheid 2: How site and situation affect the location of urban settlements
+            Eenheid 3: Classifying urban settlements according to function
+        Chapter 5: Urban hierarchies
+            Eenheid 1: The concepts related to urban hierarchies
+            Eenheid 2: Lower and higher order functions and services
+            Eenheid 3: Lower and higher order centres
+        Chapter 6: Urban structure and patterns
+            Eenheid 1: Internal structure and patterns of urban settlements
+            Eenheid 2: Models of urban structure
+            Eenheid 3: Changing urban patterns and land use in South African cities
+        Chapter 7: Urban settlement issues
+            Eenheid 1: Recent urbanisation patterns in South Africa
+            Eenheid 2: Urban issues related to rapid urbanisation
+            Eenheid 3: The growth of informal settlements and associated issues
+            Eenheid 4: Case studies that show how selected urban areas in South Africa are managing urban challenge
+        Hersiening
+        Summary of Onderwerp 4
+TERM THREE
+    Onderwerp 5: Economic geography of South Africa
+        Chapter 1: Structure of the economy
+            Eenheid 1: Economic sectors (primary, secondary, tertiary and quaternary)
+            Eenheid 2: Economic sectors’ contribution to the South African economy
+            Eenheid 3: Use of statistical and graphical information
+        Chapter 2: Agriculture
+            Eenheid 1: Contribution of agriculture to the South African economy
+            Eenheid 2: The role of small-scale and large-scale farmers
+            Eenheid 3: The main agricultural products produced for the home market and export market
+            Eenheid 4: Factors that favour and hinder agriculture in South Africa
+            Eenheid 5: The importance of food security in South Africa
+            Eenheid 6: Gevallestudie related to food security and strategies to alleviate food shortage
+        Chapter 3: Mining
+            Eenheid 1: Contribution of mining to the South African economy
+            Eenheid 2: Significance of mining to the development of South Africa
+            Eenheid 3: Factors that favour and hinder mining in South Africa
+            Eenheid 4: A case study of coal mining in South Africa
+        Chapter 4: Secondary and tertiary sectors
+            Eenheid 1: Contribution of secondary and tertiary sectors to the South African economy
+            Eenheid 2: Types of industries
+            Eenheid 3: Factors influencing industrial development in South Africa
+            Eenheid 4: South Africa’s industrial regions
+        Chapter 5: Strategies for industrial development
+            Eenheid 1: Overview of apartheid and post-apartheid industrial development strategies
+            Eenheid 2: Concept and distribution of Industrial Development Zones (IDZs)
+            Eenheid 3: Case studies on two SEZs
+            Eenheid 4: Issues associated with industrial centralisation and industrial decentralisation
+        Chapter 6: The informal Sector
+            Eenheid 1: Concept and characteristics of informal sector employment
+            Eenheid 2: Reasons for high informal sector employment in South Africa
+            Eenheid 3: Challenges facing South Africa’s informal sector
+        Programme of assessment:  Research/essay writing task
+        Hersiening
+        Summary of Onderwerp 5
+Woordelys
+Indeks

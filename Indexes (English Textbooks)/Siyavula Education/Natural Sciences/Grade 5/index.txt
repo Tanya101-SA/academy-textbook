@@ -1,0 +1,122 @@
+======================================================================
+Siyavula Education - CAPS Approved
+Subject: Natural Sciences
+Grade 5
+Phase: Intermediate Phase
+Publisher: Siyavula Education
+Series: Siyavula Natural Sciences (Open Textbook)
+Curriculum: CAPS
+Source: CAPS Policy Document / siyavula.com
+Note: Siyavula is an open-source publisher. Page numbers not applicable for open digital textbook. Structure follows CAPS exactly.
+======================================================================
+
+TABLE OF CONTENTS
+──────────────────────────────────────────────────────────────────────
+
+TERM 1
+
+  Strand: Life and Living
+    Topic: Plants and animals on Earth
+      - Biodiversity on Earth
+      - Different groups of animals (mammals, birds, reptiles, amphibians, fish, insects)
+      - Different groups of plants (flowering, non-flowering, ferns, mosses)
+      - Animals and plants in South Africa
+      - Endangered species and conservation
+
+    Topic: Animal skeletons
+      - Animals with backbones (vertebrates)
+      - Animals without backbones (invertebrates)
+      - Functions of skeletons (support, protection, movement)
+      - Parts of the human skeleton (skull, rib cage, spine, limbs)
+      - Joints and how they work (hinge, ball-and-socket)
+      - Comparing skeletons of different animals
+
+    Topic: Food chains
+      - What is a food chain?
+      - Producers and consumers
+      - Herbivores, carnivores and omnivores
+      - Predators and prey
+      - Simple food chains in different habitats
+      - What happens when part of a food chain is removed?
+
+TERM 2
+
+  Strand: Life and Living
+    Topic: Life cycles
+      - What is a life cycle?
+      - Life cycle of a flowering plant (seed, germination, growth, flowering, pollination, seed formation)
+      - Life cycle of an insect (egg, larva, pupa, adult — complete metamorphosis)
+      - Life cycle of a frog (egg, tadpole, froglet, adult — incomplete metamorphosis)
+      - Comparing life cycles of different animals
+
+  Strand: Matter and Materials
+    Topic: Metals and non-metals
+      - What are metals?
+      - Properties of metals (shiny, hard, strong, good conductors, malleable)
+      - Common metals (iron, copper, aluminium, gold, silver)
+      - What are non-metals?
+      - Properties of non-metals (dull, brittle, poor conductors)
+      - Uses of metals and non-metals in everyday life
+      - Recycling metals
+
+    Topic: Uses of metals
+      - Metals for building (steel, aluminium)
+      - Metals for cooking (iron, copper, stainless steel)
+      - Metals for electricity (copper wires)
+      - Why different metals are chosen for different uses
+      - Rust and corrosion (why iron rusts, how to prevent rust)
+
+TERM 3
+
+  Strand: Matter and Materials
+    Topic: Processed materials
+      - What are processed materials?
+      - How materials are processed (raw materials to finished products)
+      - Processing wood (trees to planks, paper, furniture)
+      - Processing wool and cotton (fibres to fabric)
+      - Processing metals (ore to metal)
+      - Advantages and disadvantages of processing materials
+
+  Strand: Energy and Change
+    Topic: Stored energy in fuels
+      - What are fuels?
+      - Types of fuels (wood, coal, paraffin, gas, petrol, diesel)
+      - Energy stored in fuels
+      - Burning fuels to release energy
+      - Dangers of fires and fire safety
+      - The effect of burning fuels on the environment (air pollution)
+
+    Topic: Energy and electricity
+      - What is electricity?
+      - Sources of electricity (power stations, generators, solar panels, batteries)
+      - How electricity reaches our homes (power stations, power lines, substations)
+      - Electrical conductors and insulators
+      - Using electricity safely
+      - Saving electricity
+
+TERM 4
+
+  Strand: Energy and Change
+    Topic: Energy and movement
+      - What is a force?
+      - Different types of forces (push, pull, twist)
+      - Friction (what it is, how to increase or decrease it)
+      - Gravity (what it is, how it affects objects)
+      - How forces make things move, stop or change direction
+      - Investigating forces in everyday life
+
+  Strand: Earth and Beyond
+    Topic: Surface of the Earth
+      - Features of the Earth's surface (continents, oceans, mountains, rivers, deserts)
+      - Maps and globes
+      - How the surface of the Earth changes (weathering, erosion, deposition)
+      - Agents of weathering and erosion (water, wind, ice, temperature changes)
+      - How rivers shape the land
+      - How wind shapes the land
+
+    Topic: Sedimentary rocks
+      - How sedimentary rocks are formed
+      - Layers in sedimentary rocks
+      - Fossils in sedimentary rocks
+      - Examples of sedimentary rocks (sandstone, shale, limestone)
+      - Uses of sedimentary rocks

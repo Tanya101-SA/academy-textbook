@@ -1,0 +1,171 @@
+======================================================================
+Platinum Wiskunde Graad 8 Leerderboek
+ISBN: 9780636142473
+Uitgewer: Platinum (Pearson Suid-Afrika)
+Kurrikulum: KABV (CAPS)
+======================================================================
+
+INHOUDSOPGAWE
+──────────────────────────────────────────────────────────────────────
+
+
+Inhoudsopgawe
+Kwartaal 1
+    Heelgetalle
+        Rangskik en vergelyk heelgetalle
+        Eienskappe van heelgetalle
+        Berekeninge met heelgetalle
+        Veelvoude en faktore
+        Los probleme op
+        Hersiening 
+    Heelgetalle
+        Rangskik en vergelyk heelgetalle
+        Bereken met heelgetalle
+        Los probleme met heelgetalle op
+        Hersiening 
+         Formele Assesseringseksemplaar: 
+            Opdrag – Numbers around the world
+    Eksponente
+        Vergelyk en stel getalle in eksponensiële vorm voor
+        Vierkantswortels en derdemagtswortels
+        Bereken en los probleme op met eksponente
+        Wetenskaplike notasie
+        Hersiening 
+    Getal- en meetkundige patrone
+        Beskryf en brei patrone uit
+        Gebruik tabelle en reëls om patrone uit te brei
+        Bepaal die reël om 'n patroon te beskryf
+        Hersiening 
+    Funksies en verwantskappe
+        Vloeidiagramme met heelgetalle
+        Gebruik tabelle om uitsetwaaardes te bepaal
+        Gebruik formules om uitsetwaardes te bepaal
+        Hersiening 
+    Algebraïese uitdrukkings
+        Interpreteer algebraïese uitdrukkings
+        Verstaan algebraïese uitdrukkings
+        Tel en trek gelyksoortige terme op en af
+        Hersiening 
+    Algebraïese vergelykings
+        Los vergelykings op 
+        Hersiening 
+         Formele Assesseringseksemplaar:  Test
+Kwartaal 2
+    Algebraïese uitdrukkings
+        Interpreteer en vereenvoudig algebraïese uitdrukkings 
+        Gekombineerde bewerkings in algebraïese uitdrukkings
+        Hersiening 
+    Algebraïese vergelykings
+        Los vergelykings op deur inspeksie of substitusie
+        Los vergelykings op
+        Hersiening 
+         Formele Assesseringseksemplaar: 
+            Ondersoek – Patterns in Pascal’s triangle
+    Meetkunde van reguit lyne
+        Loodregte, kruisende en ewewydige lyne 
+        Los meetkundige probleme op 
+        Hersiening 
+    Meetkunde van 2D-vorms
+        Identifiseer en klassifiseer driehoeke
+        Identifiseer en klassifiseer vierhoeke
+        Kongruensie en gelykvormigheid 
+        Los probleme op wat driehoeke en vierhoeke insluit
+        Hersiening
+    Konstruksie van meetkundige figure
+        Konstrueer loodregte lyne
+        Konstrueer hoeke
+        Konstrueer driehoeke
+        Konstrueer vierhoeke
+        Hersiening 
+         Formele Assesseringseksemplaar:  Test
+         Formele Assesseringseksemplaar:  Eksamenpraktyk
+Kwartaal 3
+    Gewone breuke
+        Verstaan gewone breuke 
+        Tel gewone breuke op en trek af 
+        Vermenigvuldig gewone breuke 
+        Deel gewone breuke 
+        Vierkante, vierkantswortels, kubusse en derdemagtswortels 
+        Persentasies
+        Hersiening 
+    Desimale breuke
+        Lees en skryf desimale breuke
+        Tel, vergelyk en rangskik desimale breuke 
+        Afronding van desimale 
+        Tel desimale breuke op en trek af
+        Vermenigvuldig en deel desimale breuke
+        Vierkante, kubusse, vierkantswortels en derdemagtswortels
+        Hersiening 
+    Die Stelling van Pythagoras
+        Vierkante, vierkantswortels en surds
+        Investigate the Theorem of Pythagoras
+        Pythagoras’ Theorem and the sides of triangles
+        Pythagoras’ Theorem and the angles of triangles
+        Hersiening 
+    Oppervlakte en omtrek van 2D-vorms
+        Omtrek en oppervlakte van veelhoeke
+        Omtrek en oppervlakte van sirkels
+        Los probleme met omtrek en oppervlakte op
+        Hersiening
+         Formele Assesseringseksemplaar: 
+            Projek – Irrigating a plot of land
+    Oppervlakarea en volume van 3D-voorwerpe
+        Oppervlakarea
+        Volume en kapasiteit
+        Los probleme met oppervlakarea, volume en kapasiteit op
+        Hersiening 
+    Versamel, organiseer en som data op
+        Versamel data
+        Organiseer data
+        Som data op
+        Hersiening 
+         Formele Assesseringseksemplaar: 
+            Opdrag – Managing a warehouse
+    Stel data voor
+        Teken staafgrafieke, dubbelstaafgrafieke, histogramme en sirkelgrafieke
+        Teken gebroke-lyngrafieke
+        Hersiening 
+    Interpreteer, ontleed en rapporteer data
+        Interpreteer data
+        Ontleed data
+        Rapporteer data
+        Hersiening 
+         Formele Assesseringseksemplaar:  Test
+Kwartaal 4
+    Funksies en verwantskappe
+        Brei patrone uit en gebruik formules
+        Tabelle en substitusie
+        Vloeidiagramme en reëls
+        Gebruik reëls om tabelle te voltooi
+        Verskillende beskrywings van dieselfde verwantskap of reël
+        Hersiening 
+    Algebraïese vergelykings
+        Los vergelykings op en genereer tabelle van geordende pare
+        Hersiening 
+         Formele Assesseringseksemplaar: 
+            Opdrag – Planning a town
+    Grafieke
+        Ontleed en interpreteer grafieke
+        Teken grafieke
+        Hersiening 
+    Transformasiemeetkunde
+        Transformasie
+        Refleksies
+        Rotasies
+        Vergrotings en verkleiniings
+        Hersiening 
+    Meetkunde van 3D-voorwerpe
+        Prismas, piramides en nette
+        Platoniese liggame
+        Hersiening 
+         Formele Assesseringseksemplaar: 
+            Ondersoek – Waarskynlikheid and relative frequency
+    Waarskynlikheid
+        Verstaan waarskynlikheid
+        Relatiewe frekwensie
+        Hersiening 
+         Formele Assesseringseksemplaar:  Eksamenpraktyk
+Antwoorde
+Woordelys
+Indeks
+Nuttige hulpbronne

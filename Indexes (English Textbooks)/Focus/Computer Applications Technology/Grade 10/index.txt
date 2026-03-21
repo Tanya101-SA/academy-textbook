@@ -1,0 +1,162 @@
+======================================================================
+Focus Computer Applications Technology Grade 10 Learner's Book
+ISBN: 9780636153578
+Publisher: Focus (Pearson South Africa)
+Curriculum: CAPS
+======================================================================
+
+TABLE OF CONTENTS
+──────────────────────────────────────────────────────────────────────
+
+
+Term 1
+    Chapter 1 Introduction to Computers
+        Introduction
+        Unit 1 What is a computer?
+        Unit 2 Types of computers
+        Unit 3 Main components of a computer system
+        Unit 4 ICT in everyday life
+        Chapter summary
+        Exam practice
+    Chapter 2 Computer Management
+        Introduction
+        Unit 1 Introduction to using computers
+        Unit 2 Keyboard skills
+        Unit 3 File operations and organisation
+        Unit 4 File management
+        Chapter summary
+        Exam practice
+    Chapter 3 Hardware and Software 1
+        Introduction
+        Unit 1 Hardware
+        Unit 2 Input
+        Unit 3 Output
+        Unit 4 Storage
+        Unit 5 Software
+        Unit 6 System software
+        Unit 7 Application software
+        Unit 8 Social implications
+        Chapter summary
+        Programme of assessment: Theory test
+        Exam practice
+    Chapter 4 Word Processing 1
+        Introduction
+        Unit 1 First looks
+        Unit 2 Create and save documents
+        Unit 3 Format text and paragraphs
+        Chapter summary
+        Exam practice
+    Chapter 5 Word Processing 2
+        Introduction
+        Unit 1 Edit and review documents
+        Unit 2 Document and page layout
+        Unit 3 Insert illustrations
+        Unit 4 Text boxes and other illustrations
+        Chapter summary
+        Programme of assessment: Practical task
+        Exam practice
+Term 2
+    Chapter 6 Hardware and Software 2
+        Introduction
+        Unit 1 Input
+        Unit 2 Output
+        Unit 3 Storage media and devices
+        Unit 4 Processing
+        Unit 5 Extended software concepts
+        Unit 6 Social implications
+        Chapter summary
+        Programme of assessment: Written test
+        Exam practice
+    Chapter 7 Computer Management and Networking
+        Introduction
+        Unit 1 Printer management
+        Unit 2 Useful computer tricks
+        Unit 3 Introduction to networks
+        Chapter summary
+        Exam practice
+    Chapter 8 Word Processing 3
+        Introduction
+        Unit 1 Basic paragraph formatting
+        Unit 2 Document layout: custom margins, headers and footers
+        Unit 3 Basic tables
+        Unit 4 View options
+        Chapter summary
+        Exam practice
+    Chapter 9 Spreadsheets 1
+        Introduction
+        Unit 1 First looks
+        Unit 2 Types of data
+        Unit 3 Formatting
+        Unit 4 Basic calculations
+        Unit 5 Reinforcing concepts
+        Chapter summary
+        Exam practice
+    Chapter 10 Information Management 1
+        Unit 1 Data vs information
+        Unit 2 Understand the problem
+        Unit 3 Information sources
+Term 3
+    Chapter 11 Networking, E-communication and the Web
+        Introduction
+        Unit 1 Types of networks
+        Unit 2 Internet and the WWW
+        Unit 3 Electronic communication
+        Unit 4 Social implications
+        Chapter summary
+        Programme of assessment: Written test
+        Exam practice
+    Chapter 12 Presentations
+        Introduction
+        Unit 1 First Looks
+        Unit 2 Slides, designs and layout
+        Unit 3 Formatting and editing text, and page layout
+        Unit 4 View options
+        Unit 5 Inserting illustrations
+        Unit 6 Animations
+        Unit 7 Integration
+        Chapter summary
+        Exam practice
+    Chapter 13 Spreadsheets 2
+        Introduction
+        Unit 1 Formulas, functions and rounding
+        Unit 2 Sorting data
+        Unit 3 Working with worksheets
+        Unit 4 Introduction to graphs
+        Chapter summary
+        Programme of assessment: Practical task
+        Exam practice
+    Chapter 14 Word Processing 4
+        Introduction
+        Unit 1 Review documents
+        Unit 2 Document layout
+        Unit 3 Integration – hyperlinks
+        Chapter summary
+        Exam practice
+    Chapter 15 Information Management 2
+        Unit 1 Find and access information
+        Unit 2 Sifting information
+Term 4
+    Chapter 16 ICT in Real Life
+        Introduction
+        Unit 1 Case studies
+        Unit 2 Social implications
+        Chapter summary
+    Chapter 17 Word Processing 5
+        Introduction
+        Unit 1 Templates
+        Unit 2 Accessing help
+        Unit 3 Integration techniques
+        Chapter summary
+        Exam practice
+    Chapter 18 Spreadsheets 3
+        Introduction
+        Unit 1 Create, format and edit graphs
+        Unit 2 Integration with Excel
+        Unit 3 Problem-solving with spreadsheets
+        Chapter summary
+        Exam practice
+    Chapter 19 Information Management 3
+        Unit 1 Designing documents
+        Unit 2 Process information
+        Unit 3 Present information
+        Unit 4 Completing the PAT

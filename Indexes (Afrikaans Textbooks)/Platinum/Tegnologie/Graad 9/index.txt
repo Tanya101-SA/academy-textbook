@@ -1,0 +1,55 @@
+======================================================================
+Tegnologie Vandag Graad 9 Leerderboek
+ISBN: 9780636139862
+Uitgewer: Vandag (Pearson Suid-Afrika)
+Kurrikulum: KABV (CAPS)
+======================================================================
+
+INHOUDSOPGAWE
+──────────────────────────────────────────────────────────────────────
+
+
+Kwartaal 1
+    Onderwerp 1: Strukture
+        Gewapende betonstrukture
+        Impak van strukture op die omgewing
+        Strukturele mislukking en veiligheid
+        Ontwerp en bou 'n versterkte struktuur
+    Onderwerp 2: Prosessering
+        Elektriese stelsels in die huis
+        Elektriese veiligheid
+        Energiebesparende toestelle
+        Ontwerp 'n energiedoeltreffende oplossing
+Kwartaal 2
+    Onderwerp 3: Meganiese stelsels en beheer
+        Nok- en krukmeganismes
+        Meganiese stelsels in die alledaagse lewe
+        Geoutomatiseerde stelsels
+        Ontwerp 'n meganiese speelding of toestel
+    Onderwerp 4: Prosessering
+        Plastiek: tipes en eienskappe
+        Plastiekvervaardigingsprosesse
+        Omgewingsimpak van plastiek
+        Herwinning en volhoubaarheid
+Kwartaal 3
+    Onderwerp 5: Elektronika
+        Elektroniese stelsels: inset, proses, uitset
+        Logikahekke (EN, OF, NIE)
+        Transistors as skakelaars
+        Ontwerp en bou 'n elektroniese stroombaan
+    Onderwerp 6: Stelsels en beheer
+        Geïntegreerde stelsels
+        Kombineer meganiese en elektroniese stelsels
+        Programmeringsbasiese beginsels (opsioneel)
+        Ontwerp 'n geïntegreerde stelsel
+Kwartaal 4
+    Onderwerp 7: Kommunikasie
+        Tweepunt-perspektieftekening
+        Samestellingstekeninge
+        Ontploffingsaansigte
+        Aanbiedingstegnieke
+    Onderwerp 8: Impak van tegnologie
+        Tegnologie en die samelewing
+        Vooroordeel in tegnologie
+        Inheemse tegnologie
+        Volhoubare ontwikkeling en tegnologie

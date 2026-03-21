@@ -1,0 +1,61 @@
+MDP Education - CAPS Approved
+Subject: Wiskunde
+Grade 12
+Phase: FET Phase
+Publisher: MDP Education
+Book: Mindbourne Wiskunde Handboek Graad 12
+Source: CAPS Policy Document
+
+--- TABLE OF CONTENTS ---
+
+Term 1
+  Number Patterns, Sequences and Series
+    - Arithmetic sequences
+    - Geometric sequences
+    - Sigma notation
+    - Sum to infinity
+  Functions: Inverses
+    - Formal definition
+    - Inverse of linear, quadratic and exponential functions
+  Exponential and Logarithmic Functions
+    - Laws of logarithms
+    - Solving exponential equations using logarithms
+  Finance, Growth and Decay
+    - Future and present value annuities
+    - Loan repayments
+    - Sinking funds
+  Trigonometry: Compound Angles
+    - Compound angle formulae
+    - Double angle formulae
+
+Term 2
+  Trigonometry: 2D and 3D Problems
+    - Problems in two and three dimensions
+  Functions: Polynomials
+    - Cubic functions
+    - Differential calculus introduction
+  Differential Calculus
+    - Limits
+    - First principles
+    - Differentiation rules
+    - Applications of differentiation
+    - Cubic graphs
+  Analytical Geometry
+    - Equation of a circle
+    - Tangent to a circle
+
+Term 3
+  Euclidean Geometry
+    - Proportionality theorem
+    - Similarity
+    - Theorem of Pythagoras revisited
+  Statistics
+    - Regression and correlation
+    - Scatter plots
+  Counting and Probability
+    - Fundamental counting principle
+    - Probability using counting
+
+Term 4
+  Revision
+    - All topics

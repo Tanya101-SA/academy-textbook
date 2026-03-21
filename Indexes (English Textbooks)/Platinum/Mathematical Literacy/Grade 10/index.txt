@@ -1,0 +1,677 @@
+======================================================================
+Platinum Mathematical Literacy Grade 10 Learner's Book
+ISBN: 9780636155510
+Publisher: Platinum (Pearson South Africa)
+Curriculum: CAPS
+======================================================================
+
+TABLE OF CONTENTS
+──────────────────────────────────────────────────────────────────────
+
+
+Platinum Mathematical Literacy Learner's Book 10
+Contents
+Term 1
+    Topic 1 Numbers and calculations with numbers
+        CHAPTER 1 Number formats and conventions
+            Unit 1: The decimal comma, decimal point and thousands separators
+                Understanding different number conventions
+                EXERCISE 1
+            Unit 2: Numbers expressed in words
+                EXERCISE 2
+                EXERCISE 3
+                Working with large numbers
+                EXERCISE 4
+            Unit 3: Positive and negative numbers
+                EXERCISE 5
+                Positive and negative temperatures
+                EXERCISE 6
+                Positive and negative numbers in scoring
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 7
+                Positive and negative numbers in the world of finance
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 8
+                EXERCISE 9
+            Revision
+        CHAPTER 2 Estimating and rounding off
+            Unit 1: Estimate solutions
+                EXERCISE 10
+                Rounding numbers off to estimate
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 11
+            Unit 2: Rounding off to significant numbers
+                Rounding up or down
+                WORKED EXAMPLE
+                SOLUTION
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 12
+                Rounding off within a context
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+                WORKED EXAMPLE 3
+                EXERCISE 13
+            Revision
+        CHAPTER 3 Operations and calculator skills
+            Unit 1: Add, subtract, multiply and divide numbers and decimals
+                Revision of basic arithmetic skills
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 14
+            Unit 2: Multiply and divide by 10, 100, and 1 000 without a calculator
+                EXERCISE 15
+            Unit 3: Order of operations
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+                WORKED EXAMPLE 3
+                SOLUTION
+                WORKED EXAMPLE 4
+                SOLUTION
+                WORKED EXAMPLE 5
+                SOLUTION
+                WORKED EXAMPLE 6
+                SOLUTION
+                EXERCISE 16
+            Unit 4: The use of brackets
+                EXERCISE 17
+                The use of invisible brackets when working with fractions
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 18
+            Unit 5: Addition and multiplication facts
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 19
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 20
+            Unit 6: Squares and cubes
+                WORKED EXAMPLE
+                SOLUTION
+                Using a calculator to find the square of a number
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 21
+                Cubes
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 22
+            Unit 7: Square roots
+                Using a calculator to find the square root of a number
+                WORKED EXAMPLE
+                SOLUTION
+                Working with decimals
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+                EXERCISE 23
+            Unit 8: Fractions
+                Simplification and equivalent fractions
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+                EXERCISE 24
+                Simplifying fractions
+                WORKED EXAMPLE
+                SOLUTION
+                Using a calculator to simplify fractions
+                EXERCISE 25
+                Mixed numbers
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 26
+                Addition and subtraction of fractions
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+                WORKED EXAMPLE 3
+                SOLUTION
+                EXERCISE 27
+                Fractions in the real world
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 28
+                Multiplication and division of fractions
+                WORKED EXAMPLES
+                SOLUTION
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 29
+                Converting common fractions to decimal form
+                Using a calculator to convert to decimal form
+                WORKED EXAMPLE
+                SOLUTION
+                Using a calculator to convert mixed numbers to decimal form
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 30
+            Revision
+        CHAPTER 4 Ratio
+            Unit 1: Express and simplify ratios
+                WORKED EXAMPLE
+                SOLUTION
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 31
+            Unit 2: Calculations with ratios
+                WORKED EXAMPLE
+                SOLUTION
+                Two methods to solve problems using ratios
+                WORKED EXAMPLE 1: THE RATIO METHOD
+                SOLUTION
+                WORKED EXAMPLE 2: THE UNITARY METHOD
+                SOLUTION
+                EXERCISE 32
+                PRACTICAL EXERCISE: ADVERTISING
+            Unit 3: Divide in a given ratio
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+                EXERCISE 33
+            Revision
+        CHAPTER 5 Proportion
+            Unit 1: Direct proportion
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 34
+            Unit 2: Indirect (inverse) proportion
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+                EXERCISE 35
+            Revision
+        CHAPTER 6 Rates
+            Unit 1: Cost rates
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 36
+            Unit 2: Consumption rates
+                EXERCISE 37
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 38
+            Unit 3: Distance, time and speed rates
+                Convert rates to different units
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 39
+            Revision
+        CHAPTER 7 Percentages
+            Unit 1: Express parts of a whole as a percentage
+                Using a calculator to calculate percentages
+                WORKED EXAMPLE
+                SOLUTION
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+                EXERCISE 40
+            Unit 2: Calculate a percentage of a quantity
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+                WORKED EXAMPLE 3
+                SOLUTION
+                EXERCISE 41
+            Unit 3: Increase and decrease a value by a percentage
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+                WORKED EXAMPLE 3
+                SOLUTION
+                Formulae for calculating the new price after a percentage increase.
+                Formulae for calculating the new price after a percentage decrease.
+                EXERCISE 42
+            Unit 4: Percentage increase and decrease
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 43
+            Unit 5: Original values of discounted prices
+                WORKED EXAMPLE
+                SOLUTION
+                Calculating a presale price
+                Calculating the price before the percentage increase
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+                EXERCISE 44
+            Revision
+        Assignment: Number magic
+        Summary of Topic 1
+            Chapter 1 Number formats and conventions
+            Chapter 2 Estimating and rounding
+            Chapter 3 Operations and calculator skills
+            Chapter 4 Ratio
+            Chapter 5 Proportion
+            Chapter 6 Rates
+            Chapter 7 Percentages
+Term 2
+    Topic 2 Patterns, relationships and representations
+        CHAPTER 1 Introduction to graphs
+            Unit 1: Explain and interpret graphs
+                EXERCISE 1
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 2
+                EXERCISE 3
+            Unit 2: Describe relationships represented by graphs
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 4
+            Unit 3: Interpret shape and direction of graphs
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+                EXERCISE 5
+                Revision
+        CHAPTER 2 Patterns and relationships
+            Unit 1: Fixed relationships and constant difference relationships
+                WORKED EXAMPLE
+                SOLUTION
+                SOLUTION
+                EXERCISE 6
+            Unit 2: Inverse proportion
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 7
+            Unit 3: Describe patterns in words
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 8
+            Unit 4: Find missing terms in a pattern
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+                EXERCISE 9
+            Unit 5: Describe, represent and construct patterns
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+            Unit 6: Identify and extend patterns using formulae
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+            Revision
+        CHAPTER 3 Tables, equations and graphs
+            Unit 1: Use tables, equations and graphs
+                WORKED EXAMPLE
+                SOLUTION
+                Solving problems using tables and equations
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 10
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 11
+            Unit 2: Dependent and independent variables
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+                EXERCISE 12
+            Unit 3: Formulate equations from tables and graphs
+                Formulate equations from tables
+                WORKED EXAMPLE
+                SOLUTION
+                Formulate equations from graphs
+                WORKED EXAMPLE 1
+                SOLUTION
+            Unit 4: Solve equations
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 13
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 14
+            Unit 5: Graphs
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 15
+                Drawing straight line graphs from equations using two points
+                WORKED EXAMPLE 1
+                SOLUTION
+                Solving problems using graphs
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 16
+                Revision
+        Investigation
+            To complete this investigation, you will need:
+            EXERCISE
+        Summary of Topic 2
+            Chapter 1 Introduction to graphs
+            Chapter 2 Patterns and relationships
+            Chapter 3 Tables, equations and graphs
+    Topic 3 Finance
+        CHAPTER 1 Financial documents
+            Unit 1 Personal or household finance
+                WORKED EXAMPLE
+                SOLUTION
+                Paying accounts
+                Telephone Accounts
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 1
+                Other household accounts, invoices and statements
+                WORKED EXAMPLE
+                SOLUTION
+                Revision
+        CHAPTER 2 Tariff systems
+            Unit 1 Calculating costs using tariffs
+                WORKED EXAMPLE
+                SOLUTION
+                WORKED EXAMPLE
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+                EXERCISE 2
+            Unit 2 Draw and interpret graphs of tariff systems
+                Drawing a tariff graph
+                EXERCISE 3
+                Interpreting tariff graphs
+                EXERCISE 4
+            Revision
+        CHAPTER 3 Income and expenditure
+            Unit 1 Personal income
+                WORKED EXAMPLE 1: CASUAL WORK
+                SOLUTION
+                WORKED EXAMPLE 2: PIECE WORK
+                SOLUTION
+                WORKED EXAMPLE 3: SALARIED EMPLOYMENT
+                SOLUTION
+                WORKED EXAMPLE 4: COMMISSION-BASED WORK
+                SOLUTION
+                Salary slips
+                EXERCISE 5
+            Unit 2 Personal expenditure
+                GROUP EXERCISE
+                EXERCISE 6
+            Revision
+        CHAPTER 4 Interest
+            Unit 1 Interest rate
+                Interest on savings
+                Calculating simple interest per annum
+                Calculating compound interest per annum
+                EXERCISE 7
+                Graphs of simple and compound interest
+                EXERCISE 8
+                EXERCISE 9
+                Interest calculations involving different time periods
+                WORKED EXAMPLE
+                SOLUTION
+                Interest calculations on frequent payment intervals
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 10
+                Interest paid on loans
+                WORKED EXAMPLE: LUMP SUM REPAYMENTS
+                SOLUTION
+                WORKED EXAMPLE: MONTHLY REPAYMENT LOANS
+                EXERCISE 11
+                Interest on overdue accounts
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 12
+            Revision
+        CHAPTER 5 Banking
+            Unit 1 Bank Accounts
+                Bank charges
+                Bank services
+                EXERCISE 13
+            Unit 2 Banking documents
+                EXERCISE 14
+                EXERCISE 15
+            Revision
+        CHAPTER 6 Taxation
+            Unit 1 VAT
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+                WORKED EXAMPLE 3
+                SOLUTION
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 16
+            Revision
+        Summary of Topic 3
+            Chapter 1 Financial documents
+            Chapter 2 Tariff systems
+            Chapter 3 Income and expenditure
+            Chapter 4 Interest
+            Chapter 5 Banking
+            Chapter 6 Taxation
+Term 3
+    Topic 4 Measurement
+        CHAPTER 1 Conversions
+            Unit 1: Convert units of measurement from memory
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+                EXERCISE 1
+            Unit 2: Conversion factors and tables
+                Using a length conversion table
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+                EXERCISE 2
+            Unit 3: Express in appropriate units
+                EXERCISE 3
+            Revision
+        CHAPTER 2 Length and distance
+            Unit 1: Estimate and measure
+                WORKED EXAMPLE
+                SOLUTION
+                GROUP EXERCISE 1
+                GROUP EXERCISE 2
+                EXERCISE 4
+            Unit 2: Measurements and calculations
+                EXERCISE 5
+                EXERCISE 6
+                Accuracy and precision
+                WORKED EXAMPLE
+                SOLUTION
+                GROUP EXERCISE: MEASURING ROAD DISTANCES
+                EXERCISE 7
+            Revision
+        CHAPTER 3 Mass
+            Unit 1: Mass measurement
+                PRACTICAL EXERCISE: BECOMING FAMILIAR WITH STANDARD MASSES
+                EXERCISE 8
+            Unit 2: Manage and calculate mass
+                PRACTICAL EXERCISE 1
+                PRACTICAL EXERCISE 2
+                Managing the mass of a household pet
+                EXERCISE 9
+            Revision
+        CHAPTER 4 Capacity
+            Unit 1: Capacity measurements
+                PRACTICAL EXERCISE
+                WORKED EXAMPLE 1
+                SOLUTIONS
+                WORKED EXAMPLE 2
+                SOLUTION
+                EXERCISE 10
+                PRACTICAL ASSIGNMENT
+            Revision
+        CHAPTER 5 Temperature
+            Unit 1: Measure and interpret temperature
+                EXERCISE 11
+                EXERCISE 12
+            Unit 2: Convert between Celsius and Fahrenheit
+                Conversions
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+                EXERCISE 13
+            Revision
+        CHAPTER 6 Perimeter, area and volume
+            Unit 1: Calculate perimeter and area
+                Rectangles
+                WORKED EXAMPLE
+                SOLUTION
+                Triangles
+                WORKED EXAMPLE
+                Circles
+                CLASS EXERCISE
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+                EXERCISE 14
+            Unit 2: Calculate volume
+                WORKED EXAMPLE
+                SOLUTIONS
+                EXERCISE 15
+            Revision
+        CHAPTER 7 Time
+            Unit 1: Calculations with time
+                WORKED EXAMPLE
+                SOLUTION
+                Calculating elapsed time using different time formats
+                WORKED EXAMPLES
+                SOLUTION
+                EXERCISE 16
+                TV timetables
+                EXERCISE 17
+            Revision
+        Summary of Topic 4
+            Chapter 1 Conversions
+            Chapter 2 Measure length and distance
+            Chapter 3 Mass
+            Chapter 4 Capacity
+            Chapter 5 Temperature
+            Chapter 6 Perimeter, area and volume
+            Chapter 7 Time
+    Topic 5 Maps, plans and representations
+        CHAPTER 1 Scale
+            Unit 1: Types of scales
+                Verbal scales
+                Number scales
+                WORKED EXAMPLE
+                SOLUTION
+                Advantages
+                Disadvantages
+                Bar scales
+                Advantages
+                EXERCISE 1
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 2
+            Revision
+        CHAPTER 2 Plans
+            Unit 1: Read and interpret plans
+                EXERCISE 3
+                PRACTICAL EXERCISE: WELCOME TO OUR SCHOOL
+                Seating plans for stadiums
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 4
+            Revision
+        CHAPTER 3 Plans and models
+            Unit 1: Read and interpret plans and models
+                EXERCISE 5
+                EXERCISE 6
+            Revision
+        CHAPTER 4 Packing arrangements
+            Unit 1: Work with packaging
+                PRACTICAL EXERCISE: SAVING SPACE WITH CLEVER PACKING ARRANGEMENTS
+                REVISION
+                Investigation: Resizing images and plans
+                A) Manually enlarge an image
+                B) Enlarge an image using a photocopier
+        Summary of Topic 5
+            Chapter 1 Scale
+            Chapter 2 Plans
+            Chapter 3 Plans and models
+            Chapter 4 Packing and arrangements
+Term 4
+    Topic 6 Data handling
+        CHAPTER 1 Develop questions and collect data
+            Unit 1: Developing questions
+                EXERCISE 1
+                REVISION
+        CHAPTER 2 Classify and organise data
+            Unit 1: Using frequency tables
+                EXERCISE 2
+                Revision
+        CHAPTER 3 Represent Data
+            Unit 1: Bar graphs, line graphs, histograms and pie charts
+                Single bar graphs
+                EXERCISE 3
+                Histograms
+                EXERCISE 4
+                Pie Charts
+                EXERCISE 5
+                Line graphs
+                EXERCISE 6
+                Revision
+        CHAPTER 4 Summarise Data
+            Unit 1: Mean, median, mode and range
+                Mean
+                Median
+                WORKED EXAMPLE
+                SOLUTION
+                Mode
+                WORKED EXAMPLE
+                SOLUTION
+                Range
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 7
+                Revision
+        Practical investigation: Electricity usage
+            Objectives:
+        Summary of Topic 6
+            Chapter 1 Develop questions and collect data
+            Chapter 2 Classify and organise data
+            Chapter 3 Represent data
+            Chapter 4 Summarise data
+    Topic 7 Probability
+        CHAPTER 1 Expressions of likelihood
+            Unit 1: Probability and certainty
+                Certain and impossible events
+                EXERCISE 1
+                WORKED EXAMPLE
+                SOLUTION
+            Revision
+        CHAPTER 2 Predictions
+            Unit 1: Two events and tree diagrams
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+                EXERCISE 2
+                Tree Diagrams
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 3
+            Revision
+        Summary of Topic 7
+            Chapter 1
+            Chapter 2
+Test Yourself
+Glossary

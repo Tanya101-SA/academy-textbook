@@ -1,0 +1,87 @@
+Unit 1: Basic Concepts
+    Five Basic Concepts to Know and Apply
+    The Purpose of Accounting
+    The General Ledger
+    The Subsidiary Journals
+    The Basic Rule of Accounting
+
+Unit 2: Informal/Indigenous Bookkeeping, GAAP, Ethics and Internal Control
+    Informal / Indigenous Bookkeeping
+    Generally Accepted Accounting Practice (GAAP)
+    Ethics
+    Internal Control
+    Control of Assets
+    Other Controls
+    Ways of Ensuring that Internal Controls are Effective
+
+Unit 3: Cash Journals
+    Subsidiary Journals and Source Documents
+    Perpetual Inventory System
+    Cash Receipts Journal (CRJ)
+    Cash Payments Journal (CPJ)
+    Petty Cash Journal (PCJ)
+
+Unit 4: Credit (and Other) Journals
+    Processing Credit Transactions
+    Debtors Journal (DJ) and Creditors Journal (CJ)
+    The General Journal (GJ)
+
+Unit 5: Ledgers, Trial Balances and the Accounting Equation
+    The Accounting Cycle
+    The General Ledger
+    Trial Balances
+    The Subsidiary Ledgers
+    Posting to the General Ledger
+    Posting to the Subsidiary Ledgers
+    The Accounting Equation
+
+Unit 6: Value-Added Tax
+    The Principles of VAT
+    How to Calculate VAT
+
+Unit 7: Salaries and Wages
+    Salaries
+    Wages
+    The Skills Development Levy (SDL)
+    The Accounting Entries for Salaries and Wages
+    The Role of the Trade Union / Staff Associations
+    Ethical Considerations
+    Salaries Journal (SJ) and Posting to the General Ledger
+    Recording Wages
+
+Unit 8: Final Accounts
+    The End of the Accounting Period
+    The Accounting Cycle
+    Adjustments
+    Adjustments in the Ledger and the Journal
+    Closing Transfers in the Journal and the General Ledger
+    A Comparison of the Three Trial Balances
+    Interest on Loan
+    Depreciation
+    The Fixed Assets Register
+    Reversal of Adjustments
+
+Unit 9: Financial Statements
+    Final Accounts
+    Financial Statements
+    GAAP Principles Applicable to Financial Statements
+    Income Statement
+    Balance Sheet
+    Notes to the Financial Statements
+    The Fixed/Tangible Asset Note
+
+Unit 10: Analysis and Interpretation of Financial Statements
+    Formulae You Need to Know
+    Commenting on Results of the Analysis
+
+Unit 11: Cost Accounting
+    The Difference Between Financial Accounting and Managerial Accounting
+    The Importance of Costing
+    Costing Terminology
+
+Unit 12: Budgeting
+    What is a Budget?
+    Different Ways of Creating a Budget
+    Budgets for Different Purposes
+    Budgets for Different Time Periods
+    Sources of Information Used to Prepare a Budget

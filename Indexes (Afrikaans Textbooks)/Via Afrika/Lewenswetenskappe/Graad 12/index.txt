@@ -1,0 +1,236 @@
+======================================================================
+Via Afrika Lewenswetenskappe Graad 12 Leerderboek
+ISBN: 978-1-41546-030-6
+Uitgewer: Via Afrika
+Kurrikulum: KABV (CAPS)
+Fase: VOO-fase (FET Phase)
+Nota: KABV-gelynstel onderwerp/sub-onderwerp struktuur.
+Bron: https://viaafrika.com/product/via-afrika-lewenswetenskappe-graad-12-leerderboek/
+======================================================================
+
+INHOUDSOPGAWE
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 1 — Kennisbaan: Lewe op molekulêre, sellulêre en weefselvlak / Diversiteit, verandering en kontinuïteit
+
+    Onderwerp 1: DNS — die kode van lewe
+        Eenheid 1: DNS — die molekule van oorerflikheid
+            1.1 Ontdekking van DNS-struktuur (Watson, Crick, Franklin, Wilkins)
+            1.2 Ligging van DNS in die sel
+            1.3 Struktuur van DNS (nukleotiede, dubbelheliks, basispaarreëls)
+            1.4 Chromosome, gene en die verband tussen DNS, gene en chromosome
+            1.5 DNS-replikasie (semi-konserwatiewe replikasie)
+            1.6 DNS-profilering (forensiese en vaderskaptoepassings)
+        Eenheid 2: RNS en proteïensintese
+            2.1 Struktuur van RNS
+            2.2 Tipes RNS (bRNS, tRNS, rRNS)
+            2.3 Vergelyking van DNS en RNS
+            2.4 Die genetiese kode (triplet-kode, kodons, antikodons)
+            2.5 Transkripsie (DNS na bRNS)
+            2.6 Translasie (bRNS na polipeptied by die ribosoom)
+
+    Onderwerp 2: Meiose
+        Eenheid 1: Die proses van meiose
+            1.1 Meiose I (reduksiedeling, oorkruising, onafhanklike assortasie)
+            1.2 Meiose II (ekwasionele deling)
+            1.3 Vergelyking van meiose I en meiose II
+        Eenheid 2: Vergelyking van mitose en meiose
+        Eenheid 3: Die rol van meiose in die produksie van genetiese variasie
+        Eenheid 4: Abnormale meiose
+            4.1 Nie-disjunksie en die gevolge daarvan
+            4.2 Downsindroom (trisomie 21)
+
+    Onderwerp 3: Voortplanting by gewerweldes
+        Eenheid 1: Voortplantingstrategieë by gewerweldes
+            1.1 Eksterne vs interne bevrugting
+            1.2 Oviparie, ovoviviparie, viviparie
+            1.3 Amniotiese eierstruktuur
+
+    Onderwerp 4: Menslike voortplanting
+        Eenheid 1: Die manlike voortplantingstelsel
+            1.1 Struktuur en funksie van manlike voortplantingsorgane
+            1.2 Spermatogenese
+            1.3 Rol van testosteroon en puberteit by mans
+        Eenheid 2: Die vroulike voortplantingstelsel
+            2.1 Struktuur en funksie van vroulike voortplantingsorgane
+            2.2 Oögenese
+            2.3 Rol van estrogeen en puberteit by vroue
+        Eenheid 3: Die menstruele siklus
+            3.1 Ovariële siklus
+            3.2 Uteriene siklus
+            3.3 Hormonale beheer (FSH, estrogeen, LH, progesteroon)
+        Eenheid 4: Bevrugting, inplanting en swangerskap
+            4.1 Bevrugting en vorming van die sigoot
+            4.2 Inplanting en vroeë ontwikkeling
+            4.3 Die rol van die plasenta
+            4.4 Swangerskap en geboorte
+        Eenheid 5: Voorbehoeding
+            5.1 Natuurlike metodes
+            5.2 Versperringsmetodes
+            5.3 Hormonale metodes
+            5.4 Chirurgiese metodes (vasektomie, tubale ligasie)
+        Eenheid 6: Seksueel oordraagbare infeksies
+            6.1 MIV/VIGS
+            6.2 Ander SOI's
+            6.3 Voorkoming en behandeling
+
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 2 — Kennisbaan: Diversiteit, verandering en kontinuïteit / Lewensprosesse
+
+    Onderwerp 5: Genetika en oorerwing
+        Eenheid 1: Konsepte in genetika
+            1.1 Sleutelterminologie (geen, alleel, lokus, genotipe, fenotipe, dominant, resesief, homosigoot, heterosigoot)
+        Eenheid 2: Monohibriede kruisings
+            2.1 Mendel se Wet van Dominansie en Wet van Segregasie
+            2.2 Monohibriede kruisings met Punnett-vierkante
+            2.3 Toetskruisings
+        Eenheid 3: Dihibriede kruisings
+            3.1 Mendel se Wet van Onafhanklike Assortasie
+            3.2 Dihibriede kruisings met Punnett-vierkante
+        Eenheid 4: Onvolledige dominansie en ko-dominansie
+            4.1 Onvolledige dominansie
+            4.2 Ko-dominansie (bv. bloedgroepe — ABO-stelsel)
+            4.3 Meervoudige allele
+        Eenheid 5: Geslagsgekoppelde oorerwing
+            5.1 Geslagsbepaling
+            5.2 Geslagsgekoppelde gene (hemofilie, kleurblindheid)
+        Eenheid 6: Mutasies
+            6.1 Geenmutasies
+            6.2 Chromosomale mutasies
+            6.3 Mutagene
+        Eenheid 7: Genetiese ingenieurswese en genetiese berading
+            7.1 Genetiese ingenieurswese en GGO's
+            7.2 Stamboomdiagramme
+            7.3 Genetiese sifting en berading
+            7.4 Bio-etiek
+
+    Onderwerp 6: Reaksie op die omgewing — die mens
+        Eenheid 1: Die menslike senuweestelsel
+            1.1 Die sentrale senuweestelsel (brein en rugmurg)
+            1.2 Die brein (serebrum, serebellum, medulla oblongata, hipotalamus, pons)
+            1.3 Die rugmurg (grys materie, wit materie)
+            1.4 Beskerming (meninges, serebrospinale vloeistof)
+            1.5 Die perifere senuweestelsel (kraniale en spinale senuwees)
+            1.6 Die outonome senuweestelsel (simpatiese, parasimpatiese)
+        Eenheid 2: Neurone en senuwee-impulsoordrag
+            2.1 Struktuur van neurone (sensoriese, motoriese, interneurone)
+            2.2 Die sinaps en sinaptiese oordrag
+            2.3 Neurotransmitters (asetielcholien)
+        Eenheid 3: Refleksboog
+            3.1 Reseptor, sensoriese neuron, interneuron, motoriese neuron, effektor
+            3.2 Willekeurige vs onwillekeurige aksies
+        Eenheid 4: Die menslike oog
+            4.1 Struktuur en funksie van die oog
+            4.2 Akkommodasie (naby- en vergesig)
+            4.3 Pupilrefleks
+            4.4 Siggebreke (miopia, hiperopia)
+            4.5 Korreksie van siggebreke
+        Eenheid 5: Die menslike oor
+            5.1 Struktuur van die oor (buiteoor, middeloor, binneoor)
+            5.2 Gehoor (pad van klankgolwe)
+            5.3 Balans (halfsirkelvormige kanale)
+            5.4 Gehoorgebreke
+
+    Onderwerp 7: Die menslike endokriene stelsel
+        Eenheid 1: Endokriene kliere, hormone en funksies
+            1.1 Hipotalamus (ADH)
+            1.2 Hipofise (GH, TSH, FSH, LH, prolaktien)
+            1.3 Tiroïedklier (tiroksien)
+            1.4 Pankreas — Eilandjies van Langerhans (insulien, glukagon)
+            1.5 Byniere (adrenalien, aldosteroon)
+            1.6 Eierstokke (estrogeen, progesteroon)
+            1.7 Testes (testosteroon)
+        Eenheid 2: Vergelyking van senuweestelsel en endokriene stelsel
+
+    Onderwerp 8: Homeostase by die mens
+        Eenheid 1: Die konsep van homeostase
+            1.1 Negatiewe terugvoermeganisme
+        Eenheid 2: Termoregulering
+            2.1 Die rol van die vel in temperatuurregulering
+            2.2 Die rol van die hipotalamus
+            2.3 Reaksies op warm en koue omgewings (vasodilatasie, vasokonstriksie, sweet, rilling)
+            2.4 Koors
+        Eenheid 3: Osmoregulering
+            3.1 Homeostatiese beheer van water- en soutbalans
+            3.2 Die rol van ADH
+            3.3 Die rol van aldosteroon
+            3.4 Die rol van die nier in homeostase
+        Eenheid 4: Bloedglukoseregulering
+            4.1 Die rol van insulien en glukagon
+            4.2 Diabetes mellitus (Tipe 1 en Tipe 2)
+        Eenheid 5: Koolstofdioksiedvlakke en tiroksienregulering
+
+    Onderwerp 9: Reaksie op die omgewing — plante
+        Eenheid 1: Planthormone (groeireguleerders)
+            1.1 Ouksiene (selverlenging, apikale dominansie, vrugontwikkeling)
+            1.2 Gibberelliene
+            1.3 Absisiensuur (ABA)
+            1.4 Sitokiniene
+            1.5 Etileen
+        Eenheid 2: Tropismes
+            2.1 Fototropisme (rol van ouksiene)
+            2.2 Geotropisme / gravitropisme
+            2.3 Tigmotropisme
+        Eenheid 3: Nastiese bewegings
+        Eenheid 4: Fotoperiodisme
+            4.1 Kortdag- en langdagplante
+            4.2 Die rol van fitochroom
+        Eenheid 5: Kommersiële gebruik van planthormone
+
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 3 — Kennisbaan: Diversiteit, verandering en kontinuïteit
+
+    Onderwerp 10: Evolusie deur natuurlike seleksie
+        Eenheid 1: Bewyse vir evolusie
+            1.1 Fossielrekord
+            1.2 Biogeografiese bewyse
+            1.3 Anatomiese bewyse (homoloë, analoë en vestigiale strukture)
+            1.4 Embriologiese bewyse
+            1.5 Molekulêre (biochemiese/genetiese) bewyse
+        Eenheid 2: Bronne van variasie
+            2.1 Meiose (oorkruising, willekeurige assortasie)
+            2.2 Mutasies
+            2.3 Willekeurige bevrugting en paring
+        Eenheid 3: Geskiedenis van evolusionêre denke
+            3.1 Lamarckisme (oorerwing van verworwe eienskappe)
+            3.2 Darwinisme (natuurlike seleksie)
+            3.3 Onderbroke ewewig vs gradualisme
+        Eenheid 4: Natuurlike seleksie in aksie
+            4.1 Kunsmatige seleksie
+            4.2 Spesiasie (allopatriese spesiasie, voortplantingsisolasie)
+            4.3 Antibiotiese weerstandigheid by bakterieë
+            4.4 Pesticideweerstandigheid by insekte
+
+    Onderwerp 11: Menslike evolusie
+        Eenheid 1: Primate en die evolusie van die mens
+            1.1 Bewyse uit primaataanatomie
+            1.2 Molekulêre bewyse vir gemeenskaplike voorouers van ape en mense
+        Eenheid 2: Sleutel-hominiede fossiele
+            2.1 Australopithecus (A. africanus — Taungkind, Mev. Ples; A. afarensis — Lucy; A. sediba)
+            2.2 Homo habilis (werktuiggebruik)
+            2.3 Homo erectus (Turkana-seun, vuurgebruik)
+            2.4 Homo neanderthalensis
+            2.5 Homo sapiens
+            2.6 Ander noemenswaardige fossiele (Little Foot)
+        Eenheid 3: Evolusionêre tendense by hominiede
+            3.1 Tweevoetigheid (bipedalisme)
+            3.2 Skedel- en breingrootteveranderinge
+            3.3 Kaak- en tandveranderinge
+            3.4 Gebruik van werktuie
+            3.5 Kulturele en sosiale ontwikkeling
+        Eenheid 4: Uit-Afrika-hipotese
+            4.1 Afrika-oorsprong van moderne mense
+            4.2 Fossielbewyse uit Suid-Afrika en Oos-Afrika
+            4.3 Mitochondriale Eva (genetiese bewyse)
+        Eenheid 5: Filogenetiese bome van hominiede
+        Eenheid 6: Wanopvattings oor evolusie
+
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 4 — Hersiening en eksamens
+    Hersiening van alle onderwerpe uit Kwartaal 1-3
+    Studie- en eksamenvaardighede
+    Oefeneksamen-vraestelle
+    Woordelys

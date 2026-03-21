@@ -1,0 +1,176 @@
+======================================================================
+Platinum Wiskunde Graad 7 Leerderboek
+ISBN: 9780636141421
+Uitgewer: Platinum (Pearson Suid-Afrika)
+Kurrikulum: KABV (CAPS)
+======================================================================
+
+INHOUDSOPGAWE
+──────────────────────────────────────────────────────────────────────
+
+
+Titelblad
+Inhoudsopgawe
+Kwartaal 1
+    Onderwerp 1: Heelgetalle
+        Vergelyk, rangskik en rond getalle af 
+        Eienskappe van heelgetalle
+        Berekeninge met heelgetalle
+        Veelvoude en faktore
+        Los probleme op
+        Hersiening
+    Onderwerp 2: Eksponente
+        Compare and represent numbers in  exponential form
+        Gebruik bewerkingswette met eksponente
+        Berekeninge met eksponente
+        Los probleme op
+        Hersiening
+    Kwartaal 1 Hersieningsopdrag
+    Onderwerp 3: Meetkunde van reguit lyne
+        Reguit, loodregte en ewewydige lyne
+        Hersiening 
+    Onderwerp 4: Konstruksies
+        Meet en klassifiseer hoeke
+        Konstrueer hoeke
+        Konstrueer driehoeke
+        Konstrueer vierhoeke
+        Konstrueer sirkels
+        Konstrueer ewewydige en loodregte lyne
+        Hersiening 
+    Onderwerp 5: Meetkunde van 2D-vorms
+        Driehoeke
+        Vierhoeke
+        Gelykvormigheid en kongruensie
+        Sirkels
+        Hersiening
+    Kwartaal 1 Hersieningstoets
+Kwartaal 2
+    Onderwerp 6: Gewone breuke
+        Breuke
+        Ekwivalente breuke
+        Vergelyk en rangskik breuke
+        Optelling en aftrekking van breuke
+        Vermenigvuldiging van breuke
+        Persentasies
+        Hersiening 
+    Onderwerp 7: Desimale breuke
+        Lees en skryf desimale breuke
+        Afronding van desimale breuke
+        Vergelyk en rangskik desimale breuke
+        Ekwivalente vorme
+        Optelling en aftrekking van desimale breuke
+        Vermenigvuldiging en deling met desimale breuke
+        Hersiening 
+    Kwartaal 2 Hersieningstoets 1
+    Onderwerp 8: Funksies en verwantskappe
+        Getalsinne en veranderlikes
+        Vloeidiagramme
+        Tabelle
+        Hersiening 
+    Kwartaal 2 Hersieningsondersoek
+    Onderwerp 9: Oppervlakte en omtrek van 2D-vorms
+        Omtrekke van veelhoeke
+        Oppervlaktes van veelhoeke
+        Los probleme met oppervlakte en omtrek op
+        Hersiening 
+    Onderwerp 10: Oppervlakarea en volume van 3D-voorwerpe
+        Liggame
+        Oppervlakarea, volume en kapasiteit
+        Los probleme met oppervlakarea en volume op
+        Hersiening 
+    Kwartaal 2 Hersieningstoets 2
+Kwartaal 3
+    Onderwerp 11: Getal- en meetkundige patrone
+        Getalpatrone
+        Meetkundige patrone
+        Hersiening 
+    Kwartaal 3 Hersieningsopdrag
+    Onderwerp 12: Funksies en verwantskappe
+        Gebruik formules om insette en uitsette te bepaal
+        Use flow diagrams to determine inputs  and outputs
+        Gebruik tabelle om insette en uitsette te bepaal
+        Hersiening 
+    Onderwerp 13: Algebraïese uitdrukkings
+        Gebruik wiskundige taal
+        Gebruik veranderlikes in algebra
+        Skryf terme van 'n uitdrukking
+        Hersiening 
+    Onderwerp 14: Algebraïese vergelykings
+        Los getalsinne op deur inspeksie
+        Gebruik getalsinne om probleme op te los
+        Hersiening 
+    Onderwerp 15: Grafieke
+        Interpretasie van grafieke
+        Teken grafieke
+        Hersiening
+    Onderwerp 16: Transformasiemeetkunde
+        Ondersoek translasies
+        Ondersoek refleksies
+        Ondersoek rotasies
+        Vergroot en verklein meetkundige figure
+        Los probleme met transformasies op
+        Hersiening
+    Kwartaal 3 Hersieningsprojek
+    Onderwerp 17: Meetkunde van 3D-voorwerpe
+        Klassifiseer 3D-voorwerpe
+        Prismas en piramides
+        Bou van 3D-modelle
+        Hersiening
+    Kwartaal 3 Hersieningstoets
+Kwartaal 4
+    Onderwerp 18: Heelgetalle
+        Count, order and compare integers
+        Bereken met heelgetalle
+        Eienskappe van heelgetalle
+        Los probleme met heelgetalle op
+        Hersiening 
+    Onderwerp 19: Getal- en meetkundige patrone
+        Beskrywing van patrone
+        Gebruik van reëls om tabelle te voltooi
+        Hersiening 
+    Onderwerp 20: Funksies en verwantskappe
+        Getalsinne
+        Getalveranderlikes
+        Gebruik vloeidiagramme en tabelle
+        Hersiening 
+    Kwartaal 4 Hersieningsopdrag
+    Onderwerp 21: Algebraïese uitdrukkings
+        Algebraïese uitdrukkings gebruik in getalpatrone
+        Gebruik vloeidiagramme om uitdrukkings te illustreer
+        Gebruik tabelle om uitdrukkings te illustreer
+        Hersiening 
+    Onderwerp 22: Algebraïese vergelykings
+        Los getalsinne met heelgetalle op
+        Gebruik getalsinne om probleme op te los
+        Hersiening 
+    Kwartaal 4 Hersieningsondersoek
+    Onderwerp 23: Versamel, organiseer en som data op
+        Versamel data
+        Organiseer data
+        Som data op
+        Hersiening 
+    Onderwerp 24: Stel data voor
+        Teken staafgrafieke en dubbelstaafgrafieke
+        Teken histogramme
+        Teken sirkelgrafieke
+        Hersiening 
+    Onderwerp 25: Interpreteer, ontleed en rapporteer data
+        Interpreteer data
+        Ontleed data
+        Rapporteer data
+        Hersiening 
+    Onderwerp 26: Waarskynlikheid
+        Elementêre waarskynlikheid
+        Hersiening
+    Kwartaal 4 Hersieningstoets
+Woordelys
+Indeks
+Nuttige hulpbronne
+    Wiskundige simbole
+    Reëls vir afronding
+    Nuttige vierkante
+    Hoofeenhede
+    Kapasiteit
+    Persentasies
+    Formules
+    Honderdvierkant

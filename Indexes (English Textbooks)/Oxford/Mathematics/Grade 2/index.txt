@@ -1,0 +1,72 @@
+Oxford University Press - CAPS Approved
+Subject: Mathematics
+Grade 2
+Phase: Foundation Phase
+Publisher: Oxford University Press Southern Africa
+Series: Oxford Successful Mathematics
+Source: CAPS Policy Document
+
+--- TABLE OF CONTENTS ---
+
+Term 1
+  Numbers, Operations and Relationships
+    - All Topics
+  Patterns, Functions and Algebra
+    - Number Patterns
+    - Geometric Patterns
+  Space and Shape (Geometry)
+    - 3-D Shapes
+  Measurement
+    - Time
+    - Length
+  Data Handling
+    - Whole Data Cycle
+
+Term 2
+  Numbers, Operations and Relationships
+    - All Topics
+  Patterns, Functions and Algebra
+    - Number Patterns
+    - Geometric Patterns
+  Space and Shape (Geometry)
+    - 2-D Shapes
+    - Position, Orientation and Views
+    - Symmetry
+  Measurement
+    - Time
+    - Mass
+  Data Handling
+    - Sections of Data Cycle
+
+Term 3
+  Numbers, Operations and Relationships
+    - All Topics
+  Patterns, Functions and Algebra
+    - Number Patterns
+    - Geometric Patterns
+  Space and Shape (Geometry)
+    - 3-D Shapes
+    - Position, Orientation and Views
+  Measurement
+    - Time
+    - Capacity/Volume
+  Data Handling
+    - Whole Data Cycle
+
+Term 4
+  Numbers, Operations and Relationships
+    - All Topics
+  Patterns, Functions and Algebra
+    - Number Patterns
+    - Geometric Patterns
+  Space and Shape (Geometry)
+    - 2-D Shapes
+    - 3-D Shapes
+    - Symmetry
+  Measurement
+    - Time
+    - Length
+    - Mass
+    - Capacity/Volume
+  Data Handling
+    - Sections of Data Cycle

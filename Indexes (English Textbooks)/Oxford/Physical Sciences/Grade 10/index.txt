@@ -1,0 +1,223 @@
+======================================================================
+Oxford Successful Physical Sciences Grade 10 Learner's Book
+ISBN: 9780195997354
+Publisher: Oxford University Press Southern Africa
+Curriculum: CAPS
+Note: Page numbers unavailable - Calameo sample was for Grade 11. Structure follows CAPS exactly.
+======================================================================
+
+TABLE OF CONTENTS
+──────────────────────────────────────────────────────────────────────
+
+TERM 1 Matter and Materials
+    Topic 1: Classification of matter
+        Unit 1: Materials
+        Unit 2: Mixtures
+            2.1 Heterogeneous mixtures
+            2.2 Homogeneous mixtures
+            2.3 Separating mixtures
+        Unit 3: Pure substances
+            3.1 Elements
+            3.2 Compounds
+        Unit 4: Names and formulae of substances
+        Unit 5: Metals, metalloids and non-metals
+        Unit 6: Electrical conductors, semi-conductors and insulators
+        Unit 7: Thermal conductors and insulators
+        Unit 8: Magnetic and non-magnetic materials
+    Topic 2: States of matter and the kinetic molecular theory
+        Unit 1: States of matter (solid, liquid, gas)
+        Unit 2: The kinetic molecular theory
+            2.1 Matter is made of tiny particles
+            2.2 Particles are in constant motion
+            2.3 Brownian motion as evidence
+        Unit 3: Phase changes
+            3.1 Melting, freezing, boiling, evaporation, condensation, sublimation, deposition
+            3.2 Heating and cooling curves
+            3.3 Melting point and boiling point
+    Topic 3: The atom
+        Unit 1: Models of the atom (historical development)
+            1.1 Greek model (Democritus)
+            1.2 Dalton model
+            1.3 Thomson model (plum pudding)
+            1.4 Rutherford model
+            1.5 Bohr model
+            1.6 Quantum mechanical / wave model
+        Unit 2: Structure of the atom
+            2.1 Protons, neutrons, electrons
+            2.2 Atomic number (Z)
+            2.3 Mass number (A)
+        Unit 3: Isotopes
+            3.1 Definition and examples
+            3.2 Relative atomic mass
+        Unit 4: Electronic configuration
+            4.1 Energy levels / electron shells
+            4.2 Aufbau diagrams
+            4.3 Notation for electron configuration
+    Topic 4: The periodic table
+        Unit 1: The arrangement of the elements
+            1.1 Periods and groups
+            1.2 Ordering by atomic number
+            1.3 Periodicity of physical and chemical properties
+        Unit 2: Chemical properties of the groups
+            2.1 Group 1: Alkali metals
+            2.2 Group 2: Alkaline earth metals
+            2.3 Group 17: Halogens
+            2.4 Group 18: Noble gases
+        Unit 3: Trends in reactivity within groups
+        Unit 4: Relationship between atomic structure and position on the periodic table
+    Topic 5: Chemical bonding
+        Unit 1: Lewis structures (Lewis dot diagrams)
+        Unit 2: Covalent bonding
+            2.1 Sharing of electron pairs between non-metal atoms
+            2.2 Single, double and triple bonds
+            2.3 Examples (H2, O2, H2O, NH3, HCl, CH4)
+        Unit 3: Ionic bonding
+            3.1 Transfer of electrons between metal and non-metal atoms
+            3.2 Formation of cations and anions
+            3.3 Examples (NaCl, MgO, CaCl2)
+        Unit 4: Metallic bonding
+            4.1 Sea of delocalised electrons
+            4.2 Properties explained by metallic bonding
+        Unit 5: Writing chemical formulae
+TERM 1 (continued) / TERM 2 Waves, Sound and Light
+    Topic 6: Transverse pulses on a string or spring
+        Unit 1: Pulse, amplitude and pulse length
+        Unit 2: Superposition of pulses (constructive and destructive interference)
+    Topic 7: Transverse waves
+        Unit 1: Crests and troughs
+        Unit 2: Amplitude
+        Unit 3: Wavelength
+        Unit 4: Points in phase
+        Unit 5: Period and frequency
+        Unit 6: Speed of a transverse wave (v = f x lambda)
+    Topic 8: Longitudinal waves
+        Unit 1: Compressions and rarefactions
+        Unit 2: Wavelength and amplitude
+        Unit 3: Period and frequency
+        Unit 4: Speed of a longitudinal wave
+    Topic 9: Sound
+        Unit 1: Speed of sound
+        Unit 2: Characteristics of a sound wave
+            2.1 Pitch and frequency
+            2.2 Loudness and amplitude
+        Unit 3: Ultrasound and its applications
+    Topic 10: Electromagnetic radiation
+        Unit 1: Wave-like nature of EM radiation
+        Unit 2: The electromagnetic spectrum
+            2.1 Radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, gamma rays
+        Unit 3: Penetrating ability of EM radiation
+        Unit 4: Particle-like nature of EM radiation (photons)
+        Unit 5: Uses and hazards of EM radiation
+TERM 2 (continued) Chemical Change (Part 1)
+    Topic 11: Physical and chemical change
+        Unit 1: Physical change vs chemical change
+        Unit 2: Conservation of atoms and mass in reactions
+        Unit 3: Law of constant composition (law of definite proportions)
+    Topic 12: Representing chemical change
+        Unit 1: Writing word equations
+        Unit 2: Writing balanced chemical equations
+        Unit 3: Balancing chemical equations using inspection
+TERM 2 (continued) Electricity and Magnetism (Part 1)
+    Topic 13: Magnetism
+        Unit 1: Magnetic fields
+            1.1 Field around a bar magnet
+            1.2 Drawing field lines
+        Unit 2: Permanent magnets
+            2.1 Magnetic poles (North and South)
+            2.2 Attraction and repulsion
+            2.3 Magnetisation and demagnetisation
+        Unit 3: The compass and the Earth's magnetic field
+TERM 3 Electricity and Magnetism (continued)
+    Topic 14: Electrostatics
+        Unit 1: Two kinds of charge (positive and negative)
+            1.1 Charging by contact (friction/rubbing)
+            1.2 Attraction and repulsion between charges
+        Unit 2: Conservation of charge
+        Unit 3: Quantisation of charge (Q = nq_e)
+    Topic 15: Electric circuits
+        Unit 1: Potential difference and emf
+            1.1 EMF of a battery
+            1.2 Potential difference across a component
+            1.3 Voltmeter (high resistance, connected in parallel)
+        Unit 2: Current
+            2.1 Flow of charge
+            2.2 Ammeter (low resistance, connected in series)
+            2.3 Conventional current vs electron flow
+        Unit 3: Resistance and Ohm's Law (V = IR)
+            3.1 Ohmic and non-ohmic conductors
+        Unit 4: Series circuits
+            4.1 Current the same through all components
+            4.2 Voltage divides across components
+            4.3 Total resistance: R_total = R1 + R2 + ...
+        Unit 5: Parallel circuits
+            5.1 Voltage the same across all branches
+            5.2 Current divides among branches
+            5.3 Total resistance: 1/R_total = 1/R1 + 1/R2 + ...
+TERM 3 (continued) Chemical Change (continued)
+    Topic 16: Reactions in aqueous solution
+        Unit 1: Ions in aqueous solution
+            1.1 Dissociation of ionic compounds in water
+            1.2 Hydration of ions
+        Unit 2: Electrolytes, ionisation and conductivity
+            2.1 Strong electrolytes vs weak electrolytes
+            2.2 Non-electrolytes
+        Unit 3: Precipitation reactions
+            3.1 Formation of insoluble salts
+            3.2 Solubility rules / solubility table
+            3.3 Writing ionic equations and net ionic equations
+        Unit 4: Other types of reactions
+            4.1 Acid-base reactions
+            4.2 Acid-carbonate reactions
+            4.3 Redox reactions (introduction)
+    Topic 17: Quantitative aspects of chemical change (Stoichiometry)
+        Unit 1: Atomic mass and the mole
+            1.1 Relative atomic mass
+            1.2 The mole (Avogadro's number: 6.022 x 10^23)
+            1.3 Molar mass
+        Unit 2: Composition
+            2.1 Percentage composition
+            2.2 Empirical formula from percentage composition
+            2.3 Molecular formula from empirical formula
+        Unit 3: Amount of substance
+            3.1 Relationship: n = m/M
+            3.2 Molar volume of gases at STP
+            3.3 Concentration of solutions: c = n/V
+        Unit 4: Stoichiometric calculations
+            4.1 Mole ratios from balanced equations
+            4.2 Mass-to-mass calculations
+            4.3 Volume calculations involving gases
+            4.4 Calculations involving concentration of solutions
+TERM 4 Mechanics
+    Topic 18: Vectors and scalars
+        Unit 1: Scalar quantities (distance, speed, mass, time, temperature)
+        Unit 2: Vector quantities (displacement, velocity, acceleration, force)
+        Unit 3: Graphical representation of vectors
+        Unit 4: Vector addition (head-to-tail method, resultant vector)
+    Topic 19: Motion in one dimension
+        Unit 1: Reference frame, position and displacement
+        Unit 2: Speed and velocity
+            2.1 Average speed vs average velocity
+            2.2 Instantaneous speed and velocity
+        Unit 3: Acceleration
+        Unit 4: Equations of motion
+            4.1 v_f = v_i + at
+            4.2 delta_x = (v_i + v_f)/2 x t
+            4.3 delta_x = v_i*t + 1/2*a*t^2
+            4.4 v_f^2 = v_i^2 + 2*a*delta_x
+        Unit 5: Graphs of motion
+            5.1 Position-time graphs
+            5.2 Velocity-time graphs
+            5.3 Acceleration-time graphs
+            5.4 Relationships between graphs
+    Topic 20: Energy (Mechanical energy)
+        Unit 1: Gravitational potential energy (E_p = mgh)
+        Unit 2: Kinetic energy (E_k = 1/2 mv^2)
+        Unit 3: Mechanical energy (E_M = E_p + E_k)
+        Unit 4: Conservation of mechanical energy
+TERM 4 (continued) Chemical Systems
+    Topic 21: The hydrosphere
+        Unit 1: Interactions of the hydrosphere with atmosphere, lithosphere and biosphere
+        Unit 2: Composition of water bodies and the water cycle
+        Unit 3: The importance of the hydrosphere
+        Unit 4: Threats to the hydrosphere (pollution, overuse, climate change)
+        Unit 5: Water quality testing and purification

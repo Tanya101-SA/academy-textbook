@@ -1,0 +1,337 @@
+Oxford University Press - CAPS Approved
+Subject: Economics
+Grade 11
+Phase: FET Phase
+Publisher: Oxford University Press Southern Africa
+Book: Contents - How to use this book................................................................................................................................6 - Programme of Assessment........................................................................................................................8
+Source: https://oxford.co.za/schools/oxford-caps-approved/
+Sample: https://en.calameo.com/read/0067107530aaa039ba3b6
+
+--- TABLE OF CONTENTS ---
+Contents
+How to use this book................................................................................................................................6
+Programme of Assessment........................................................................................................................8
+Module 1  Macroeconomics9
+Chapter 1  Basic economic concepts......................................................................................10
+Unit 1  Unpacking economics................................................................................................................10
+Unit 2  Methods used in economics.......................................................................................................16
+Unit 3  Setting of economics..................................................................................................................20
+Unit 4  Career opportunities...................................................................................................................22
+Chapter 2  The economic problem..........................................................................................24
+Unit 1  Scarcity problem.........................................................................................................................24
+Unit 2  Basic economic processes ..........................................................................................................28
+Unit 3  Economics, human rights and the environment.......................................................................38
+Chapter 3  Circular ow and national accounting aggregates...................................................42
+Unit 1  Circular ow...............................................................................................................................42
+Unit 2  Participants in the circular ow ................................................................................................48
+Unit 3  Markets in the circular ow .......................................................................................................50
+Unit 4  Flows of the variables in the economy.......................................................................................51
+Unit 5  Leakages and injections in the circular ow..............................................................................52
+Unit 6  National accounting aggregates.................................................................................................54
+Chapter 4  Business cycles....................................................................................................58
+Unit 1  Time series composition.............................................................................................................58
+Unit 2  Phenomenon of the business cycle............................................................................................61
+Unit 3  Reasons for the business cycle....................................................................................................65
+Unit 4  Effects of the business cycle.......................................................................................................67
+Module 1  Summary................................................................................................................................70
+Module 1  Data response........................................................................................................................71
+Module 2  Microeconomics73
+Chapter 5  Dynamics of markets.............................................................................................74
+Unit 1  The market..................................................................................................................................74
+Unit 2  Value, price and utility...............................................................................................................76
+Unit 3  Composition of markets.............................................................................................................80
+Unit 4  Kinds of markets.........................................................................................................................82
+Unit 5  Formation of prices.....................................................................................................................86
+Unit 6  Functions of markets..................................................................................................................96
+Chapter 6  Production possibility curve..................................................................................98
+Unit 1  Production possibility curves.....................................................................................................98
+Unit 2  Inefciency ..............................................................................................................................102
+Unit 3  Maximising satisfaction using indifference curves .................................................................104
+Chapter 7  Public sector......................................................................................................110
+Unit 1  Public sector and the market....................................................................................................110
+Unit 2  Methods of public sector involvement....................................................................................112
+Module 2  Summary..............................................................................................................................125
+Module 2  Data response......................................................................................................................127
+9780199058884_OS_Economics_10_LB_masterset_Reprint_Aug17.indb   32017/09/04   4:57 PM
+How to use this book
+How to use this book
+Welcome to
+Oxford Successful Economics Grade 10
+. The table of contents on pages 3 – 4 would already have
+given you a good idea of how this book is laid out. This section will help you to understand how the
+book works.
+The book is divided into
+modules
+that group together the main topics within Economics. On the first
+page of every module, you should study the mind map that shows you what sub-topics will be covered
+during the module. This first page looks like this:
+Module name
+Identifies the main topic of the module.
+Mind map
+Unpacks the sub-topics of the module. Sub-topics
+are separate units within the module.
+At the end of each module, you will find the following:
+module summary
+that gives you definitions of key economic concepts covered in the module
+module revision
+consisting of data response activities that you can use to apply the economic theory
+you have learnt to real-life scenarios. These will also help you identify parts of the module that you
+did not understand very well.
+You will see the following features throughout the book:
+Unit name
+Identifies the sub-topic that the unit covers
+within the module.
+Let us check
+Revises skills and knowledge you should
+already have. It can recap related content taught in earlier
+units.
+Definition
+Defines key concepts that you need to learn and
+understand. These are also found on the side of the page.
+New words
+Explains key words to learn and remember.
+Know the difference
+Highlights terms that are likely to be
+confusing because they are so similar, but are often opposite
+in meaning. Be sure to revise all of these when you study so
+that you do not mistake these terms in the heat of the exam
+room!
+42
+Chapter 3
+Circular flow and national accounting aggregates
+UNIT 1
+chapTer
+Circular ow
+Let us check
+By now you know that:
+resources or factors of production are scarce and choices have to be made
+the economic processes are production, exchange and consumption
+economists use models to explain economic processes
+In this chapter you will look at the way the economy works: the
+flows
+of
+the factors of production, goods and money in the economy. You will also
+discover how the economy is measured by using the national accounting
+aggregates called the Gross Domestic Product (GDP) and the Gross National
+Income (GNI).
+Final goods and services
+Factors of pr
+oduction
+Producers
+(businesses)
+Consumers
+(households)
+Figure 1
+The circular ow of income and
+expenditure showing two main participants
+The
+circular flow of income
+and expenditure is a continuous movement
+of goods and services and money between the consumers and the
+producers in the economy.
+The circular flow of income and expenditure is a model of the economy and is
+presented in the form of a diagram.
+The circular flow diagram
+The economy consists of a very complex web of a large number of different
+activities that are undertaken by millions of people. These activities range
+from buying the latest CD to producing headache tablets, to printing
+schoolbooks. Economists have constructed
+a model of the economy so that this
+complicated structure can be explained in
+a simple way. This model shows how the
+different participants interact and how
+their behaviour influences the outcomes
+of the economic system. The model is
+called the circular flow of income and
+expenditure and is illustrated using a
+diagram.
+Figure 1 shows an example of a circular
+flow diagram. There are two flows. The
+solid lines show the real flow of goods and
+services in the economy. The dotted lines
+show the money flow in the economy.
+Know the
+difference
+You can see that there
+are two main flows in the
+economy:
+•the
+real flows
+or the
+flows of the factors of
+production and of output
+(final goods and services)
+•the
+money flows
+or the
+flows of income and
+expenditure
+New word
+flow:
+the movement of
+goods and services, factors
+of production, and money
+(income and expenditure) in
+the economy
+Module 1
+Macroeconomics
+Macroeconomics
+MODULE
+Chapter 1 introduces some of the terms you will need to know and describes
+the way economists think. Economics is all about scarcity and, in Chapter2,
+you will discover more about the effect of scarcity. Chapter 3 looks at the
+economy as a circular flow of resources, goods and services and money. It also
+explains how economic activity is measured. Chapter 4 is all about business
+cycles.
+Basic economics concepts
+•Unpackingeconomics
+•Methodsusedin
+economics
+•Settingofeconomics
+•Careeropportunities
+The economic problem
+•Scarcityproblem
+•Basiceconomicprocesses
+•Economics,humanrights
+andtheenvironment
+Circular ow and national
+accounting aggregates
+•Circularáow
+•Participantsinthecircular
+áow
+•Marketsinthecircularáow
+•Flowsofthevariablesin
+theeconomy
+•Leakagesandinjectionsin
+thecircularáow
+•GrossDomesticProduct
+andGrossNationalIncome
+Business cycles
+•Timeseriescomposition
+•Phenomenonofbusiness
+cycles
+•Reasonsforthebusiness
+cycle
+•Effectsofthebusiness
+cycle
+Macroeconomics
+9780199058884_OS_Economics_10_LB_masterset_Reprint_Aug17.indb   62017/09/04   4:57 PM
+How to use this book
+Diagrams, graphs, cartoons and photographs
+Labelled with
+captions to help you understand the text.
+Activities
+Tasks where you apply concepts and knowledge you
+learnt in the unit.
+Exam words
+Explains key instruction words so that you
+understand what you have to do in activities.
+You will also  nd examples of these features in this book:
+Content link
+Draws attention to topics elsewhere in this book
+that link with the content of the module.
+Case studies
+Present scenarios and people’s experiences. These will help with the application of your
+knowledge.
+Visit this website
+Gives the web links for relevant websites where you can find more information. Use
+these when you need to do research.
+Worked examples and calculations
+These will help you see how a question must be answered and set
+out in a test or an exam.
+Note
+Things to remember or keep in mind as your read the page.
+Careers
+Shows you a few examples of what careers are available for you to pursue in Economics.
+We used the following icons (little pictures) to make it easier for you to distinguish between different
+activities:
+Marks an activity that forms part of the formal Programme of Assessment.
+Marks a challenging activity that you can try after you have mastered a skill.
+At the end of this book, you will  nd:
+Study and exam skills
+It has tips on how to approach your activities, how to study, and how to
+prepare for tests and exams. Included is a list of the key instruction words you need to know in order to
+understand instructions in activities, tests and exams. Full practice tests and an exam are also included to
+enable you to approach your final exams with confidence.
+Glossary
+An alphabetical list of the meanings of all the new and difficult words and key concepts
+defined in this Learner’s Book. Use this list as a study aid to prepare for tests and exams.
+Index
+An alphabetical list of all the topics, subtopics and important concepts covered in this book,
+together with their page references. You will find the index more useful than the contents page to find
+your way quickly to a section of work.
+Have con dence in your success this year with
+Oxford Successful Economics
+Good luck!
+The Authors and Publisher
+Unit 2
+Methods used in economics
+19
+MODULE
+Activity 2
+Explain methods of economics
+Read the extract and answer the questions that foow:
+Exam words
+quote:
+repeat in speech or
+writing words previously
+said or written by another
+person
+indicate
+: show
+suggest:
+give ideas,
+solutions or reasons for
+something.
+Exam words
+distinguish:
+show the
+difference between
+Firms
+Households
+Markets
+Markets
+Business activity
+Time
+Circular ow model
+Business cycle
+Figure 2
+Examples of economic models
+Economy performed well in
+early 2010
+Linda Ensor
+The economy performed ‘sighty better’ in the rst six months of the
+scal
+year than projected, despite the three-week pubic sector strike, Finance
+Minister Pravin Gordhan said yesterday (21 October, 2010). This meant the
+actua growth outcome for this year coud be moderatey higher than the
+Treasury’s budget forecast.
+The revised forecasts wi be pubished when Mr Gordhan tabes the mid-
+term budget poicy statement on Wednesday next week. In the February
+budget, the Treasury forecast growth of 2,3% this year, 3,2% next year and
+3,6% in 2012.
+Business Day,
+22 October 2010
+Challenge
+Use the scientific method
+Choose one of the foowing topics and do research about it using the
+scientific method. Show the steps ceary that you used to do your research.
+The main causes of unempoyment in South Africa
+Distinguish between needs and wants
+New words
+fiscal:
+related to
+government or public money
+Content link
+You will learn more
+about circular flows in
+the economy later in this
+module.
+Quote one positive and one normative statement in the extract
+beow.(4)
+Indicate a statistic used by economists to make growth forecasts in
+the extract.(2)
+Suggest why it is difficut to do research in economics.(8)
+Give one use for economic modes.(2)
+TOTAl: 16 marks
+9780199058884_OS_Economics_10_LB_masterset_Reprint_Aug17.indb   72017/09/04   4:57 PM

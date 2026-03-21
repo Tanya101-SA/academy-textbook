@@ -1,0 +1,105 @@
+======================================================================
+Platinum Mathematics Grade 11 Learner's Book
+ISBN: 9780636158757
+Publisher: Platinum (Pearson South Africa)
+Curriculum: CAPS
+======================================================================
+
+TABLE OF CONTENTS
+──────────────────────────────────────────────────────────────────────
+
+
+Cover
+Title
+Term 1
+    TOPIC 1 Algebra: Exponents and surds
+        Unit 1 Laws of exponents (revision)
+        Unit 2 Simplify expressions with rational exponents
+        Unit 3 Solve equations with rational exponents
+        Unit 4 Surds
+    Revision
+    TOPIC 2 Algebra: Equations and inequalities
+        Unit 1 Completing the square
+        Unit 2 Quadratic equations
+        Unit 3 Quadratic inequalities
+        Unit 4 Equations in two unknowns (simultaneous equations)
+        Unit 5 Nature of roots
+    Revision
+    TOPIC 3 Algebra: Number patterns
+        Unit 1 Linear patterns
+        Unit 2 Quadratic patterns
+    Revision
+    TOPIC 4 Analytical geometry
+        Unit 1 The equation of a straight line
+        Unit 2 Inclination of a line
+    Revision
+    Formal assessment: Investigation: Ratios and the Golden Ratio
+    Formal assessment: Term 1 test
+    Term 1 summary
+Term 2
+    TOPIC 5 Functions: Effects of parameters
+        Unit 1 The effects of the parameters a, p and q on parabolas
+        Unit 2 The effects of the parameters a, p and q on hyperbolas
+        Unit 3 The effects of the parameters a, p and q on exponential graphs
+        Unit 4 Real life applications
+        Unit 5 The average gradient between two points on a curve
+    Revision
+    TOPIC 6 Functions: Trigonometric graphs
+        Unit 1 Revision of trigonometric graphs using point-by-point plotting
+        Unit 2 The effects of the parameter k on some trigonometric functions (graphs of the functions defined by y = sin kx, y = cos kx and y = tan kx)
+        Unit 3 Horizontal shifts
+        Unit 4 Determine the equations of trigonometric graphs
+        Unit 5 Sketch graphs of which the period changes and which are shifted horizontally
+    Revision
+    TOPIC 7 Trigonometry
+        Unit 1 Revision of Grade 10 trigonometry
+        Unit 2 Identities
+        Unit 3 Reduction formulae
+        Unit 4 Trigonometric equations – specific and general solutions
+    Revision
+    Formal assessment: Assignment: Term 2 test
+    Term 2 summary
+    Formal assessment: Examination practice Paper 1
+    Examination practice Paper 2
+Term 3
+    TOPIC 8 Measurement
+        Unit 1 Revision of Grade 10 measurement
+    Revision
+    TOPIC 9 Euclidean geometry and measurement
+        Unit 1 Geometry revision
+        Unit 2 Circles, perpendicular lines through the centre, chords and midpoints
+        Unit 3 Angle at centre theorem and cyclic quadrilaterals
+        Unit 4 Tangents
+    Revision
+    TOPIC 10 Trigonometry: sine, cosine and area rules
+        Unit 1 Proof and application of sine, cosine and area rule
+        Unit 2 Two-dimensional problems using the sine, cosine and area rules
+    Revision
+    TOPIC 11 Finance, growth and decay
+        Unit 1 Simple and compound decay
+        Unit 2 The effect of different periods of compound growth and decay
+    Revision
+    TOPIC 12 Probability
+        Unit 1 Addition and complementary rules; dependent and independent events
+        Unit 2 Venn diagrams
+        Unit 3 Using tree diagrams to solve problems regarding events not necessarily independent
+        Unit 4 Contingency tables
+    Revision
+    Formal assessment: Term 3 test 1
+    Term 3 test 2
+    Term 3 summary
+Term 4
+    TOPIC 13 Statistics
+        Unit 1 Histograms and frequency polygons
+        Unit 2 Ogive curves
+        Unit 3 Variance and standard deviation of ungrouped data
+        Unit 4 Symmetric and skewed data
+        Unit 5 Identification of outliers
+    Revision
+    Formal assessment: Term 4 Test
+    Term summary
+    Formal assessment: Examination practice Paper 1
+    Examination practice Paper 2
+Answers
+Glossary
+Imprint page

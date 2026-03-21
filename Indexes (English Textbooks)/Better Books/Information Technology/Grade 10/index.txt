@@ -1,0 +1,15 @@
+Delphi Programming for Grade 10 to 12 - Grade 10 Section (CAPS IT Practical)
+Publisher: Better Books (Authors: Heathcote and Sobey)
+
+Chapter 1: Introduction to the Delphi IDE / Programming Environment
+Chapter 2: Variables, Constants and Data Types
+Chapter 3: Input and Output (Edit boxes, Labels, ShowMessage, InputBox)
+Chapter 4: Arithmetic Operations and Expressions
+Chapter 5: Selection Structures (if...then...else, case)
+Chapter 6: Repetition / Loops (for, while, repeat...until)
+Chapter 7: String Manipulation (Basic)
+Chapter 8: Introduction to Procedures and Functions
+Chapter 9: Working with Components (Buttons, checkboxes, radio buttons, list boxes, combo boxes)
+Chapter 10: Basic File Handling (TextFiles)
+
+Source: Web research - CAPS Information Technology practical curriculum, common SA IT textbook structures

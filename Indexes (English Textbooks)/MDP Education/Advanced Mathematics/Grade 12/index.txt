@@ -1,0 +1,42 @@
+MDP Education - CAPS Approved
+Subject: Advanced Mathematics
+Grade 12
+Phase: FET Phase
+Publisher: MDP Education
+Book: Mindbourne AP Mathematics - Paper 1
+Source: CAPS Policy Document
+
+--- TABLE OF CONTENTS ---
+
+Term 1
+  Algebra
+    - Polynomials
+    - Factor and remainder theorem
+    - Complex numbers (De Moivre)
+  Calculus
+    - Advanced integration techniques
+    - Integration by parts
+    - Partial fractions
+
+Term 2
+  Calculus (continued)
+    - Volumes of revolution
+    - Differential equations introduction
+    - Applications
+  Matrices
+    - Eigenvalues and eigenvectors introduction
+    - Cayley-Hamilton theorem
+
+Term 3
+  Probability and Statistics
+    - Advanced probability
+    - Distributions (Normal, Binomial)
+    - Hypothesis testing introduction
+  Geometry
+    - Coordinate geometry extensions
+    - Conic sections
+
+Term 4
+  Revision
+    - All AP Mathematics Paper 1 topics
+    - Past paper practice

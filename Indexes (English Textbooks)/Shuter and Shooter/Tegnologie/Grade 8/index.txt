@@ -1,0 +1,60 @@
+Shuter and Shooter - CAPS Approved
+Subject: Tegnologie
+Grade 8
+Phase: Senior Phase
+Publisher: Shuter and Shooter
+Book: Ace It! Tegnologie Graad 8
+Source: CAPS Policy Document
+
+--- TABLE OF CONTENTS ---
+
+Term 1
+  Structures: Frame Structures
+    - Frame structures definition
+    - Structural members in roof trusses
+    - Structures that span space (beams, bridges, arches)
+    - Structural failure
+  Mechanical Systems and Control
+    - The wedge and wheel and axle
+    - Gears (spur gears, idler gears, gear ratios)
+    - Cam and Crank mechanisms
+  Communication Skills
+    - Working drawing techniques
+    - Isometric drawing
+    - Perspective drawing
+
+Term 2
+  Impact of Technology
+    - Positive impact (biodegradable materials, recycling)
+    - Packaging design
+    - Negative impact of technology
+  Structures and Processing
+    - Forces (tension, compression, bending, torsion, shear)
+    - Adapting materials to withstand forces
+    - Selecting metal sections
+
+Term 3
+  Mechanical Systems and Control
+    - Levers (first, second and third class)
+    - Gear systems and velocity ratio
+    - Mechanical advantage calculations
+    - System analysis (bicycle gear system)
+    - Systems diagrams (input-process-output)
+  Impact and Indigenous Technology
+    - Impact of mining on environment
+    - Indigenous mining of iron
+    - Gender bias in career choice
+
+Term 4
+  Electrical Systems and Control
+    - Circuit components and symbols
+    - Electrochemical cells
+    - Series and parallel batteries
+    - Photovoltaic cells
+    - Electricity generation
+    - National grid
+    - Ohm's Law introduction
+    - AND and OR logic gates
+  Impact of Technology
+    - Energy for heating, lighting and cooking
+    - Equitable sharing of resources

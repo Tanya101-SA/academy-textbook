@@ -1,0 +1,103 @@
+======================================================================
+Focus Accounting Grade 12 Learner's Book
+ISBN: 9780636187856
+Publisher: Focus (Pearson South Africa)
+Curriculum: CAPS
+======================================================================
+
+TABLE OF CONTENTS
+──────────────────────────────────────────────────────────────────────
+
+
+TERM 1
+    Chapter 1: Financial Accounting for companies
+        1.1 Introducing companies
+        1.2 What is a company?
+        1.3 Registration procedures for a company
+        1.4 Unique concepts for companies
+        1.5 IFRS and GAAP principles
+        1.6 Bookkeeping entries for companies
+        Exam practice
+        Programme of Assessment: Written report
+    Chapter 2: Year-end reporting for companies
+        2.1 Year-end procedures for companies
+        2.2 Financial statements for companies
+        2.3 Cash Flow Statements
+        Exam practice
+    Chapter 3: Analysis and interpretation of companies
+        3.1 The need to measure performance
+        3.2 Measuring profitability
+        3.3 Measuring solvency
+        3.4 Measuring liquidity
+        3.5 Measuring risk
+        3.6 Measuring return
+        3.7 Valuing shares
+        3.8 Analysing published annual reports
+        Exam practice
+        Programme of Assessment: Term 1 test
+        Programme of Assessment: Project
+TERM 2
+    Chapter 4: Ethics
+        4.1 Professional bodies in Accounting
+        4.2 Disciplinary measures
+        4.3 Policies governing ethical behaviour
+        4.4 Legislation governing companies
+        Exam practice
+    Chapter 5: Asset management
+        5.1 Tangible/fixed assets
+        5.2 Asset management
+        5.3 Asset movements
+        5.4 Asset Movement Schedules
+        5.5 Analyse and interpret asset disposal
+        Exam practice
+    Chapter 6: Close corporations
+        6.1 CCs as a form of ownership
+        6.2 Concepts related to CCs
+        6.3 The difference between the financial  statements of a company and a CC
+        Exam practice
+    Chapter 7: Internal control
+        7.1 Internal control and internal audit processes in a business
+        7.2 Gathering audit evidence
+        7.3 Basic sampling techniques
+        7.4 The Internal Audit Report
+        Exam practice
+    Chapter 8: Inventory systems
+        8.1 The perpetual inventory system
+        8.2 The periodic inventory system
+        8.3 Methods of valuing stock
+        8.4 The FIFO stock-valuation method
+        8.5 The weighted average stock-valuation method
+        8.6 The specific identification method stock-valuation system
+        Exam practice
+    Chapter 9: Reconciliations
+        9.1 Analyse and interpret Bank Statements and Bank Reconciliation Statements
+        9.2 Reconcile creditors statements with their personal accounts
+        9.3 Analyse and interpret Debtors Age Analysis
+        9.4 Reconcile Debtors and Creditors Lists with the control accounts
+        Exam practice
+    Chapter 10: Value-added tax (VAT)
+        10.1 VAT input
+        10.2 VAT output
+        10.3 Posting VAT entries to the General Ledger
+        Exam practice
+TERM 3
+    Chapter 11: Cost Accounting
+        11.1 Unique concepts for manufacturing concerns
+        11.2 Financial statements for manufacturing concerns
+        11.3 The Production Cost Statement
+        11.4 The Abridged Income Statement
+        Exam practice
+        Programme of Assessment: Term 3 test
+    Chapter 12: Budgeting
+        12.1 The importance of planning
+        12.2 Analysing a Projected Income Statement
+        12.3 Analysing a Cash Budget
+        Exam practice
+        Programme of Assessment: Case study
+TERM 4
+    Revision section
+Practice exams
+    Practice examination 1
+    Practice examination 2
+Glossary
+Index

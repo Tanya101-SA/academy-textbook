@@ -1,0 +1,60 @@
+Maskew Miller Learning - CAPS Approved
+Subject: Geography
+Grade 12
+Phase: FET Phase
+Publisher: Maskew Miller Learning
+Book: Focus Geography Grade 12
+ISBN: 978-0-636-14117-9
+Source: CAPS Policy Document (Geography Grade 10-12)
+
+--- TABLE OF CONTENTS ---
+
+Term 1
+  Topic 1: Climate and Weather
+    - Mid-latitude cyclones (characteristics, formation, stages, weather patterns, fronts)
+    - Tropical cyclones (formation, stages, satellite images, case study, impact, management)
+    - Subtropical anticyclones (high-pressure cells, air circulation, travelling disturbances, berg winds)
+    - Valley climates (micro-climate, anabatic and katabatic winds, inversions, frost pockets)
+    - Urban climates (urban heat islands, pollution domes, strategies to reduce effects)
+  Topic 2: Geomorphology
+    - Drainage systems in South Africa (drainage basin, river types, drainage patterns, stream order)
+    - Fluvial processes (river profiles, meanders, oxbow lakes, floodplains, waterfalls, rejuvenation, river capture)
+    - Catchment and river management (importance, human impact, SA case study)
+  Geographical Skills and Techniques
+    - Synoptic weather maps and satellite images
+    - Topographic maps: contours, cross-sections, gradient, intervisibility
+    - GIS: catchment areas, paper GIS
+
+Term 2
+  Topic 3: Rural and Urban Settlement
+    - Study of settlements (concept, site and situation, classification)
+    - Rural settlements (location, classification by pattern and function, settlement shapes, land use)
+    - Rural settlement issues (rural-urban migration, depopulation, land reform)
+    - Urban settlements (origin, development, urbanisation, classification by function)
+    - Urban hierarchies (central place, threshold population, sphere of influence)
+    - Urban structure and patterns (land use zones, models: multiple-nuclei, South African city)
+    - Urban settlement issues (planning, housing, overcrowding, informal settlements)
+  Geographical Skills and Techniques
+    - Mapwork skills: scale, contours, cross-sections
+    - GIS: remote sensing, resolution, data types, data manipulation
+
+Term 3
+  Topic 4: Economic Geography of South Africa
+    - Structure of the economy (primary, secondary, tertiary, quaternary sectors)
+    - Agriculture (contribution to economy, small-scale and large-scale, food security)
+    - Mining (significance, factors, case study of a main mineral)
+    - Secondary and tertiary sectors (industry types, factors, industrial regions)
+    - Strategies for industrial development (IDZs, SDIs, centralisation and decentralisation)
+    - Informal sector (characteristics, challenges, case studies)
+  Geographical Skills and Techniques
+    - Topographic maps: scale, contours, grid referencing
+    - GIS: satellite images, data analysis
+    - Using atlases: thematic maps
+
+Term 4
+  Revision
+    - Climate and weather
+    - Geomorphology
+    - Settlement geography (rural and urban)
+    - Economic geography of South Africa
+    - Geographical skills and techniques

@@ -1,0 +1,48 @@
+MDP Education - CAPS Approved
+Subject: Advanced Mathematics
+Grade 11
+Phase: FET Phase
+Publisher: MDP Education
+Book: Mindbourne AP Mathematics - Paper 1
+Source: CAPS Policy Document
+
+--- TABLE OF CONTENTS ---
+
+Term 1
+  Algebra
+    - Mathematical induction
+    - Complex numbers introduction
+    - Algebra of complex numbers
+  Calculus
+    - Advanced differentiation rules
+    - Chain rule, product rule, quotient rule
+    - Implicit differentiation
+
+Term 2
+  Calculus (continued)
+    - Integration introduction
+    - Fundamental theorem of calculus
+    - Area under curves
+    - Applications of integration
+  Matrices
+    - Determinants
+    - Inverse matrices
+    - Applications to systems of equations
+
+Term 3
+  Geometry
+    - Transformation geometry
+    - Advanced Euclidean geometry proofs
+    - Non-Euclidean geometry introduction
+  Statistics
+    - Advanced data analysis
+    - Regression analysis
+    - Bivariate data
+
+Term 4
+  Finance
+    - Advanced annuities
+    - Amortisation
+    - Sinking funds
+  Revision
+    - All AP Mathematics topics

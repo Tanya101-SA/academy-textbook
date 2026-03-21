@@ -1,0 +1,108 @@
+======================================================================
+Platinum Mathematics Grade 12 Learner's Book
+ISBN: 9780636151116
+Publisher: Platinum (Pearson South Africa)
+Curriculum: CAPS
+======================================================================
+
+TABLE OF CONTENTS
+──────────────────────────────────────────────────────────────────────
+
+
+Contents
+Term 1
+    Topic 1: Patterns, sequences and series
+        Unit 1: Arithmetic sequences
+        Unit 2: Geometric sequences
+        Unit 3: The sum of arithmetic series
+        Unit 4: The sum of geometric series
+        Unit 5: Sigma notation
+        Unit 6: Practical applications
+        Unit 7: Quadratic patterns and combinations of arithmetic and geometric sequences
+        Revision Test Topic 1
+        Formal Assessment: Assignment
+    Topic 2: Functions and inverse functions
+        Unit 1: Functions
+        Unit 2:  Inverse functions
+        Revision Test Topic 2
+    Topic 3: Exponential and logarithmic functions
+        Unit 1:  Revision of exponential laws and functions
+        Unit 2: Logarithms and logarithmic functions
+        Revision Test Topic 3
+    Topic 4: Finance, growth and decay
+        Unit 1: Revision: Grade 11 Finance, growth and decay
+        Unit 2: Derivation and use of formulae for annuities
+        Unit 3: Annuity application and problem solving
+        Unit 4: Calculate time periods using logarithms
+        Unit 5: Analyse investments and loan options
+        Revision Test Topic 4
+    Topic 5: Trigonometry: Compound and double angle identities
+        Unit 1: Revision: Grade 11 Trigonometry
+        Unit 2: Derive the compound and double angle identities
+        Unit 3: Prove identities using compound and double angle identities
+        Unit 4: Solve equations and determine the general solution
+        Revision Test Topic 5
+        Formal Assessment:
+        Option 1: Investigation: Area of polygons
+        Option 2: Project: Compound interest
+    Term 1 summary
+Term 2
+    Topic 6: Trigonometry: Problem solving in two and three dimensions
+        Unit 1: Problems in two dimensions 
+        Unit 2: Problems in three dimensions 
+        Revision Test Topic 6
+    Topic 7: Polynomials
+        Unit 1: Factorise third degree polynomials 
+        Unit 2: Factorise and solve cubic polynomials using the remainder or factor theorem
+        Revision Test Topic 7
+    Topic 8: Differential calculus
+        Unit 1: Limits
+        Unit 2: Use limits to define the derivative of a function f
+        Unit 3: Differentiation of functions from first principles
+        Unit 4: Use the specific rules for differentiation
+        Unit 5: Find the equations of tangents to functions
+        Unit 6: The second derivative
+        Unit 7: Sketch cubic graphs 
+        Unit 8: Optimisation and rate of change
+        Revision Test Topic 8
+    Topic 9: Analytical geometry
+        Unit 1:  Equations of a circle
+        Unit 2:  Equation of a tangent to a circle
+        Revision Test Topic 9
+            Mid-year Exam practice: Paper 1
+            Mid-year Exam practice: Paper 2
+    Term 2 summary
+Term 3
+    Topic 10: Euclidean geometry
+        Unit 1: Revision: Grade 11 Geometry
+        Unit 2: Similar polygons
+        Unit 3: Proportionality theorem
+        Unit 4: Equiangular triangles and similarity
+        Unit 5: Triangles with proportional sides and similarity
+        Unit 6:  Pythagoras’ Theorem and similarity
+        Revision Test Topic 10
+    Topic 11: Statistics
+        Unit 1: Revision of skewed and symmetric data
+        Unit 2: Bivariate data: scatter plots, regression lines and correlation
+        Revision Test Topic 11
+    Topic 12: Counting principles and probability
+        Unit 1: Revision of rules for independent, mutually exclusive and complementary events
+        Unit 2: Use Venn diagrams, tree diagrams and contingency tables to solve problems
+        Unit 3: The fundamental counting principle
+        Unit 4: Applications of the counting principle to solve probability problems
+        Revision Test Topic 12
+            Preliminary Exam practice: Paper 1
+            Preliminary Exam practice: Paper 2
+    Term 3 summary
+Term 4
+    Unit 1 Structure of final examination
+    Unit 2 Exam practice A
+        Paper 1
+        Paper 2
+    Unit 3 Exam practice B
+        Paper 1
+        Paper 2
+    Term 4 summary
+Answers
+Glossary
+Index

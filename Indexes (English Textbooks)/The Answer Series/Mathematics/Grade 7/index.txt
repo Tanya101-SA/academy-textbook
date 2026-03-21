@@ -1,0 +1,110 @@
+Grade 7 Mathematics - The Answer Series 3-in-1 (Part 1 & Part 2)
+
+PART 1: NUMBERS, OPERATIONS & RELATIONSHIPS
+    Whole Numbers
+    Integers
+    Common Fractions
+    Decimal Fractions
+    Percentages
+
+PART 1: SPACE & SHAPE (GEOMETRY)
+    Geometry of 2D Shapes
+    Geometry of 3D Objects
+    Transformation Geometry
+    Constructions
+
+PART 1: MEASUREMENT
+    Area & Perimeter of 2D Shapes
+    Volume & Surface Area of 3D Objects
+
+PART 1: DATA HANDLING
+    Data Collection & Organisation
+    Representing Data
+    Interpreting Data
+    Probability
+
+PART 2: PATTERNS, FUNCTIONS & ALGEBRA
+    Numeric & Geometric Patterns
+        The Language of Patterns
+        Numeric patterns
+        Geometric patterns
+        Investigating numeric patterns
+        Patterns with a common difference
+        Patterns with a common ratio
+        Patterns with fractions
+        Recursive sequences
+        Investigating geometric patterns
+    Functions & Relationships
+        Input and Output Values
+        Rules in Function Machines
+        Equivalent Forms
+    Algebraic Expressions
+        Algebraic Language
+        Some algebraic conventions
+        Substitution in Patterns
+    Algebraic Equations
+        Solving basic equations
+        Solving equations with two operations
+        Solving equations where the answer is an integer
+        Solving equations where the answer can be a fraction or an integer
+        Solving equations with brackets
+        Solving equations using square roots
+        Solving equations using cube roots
+        Using algebraic expressions and equations to help with word sums
+    Graphs
+        Linear and Non-Linear Graphs
+        Linear graphs
+        Non-linear graphs
+        Interpreting Graphs
+        Trends and Features of Graphs
+        Practical Graph Applications
+        Drawing Graphs
+
+PART 2: SPACE & SHAPE (GEOMETRY)
+    Geometry of Straight Lines & 2D Shapes
+        Conventions for Naming Angles
+        Angle pairs
+        Types and sizes of angles
+        Geometry of Straight Lines
+        Triangles
+        Types of triangles
+        Classification of triangles
+        Quadrilaterals
+        Properties of quadrilaterals
+        Combining triangles and quadrilaterals
+        Congruent and Similar 2D Shapes
+        Congruent shapes
+        Similar shapes
+        Circles
+        Parts of a circle
+    Geometry of 3D Objects
+        Classifying 3D Objects
+        Two-dimensional (2D) shapes
+        Three-dimensional (3D) objects
+    Transformation Geometry
+        Transformations
+        Translations
+        Reflections
+        Rotations
+        Enlargements and Reductions
+    Constructions
+        Measuring Angles
+        Constructing line segments
+        Constructing angles
+        Constructing a parallel line through a given point
+        Constructing perpendicular and parallel lines
+        Constructing a perpendicular line from a point to a line
+
+PART 2: MEASUREMENT
+    Area & Perimeter of 2D Shapes
+        Units of Length
+        Perimeter
+        Formulae for perimeter
+        Challenging examples
+        More challenging examples with ratios
+        Area
+        Area of rectangles
+        Areas of shapes that can be divided up into rectangles
+        Area of triangles
+        Calculate a height or a base of a triangle given the area
+        Solving Problems using Triangles

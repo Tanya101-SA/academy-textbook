@@ -1,0 +1,245 @@
+======================================================================
+Via Afrika Lewenswetenskappe Graad 10 Leerderboek
+ISBN: 978-1-41546-014-6
+Uitgewer: Via Afrika
+Outeurs: M. Bowie, A. Johannes, R. Mhlongo, E. Pretorius
+Kurrikulum: KABV (CAPS)
+Fase: VOO-fase (FET Phase)
+Nota: KABV-gelynstel onderwerp/sub-onderwerp struktuur. Bladsynommers is van die studiegids (978-1-41546-326-0).
+Bron: https://viaafrika.com/product/via-afrika-lewenswetenskappe-graad-10-leerderboek-2/
+======================================================================
+
+INHOUDSOPGAWE
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 1 — Kennisbaan: Lewe op molekulêre, sellulêre en weefselvlak
+
+    Onderwerp 1: Die chemie van lewe
+        Eenheid 1: Molekules vir lewe
+            1.1 Die kleinste strukture van lewe
+            1.2 Elemente noodsaaklik vir lewe
+        Eenheid 2: Anorganiese verbindings
+            2.1 Water en die belangrikheid daarvan vir lewe
+            2.2 Minerale en hul rol in organismes
+        Eenheid 3: Organiese verbindings
+            3.1 Koolhidrate (monosaggariede, disaggariede, polisaggariede)
+            3.2 Lipiede (vette en olies)
+            3.3 Proteïene (aminosure, peptiedbindings)
+            3.4 Nukleïensure (DNS en RNS)
+            3.5 Vitamiene
+            3.6 Voedseltoetse (stysel, glukose, proteïen, vette)
+
+    Onderwerp 2: Selle — die basiese eenhede van lewe
+        Eenheid 1: Die ontdekking van selle
+            1.1 Geskiedenis van die ontdekking van selle
+            1.2 Selteorie
+        Eenheid 2: Die ligmikroskoop
+            2.1 Dele en funksies van die ligmikroskoop
+            2.2 Voorbereiding en bestudering van skyfies
+            2.3 Berekening van vergroting en werklike grootte
+        Eenheid 3: Basiese struktuur van selle
+            3.1 Selmembraan
+            3.2 Sitoplasma en organelle
+            3.3 Selkern
+        Eenheid 4: Plantselle
+            4.1 Struktuur en funksie van plantselorganelle
+            4.2 Selwand, chloroplaste, groot sentrale vakuool
+        Eenheid 5: Dierselle
+            5.1 Struktuur en funksie van dierselorganelle
+            5.2 Verskille tussen plant- en dierselle
+
+    Onderwerp 3: Seldeling — mitose
+        Eenheid 1: Die selsiklus en mitose
+            1.1 Die selsiklus (interfase, mitotiese fase)
+            1.2 Fases van mitose (profase, metafase, anafase, telofase)
+            1.3 Sitokinese
+            1.4 Betekenis van mitose (groei, herstel, aseksuele voortplanting)
+        Eenheid 2: Kanker — wanneer seldeling verkeerd gaan
+            2.1 Wat is kanker?
+            2.2 Oorsake van kanker (karsinogene, genetiese faktore)
+            2.3 Tipes gewasse (goedaardig en kwaadaardig)
+            2.4 Behandeling en voorkoming
+
+    Onderwerp 4: Plant- en dierweefsel
+        Eenheid 1: Plantweefsels
+            1.1 Meristeem-weefsel
+            1.2 Permanente weefsel (parenchiem, kollenchiem, sklerenchiem)
+            1.3 Vaatweefsel (xileem, floëem)
+            1.4 Epidermale weefsel
+        Eenheid 2: Dierweefsels
+            2.1 Epiteel-weefsel
+            2.2 Bindweefsel
+            2.3 Spierweefsel (skelet-, gladde, hartspier)
+            2.4 Senuweeweefsel
+        Eenheid 3: Organe
+            3.1 Plant- en dierorgane
+            3.2 Blaarstruktuur en -funksie
+        Eenheid 4: Inheemse kennisstelsels en biotegnologie
+            4.1 Mediese biotegnologie
+            4.2 Kloning (plante en diere)
+            4.3 Stamselnavorsing
+            4.4 Etiek en wetgewing
+
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 2 — Kennisbaan: Lewensprosesse by plante en diere
+
+    Onderwerp 5: Steun- en vervoerstelsels by plante
+        Eenheid 1: Anatomie van dikotielplante
+            1.1 Struktuur van plantweefsels in wortels en stingels
+            1.2 Vergelyking van wortel- en stingeldeursnitte
+            1.3 Sekondêre groei
+        Eenheid 2: Transpirasie
+            2.1 Die proses van transpirasie
+            2.2 Faktore wat die tempo van transpirasie beïnvloed
+            2.3 Transpirasie-stroom
+        Eenheid 3: Opname en vervoer van water en minerale
+            3.1 Opname van water deur wortelhare (osmose)
+            3.2 Beweging van water vanaf wortelhaar na xileem
+            3.3 Roetes van waterbeweging (apoplast, simplast, vakuolêre)
+        Eenheid 4: Translokasie van organiese stowwe
+            4.1 Vervoer van voedsel deur floëem
+            4.2 Bron-na-sink-beweging
+
+    Onderwerp 6: Steunstelsels by diere
+        Eenheid 1: Tipes en funksies van skelette
+            1.1 Hidrostatiese skelet
+            1.2 Eksoskelet
+            1.3 Endoskelet
+        Eenheid 2: Die menslike skelet
+            2.1 Aksiale skelet
+            2.2 Appendikulêre skelet
+            2.3 Funksies van die skelet
+        Eenheid 3: Bene
+            3.1 Struktuur van been
+            3.2 Tipes been (kompakte, sponsagtige)
+        Eenheid 4: Kraakbeen, senings en ligamente
+        Eenheid 5: Gewrigte
+            5.1 Tipes gewrigte (onbeweeglik, effens beweeglik, vrybeweeglik)
+            5.2 Sinoviale gewrigte (skarnier-, bal-en-kas-, spil-, gly-)
+        Eenheid 6: Willekeurige skeletspiere
+            6.1 Struktuur van skeletspier
+            6.2 Antagonistiese spierwerking
+        Eenheid 7: Menslike voortbeweging
+            7.1 Beweging van die voorarm
+            7.2 Stap en hardloop
+        Eenheid 8: Siektes van die skeletstelsel
+            8.1 Osteoporose
+            8.2 Artritis
+            8.3 Ragitis
+
+    Onderwerp 7: Vervoerstelsels by soogdiere (mense)
+        Eenheid 1: Bloedvaskulêre stelsels
+            1.1 Enkel- en dubbelsirkulasiestelsels
+            1.2 Oop en geslote sirkulasiestelsels
+        Eenheid 2: Die hart en geassosieerde bloedvate
+            2.1 Struktuur van die menslike hart
+            2.2 Koronêre bloedvate
+        Eenheid 3: Die rigting van bloedvloei
+            3.1 Pulmonale en sistemiese sirkulasie
+            3.2 Roete van bloed deur die hart
+        Eenheid 4: Die hartsiklus en harttempo
+            4.1 Fases van die hartsiklus
+            4.2 Harttempo en die beheer daarvan (pasaangeëer, senuwee- en hormonale beheer)
+        Eenheid 5: Bloedvate
+            5.1 Arteries, venes en kapillêre
+            5.2 Strukturele verskille en funksies
+        Eenheid 6: Bloed
+            6.1 Samestelling van bloed (plasma, rooibloedselle, witbloedselle, bloedplaatjies)
+            6.2 Funksies van bloedkomponente
+        Eenheid 7: Die limfstelsel
+            7.1 Struktuur en funksie van die limfstelsel
+            7.2 Limfknope en limf
+        Eenheid 8: Siektes van die kardiovaskulêre stelsel
+            8.1 Hartaanval en beroerte
+            8.2 Hoë bloeddruk (hipertensie)
+            8.3 Aterosklerose
+            8.4 Aneurisme
+            8.5 Aarspatare
+
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 3 — Kennisbaan: Omgewingstudies
+
+    Onderwerp 8: Biosfeer tot ekostelsels
+        Eenheid 1: Die biosfeer
+        Eenheid 2: Biome van suidelike Afrika
+            2.1 Grasveld
+            2.2 Savanna
+            2.3 Nama-Karoo
+            2.4 Sukkulente Karoo
+            2.5 Fynbos
+            2.6 Woud
+            2.7 Struikveld
+            2.8 Woestyn
+        Eenheid 3: Ekostelsels
+            3.1 Wat is 'n ekostelsel?
+            3.2 Komponente van 'n ekostelsel (biotiese en abiotiese)
+        Eenheid 4: Die omgewing
+            4.1 Habitat, nis en gemeenskap
+        Eenheid 5: Ekotoerisme
+
+    Onderwerp 9: Biotiese en abiotiese faktore
+        Eenheid 1: Biotiese faktore
+            1.1 Predasie
+            1.2 Kompetisie
+            1.3 Simbiose (mutualisme, kommensalisme, parasitisme)
+        Eenheid 2: Abiotiese faktore
+            2.1 Temperatuur
+            2.2 Water
+            2.3 Lig
+            2.4 Grond (pH, tekstuur, vogtigheid)
+
+    Onderwerp 10: Energievloei en voedingstofsiklusse
+        Eenheid 1: Energievloei deur ekostelsels
+            1.1 Fotosintese en energie-invoer
+            1.2 Trofiese vlakke
+        Eenheid 2: Voedselkettings, voedselwebbe en voedselpiramides
+            2.1 Voedselkettings en voedselwebbe
+            2.2 Piramides van getalle, biomassa en energie
+        Eenheid 3: Voedingstofsiklusse
+            3.1 Die watersiklus
+            3.2 Die koolstofsiklus
+            3.3 Die stikstofsiklus
+
+    Onderwerp 11: Praktiese ondersoek — bestudeer 'n ekostelsel
+        Eenheid 1: Beplanning van 'n ekostelselondersoek
+        Eenheid 2: Bestudering van abiotiese faktore
+        Eenheid 3: Bestudering van biotiese faktore
+        Eenheid 4: Bestudering van menslike impakte op die ekostelsel
+
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 4 — Kennisbaan: Diversiteit, verandering en kontinuïteit
+
+    Onderwerp 12: Biodiversiteit en klassifikasie
+        Eenheid 1: Biodiversiteit
+            1.1 Wat is biodiversiteit?
+            1.2 Spesiediversiteit in Suid-Afrika
+            1.3 Bedreigings vir biodiversiteit
+            1.4 Bewaring van biodiversiteit
+        Eenheid 2: Klassifikasie
+            2.1 Waarom klassifiseer ons?
+            2.2 Klassifikasiestelsels (Linnaeus)
+            2.3 Die vyf-koninkrykstelsel
+            2.4 Binomiale nomenklatuur
+
+    Onderwerp 13: Geskiedenis van lewe op Aarde
+        Eenheid 1: Paleontologie — die studie van fossiele
+            1.1 Wat is fossiele?
+            1.2 Tipes fossiele
+            1.3 Hoe fossiele gevorm word
+            1.4 Fossielrekord
+        Eenheid 2: Die geskiedenis van lewensvorme
+            2.1 Tydlyn van lewe op Aarde
+            2.2 Massa-uitsterwings
+            2.3 Kontinentale verskuiwing
+        Eenheid 3: Fossieltoerisme in Suid-Afrika
+            3.1 Die Wieg van die Mensdom
+            3.2 Die Karoo-fossielterreine
+            3.3 Weskus-fossielpark
+
+──────────────────────────────────────────────────────────────────────
+
+ANTWOORDE OP VRAE
+EKSAMENVRAESTELLE EN ANTWOORDE

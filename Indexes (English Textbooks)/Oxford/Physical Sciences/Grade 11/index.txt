@@ -1,0 +1,183 @@
+======================================================================
+Oxford Successful Physical Sciences Grade 11 Learner's Book
+ISBN: 9780199057863
+Publisher: Oxford University Press Southern Africa
+Curriculum: CAPS
+Note: Page numbers for Modules 1-2 from Calameo sample. Remaining modules follow CAPS structure.
+======================================================================
+
+TABLE OF CONTENTS
+──────────────────────────────────────────────────────────────────────
+
+TERM 1 Mechanics (Physics)
+    Module 1: Mechanics...........................................................................................................19
+        Unit 1: Vectors...............................................................................................................20
+        Unit 2: Resultant of perpendicular vectors....................................................................22
+        Unit 3: Resultant of more than two vectors....................................................................24
+        Unit 4: Forces at an angle..............................................................................................26
+        Unit 5: Components of vectors.......................................................................................28
+        Unit 6: Forces.................................................................................................................30
+        Unit 7: Components of weight........................................................................................32
+        Unit 8: Frictional force...................................................................................................34
+        Unit 9: Coefficients of friction........................................................................................36
+        Unit 10: Newton's first law of motion.............................................................................40
+        Unit 11: Apply Newton's first law...................................................................................42
+        Unit 12: Net force and acceleration.................................................................................44
+        Unit 13: Newton's second law of motion........................................................................47
+        Unit 14: Apply Newton's second law...............................................................................50
+        Unit 15: Newton's third law of motion............................................................................58
+        Unit 16: Universal gravitation.........................................................................................60
+        Unit 17: Weight and gravitational acceleration................................................................62
+        Unit 18: More about acceleration due to gravity..............................................................65
+        Module 1 Summary.........................................................................................................67
+        Module 1 Revision and extension....................................................................................68
+TERM 1 (continued) Matter and Materials - Part 1 (Chemistry)
+    Module 2: Atomic Combinations and Intermolecular Forces..............................................71
+        Unit 1: Revising valence electrons and Lewis diagrams..................................................72
+        Unit 2: Chemical bonds...................................................................................................75
+        Unit 3: Representing covalent bonds...............................................................................80
+        Unit 4: Predicting molecular shapes using VSEPR theory..............................................84
+        Unit 5: Shapes of molecules............................................................................................86
+        Unit 6: Electronegativity and polar bonds.......................................................................90
+        Unit 7: Bond length and bond energy..............................................................................96
+        Unit 8: Intermolecular and interatomic forces.................................................................98
+        Unit 9: Types of intermolecular forces...........................................................................100
+        Unit 10: Intermolecular forces and physical properties..................................................105
+        Unit 11: The chemistry of water.....................................................................................114
+        Unit 12: The properties of water.....................................................................................116
+        Unit 13: The role of water in our lives............................................................................119
+        Module 2 Summary........................................................................................................122
+        Module 2 Revision and extension...................................................................................123
+TERM 2 Waves, Sound and Light (Physics)
+    Module 3: Geometrical Optics and 2D Wavefronts
+        Unit 1: Properties of light (revision)
+        Unit 2: Refraction
+            2.1 Refraction at the boundary between two media
+            2.2 Refractive index
+            2.3 Optical density
+        Unit 3: Snell's law
+            3.1 n1 sin theta1 = n2 sin theta2
+            3.2 Applications and calculations
+        Unit 4: Critical angle and total internal reflection
+            4.1 Critical angle calculation
+            4.2 Conditions for total internal reflection
+            4.3 Applications (fibre optics, mirages)
+        Unit 5: 2D and 3D wavefronts
+            5.1 Huygens' principle
+            5.2 Diffraction of waves through openings and around obstacles
+            5.3 Diffraction through a single slit
+            5.4 Relationship between slit width and wavelength
+        Module 3 Summary
+        Module 3 Revision and extension
+TERM 2 (continued) Matter and Materials - Part 2 (Chemistry)
+    Module 4: Ideal Gases
+        Unit 1: Kinetic molecular theory of gases (revision and extension)
+        Unit 2: Boyle's law (p1V1 = p2V2 at constant temperature)
+        Unit 3: Charles's law (V1/T1 = V2/T2 at constant pressure)
+        Unit 4: Gay-Lussac's law (p1/T1 = p2/T2 at constant volume)
+        Unit 5: The general gas equation (p1V1/T1 = p2V2/T2)
+        Unit 6: The ideal gas equation (pV = nRT)
+        Unit 7: Temperature in Kelvin (K = degrees C + 273)
+        Module 4 Summary
+        Module 4 Revision and extension
+TERM 2 (continued) Chemical Change (Chemistry)
+    Module 5: Quantitative Aspects of Chemical Change
+        Unit 1: Mole concept revision
+        Unit 2: Molar volume of gases at STP (22.4 dm^3)
+        Unit 3: Concentration of solutions (c = n/V)
+        Unit 4: Stoichiometric calculations (mass, moles, concentration, volume)
+        Unit 5: Limiting reagents and excess reagents
+        Unit 6: Percentage yield and percentage purity
+        Unit 7: Volume relationships in gaseous reactions (Avogadro's law)
+        Module 5 Summary
+        Module 5 Revision and extension
+TERM 3 Electricity and Magnetism (Physics)
+    Module 6: Electrostatics
+        Unit 1: Revision of charge, conductors and insulators
+        Unit 2: Coulomb's law (F = kQ1Q2/r^2)
+            2.1 Force between two point charges
+            2.2 Similarity to Newton's Law of Universal Gravitation
+            2.3 Net force on a charge in linear and 2D configurations
+        Unit 3: Electric fields
+            3.1 Electric field lines around point charges
+            3.2 Electric field around two unlike charges
+            3.3 Electric field around two like charges
+            3.4 Electric field strength (E = F/q = kQ/r^2)
+        Module 6 Summary
+        Module 6 Revision and extension
+    Module 7: Electromagnetism
+        Unit 1: Magnetic field around a straight current-carrying wire (Right Hand Rule)
+        Unit 2: Magnetic field around a current-carrying loop
+        Unit 3: Magnetic field around a solenoid
+        Unit 4: Electromagnets and applications
+        Unit 5: Faraday's law of electromagnetic induction
+            5.1 Electromagnetic induction
+            5.2 Factors affecting induced EMF
+            5.3 Direction of induced current
+            5.4 Applications (generators, transformers)
+        Module 7 Summary
+        Module 7 Revision and extension
+    Module 8: Electric Circuits
+        Unit 1: Ohm's law (revision)
+        Unit 2: Series and parallel circuits (complex problems)
+        Unit 3: Internal resistance and EMF
+            3.1 EMF = I(R_external + r_internal)
+            3.2 Terminal potential difference
+        Unit 4: Power and energy in electric circuits
+            4.1 Electrical power (P = VI = I^2R = V^2/R)
+            4.2 Electrical energy (E = Pt = VIt)
+            4.3 Cost of electricity (kWh)
+        Module 8 Summary
+        Module 8 Revision and extension
+TERM 3 (continued) Chemical Change (Chemistry)
+    Module 9: Energy and Chemical Change
+        Unit 1: Energy changes in chemical reactions
+            1.1 Bond breaking (energy absorbed) and bond forming (energy released)
+            1.2 Bond energy
+        Unit 2: Exothermic and endothermic reactions
+            2.1 Exothermic reactions (delta_H < 0)
+            2.2 Endothermic reactions (delta_H > 0)
+            2.3 Energy profiles/diagrams
+        Unit 3: Activation energy and the activated complex
+        Module 9 Summary
+        Module 9 Revision and extension
+    Module 10: Types of Reactions
+        Unit 1: Acids and bases
+            1.1 Arrhenius definition
+            1.2 Bronsted-Lowry definition (proton donors and acceptors)
+            1.3 Conjugate acid-base pairs
+            1.4 Strong and weak acids and bases
+            1.5 The pH scale
+        Unit 2: Acid-base reactions
+            2.1 Neutralisation reactions
+            2.2 Acid + metal hydroxide, acid + metal oxide
+            2.3 Acid + metal carbonate
+            2.4 Acid + metal
+            2.5 Titrations and indicators
+        Unit 3: Redox reactions
+            3.1 Oxidation numbers (rules)
+            3.2 Oxidation (loss of electrons) and reduction (gain of electrons)
+            3.3 Oxidising agents and reducing agents
+            3.4 Half-reactions
+            3.5 Balancing redox reactions
+        Module 10 Summary
+        Module 10 Revision and extension
+TERM 4 Chemical Systems (Chemistry)
+    Module 11: The Lithosphere
+        Unit 1: The Earth's crust and composition
+        Unit 2: Minerals and ores
+        Unit 3: Mining in South Africa
+            3.1 Gold, iron, phosphate, coal, diamonds, chromium, manganese, platinum
+            3.2 Steps in mining and mineral processing
+        Unit 4: Environmental impact of mining
+        Unit 5: Energy resources
+            5.1 Fossil fuels (coal, oil, natural gas)
+            5.2 Renewable and non-renewable energy sources
+            5.3 Environmental impact of energy use
+        Module 11 Summary
+        Module 11 Revision and extension
+TERM 4 (continued) Revision and Examinations
+    Revision of all modules from Terms 1-3
+    Paper 1 (Physics): Vectors, Newton's Laws, Electrostatics, Electromagnetism, Electric Circuits, Geometrical Optics, 2D/3D Wavefronts
+    Paper 2 (Chemistry): Atomic Combinations, Intermolecular Forces, Ideal Gases, Stoichiometry, Energy and Chemical Change, Types of Reactions, The Lithosphere
+    Glossary

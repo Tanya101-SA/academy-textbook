@@ -1,0 +1,55 @@
+Funworks - CAPS Approved
+Subject: Information Technology
+Grade 11
+Phase: FET Phase
+Publisher: Funworks
+Book: Exploring IT: Theory & Java Programming Grade 11
+Source: CAPS Policy Document
+
+--- TABLE OF CONTENTS ---
+
+Term 1
+  IT Theory: Systems Technologies
+    - Advanced hardware
+    - System software
+    - Utility programs
+  Programming: OOP Concepts
+    - Classes and objects
+    - Constructors
+    - Encapsulation
+  Database: SQL
+    - SELECT queries
+    - Sorting and filtering
+    - Aggregate functions
+
+Term 2
+  IT Theory: Networks and Internet
+    - Advanced networking
+    - Protocols
+    - Cloud computing
+  Programming: Advanced OOP
+    - Inheritance
+    - Polymorphism
+    - Exception handling
+  Database: Advanced SQL
+    - JOINs
+    - Subqueries
+    - Data manipulation
+
+Term 3
+  IT Theory: Social Implications
+    - Advanced security concepts
+    - Cyber ethics
+    - Digital citizenship
+  Programming: Data Structures
+    - Two-dimensional arrays
+    - ArrayList
+    - Searching and sorting algorithms
+  Solution Development
+    - Practical project
+
+Term 4
+  Integration and Revision
+    - Theory consolidation
+    - Programming consolidation
+    - Database consolidation

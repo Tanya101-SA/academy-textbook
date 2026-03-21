@@ -1,0 +1,67 @@
+MDP Education - CAPS Approved
+Subject: Wiskunde
+Grade 9
+Phase: Senior Phase
+Publisher: MDP Education
+Book: Mindbourne Wiskunde Handboek Graad 9
+Source: CAPS Policy Document
+
+--- TABLE OF CONTENTS ---
+
+Term 1
+  Whole Numbers
+    - Properties and calculations
+  Integers
+    - Calculations with integers
+  Common Fractions
+    - Calculations with fractions
+  Decimal Fractions
+    - Calculations with decimals
+  Exponents
+    - Laws of exponents
+    - Scientific notation
+  Numeric and Geometric Patterns
+    - Investigate and extend patterns
+  Functions and Relationships
+    - Equivalent forms
+  Algebraic Expressions
+    - Factorisation
+    - Simplification
+  Algebraic Equations
+    - Solving equations
+
+Term 2
+  Construction of Geometric Figures
+    - Constructing polygons
+  Geometry of 2D Shapes
+    - Properties of triangles and quadrilaterals
+    - Similarity and congruence
+  Geometry of Straight Lines
+    - Angles formed by parallel lines
+  Theorem of Pythagoras
+    - Apply the theorem to solve problems
+  Area and Perimeter of 2D Shapes
+    - Polygons and circles
+
+Term 3
+  Functions and Relationships
+    - Interpreting graphs
+  Algebraic Expressions
+    - Products and factors
+  Algebraic Equations
+    - Equations and inequalities
+  Graphs
+    - Linear and non-linear graphs
+    - Interpreting real-life graphs
+  Surface Area and Volume of 3D Objects
+    - Prisms, cylinders, pyramids, cones, spheres
+
+Term 4
+  Transformation Geometry
+    - Translations, reflections, rotations, enlargements
+  Geometry of 3D Objects
+    - Properties of 3D objects
+  Data Handling
+    - Collect, organise, summarise, represent and interpret data
+  Probability
+    - Relative frequency and probability

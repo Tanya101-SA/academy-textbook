@@ -1,0 +1,135 @@
+======================================================================
+Focus Computer Applications Technology Grade 12 Learner's Book
+ISBN: 9780636153639
+Publisher: Focus (Pearson South Africa)
+Curriculum: CAPS
+======================================================================
+
+TABLE OF CONTENTS
+──────────────────────────────────────────────────────────────────────
+
+
+TERM 1
+    Chapter 1 General Concepts
+        Introduction
+        Unit 1: Using Computers
+        Chapter Summary
+        Exam Practice
+    Chapter 2 Hardware
+        Introduction
+        Unit 1: The Information Processing Cycle
+        Unit 2: Buying Computers and Devices
+        Unit 3: Using Computers and Troubleshooting
+        Unit 4: New Technologies and Social Implications
+        Chapter Summary
+        Exam Practice
+    Chapter 3 Databases 1
+        Introduction
+        Unit 1: Revision and Consolidation of Concepts
+        Unit 2: More Advanced Reports
+        Unit 3: Calculations and Data Validation
+        Unit 4: More Advanced Queries
+        Chapter Summary
+        Exam Practice
+    Chapter 4 Spreadsheets 1
+        Introduction
+        Unit 1: Reinforcing Content, Concepts and Skills
+        Unit 2: Functions
+        Unit 3: Basic Date and Time Calculations
+        Chapter Summary
+        Exam Practice
+    Chapter 5 Software
+        Introduction
+        Unit 1: The Roles of Application Software
+        Unit 2: System Requirements
+        Unit 3: Choosing Appropriate Software
+        Chapter Summary
+        Exam Practice
+    Chapter 6 Word Processing 1
+        Introduction
+        Unit 1: Using Bookmarks
+        Unit 2: Reviewing Documents
+        Unit 3: Pagination Issues
+        Unit 4: Data Collection
+        Chapter Summary
+        Programme of Assessment
+        Exam Practice
+    Chapter 7 Information Management 1
+        Unit 1: Reinforcing Concepts and Skills
+        Unit 2: Gathering Data and Information
+        Unit 3: Reports and Data Analysis
+        Programme of Assessment
+TERM 2
+    Chapter 8 Networks
+        Introduction
+        Unit 1: Wide Area Networks
+        Unit 2: Internet Services
+        Unit 3: Internet Connection and Access
+        Chapter Summary
+        Exam Practice
+    Chapter 9 Social Implications
+        Introduction
+        Unit 1: Computer Crime
+        Unit 2: Security Issues
+        Unit 3: The Impact of Technology on the Global Community
+        Chapter Summary
+        Programme of Assessment
+        Exam Practice
+    Chapter 10 HTML and Web Design 1
+        Introduction
+        Unit 1: Grade 11 Revision
+        Unit 2: HTML Tables
+        Unit 3: Developing a Web Page
+        Chapter Summary
+        Exam Practice
+    Chapter 11 Word Processing 2, Spreadsheets 2 and Databases 2
+        Introduction
+        Unit 1: Word Processing 2
+        Unit 2: Spreadsheets 2
+        Unit 3: Databases 2
+        Chapter Summary
+        Programme of Assessment
+        Exam Practice
+    Chapter 12 Information Management 2
+        Unit 1: Working on the PAT
+TERM 3
+    Chapter 13 System Software and Computer Management
+        Introduction
+        Unit 1: The Role of the Operating System
+        Unit 2: File Management
+        Unit 3: Operating System Utilities and Stand-alone Utilities
+        Unit 4: Factors that Influence Computer Performance
+        Chapter Summary
+        Exam Practice
+    Chapter 14 Information Management 3
+        Unit 1: Completing the PAT
+    Chapter 15 Communications
+        Introduction
+        Unit 1: Types of Digital Communication
+        Unit 2: Features of Web Browsers
+        Unit 3: Uses of Computer Communications
+        Unit 4: Communication Devices, New Trends and Technologies
+        Unit 5: Social Implications
+        Chapter Summary
+        Programme of Assessment
+        Exam Practice
+    Chapter 16 Word Processing 3, Spreadsheets 3, Databases 3 and HTML and Web Design 2
+        Introduction
+        Unit 1: Word Processing 3
+        Unit 2: Spreadsheets 3
+        Unit 3: Databases 3
+        Unit 4: HTML and Web Design 2
+        Chapter Summary
+        Programme of Assessment
+        Exam Practice
+TERM 4
+    Chapter 17 More Practice with OfficeSuite Applications
+        Unit 1: Working with Applications
+    Chapter 18 ICT in Real Life
+        Unit 1: Case Study 1
+        Unit 2: Case Study 2
+        Unit 3: Case Study 3
+        Unit 4: Case Study 4
+        Unit 5: Case Study 5
+Glossary
+Index

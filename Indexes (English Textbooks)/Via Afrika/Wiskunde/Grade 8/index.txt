@@ -1,0 +1,55 @@
+Via Afrika - CAPS Approved
+Subject: Wiskunde
+Graad 8
+Phase: Senior Phase
+Publisher: Via Afrika
+Book: Via Afrika Wiskunde Graad 8
+ISBN: 978-1-41542-226-7
+Source: CAPS Policy Document
+
+--- TABLE OF CONTENTS ---
+
+Term 1
+  Heelgetalle
+    - Eienskappe en bewerkings
+    - Faktorisering en priemgetalle
+  Eksponente
+    - Wette van eksponente
+    - Bewerkings met eksponente
+  Rasionale Getalle
+    - Bewerkings met breuke en desimale breuke
+  Patrone en Algebra
+    - Getalpatrone
+    - Algebraïese uitdrukkings
+
+Term 2
+  Algebraïese Uitdrukkings
+    - Vereenvoudiging
+    - Uitbreiding en faktorisering
+  Algebraïese Vergelykings
+    - Oplos van vergelykings
+  Meetkunde van 2D-vorms
+    - Hoeke en eienskappe van driehoeke
+    - Eienskappe van vierhoeke en veelhoeke
+
+Term 3
+  Meetkunde van Reguit Lyne
+    - Hoeke by ewewydige lyne
+    - Konstruksies
+  Transformasies
+    - Translasies, rotasies, refleksies
+  Meting
+    - Oppervlakte en omtrek
+    - Volume en oppervlakte van prismas en silinders
+
+Term 4
+  Verhoudings en Koerse
+    - Direkte en omgekeerde verhoudings
+  Finansies
+    - Enkelvoudige rente, wins/verlies
+    - Huurkoop
+  Datahantering
+    - Gemiddeld, mediaan, modus
+    - Histogram en staafgrafiek
+  Waarskynlikheid
+    - Geleenthede en eksperimente

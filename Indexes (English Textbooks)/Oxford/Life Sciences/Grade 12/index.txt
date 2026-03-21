@@ -1,0 +1,214 @@
+======================================================================
+Oxford Successful Life Sciences Grade 12 Learner's Book
+ISBN: 9780199052684
+Publisher: Oxford University Press Southern Africa
+Curriculum: CAPS
+Note: Page numbers unavailable - no Calameo sample exists for this grade. Structure follows CAPS exactly.
+======================================================================
+
+TABLE OF CONTENTS
+──────────────────────────────────────────────────────────────────────
+
+TERM 1 Knowledge strand: Life at the molecular, cellular and tissue level / Diversity, change and continuity
+    Topic 1: DNA - the code of life
+        Unit 1: DNA - the molecule of heredity
+            1.1 Discovery of DNA structure (Watson, Crick, Franklin, Wilkins)
+            1.2 Location of DNA in the cell
+            1.3 Structure of DNA (nucleotides, double helix, base pairing rules)
+            1.4 Chromosomes, genes and the relationship between DNA, genes and chromosomes
+            1.5 DNA replication (semi-conservative replication)
+            1.6 DNA profiling (forensic and paternity applications)
+        Unit 2: RNA and protein synthesis
+            2.1 Structure of RNA
+            2.2 Types of RNA (mRNA, tRNA, rRNA)
+            2.3 Comparison of DNA and RNA
+            2.4 The genetic code (triplet code, codons, anticodons)
+            2.5 Transcription (DNA to mRNA)
+            2.6 Translation (mRNA to polypeptide at the ribosome)
+    Topic 2: Meiosis
+        Unit 1: The process of meiosis
+            1.1 Meiosis I (reduction division, crossing over, independent assortment)
+            1.2 Meiosis II (equational division)
+            1.3 Comparison of meiosis I and meiosis II
+        Unit 2: Comparison of mitosis and meiosis
+        Unit 3: The role of meiosis in producing genetic variation
+        Unit 4: Abnormal meiosis
+            4.1 Non-disjunction and its consequences
+            4.2 Down syndrome (trisomy 21)
+    Topic 3: Reproduction in vertebrates
+        Unit 1: Reproductive strategies in vertebrates
+            1.1 External vs internal fertilisation
+            1.2 Ovipary, ovovivipary, vivipary
+            1.3 Amniotic egg structure
+    Topic 4: Human reproduction
+        Unit 1: The male reproductive system
+            1.1 Structure and function of male reproductive organs
+            1.2 Spermatogenesis
+            1.3 Role of testosterone and puberty in males
+        Unit 2: The female reproductive system
+            2.1 Structure and function of female reproductive organs
+            2.2 Oogenesis
+            2.3 Role of oestrogen and puberty in females
+        Unit 3: The menstrual cycle
+            3.1 Ovarian cycle
+            3.2 Uterine cycle
+            3.3 Hormonal control (FSH, oestrogen, LH, progesterone)
+        Unit 4: Fertilisation, implantation and pregnancy
+            4.1 Fertilisation and formation of the zygote
+            4.2 Implantation and early development
+            4.3 The role of the placenta
+            4.4 Gestation and birth
+        Unit 5: Contraception
+            5.1 Natural methods
+            5.2 Barrier methods
+            5.3 Hormonal methods
+            5.4 Surgical methods (vasectomy, tubal ligation)
+        Unit 6: Sexually transmitted infections
+            6.1 HIV/AIDS
+            6.2 Other STIs
+            6.3 Prevention and treatment
+TERM 2 Knowledge strand: Diversity, change and continuity / Life processes in plants and animals
+    Topic 5: Genetics and inheritance
+        Unit 1: Concepts in genetics
+            1.1 Key terminology (gene, allele, locus, genotype, phenotype, dominant, recessive, homozygous, heterozygous)
+        Unit 2: Monohybrid crosses
+            2.1 Mendel's Law of Dominance and Law of Segregation
+            2.2 Monohybrid crosses using Punnett squares
+            2.3 Test crosses
+        Unit 3: Dihybrid crosses
+            3.1 Mendel's Law of Independent Assortment
+            3.2 Dihybrid crosses using Punnett squares
+        Unit 4: Incomplete dominance and co-dominance
+            4.1 Incomplete dominance
+            4.2 Co-dominance (e.g. blood groups - ABO system)
+            4.3 Multiple alleles
+        Unit 5: Sex-linked inheritance
+            5.1 Sex determination
+            5.2 Sex-linked genes (haemophilia, colour blindness)
+        Unit 6: Mutations
+            6.1 Gene mutations
+            6.2 Chromosomal mutations
+            6.3 Mutagens
+        Unit 7: Genetic engineering and genetic counselling
+            7.1 Genetic engineering and GMOs
+            7.2 Pedigree diagrams
+            7.3 Genetic screening and counselling
+            7.4 Bioethics
+    Topic 6: Responding to the environment - humans
+        Unit 1: The human nervous system
+            1.1 The central nervous system (brain and spinal cord)
+            1.2 The brain (cerebrum, cerebellum, medulla oblongata, hypothalamus, pons)
+            1.3 The spinal cord (grey matter, white matter)
+            1.4 Protection (meninges, cerebrospinal fluid)
+            1.5 The peripheral nervous system (cranial and spinal nerves)
+            1.6 The autonomic nervous system (sympathetic, parasympathetic)
+        Unit 2: Neurons and nerve impulse transmission
+            2.1 Structure of neurons (sensory, motor, interneurons)
+            2.2 The synapse and synaptic transmission
+            2.3 Neurotransmitters (acetylcholine)
+        Unit 3: Reflex arc
+            3.1 Receptor, sensory neuron, interneuron, motor neuron, effector
+            3.2 Voluntary vs involuntary actions
+        Unit 4: The human eye
+            4.1 Structure and function of the eye
+            4.2 Accommodation (near and far vision)
+            4.3 Pupil reflex
+            4.4 Defects of vision (myopia, hyperopia)
+            4.5 Correction of vision defects
+        Unit 5: The human ear
+            5.1 Structure of the ear (outer, middle, inner)
+            5.2 Hearing (pathway of sound waves)
+            5.3 Balance (semi-circular canals)
+            5.4 Defects of hearing
+    Topic 7: The human endocrine system
+        Unit 1: Endocrine glands, hormones and functions
+            1.1 Hypothalamus (ADH)
+            1.2 Pituitary gland (GH, TSH, FSH, LH, prolactin)
+            1.3 Thyroid gland (thyroxin)
+            1.4 Pancreas - Islets of Langerhans (insulin, glucagon)
+            1.5 Adrenal glands (adrenalin, aldosterone)
+            1.6 Ovaries (oestrogen, progesterone)
+            1.7 Testes (testosterone)
+        Unit 2: Comparison of nervous and endocrine systems
+    Topic 8: Homeostasis in humans
+        Unit 1: The concept of homeostasis
+            1.1 Negative feedback mechanism
+        Unit 2: Thermoregulation
+            2.1 The role of the skin in temperature regulation
+            2.2 The role of the hypothalamus
+            2.3 Responses to hot and cold environments (vasodilation, vasoconstriction, sweating, shivering)
+            2.4 Fever
+        Unit 3: Osmoregulation
+            3.1 Homeostatic control of water and salt balance
+            3.2 The role of ADH
+            3.3 The role of aldosterone
+            3.4 The role of the kidney in homeostasis
+        Unit 4: Blood glucose regulation
+            4.1 The role of insulin and glucagon
+            4.2 Diabetes mellitus (Type 1 and Type 2)
+        Unit 5: Carbon dioxide levels and thyroxin regulation
+    Topic 9: Responding to the environment - plants
+        Unit 1: Plant hormones (growth regulators)
+            1.1 Auxins (cell elongation, apical dominance, fruit development)
+            1.2 Gibberellins
+            1.3 Abscisic acid (ABA)
+            1.4 Cytokinins
+            1.5 Ethylene
+        Unit 2: Tropisms
+            2.1 Phototropism (role of auxins)
+            2.2 Geotropism / gravitropism
+            2.3 Thigmotropism
+        Unit 3: Nastic movements
+        Unit 4: Photoperiodism
+            4.1 Short-day and long-day plants
+            4.2 The role of phytochrome
+        Unit 5: Commercial use of plant hormones
+TERM 3 Knowledge strand: Diversity, change and continuity
+    Topic 10: Evolution by natural selection
+        Unit 1: Evidence for evolution
+            1.1 Fossil record
+            1.2 Biogeographical evidence
+            1.3 Anatomical evidence (homologous, analogous and vestigial structures)
+            1.4 Embryological evidence
+            1.5 Molecular (biochemical/genetic) evidence
+        Unit 2: Sources of variation
+            2.1 Meiosis (crossing over, random assortment)
+            2.2 Mutations
+            2.3 Random fertilisation and mating
+        Unit 3: History of evolutionary thought
+            3.1 Lamarckism (inheritance of acquired characteristics)
+            3.2 Darwinism (natural selection)
+            3.3 Punctuated equilibrium vs gradualism
+        Unit 4: Natural selection in action
+            4.1 Artificial selection
+            4.2 Speciation (allopatric speciation, reproductive isolation)
+            4.3 Antibiotic resistance in bacteria
+            4.4 Pesticide resistance in insects
+    Topic 11: Human evolution
+        Unit 1: Primates and the evolution of humans
+            1.1 Evidence from primate anatomy
+            1.2 Molecular evidence for common ancestry of apes and humans
+        Unit 2: Key hominid fossils
+            2.1 Australopithecus (A. africanus - Taung Child, Mrs Ples; A. afarensis - Lucy; A. sediba)
+            2.2 Homo habilis (tool use)
+            2.3 Homo erectus (Turkana Boy, fire use)
+            2.4 Homo neanderthalensis
+            2.5 Homo sapiens
+            2.6 Other notable fossils (Little Foot)
+        Unit 3: Evolutionary trends in hominids
+            3.1 Bipedalism
+            3.2 Skull and brain size changes
+            3.3 Jaw and teeth changes
+            3.4 Use of tools
+            3.5 Cultural and social development
+        Unit 4: Out of Africa hypothesis
+            4.1 African origin of modern humans
+            4.2 Fossil evidence from South Africa and East Africa
+            4.3 Mitochondrial Eve (genetic evidence)
+        Unit 5: Phylogenetic trees of hominids
+        Unit 6: Misconceptions about evolution
+TERM 4 Revision and examinations
+    Revision of all topics from Terms 1-3
+    Study and exam skills
+    Practice examination papers
+    Glossary

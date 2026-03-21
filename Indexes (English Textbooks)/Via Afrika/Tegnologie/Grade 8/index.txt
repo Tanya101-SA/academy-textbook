@@ -1,0 +1,47 @@
+Via Afrika - CAPS Approved
+Subject: Tegnologie
+Graad 8
+Phase: Senior Phase
+Publisher: Via Afrika
+Book: Via Afrika Tegnologie Grade 8
+ISBN: 978-1-41541-929-8
+Source: CAPS Policy Document
+
+--- TABLE OF CONTENTS ---
+
+Term 1
+  Structures
+    - Solid structures and combined structures
+    - Properties of materials for structures
+    - Forces in structures: load, effort, fulcrum
+    - Structural failure and safety factors
+  Skills
+    - Design process: investigate, design, make, evaluate, communicate
+    - Technical drawing: orthographic projection
+
+Term 2
+  Processing
+    - Textiles and fibres: natural and synthetic
+    - Textile processing: weaving, knitting, dyeing
+    - Processing of food
+    - Impact of technology on the environment
+  Skills
+    - Making a textile product
+    - Quality control
+
+Term 3
+  Systems and Control
+    - Electrical systems: basic circuits
+    - Components: switches, resistors, LEDs, buzzers
+    - Series and parallel circuits
+    - Input-process-output in electronic systems
+  Skills
+    - Making an electrical circuit
+    - Troubleshooting and testing
+
+Term 4
+  Communication
+    - 3D drawing techniques: isometric and oblique
+    - Dimensioning and annotation
+    - Presentation techniques
+    - Evaluation of technological solutions

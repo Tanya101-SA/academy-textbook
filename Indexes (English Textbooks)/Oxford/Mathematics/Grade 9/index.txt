@@ -1,0 +1,74 @@
+Oxford University Press - CAPS Approved
+Subject: Mathematics
+Grade 9
+Publisher: Oxford University Press Southern Africa
+Series: Oxford Successful Mathematics
+Source: Oxford CAPS Tracker and Planner
+
+--- TABLE OF CONTENTS ---
+
+Term 1
+  Whole numbers: Properties, multiples, factors and calculations with whole numbers
+
+  Whole numbers
+    - Properties of numbers
+    - Multiples and factors
+    - Solving problems Properties, multiples, factors and calculations with whole numbers
+  Integers
+    - Calculations with integers
+    - Properties of integers Integers, properties and calculations
+  Exponents
+    - Calculations using numbers in exponential form Laws of exponents; calculations
+  Numeric and geometric patterns
+    - Investigate and extend patterns Consecutive terms in a sequence
+
+Term 2
+
+  Algebraic expressions
+    - Algebraic language
+    - Expand and simplify algebraic expressions
+    - Factorise algebraic expressions Simplify more complex algebraic expressions
+  Algebraic equations
+    - Revision
+    - Solve equations Solving equations by factorising
+  Functions and relationships
+    - Input and output values
+    - Equivalent forms Input values; output values
+
+Term 3
+  Geometry of 2D shapes and construction of geometric figures: Bisecting angles
+
+  Graphs
+    - Interpreting graphs
+    - Drawing graphs Drawing linear graphs using equations
+  Geometry of straight lines
+    - Angle relationships
+    - Solving problems Perpendicular and intersecting lines
+  Geometry of 2D shapes and construction of geometric figures
+    - Classifying 2D shapes (triangles)
+    - Constructions (triangles)
+    - Classifying 2D shapes (quadrilaterals)
+    - Constructions (quadrilaterals)
+    - Similar and congruent triangles
+    - Constructions (congruent triangles)
+    - Solving problems (triangles and quadrilaterals) Bisecting angles of a triangle; constructing special angles
+
+Term 4
+  Surface area and volume of 3D objects: Surface area, volume and capacity
+  Selected answers Graph paper
+
+  Transformation geometry
+    - Transformations Mixed transformations
+  Area and perimeter of 2D shapes
+    - Perimeter and area of polygons and circles Perimeter and area of 2D shapes
+  Surface area and volume of 3D objects
+    - Surface area, volume and capacity of rectangular prisms, triangular prisms and cylinders Surface area, volume and capacity
+  Properties, multiples, factors and calculations with whole numbers 1.	Explain the difference between the following concepts. a)	 Natural numbers (ℕ) and whole numbers (ℕ0) b)	 Prime numbers and composite numbers 2.	Find the factors of 110 and write down the following. a)	 The largest odd number b)	 Pairs of consecutive numbers c)	 The largest prime number d)	 The smallest composite number e)	 The largest multiple of 5 3.	Use prime factorisation to find the LCM and HCF of 36 and 63. 4.	If x and y are two whole numbers explain the condition under which: a)	 x – y will be a whole number b)	 x ÷ y will be a whole number 5.	Write down open number sentences that reflect: a)	 Properties of 0 b)	 Properties of 1 6.	Calculate without using a calculator. a)	  135 246 087 12 345 679 c) 18 | 222 222 222 – 46 578 189 ×            36 Tip An open number sentence contains at least one variable.
+  Integers: properties and calculations 1. Write down the set of integers (ℤ). 2. Calculate without using a calculator. a) 27 + (+19) b) 27 + (–19) c) 27 – (+19) d) 27 – (–19) e) –27 + (+19) f) –27 + (–19) g) –27 – (+19) h) –27 – (–19) 3. Calculate without using a calculator. a) 24 × 6 b) 24 × –6 c) 24 ÷ 6 d) 24 ÷ –6 e) –24 × 6 f) –24 × –6 g) –24 ÷ 6 h) –24 ÷ –6 4. Fill in <, = or >. a) 7 × –8 –8 × 7 b) –9 ÷ –3 –3 ÷ –9 c) (6 × –3) × –2 6 × (–3 × –2) d) (12 ÷ –6) ÷ –2 12 ÷ (–6 ÷ –2) 5. Calculate without using a calculator. a) (–12)2 b) –122 c) –53 d) (–5)3 e) (16 + 9)2 f) (–16 + 9)3 g) (7x2y)2 h) (–5p2q5)3 (–6a3b7)2 j) (4m6n4)3 k) 	​√ ___ 64 ​ l)	 ​
+  ___ 64 ​ m) 	​√ _______ ​4​2​ + ​3​2​ ​ n)	 ​
+  ___________ ​6​3​ – ​4​3​ – ​3​3​ ​ o) 	​√ ______ ​a​6​b​12​ ​ p)	 ​
+  _____ ​a​6​b​12​ ​ q) 	​√ ___________ 144​m​18​n​24​ ​ r)	 ​ 3 √ __________ 216​x​18​y​24​ ​ Tip If x > 0 and y > 0 then x × y = +xy; x × –y = –xy; –x × y = –xy; –x × –y = +xy
+  Laws of exponents; calculations 1. Simplify the following expressions. Write all answers with positive exponents. a) x4 × x3 x4 ÷ x3 c) x0 d) y2 × y5 y2 ÷ y5 f) y–3 g) a–7 × a3 ​ ​b​3​ ___ ​b​–3 i) ​( 2x )​​3
+  ______ ​a​–7​ × ​a​3 ​ ​3​0​a​4​b​5 _____ ​a​5​b​6 l) ( ​( ​x​2​ )​​3​ )​​2 m) ​ ​( 3x )​​5 ____ ​( 3x )​​3 ​( ​3​0​x​2​y )​​4 o) ​ 26​m​2​n​3 ______ 13mn 2. Simplify the following expressions. Write all answers with positive exponents. a) 	​x​5​y​9​x​6​y​–8​ b)	​​ [ ​( x​y​2​z​3​ )​​2​ ]​​3​ c)	 ​ ​x​5​y​9 ____ ​x​6​y​8​ ​ –24​x​5 _____ 16​x​4 ​ e)	 ​( 2s )​​4​.​( –7​s​2​ )​​2​ f)	​ ​y​2​y​–3​y​4 ______ ​y​–2​ –5​a​3​ _____ 2a.5​a​4​ h) 	​a​4​b​3​c​2​ × ​a​–2​b​4​c​–6​ i)	 ​( ab )​​2​( ​a​2​b ) ​y​4​z​–9 ____ ​x​5​y​–7 k)	​ 6​x​3​y​4​ × –2​x​2​y ___________ x​y​3​ × 4​x​3​ Consecutive terms in a sequence 1.		Describe the relationship between consecutive terms in the following number sequences and use your answer to extend each pattern to 10 terms. a)	 1; 5; 9; 13; 17 b)	 5; 10; 20; 40; 80 c)	 1; 4; 9; 16; 25 d)	 2; 5; 10; 17; 26 e)	 0; 3; 8; 15; 24 f)	 2; 8; 18; 32; 50 2.	Look at the two arrangements of squares below. a)	 Draw the next two arrangements of squares on the grid. b)	 Write down the number sequence show by the following numbers of squares. Black White Grey c)	 Describe the relationship between consecutive terms in each of the three sequences. Black squares White squares Grey squares d)	 For each sequence, write down the term that can be obtained from the fifth arrangement of squares. Explain each answer. Black squares White squares Grey squares Tip The relationship between consecutive terms of a number sequence is shown by the pattern of that sequence. Describe the relationship between the consecutive terms in the following number sequences. 1. −1; −1,5; −2; −2,5; … (To get the next term, add −0,5 to the previous term.) 2. 2; −1; 0,5; −0,25; 0,125; … (To get the next term, multiply the previous term by −​ 1 2 ​.) 3. 1; 0; −2; −5; −9; −14; … (To get the next term, subtract 1 more than was subtracted to get the previous term.) Examples
+  Simplify more complex algebraic expressions 1. Simplify the following. a) 	​( x + 2 )​( x − 3 )​ b) 	​( x + 2 )​( x − 2 )​ c)	​( x − 3 )​​2 d) 3​( 2x − 3y )​( 3x + 4y )​ e)	 4​( 10 − 6t )​( 10 + 6t )​	 f)	 −6​( ab + c )​​2 g) 2x​( 4​x​2​ − 6 )​( 3​x​2​ + 2 )​ h)	 −4p​( 5p − 3 )​( 3 + 5p )​	 i)	 2y​( 3y − 10 )​​2 ​​( x + 2 )​​2 ​− ​( x − 2 )​​2​ k)	 ​( y − 5 )​​2 ​ + ​( y + 5 )​​2​ l)	 ​( z − 2 )​( z + 2 )​( ​z​2​ + 4 ) 2. Simplify the following. a) x​( 2x − 4 )​ −3​( ​x​2​ − 2x ) b) 	​a​2​( 5a − 2 )​ − a​( ​a​2​ + 3a )​ + 6a c)	 2​( x − 3 )​​2​ −3​( x + 1 )​( 2x − 5 )​ d) 3​( ​x​3​ + 2​x​2​ − x )​ − ​x​2​( 3x + 1 ) 6​x​4​ − 8​x​3​ − 2​x​2​ + 4 _______________ 2​x​2​ f)	​  8​x​3​ − ​( −​x​3​ )​( 2x ) ____________ −​x​2 g)	 ​ 7a ___ 10 ​ + ​ a 2 ​ − ​ 4a 5 ​ h) 	​ 2x 3 ​ − ​ 4x −1 _____ 5  ​ − ​ x ___
+  Remember * (a + b)(c + d) = ac + ad + bc + bd * (a + b)2  = a2 + 2ab + b2 * (a − b)2  = a2 − 2ab + b2 * (a + b)(a − b) = a2 − b2

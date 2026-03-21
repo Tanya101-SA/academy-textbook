@@ -1,0 +1,150 @@
+======================================================================
+Via Afrika Wiskunde Graad 10 Leerderboek
+ISBN: 978-1-41542-325-7
+Uitgewer: Via Afrika
+Kurrikulum: KABV (CAPS)
+Fase: VOO-fase (FET Phase)
+Nota: KABV-gelynstel onderwerp/sub-onderwerp struktuur.
+Bron: https://viaafrika.com/product/via-afrika-wiskunde-graad-10-leerderboek/
+======================================================================
+
+INHOUDSOPGAWE
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 1
+
+    Onderwerp 1: Algebraïese uitdrukkings en eksponente
+        Eenheid 1: Reële getalle
+            1.1 Rasionale en irrasionale getalle
+            1.2 Die getallelyn
+        Eenheid 2: Worteltekens (surds)
+            2.1 Vereenvoudiging van wortels
+        Eenheid 3: Toepaslike afronding
+        Eenheid 4: Vermenigvuldiging van 'n binomiaal met 'n trinomiaal
+        Eenheid 5: Faktorisering
+            5.1 Gemeenskaplike faktor
+            5.2 Groepering
+            5.3 Verskil van twee vierkante
+            5.4 Trinomiale faktorisering
+            5.5 Som en verskil van twee derdemagsterme
+        Eenheid 6: Vereenvoudiging van algebraïese breuke deur faktorisering
+        Eenheid 7: Optelling en aftrekking van algebraïese breuke
+        Eenheid 8: Hersiening van eksponentwette
+            8.1 Wette van eksponente
+        Eenheid 9: Gebruik van eksponentwette om uitdrukkings te vereenvoudig en vergelykings op te los
+
+    Onderwerp 2: Getalpatrone, rye en reekse
+        Eenheid 1: Getalpatrone
+            1.1 Lineêre getalpatrone
+            1.2 Algemene term van 'n lineêre ry
+
+    Onderwerp 3: Vergelykings en ongelykhede
+        Eenheid 1: Los lineêre vergelykings op
+        Eenheid 2: Los kwadratiese vergelykings op deur faktorisering
+        Eenheid 3: Los gelyktydige lineêre vergelykings op
+        Eenheid 4: Los lettervergelykings op deur die onderwerp van die formule te verander
+        Eenheid 5: Los lineêre ongelykhede op
+
+    Onderwerp 4: Trigonometrie
+        Eenheid 1: Gelykvormige driehoeke en trigonometriese definisies
+            1.1 Sinus, kosinus en tangens
+            1.2 Definisies in terme van 'n reghoekige driehoek
+        Eenheid 2: Spesiale hoeke en resiproke verhoudings
+            2.1 Spesiale hoeke (30°, 45°, 60°)
+            2.2 Kosekans, sekans en kotangens
+        Eenheid 3: Los reghoekige driehoekprobleme op
+        Eenheid 4: Los eenvoudige trigonometriese vergelykings op
+        Eenheid 5: Definieer trigonometriese funksies en teken grafieke
+            5.1 Grafieke van sin, cos en tan
+
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 2
+
+    Onderwerp 5: Funksies
+        Eenheid 1: Die konsep van 'n funksie
+            1.1 Definisie, domein en waardeversameling
+            1.2 Funksienotasie
+        Eenheid 2: Basiese grafieke en ondersoek van die effek van a en q
+            2.1 Lineêre funksie: y = ax + q
+            2.2 Kwadratiese funksie: y = ax² + q
+            2.3 Hiperbool: y = a/x + q
+            2.4 Eksponensiële funksie: y = abˣ + q
+        Eenheid 3: Die effek van a en q op trigonometriese grafieke
+            3.1 y = a sin x + q
+            3.2 y = a cos x + q
+            3.3 y = a tan x + q
+        Eenheid 4: Skets, gebruik en interpreteer grafieke
+            4.1 Aflees van grafieke
+            4.2 Snypunte
+            4.3 Draaipunte
+
+    Onderwerp 6: Euklidiese meetkunde
+        Eenheid 1: Meetkunde — hersiening van vroeëre grade
+            1.1 Hoeke en parallelle lyne
+            1.2 Driehoeke (somme van hoeke, kongruensie, gelykvormigheid)
+        Eenheid 2: Ondersoek spesiale vierhoeke
+            2.1 Eienskappe van parallelogramme, reghoeke, ruite, vierkante, trapesoïede, vliëers
+        Eenheid 3: Ondersoek die lyn wat die middelpunte van twee sye van 'n driehoek verbind
+            3.1 Midpuntstelling
+
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 3
+
+    Onderwerp 7: Analitiese meetkunde
+        Eenheid 1: Die afstand tussen twee punte
+            1.1 Afstandsformule
+        Eenheid 2: Die gradiënt van 'n lynsegment
+            2.1 Gradiëntformule
+            2.2 Parallelle en loodregte lyne
+        Eenheid 3: Die middelpunt van 'n lynsegment
+            3.1 Middelpuntformule
+
+    Onderwerp 8: Finansies en groei
+        Eenheid 1: Enkelvoudige en saamgestelde groei
+            1.1 Enkelvoudige rente (A = P(1 + in))
+            1.2 Saamgestelde rente (A = P(1 + i)ⁿ)
+        Eenheid 2: Buitelandse wisselkoerse
+            2.1 Berekening van wisselkoerse
+
+    Onderwerp 9: Statistiek
+        Eenheid 1: Maatstawwe van sentrale neiging: gemiddeld, mediaan en modus
+        Eenheid 2: Maatstawwe van verspreiding: omvang, persentiele, kwartiele en interkwartielomvang
+        Eenheid 3: Vyfgetalopsommings en stip-en-stert-diagramme (box-and-whisker)
+        Eenheid 4: Analise en interpretasie van statistiese opsommings van data
+
+    Onderwerp 10: Euklidiese meetkunde (vervolg)
+        Eenheid 1: Probleme en bewyse met meetkundige eienskappe
+
+    Onderwerp 11: Trigonometrie (vervolg)
+        Eenheid 1: Trigonometriese probleme met meetkundige eienskappe
+        Eenheid 2: Probleme in twee dimensies
+
+    Onderwerp 12: Meting
+        Eenheid 1: Volume en oppervlakte van vorms
+            1.1 Reghoekige prisma, silinder, driehoekige prisma
+            1.2 Reguitkegels en piramides
+            1.3 Sfere
+        Eenheid 2: Volume en oppervlakte van saamgestelde vorms
+
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 4
+
+    Onderwerp 13: Waarskynlikheid
+        Eenheid 1: Waarskynlikheidsmodelle
+            1.1 Teoretiese en eksperimentele waarskynlikheid
+            1.2 Relatiewe frekwensie
+        Eenheid 2: Venn-diagramme en simbole
+            2.1 Aanvullende, snyding en unie van gebeurtenisse
+            2.2 Wedersyds uitsluitende gebeurtenisse
+            2.3 Komplementêre gebeurtenisse
+
+──────────────────────────────────────────────────────────────────────
+
+HERSIENING EN EKSAMEN
+    Oefeneksamenvraestel 1
+    Oefeneksamenvraestel 2
+    Antwoorde
+    Woordelys

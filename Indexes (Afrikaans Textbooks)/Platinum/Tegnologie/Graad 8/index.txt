@@ -1,0 +1,57 @@
+======================================================================
+Tegnologie Vandag Graad 8 Leerderboek
+ISBN: 9780636139831
+Uitgewer: Vandag (Pearson Suid-Afrika)
+Kurrikulum: KABV (CAPS)
+======================================================================
+
+INHOUDSOPGAWE
+──────────────────────────────────────────────────────────────────────
+
+
+Kwartaal 1
+    Onderwerp 1: Strukture
+        Raamstrukture
+        Dopstrukture
+        Tipes kragte: druk, trek, skuif, torsie
+        Versterking van strukture: driehoekvorming, stutwerk
+        Ontwerp en maak 'n raamstruktuur
+    Onderwerp 2: Prosessering
+        Elektroniese kommunikasiestelsels
+        Elektroniese komponente: weerstande, kapasitore, LED's
+        Eenvoudige stroombane
+        Ontwerp 'n stroombaan
+Kwartaal 2
+    Onderwerp 3: Meganiese stelsels en beheer
+        Ratstelsels
+        Ratverhoudings
+        Riemaandrywing en kettingaandrywing
+        Koppelings en hefbome
+        Meganiese voordeel
+    Onderwerp 4: Prosessering
+        Voedselprosessering
+        Preserveringstegnieke
+        Verpakking en etikettering
+        Ontwerp 'n voedselprosesseringsoplossing
+Kwartaal 3
+    Onderwerp 5: Strukture
+        Kragte in brûe
+        Tipes brûe: balk, boog, vakwerk, hangende
+        Toets brugontwerpe
+        Bou 'n modelbrûg
+    Onderwerp 6: Stelsels en beheer
+        Hidrouliese stelsels
+        Pneumatiese stelsels
+        Vergelyking van hidrouliese en pneumatiese stelsels
+        Bou 'n hidrouliese of pneumatiese model
+Kwartaal 4
+    Onderwerp 7: Kommunikasie
+        Isometriese tekening
+        Eenpunt-perspektieftekening
+        Werkstekeninge
+        Teken op skaal
+    Onderwerp 8: Prosessering
+        Tekstiel en die tekstielnywerheid
+        Eienskappe van materiaal
+        Veselverwerking
+        Ontwerp en maak 'n tekstielproduk

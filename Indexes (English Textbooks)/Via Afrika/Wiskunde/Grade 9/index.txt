@@ -1,0 +1,52 @@
+Via Afrika - CAPS Approved
+Subject: Wiskunde
+Graad 9
+Phase: Senior Phase
+Publisher: Via Afrika
+Book: Via Afrika Wiskunde Graad 9
+ISBN: 978-1-41542-228-1
+Source: CAPS Policy Document
+
+--- TABLE OF CONTENTS ---
+
+Term 1
+  Heelgetalle en Rasionale Getalle
+    - Bewerkings en eienskappe
+  Eksponente
+    - Wette van eksponente (uitgebreid)
+  Algebra
+    - Algebraïese uitdrukkings en vergelykings
+    - Gelyktydige vergelykings (inleiding)
+  Meetkunde
+    - Eienskappe van 2D-vorms
+
+Term 2
+  Algebra (vervolg)
+    - Faktorisering
+    - Algebraïese breuke
+  Meetkunde
+    - Stelling van Pythagoras
+    - Oppervlakte en omtrek
+  Patrone en Funksies
+    - Lineêre funksies en grafieke
+
+Term 3
+  Meting
+    - Volume en oppervlakte (3D-vorms)
+  Meetkunde van Reguit Lyne
+    - Hoeke by ewewydige lyne
+  Transformasies
+    - Vergroting en verkleining
+  Analitiese Meetkunde
+    - Koördinaatstelsel
+    - Afstand en midpunt
+
+Term 4
+  Finansies
+    - Enkelvoudige en saamgestelde rente
+    - Wisselkoerse
+  Datahantering
+    - Sentraleneigingsmeetings
+    - Histogramme, staafgrafieke, sirkelgrafieke
+  Waarskynlikheid
+    - Relatiewe frekwensie en voorspelling

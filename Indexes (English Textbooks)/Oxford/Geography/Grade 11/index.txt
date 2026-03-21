@@ -1,0 +1,96 @@
+Oxford University Press - CAPS Approved
+Subject: Geography
+Grade 11
+Phase: FET Phase
+Publisher: Oxford University Press Southern Africa
+Source: https://oxford.co.za/schools/oxford-caps-approved/
+
+--- TABLE OF CONTENTS ---
+
+TERM 1
+  Topic 1: Climate and Weather
+    Unit 1: Factors Influencing Climate and Weather
+      - Factors influencing temperature: latitude, altitude, ocean currents, distance from the sea
+      - Factors influencing rainfall: air masses, frontal systems, relief, continentality
+    Unit 2: The South African Weather and Climate
+      - Pressure systems affecting South Africa
+      - Air masses affecting South Africa
+      - Frontal weather systems
+      - Berg winds
+      - Line thunderstorms and tornadoes
+      - Reading and interpreting synoptic weather maps
+      - Satellite images
+    Unit 3: Africa's Weather and Climate
+      - Climate regions of Africa
+      - Factors influencing Africa's climate
+      - Inter-Tropical Convergence Zone (ITCZ)
+      - The influence of El Nino and La Nina on African weather
+
+  Topic 2: Geomorphology
+    Unit 1: Geomorphological Processes
+      - Endogenous and exogenous processes
+      - Weathering: physical, chemical and biological
+      - Mass movement: types and causes
+      - Erosion, transportation and deposition
+    Unit 2: Slopes and Slope Processes
+      - Slope elements
+      - Slope development theories (Davis, Penck, King)
+      - Mass wasting processes
+    Unit 3: Coastal Landforms and Processes
+      - Wave action: constructive and destructive waves
+      - Coastal erosion landforms: cliffs, wave-cut platforms, caves, arches, stacks
+      - Coastal deposition landforms: beaches, spits, bars, tombolo
+      - River mouths: estuaries, deltas, lagoons
+
+TERM 2
+  Topic 3: Population
+    Unit 1: World Population Distribution and Density
+      - Distribution and density patterns
+      - Factors affecting population distribution
+    Unit 2: Population Growth and Change
+      - Population growth rates
+      - Birth rates, death rates, natural increase
+      - Demographic transition model
+      - Age-sex structure: population pyramids
+    Unit 3: Population Movements
+      - Types of migration: internal, international, rural-urban
+      - Push and pull factors
+      - Impact of migration on source and host areas
+      - Refugees and displaced people
+
+  Topic 4: Resources and Sustainability
+    Unit 1: Energy Resources
+      - Renewable and non-renewable energy sources
+      - Fossil fuels: coal, oil, natural gas
+      - Nuclear energy
+      - Renewable energy: solar, wind, hydro, biomass
+    Unit 2: Resource Management
+      - Conservation and sustainable use of resources
+      - South Africa's energy challenges
+      - Climate change and global warming
+      - Strategies for sustainability
+
+TERM 3
+  Topic 5: Mapwork and Practical Geography
+    Unit 1: Topographic Maps
+      - Interpreting 1:50 000 topographic maps
+      - Contour lines, cross-sections and gradient
+      - Drainage patterns and landforms
+      - Settlement patterns and land use
+    Unit 2: Aerial Photographs and Orthophoto Maps
+      - Interpreting vertical aerial photographs
+      - Orthophoto maps
+      - Comparing topographic maps and aerial photographs
+    Unit 3: Geographic Information Systems (GIS)
+      - Components of GIS
+      - Data capture, storage and analysis
+      - Applications of GIS
+
+TERM 4
+  Revision and Examination Preparation
+    - Climate and weather revision
+    - Geomorphology revision
+    - Population revision
+    - Resources and sustainability revision
+    - Mapwork skills revision
+    - Examination techniques

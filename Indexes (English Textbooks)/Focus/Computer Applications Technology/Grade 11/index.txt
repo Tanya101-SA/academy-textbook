@@ -1,0 +1,163 @@
+======================================================================
+Focus Computer Applications Technology Grade 11 Learner's Book
+ISBN: 9780636153608
+Publisher: Focus (Pearson South Africa)
+Curriculum: CAPS
+======================================================================
+
+TABLE OF CONTENTS
+──────────────────────────────────────────────────────────────────────
+
+
+TERM 1
+    Chapter 1 Hardware 1
+        Introduction
+        Unit 1: The Information Processing Cycle
+        Unit 2: Types of Computers and Typical Features
+        Unit 3: Categories of Computers
+        Unit 4: The Role of ICT in the Workplace
+        Chapter Summary
+        Exam Practice
+    Chapter 2 Word Processing 1
+        Introduction
+        Unit 1: File Management
+        Unit 2: Document Editing and Layout
+        Unit 3: Format Lists and Paragraphs
+        Unit 4: Electronic Forms
+        Unit 5: Templates and Help
+        Chapter Summary
+        Exam Practice
+    Chapter 3 Hardware 2
+        Introduction
+        Unit 1: Input Devices
+        Unit 2: Output Devices
+        Unit 3: Social Implications
+        Chapter Summary
+        Programme of Assessment
+        Exam Practice
+    Chapter 4 Spreadsheets 1
+        Introduction
+        Unit 1: Absolute Cell Referencing and AutoFill Options
+        Unit 2: Using Functions
+        Unit 3: Rounding Numbers, Conditional Formatting and Interpreting Errors
+        Chapter Summary
+        Exam Practice
+    Chapter 5 Databases 1
+        Introduction
+        Unit 1: Uses and First Looks
+        Unit 2: Database Tables
+        Unit 3: Creating and Using Tables and Forms
+        Unit 4: Working with Database Tables
+        Chapter Summary
+        Programme of Assessment
+        Exam Practice
+TERM 2
+    Chapter 6 Hardware 3
+        Introduction
+        Unit 1: Processing
+        Unit 2: Storage Devices and Media
+        Chapter Summary
+        Exam Practice
+    Chapter 7 Word Processing 2, Spreadsheets 2 and Databases 2
+        Introduction
+        Unit 1: Word Processing 2
+        Unit 2: Spreadsheets 2
+        Unit 3: Databases 2
+        Chapter Summary
+        Programme of Assessment
+        Exam Practice 
+    Chapter 8 Networks
+        Introduction
+        Unit 1: L ocal Area Networks
+        Unit 2: Network Components
+        Unit 3: Basic Network Security
+        Unit 4: Social Implications
+        Chapter Summary
+        Exam Practice
+    Chapter 9 The Internet and the WWW
+        Introduction
+        Unit 1: Usability of Web Pages and Websites
+        Unit 2: Social Implications – PrivacyIssues
+        Chapter Summary
+        Programme of Assessment
+        Exam Practice
+    Chapter 10 HTML and Web Design 1
+        Introduction
+        Unit 1: Introduction to Web Design
+        Unit 2: Basic HTML Tags
+        Unit 3: Creating and Formatting a Web Page
+        Chapter Summary
+        Exam Practice
+    Chapter 11 Information Management 1
+        Unit 1: Task Definition and Information Gathering
+        Unit 2: Evaluate Questions
+        Unit 3: Evaluating Information
+        Unit 4: Evaluating Websites
+TERM 3
+    Chapter 12 Software
+        Introduction
+        Unit 1: The Role and Function of Application Software
+        Unit 2: Managing Software
+        Unit 3: Web Applications
+        Unit 4: Software for Physically Challenged Users
+        Chapter Summary
+        Programme of Assessment
+    Chapter 13 Word Processing 3, Spreadsheets 3 and Databases 3
+        Introduction
+        Unit 1: Word Processing 3
+        Unit 2: Spreadsheets 3
+        Unit 3: Databases 3
+        Chapter Summary
+        Exam Practice
+    Chapter 14 The Internet, WWW and Communications
+        Introduction
+        Unit 1: Types of Digital Communication
+        Unit 2: Online Services
+        Unit 3: Computer Communications – Social Websites
+        Unit 4: Fixed, Portable and MobileInternet Access
+        Chapter Summary
+        Exam Practice
+    Chapter 15 HTML and Web Design 2
+        Introduction
+        Unit 1: Good Website Design
+        Unit 2: HTML Links
+        Unit 3: HTML Images
+        Unit 4: HTML Lists
+        Chapter Summary
+        Programme of Assessment
+        Exam Practice
+    Chapter 16 Hardware, Software and Computer Management
+        Introduction
+        Unit 1: Basic System Requirements
+        Unit 2: Software Installation
+        Unit 3: File Management
+        Unit 4: Social Implications
+        Chapter Summary
+        Programme of Assessment
+        Exam Practice
+    Chapter 17 Information Management 2
+        Unit 1: Using Databases and Spreadsheets to Process Data
+TERM 4
+    Chapter 18 Online Communications
+        Introduction
+        Unit 1: E-mail
+        Unit 2: Social Implications
+        Unit 3: Protecting Oneself Online
+        Chapter Summary
+        Exam Practice
+    Chapter 19 ICT in Real life
+        Introduction
+        Unit 1: Case Study 1
+        Unit 2: Case Study 2
+    Chapter 20 Word Processing 4, Spreadsheets 4 and Databases 4
+        Introduction
+        Unit 1: Word Processing 4
+        Unit 2: Spreadsheets 4
+        Unit 3: Databases 4
+        Chapter Summary
+        Exam Practice
+    Chapter 21 Information Management 3
+        Unit 1: Document Design and Integration
+        Unit 2: Information Management and the PAT
+Glossary
+Index

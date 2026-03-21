@@ -1,0 +1,179 @@
+Cambridge University Press SA - CAPS Approved
+Subject: Natural Sciences
+Grade 9
+Phase: Senior Phase
+Publisher: Cambridge University Press South Africa
+Series: Study & Master Natural Sciences
+Source: CAPS Policy Document
+
+--- TABLE OF CONTENTS ---
+
+Term 1
+  Life and Living
+    - Cells as the basic units of life
+    - Cell theory
+    - Structure of plant and animal cells
+    - Cell organelles and their functions (cell membrane, nucleus, cytoplasm, mitochondria, chloroplasts, cell wall, vacuole)
+    - Comparing plant and animal cells
+    - Levels of organisation (cells, tissues, organs, organ systems, organisms)
+    - Using a microscope to observe cells
+    - Systems in the human body
+    - The digestive system
+    - Organs of the digestive system (mouth, oesophagus, stomach, small intestine, large intestine)
+    - Mechanical and chemical digestion
+    - Enzymes and their role in digestion
+    - Absorption of nutrients in the small intestine
+    - The circulatory system
+    - The heart: structure and function
+    - Blood vessels: arteries, veins and capillaries
+    - Blood: components and functions (red blood cells, white blood cells, platelets, plasma)
+    - Pulmonary and systemic circulation
+    - Cardiovascular diseases
+    - The respiratory system
+    - Organs of the respiratory system (nose, trachea, bronchi, lungs, diaphragm)
+    - The process of breathing (inhalation and exhalation)
+    - Gas exchange in the alveoli
+    - The link between the respiratory and circulatory systems
+    - Effects of smoking on the respiratory system
+  Matter and Materials
+    - The atom
+    - Historical models of the atom (Dalton, Thomson, Rutherford, Bohr)
+    - Structure of the atom (protons, neutrons, electrons)
+    - Atomic number, mass number and isotopes
+    - Electron arrangement (electron configuration)
+    - The periodic table
+    - Organisation of the periodic table (groups and periods)
+    - Metals, non-metals and metalloids on the periodic table
+    - Group properties (Group 1: alkali metals, Group 17: halogens, Group 18: noble gases)
+    - Trends in the periodic table
+    - Chemical bonding
+    - Why atoms bond (to achieve stability)
+    - Ionic bonding (transfer of electrons)
+    - Covalent bonding (sharing of electrons)
+    - Properties of ionic and covalent compounds
+    - Representing molecules (molecular formulae, structural formulae)
+
+Term 2
+  Energy and Change
+    - Forces
+    - What is a force (a push or pull)
+    - Types of forces (gravitational, frictional, magnetic, electrostatic, applied, normal, tension)
+    - Contact and non-contact forces
+    - Measuring force (newtons, spring balance)
+    - Effects of forces on objects (change shape, speed, direction)
+    - Balanced and unbalanced forces
+    - Friction: factors affecting friction, advantages and disadvantages
+    - Gravitational force and weight vs mass
+    - Pressure (force per unit area)
+    - Electric cells and circuits
+    - Electric cells and batteries
+    - How a cell produces electrical energy (chemical to electrical energy)
+    - Voltage and current in circuits
+    - Resistance and resistors
+    - Ohm's law (V = I x R)
+    - Calculations using Ohm's law
+    - Series and parallel circuits: voltage and current distribution
+    - Power in electrical circuits (P = V x I)
+  Earth and Beyond
+    - Mining in South Africa
+    - Mineral resources in South Africa (gold, platinum, diamonds, coal, iron, manganese, chromium)
+    - Types of mining (surface mining, underground mining)
+    - Processing of minerals
+    - The impact of mining on the environment (land degradation, water pollution, air pollution)
+    - Rehabilitation of mined land
+    - Mining and the economy of South Africa
+    - Mining and social issues (health risks, community impact)
+    - Atmosphere and climate
+    - The atmosphere and its role in supporting life
+    - Factors affecting climate (latitude, altitude, ocean currents, distance from the sea)
+    - Climate zones of the world
+    - Climate change: causes and evidence
+    - Effects of climate change on South Africa
+    - Responding to climate change (mitigation and adaptation)
+
+Term 3
+  Life and Living
+    - Human reproduction
+    - The male reproductive system (structure and function)
+    - The female reproductive system (structure and function)
+    - The menstrual cycle
+    - Fertilisation, implantation and pregnancy
+    - Development of the embryo and foetus
+    - Birth
+    - Reproductive health
+    - Sexually transmitted infections (STIs)
+    - HIV and AIDS: transmission, prevention, treatment
+    - Contraception and family planning
+    - Teenage pregnancy
+    - The musculoskeletal system
+    - The human skeleton: structure and function
+    - Types of bones (long, short, flat, irregular)
+    - Joints: types of joints (fixed, slightly movable, freely movable)
+    - Types of freely movable joints (ball-and-socket, hinge, pivot, gliding)
+    - Muscles: skeletal muscles and their function
+    - How muscles work in pairs (antagonistic muscles)
+    - Tendons and ligaments
+    - Common musculoskeletal injuries and diseases
+    - The nervous system
+    - The central nervous system (brain and spinal cord)
+    - The peripheral nervous system
+    - Neurons: structure and function
+    - Sensory, motor and relay neurons
+    - Reflex actions and the reflex arc
+    - The senses (sight, hearing, touch, taste, smell)
+    - The eye: structure and function
+    - The ear: structure and function
+    - Effects of drugs and alcohol on the nervous system
+  Matter and Materials
+    - Reactions of metals
+    - Reactions of metals with oxygen (metal oxides)
+    - Reactions of metals with water
+    - Reactions of metals with acids
+    - The reactivity series of metals
+    - Using the reactivity series to predict reactions
+    - Displacement reactions
+    - Corrosion and rusting: causes and prevention
+    - Reactions of non-metals
+    - Reactions of non-metals with oxygen (non-metal oxides)
+    - Acidic oxides and basic oxides
+    - Reactions of non-metal oxides with water (forming acids)
+    - Acid rain: causes and effects
+    - Combustion of fossil fuels
+    - Balancing simple chemical equations
+
+Term 4
+  Energy and Change
+    - Energy and the national electricity grid
+    - How electricity is generated in power stations
+    - Types of power stations in South Africa (coal, nuclear, hydroelectric, wind, solar)
+    - The national electricity grid (generation, transmission, distribution)
+    - Transformers: stepping up and stepping down voltage
+    - Eskom and energy challenges in South Africa
+    - Load shedding and its impact
+    - Renewable energy alternatives for South Africa
+    - Cost of electrical power
+    - Measuring electrical energy (kilowatt-hours, kWh)
+    - Calculating cost of electricity (energy x tariff)
+    - Reading an electricity meter
+    - Prepaid vs conventional electricity
+    - Ways to save electricity and reduce costs
+    - Energy-efficient appliances and technologies
+    - The environmental cost of electricity generation
+  Earth and Beyond
+    - Earth as a system
+    - The four spheres of the Earth (lithosphere, hydrosphere, atmosphere, biosphere)
+    - Interactions between the spheres
+    - How human activities affect the Earth's systems
+    - The carbon cycle
+    - The nitrogen cycle
+    - The water cycle revisited
+    - Sustainable development
+    - The lithosphere
+    - Structure of the Earth (crust, mantle, outer core, inner core)
+    - Plate tectonics: tectonic plates and their movement
+    - Continental drift: evidence (fossils, rock formations, coastline matching)
+    - Earthquakes: causes and effects
+    - Volcanoes: causes and types
+    - Mountain formation
+    - The rock cycle revisited
+    - Geological features of South Africa

@@ -1,0 +1,41 @@
+Play! Mathematics - Grade 7 (CAPS)
+Publisher: JNM Publishers
+Authors: Mouton and Bezuidenhout
+ISBN: 9781928432067
+
+Term 1:
+- Whole numbers: Properties of numbers, ordering, comparing, place value (up to 9-digit numbers)
+- Whole numbers: Addition, subtraction, multiplication and division
+- Exponents (including squares, cubes, square roots, cube roots)
+- Integers (introduction: counting, ordering, comparing, addition and subtraction)
+- Common fractions (proper, improper, mixed, equivalent, addition, subtraction, multiplication, division)
+- Decimal fractions (ordering, place value, all four operations, rounding)
+
+Term 2:
+- Numeric and geometric patterns (investigate and extend patterns, input/output, rules)
+- Functions and relationships
+- Algebraic expressions (introduction)
+- Algebraic equations (solving by inspection)
+- Graphs (interpreting and drawing)
+- Geometry of 2D shapes (classifying triangles and quadrilaterals, angle properties)
+- Transformation geometry (translations, reflections, rotations, enlargements)
+
+Term 3:
+- Geometry of 3D objects (recognise, classify, describe, nets)
+- Measurement: Area and perimeter of regular and irregular shapes
+- Measurement: Surface area and volume of rectangular prisms
+- Measurement: Conversions (length, mass, capacity, time)
+- Ratio and rate
+- Percentages (including percentage increase/decrease)
+- Financial mathematics (profit, loss, discount, VAT)
+
+Term 4:
+- Integers (revision and extension)
+- Data handling: Collect, organise, summarise and represent data (bar graphs, histograms, pie charts)
+- Data handling: Interpret and analyse data (mean, median, mode)
+- Probability (experiments, relative frequency)
+- Numeric and geometric patterns (revision)
+- Whole numbers: All four operations (revision)
+- Equations (revision)
+
+Source: CAPS Mathematics Senior Phase curriculum (education.gov.za). Play! Mathematics follows CAPS in prescribed order.

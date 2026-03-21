@@ -1,0 +1,10 @@
+{
+  "buildCommand": "vite build",
+  "outputDirectory": "dist/client",
+  "rewrites": [
+    { "source": "/api/topics/:id(\\d+)", "destination": "/api/topics/detail?id=:id" },
+    { "source": "/api/mappings/:id(\\d+)", "destination": "/api/mappings/detail?id=:id" },
+    { "source": "/api/missing-topics/:id(\\d+)", "destination": "/api/missing-topics/detail?id=:id" },
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}

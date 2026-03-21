@@ -1,0 +1,67 @@
+Mind Action Series - CAPS Approved
+Subject: Fisiese Wetenskappe
+Grade 11
+Phase: FET Phase
+Publisher: Mind Action Series
+Book: Mind Action Series Fisiese Wetenskappe Graad 11
+Source: CAPS Policy Document
+
+--- TABLE OF CONTENTS ---
+
+Term 1
+  Vectors in Two Dimensions
+    - Resultant of perpendicular vectors
+    - Resolution of a vector into components
+  Newton's Laws and Applications
+    - Newton's first, second and third laws
+    - Normal force, friction
+    - Inclined planes, connected bodies
+  Atomic Combinations / Molecular Structure
+    - VSEPR model
+    - Electronegativity and bond polarity
+    - Bond energy and length
+  Intermolecular Forces
+    - Types of intermolecular forces
+    - Relationship to physical properties
+
+Term 2
+  Geometrical Optics
+    - Refraction
+    - Snell's Law
+    - Critical angles and total internal reflection
+  2D and 3D Wavefronts
+    - Diffraction
+    - Interference
+  Ideal Gases
+    - Kinetic molecular theory
+    - Ideal gas law (pV = nRT)
+    - Boyle's, Charles's and Gay-Lussac's laws
+  Quantitative Aspects of Chemical Change
+    - Molar volume of gases
+    - Limiting reagents
+    - Percent yield
+
+Term 3
+  Electrostatics
+    - Coulomb's Law
+    - Electric field
+  Electromagnetism
+    - Magnetic field of current-carrying wires
+    - Faraday's Law
+  Electric Circuits
+    - Ohm's Law revisited
+    - Power and energy
+  Energy and Chemical Change
+    - Exothermic and endothermic reactions
+    - Activation energy
+    - Hess's law
+  Types of Reactions: Acid-Base
+    - Acid-base reactions
+    - Neutralisation
+
+Term 4
+  Redox Reactions
+    - Oxidation numbers
+  Exploiting the Lithosphere
+    - Mining and mineral processing
+    - Energy resources

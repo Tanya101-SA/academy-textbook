@@ -1,0 +1,148 @@
+Cambridge University Press SA - CAPS Approved
+Subject: Natural Sciences
+Grade 8
+Phase: Senior Phase
+Publisher: Cambridge University Press South Africa
+Series: Study & Master Natural Sciences
+Source: CAPS Policy Document
+
+--- TABLE OF CONTENTS ---
+
+Term 1
+  Life and Living
+    - Photosynthesis and respiration
+    - Photosynthesis: the process by which plants make food
+    - Requirements for photosynthesis (light, water, carbon dioxide, chlorophyll)
+    - Products of photosynthesis (glucose, oxygen)
+    - The importance of photosynthesis for life on Earth
+    - Respiration: releasing energy from food
+    - Aerobic respiration (glucose + oxygen = carbon dioxide + water + energy)
+    - Comparing photosynthesis and respiration
+    - The interdependence of photosynthesis and respiration
+    - Interactions in the environment
+    - Biotic and abiotic factors
+    - Feeding relationships: producers, consumers, decomposers
+    - Food chains and food webs
+    - Energy flow through an ecosystem
+    - Symbiosis: mutualism, commensalism, parasitism
+    - Competition and predation
+    - Adaptations of organisms to their environment
+    - The impact of humans on ecosystems
+  Matter and Materials
+    - Atoms
+    - What is an atom (the smallest particle of an element)
+    - Structure of the atom (protons, neutrons, electrons)
+    - The nucleus and electron shells
+    - Atomic number and mass number
+    - Elements
+    - What is an element (a pure substance made of one type of atom)
+    - Common elements and their symbols
+    - Metals, non-metals and metalloids
+    - Properties of metals and non-metals
+    - Compounds
+    - What is a compound (two or more elements chemically bonded)
+    - Difference between compounds and mixtures
+    - Chemical formulae of common compounds (water, carbon dioxide, sodium chloride)
+    - Properties of compounds vs properties of their elements
+
+Term 2
+  Energy and Change
+    - Static electricity
+    - Electric charge (positive and negative)
+    - Charging by friction (triboelectric effect)
+    - Attraction and repulsion of charges
+    - Lightning as a natural example of static electricity
+    - Dangers of static electricity
+    - Energy transfer in electrical systems
+    - Current electricity vs static electricity
+    - Voltage, current and resistance
+    - Energy transfer in circuits
+    - Series and parallel circuits revisited
+    - Measuring current with an ammeter
+    - Measuring voltage with a voltmeter
+    - Ohm's law (introduction)
+    - Calculating energy use and cost of electricity
+  Earth and Beyond
+    - The solar system
+    - The Sun: a medium-sized star
+    - Characteristics of the planets
+    - Inner rocky planets vs outer gas giants
+    - Other objects in the solar system (comets, asteroids, meteoroids)
+    - The Milky Way galaxy
+    - Beyond the solar system
+    - What is a galaxy
+    - Types of galaxies
+    - Stars: life cycle of a star
+    - The universe: how big is the universe
+    - Space exploration and technology
+    - South Africa's role in astronomy (SALT, MeerKAT, SKA)
+
+Term 3
+  Life and Living
+    - Micro-organisms
+    - Types of micro-organisms (bacteria, viruses, fungi, protists)
+    - Structure of bacteria
+    - Structure of viruses
+    - Diseases caused by micro-organisms
+    - How the body defends itself (immune system)
+    - Antibiotics and vaccines
+    - HIV and AIDS
+    - Tuberculosis (TB)
+    - Preventing the spread of diseases
+    - Reproduction in vertebrates and plants
+    - Sexual and asexual reproduction
+    - Reproduction in humans (introduction)
+    - Reproductive systems (male and female)
+    - Fertilisation and development in mammals
+    - Reproduction in amphibians and fish (external fertilisation)
+    - Reproduction in birds and reptiles (eggs)
+    - Vegetative reproduction in plants (runners, bulbs, tubers, cuttings)
+    - Advantages and disadvantages of sexual and asexual reproduction
+  Matter and Materials
+    - Particle model of matter
+    - The particle model (all matter is made of tiny particles)
+    - Arrangement and movement of particles in solids, liquids and gases
+    - Using the particle model to explain properties of matter
+    - Using the particle model to explain changes of state
+    - Expansion and contraction explained by the particle model
+    - Diffusion explained by the particle model
+    - Pressure in gases explained by the particle model
+    - Chemical reactions
+    - What is a chemical reaction
+    - Signs of a chemical reaction (gas production, colour change, temperature change, precipitate)
+    - Reactants and products
+    - Word equations for chemical reactions
+    - Combustion reactions (burning)
+    - Reactions of metals with oxygen (oxidation, rusting)
+    - Reactions of acids with metals
+    - Reactions of acids with carbonates
+
+Term 4
+  Energy and Change
+    - Visible light
+    - What is light (a form of energy, part of the electromagnetic spectrum)
+    - Sources of light (luminous and non-luminous objects)
+    - Light travels in straight lines
+    - Transparent, translucent and opaque materials
+    - Shadows: formation and characteristics
+    - Ray model of light
+    - Representing light using ray diagrams
+    - Reflection of light
+    - Laws of reflection
+    - Plane mirrors and images
+    - Refraction of light
+    - Why light bends when entering a different medium
+    - Examples of refraction in daily life
+    - Dispersion of white light (prism, rainbow)
+    - Colours of the visible spectrum
+  Earth and Beyond
+    - The Earth's atmosphere
+    - Composition of the atmosphere (nitrogen, oxygen, carbon dioxide, other gases)
+    - Layers of the atmosphere (troposphere, stratosphere, mesosphere, thermosphere)
+    - The greenhouse effect
+    - Global warming and climate change
+    - The ozone layer and its importance
+    - Air pollution: causes and effects
+    - Reducing air pollution
+    - Weather vs climate
+    - The water cycle and the atmosphere

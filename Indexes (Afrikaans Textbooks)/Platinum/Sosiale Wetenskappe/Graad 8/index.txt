@@ -1,0 +1,549 @@
+======================================================================
+Vandag Sosiale Wetenskappe Graad 8 Leerderboek
+ISBN: 9780636144736
+Uitgewer: Vandag (Pearson Suid-Afrika)
+Kurrikulum: KABV (CAPS)
+======================================================================
+
+INHOUDSOPGAWE
+──────────────────────────────────────────────────────────────────────
+
+
+Platinum Social Sciences Learner’s Book 8
+Aardrykskunde Inhoudsopgawe
+Geskiedenis Inhoudsopgawe
+Aardrykskunde Inhoudsopgawe
+    AARDRYKSKUNDE TOPIC 1 Maps and globes Kwartaal 1
+        Aardrykskunde Sub-topic 1 Maps and atlases
+            Eenheid 1: Latitude and longitude – degrees and minutes
+                Degrees and minutes
+                ACTIVITY 1 Locate places using degrees and minutes
+            Eenheid 2: Using the atlas index to find places on a map
+                How to use the index of an atlas
+                ACTIVITY 2 Locate places on a map and in an atlas index
+            Eenheid 3: Kinds of scale in an atlas (world, regional, local)
+                ACTIVITY 3 Explain why scale is not the same on all maps
+            Eenheid 4: Scale
+                Review line and word scales
+                Word scale
+                Line scale
+                Introduce ratio scales (number scales)
+                Calculate distances between settlements (global and South Africa) using different scales
+                How to calculate distances using ratio scale on a map
+                ACTIVITY 4 Use scales to convert measurements
+                ACTIVITY 5 Calculate distances between places using different scales
+            Eenheid 5: Places in the news
+                ACTIVITY 6 Plot places in the news on a world map using degrees and minutes
+        Aardrykskunde Sub-topic 2 The globe
+            Eenheid 1: Halfronde (review from Grade 6)
+                ACTIVITY 1 Locate places using hemispheres and coordinates
+            Eenheid 2: Earth’s rotation on its axis – day and night (review)
+                ACTIVITY 2 Do an experiment to show the causes of day and night
+            Eenheid 3: World time, time zones and the International Date Line
+                ACTIVITY 3 Calculate times around the world
+                The International Date Line
+                ACTIVITY 4 Identify and explain time differences
+            Eenheid 4: South African Standard Time
+                ACTIVITY 5 Consider reasons for time differences in southern Africa
+            Eenheid 5: Earth’s revolution around the sun
+                Angle of axis
+                Equinox, solstice and the change in angle of the midday sun
+                Equinox
+                Solstice
+                Change in the angle of the midday sun
+                Seasonal changes in lengths of day and night
+                ACTIVITY 6 Explain why the length of day and night changes
+                Seasonal temperature changes
+                ACTIVITY 7 Find information from sources
+        Aardrykskunde Sub-topic 3 Satellite images
+            Eenheid 1: What satellite images look like
+                ACTIVITY 1 Interpret a satellite image
+            Eenheid 2: Information from satellite images – water, vegetation, land use and cloud patterns
+                ACTIVITY 2 Identify features on satellite images
+            Eenheid 3: How satellite images are used
+                ACTIVITY 3 Interpret different satellite images
+        Hersiening and assessment
+            Task 1: Look at the map below and determine coordinates
+            Task 2: Use map scales
+            Task 3: Investigate Earth’s revolution around the sun
+    AARDRYKSKUNDE TOPIC 2 Klimaat regions Kwartaal 2
+        Aardrykskunde Sub-topic 1 Factors that influence temperature and rainfall
+            Eenheid 1: Distance from the equator (latitude)
+                ACTIVITY 1 Organise information in a table
+            Eenheid 2: Distance from the sea
+                ACTIVITY 2 Explain differences in seasonal temperatures
+            Eenheid 3: Height above sea level (altitude)
+                ACTIVITY 3 Calculate how temperature changes with altitude
+            Eenheid 4: Ocean currents
+                ACTIVITY 4 Answer questions about the effect of ocean currents on temperature and rainfall
+            Eenheid 5: Mountains (relief)
+                The effect of relief on temperature
+                The effect of mountains on rainfall
+                ACTIVITY 5 Label and explain a diagram
+        Aardrykskunde Sub-topic 2 South Africa's climate
+            Eenheid 1: Physical map of South Africa (review from Grade 5)
+                ACTIVITY 1 Demonstrate map skills
+            Eenheid 2: Factors that influence temperature and rainfall in South Africa
+                The influence of distance from the equator (latitude)
+                ACTIVITY 2 Compare and contrast cities on a map
+                The influence of distance from the sea
+                ACTIVITY 3 Calculate temperature ranges and explain your results
+                The influence of height above sea level (altitude)
+                ACTIVITY 4 Represent temperature data in a table
+                The influence of ocean currents
+                ACTIVITY 5 Explain the effect of ocean currents on temperature and rainfall
+                The influence of mountains (relief)
+                ACTIVITY 6 Draw and label a diagram to explain the effects of relief on rainfall
+        Aardrykskunde Sub-topic 3 Klimaat around the world
+            Eenheid 1 Difference between weather and climate (review from Grade 5)
+                ACTIVITY 1 Explain the difference between weather and climate
+            Eenheid 2 The elements of weather – temperature, humidity, winds and precipitation
+                ACTIVITY 2 Identify elements of weather in photographs
+            Eenheid 3 Kinds of climate: Tropical, subtropical, temperate, desert, semi-desert, continental, polar, Mediterranean, tundra and high mountain (alpine)
+                Tropical climate
+                Subtropical climate
+                Temperate climate
+                Desert climate
+                Semi-desert climate
+                Continental climate
+                Polar climate
+                Tundra and high mountain (alpine) climate
+                Tundra climate
+                High mountain (alpine) climate
+                Mediterranean climate
+                ACTIVITY 3 Order and describe climate regions
+            Eenheid 4 Temperature and rainfall characteristics of different climates (bar and line graphs)
+                Tropical climate
+                Subtropical climate
+                Temperate climate
+                Desert climate
+                Semi-desert climate
+                Continental climate
+                Polar climate
+                Tundra and mountain climate
+                Mediterranean climate
+                ACTIVITY 4 Describe climate characteristics
+            Eenheid 5 Klimaat regions of the world
+                Map with climate regions
+                Links between climate regions and factors that influence temperature and rainfall
+                Factors that influence rainfall and temperature in climate regions
+                Latitude
+                Mountains
+                Ocean currents
+                Altitude
+                Distance from the sea
+                ACTIVITY 5 Consolidate your understanding of climate regions
+        Hersiening and assessment
+            Question 1: Check your understanding
+            Question 2: Label a diagram
+            Question 3: Interpret climate graphs
+    AARDRYKSKUNDE TOPIC 3 Nedersetting Kwartaal 3
+        Aardrykskunde Sub-topic 1 Nedersettings and land use
+            Eenheid 1: Urban settlements
+                ACTIVITY 1 Find information from photographs
+                Land use within urban settlements
+                Central Business District (CBD)
+                Zones for light and heavy industry
+                Residential areas (high-, middle-, and low-income)
+                Shopping centres
+                Services and recreation
+                ACTIVITY 2 Answer questions about land use zones
+            Eenheid 2: Rural settlements
+                Types of rural settlements – including farming, mining, forestry and fishing
+                Farming settlements
+                Mining settlements
+                Forestry
+                Fishing
+                ACTIVITY 3 Give an account and express opinions
+        Aardrykskunde Sub-topic 2 Land use on aerial photographs and large scale maps
+            Eenheid 1: What aerial photographs look like (oblique and vertical)
+                Vertical aerial photographs
+                Oblique aerial photographs
+                ACTIVITY 1 Interpret vertical and oblique aerial photographs
+            Eenheid 2: Information from aerial photographs – natural and constructed features
+                ACTIVITY 2 Interpret a vertical aerial photograph
+            Eenheid 3: Identifying land use in urban settlements (aerial photographs and large-scale maps)
+                ACTIVITY 3 Identify features on an aerial photograph
+                ACTIVITY 4 Draw a sketch map to show land use
+                Programme of Assessment: Projek
+                Ondersoek of a settlement
+                An independent study of a known settlement
+                Outline of project
+                Projek tips
+                Assessment
+        Aardrykskunde Sub-topic 3 Verstedeliking
+            Eenheid 1: Concept of urbanisation
+                ACTIVITY 1 Give reasons and write explanations for urbanisation
+            Eenheid 2: Why cities are growing – push and pull forces of migration (Africa with focus on South Africa)
+                People move for different reasons
+                ACTIVITY 2 Explore the effects of push and pull factors
+            Eenheid 3: Overview of urbanisation in South Africa – including issues associated with apartheid population controls
+                The influence of early settlers
+                The influence of the discovery of diamonds and gold
+                The influence of the formation of the Union of South Africa
+                The influence of apartheid population controls
+                The influence of democracy in 1994
+                ACTIVITY 3 Analyse the effect of apartheid on land use
+            Eenheid 4: Social issues related to the rapid growth of cities – such as housing and service provision (including health care and education)
+                Housing
+                Services – health care and education
+                ACTIVITY 4 Examine sources and suggest explanations
+        Hersiening and assessment
+            Question 1: Identity land use
+            Question 2: Draw a sketch map
+            Question 3: Interpret a written source
+    AARDRYKSKUNDE TOPIC 4 Transport and trade Kwartaal 4
+        Aardrykskunde Sub-topic 1 Handel and transport around the world
+            Eenheid 1: Reasons for trade (Review from Grade 6)
+                ACTIVITY 1 Consider the relationship between transport and price
+            Eenheid 2: Links between trade and transport – with examples to illustrate
+                ACTIVITY 2 Answer questions about the links between trade and transport
+            Eenheid 3: Different modes of transport and their uses: sea, air, road, rail and pipeline
+                Sea transport
+                Air transport
+                Road transport
+                Rail transport
+                Pipeline
+                ACTIVITY 3 Conduct a traffic survey
+        Aardrykskunde Sub-topic 2 Handel and transport in South Africa
+            Eenheid 1: Major roads, railways, airports and harbours in South Africa (map)
+                ACTIVITY 1 Identify reasons for the pattern of transport routes
+            Eenheid 2: Gevallestudie of a selected South African harbour – Port Elizabeth
+                Reasons for location
+                Main exports and imports
+                Specialised ships – such as container ships, tankers, passenger liners, bulk carriers for specialised cargo
+                Links with other transport systems – such as road, rail and pipeline
+                ACTIVITY 2 Extract and explain information from sources
+                Eenheid 3: Advantages and disadvantages of road and rail transport
+                What are the advantages and disadvantages of road and rail transport?
+                Advantages of road transport
+                Disadvantages of road transport
+                Advantages of rail transport
+                Disadvantages of rail transport
+                ACTIVITY 3 Compare and contrast information on transport
+                Eenheid 4: Requirements for future transport networks
+                Local transport networks
+                ACTIVITY 4 Present information about new transport developments
+            Aardrykskunde Sub-topic 3 People and transport in urban areas
+                Eenheid 1: Public transport systems in urban areas – such as buses and trains
+                Commuter trains in cities
+                Gevallestudie: BART – The San Francisco Bay Area Rapid Transit System
+                Bus Rapid Transit (BRT) systems in South Africa
+                Gevallestudie: Johannesburg’s Rea Vaya Bus Rapid Transit system
+                ACTIVITY 1 Compare different forms of transport
+                Eenheid 2: Private modes of transport – such as mini-bus taxis, cars and bicycles
+                Mini-bus taxis
+                Mini-bus taxi facts
+                What people like about mini-bus taxis
+                What people do not like about mini-bus taxis
+                ACTIVITY 2 Express a point of view on public and private transport
+                Eenheid 3: Transport issues – such as cost for commuters, traffic congestion and pollution
+                Cost for commuters
+                Pollution
+                Traffic congestion
+                Synchronised traffic lights
+                Traffic cirlces
+                One-way road system
+                Car pool and bus lane on a motorway
+                ACTIVITY 3 Evaluate methods to address traffic issues
+                Eenheid 4: Public transit strategies – such as rapid transport systems, subsidised public transport, bus and cycle lanes, park and ride, car-free zones
+                Rapid transit systems
+                Gevallestudie: Gautrain Rapid Rail Link
+                Why was the Gautrain Rapid Rail Link developed?
+                Objectives of the Gautrain Rapid Rail Link
+                Information about the Gautrain Rapid Rail Link
+                ACTIVITY 4 Describe benefits of a transport network
+                Bus lanes
+                Bicycles in cities
+                Restricted car use (including car-free zones)
+                Subsidised public transport
+                Park and ride
+                Gevallestudie: Jindalee park and ride in Brisbane, Australia
+                Objectives
+                Facilities
+                ACTIVITY 5 Extract information from case study
+        Hersiening and assessment
+            Question 1: Test your knowledge
+            Question 2: Answer questions about the Rea Vaya bus route
+            Question 3: Identify commuter issues
+            Question 4: Find information in an article
+Geskiedenis Inhoudsopgawe
+    GESKIEDENIS TOPIC 1 The Industrial Revolution in Britain and southern Africa from 1860 Kwartaal 1
+        Geskiedenis Sub-topic 1 Changes during the Industrial Revolution in Britain
+            Eenheid 1: Wealth from slave trade
+                How the slave trade made Britain wealthy
+                Bristol and the slave trade
+                ACTIVITY 1 Use sources to explain Bristol’s wealth
+            Eenheid 2: Economy before the Industrial Revolution: farming economy, cottage industries
+                The farming economy before the Industrial Revolution
+                The enclosure system
+                The cottage industry economy before the Industrial Revolution
+                The woollen cloth industry
+                ACTIVITY 2 Analyse, understand and explain point of view
+            Eenheid 3: What the Industrial Revolution was
+                Changes during the Industrial Revolution
+                Machines
+                Factories
+                Power and energy
+                Mining
+                Transportation
+                ACTIVITY 3 Apply what you have learnt about change during the Industrial Revolution
+            Eenheid 4: Social changes during the Industrial Revolution
+                Verstedeliking and changing living conditions – lives of the working class, including overcrowded housing, poverty and workhouses
+                ACTIVITY 4 Analyse and interpret sources to find information
+                The mines and factories – child labour in mills and mines
+                Mines
+                Factories
+                ACTIVITY 5 Analyse sources and discuss child labour
+            Eenheid 5: Labour, resistance, the trade union movement and working class organisations
+                Swing Riots (agriculture)
+                Luddites (industry)
+                Grand National Consolidated Handels Union (1833)
+                ACTIVITY 6 Recall information from sources and apply knowledge to explain answers
+            Eenheid 6: Increased power and wealth of Britain and Western European economies
+                ACTIVITY 7 Get information from pie graphs
+        Geskiedenis Sub-topic 2 Southern Africa by 1860
+            Eenheid 1: Map and brief description of political settlement
+                Map of southern Africa in 1860
+                Brief description of political settlement in southern Africa in 1860
+            Eenheid 2: Indentured labour from India to work on the sugar plantations in British colony of Natal
+                British colony of Natal
+                India as a British colony
+                Reasons why labour was imported: Zulu kingdom was still independent
+                ACTIVITY 1 Answer questions and make deductions using textand sources
+                Reasons for demand for sugar in Britain
+                Conditions under which indentured labourers lived and worked
+                Houses
+                Food
+                Passenger Indians 1869 onwards
+                ACTIVITY 2 Recall information from sources and make deductions
+        Geskiedenis Sub-topic 3 Diamond mining in Kimberley 1867 onwards
+            Eenheid 1: Why diamonds are valuable
+            Eenheid 2: British take-over of diamond-rich land in Griqualand West
+                The discovery of diamonds in southern Africa
+                In whose territory were diamonds found?
+                The Keate award
+                ACTIVITY 1 Recall information from the text and the source, make deductions and apply knowledge
+            Eenheid 3: Diamond mining and the development of a monopoly
+                One person one claim
+                What happened to black claim holders?
+                Problems related to digging deeper
+                ACTIVITY 2 Analyse and interpret information from sources
+                The formation of companies
+                Cecil John Rhodes and Barney Barnato
+                The formation of De Beers Consolidated Mines Limited
+                Regulating supply and price of diamonds
+                ACTIVITY 3 Explain change over time
+        Hersiening and assessment
+            Task 1: Compare sources
+            Task 2: Find information from sources
+    GESKIEDENIS TOPIC 2 The Mineral Revolution in South Africa Kwartaal 2
+        Geskiedenis Sub-topic 1 Britain, diamond mining and increasing labour control and land expansionism
+            Eenheid 1: Increasing control over black workers: closed compounds and migrant labour
+                Compounds in the early years
+                Closed compounds
+                ACTIVITY 1 Analyse, interpret and make deductions from sources, and explain points of view
+            Eenheid 2: Further land dispossession and defeat of African kingdoms: Xhosa 1878 and Pedi and Zulu 1879
+                The British plan to strengthen their position in southern Africa
+                ACTIVITY 2 Interpret and recall information from a map
+        Geskiedenis Sub-topic 2 Deep-level gold mining on the Witwatersrand 1886 onwards
+            Eenheid 1: Why gold is valuable
+                The gold standard
+                ACTIVITY 1 Explain the effect of the value of gold and the gold standard
+            Eenheid 2: The discovery and mining of deep level gold on the Witwatersrand
+                The discovery of gold
+                Deep-level gold mining
+                ACTIVITY 2 Think about changes brought about by the mining of deep level gold
+            Eenheid 3: How gold is mined
+                What was needed to mine gold at a profit?
+                Low grade ore in the Witwatersrand gold mines
+                ACTIVITY 3 Select information about gold mining to create a summary
+            Eenheid 4: Conditions underground
+                ACTIVITY 4 Find information from sources about what it is like to work in a mine
+            Eenheid 5: The Randlords and the formation of the Chamber of Mines
+                Randlords (mine owners)
+                The formation of the Chamber of Mines
+                ACTIVITY 5 Interpret a photograph of the Randlords
+            Eenheid 6: Migrant workers (more systematic control and borrowing of compound system from Kimberley)
+                Compounds for migrant workers
+                ACTIVITY 6 Interpret a photograph of a closed compound
+                Systematic control of migrant workers
+                Taxes
+                Recruitment
+                Contracts
+                Pass Laws
+                ACTIVITY 7 Discuss advantages and disadvantages of labour control
+            Eenheid 7: Increasing burden on women in the reserves, erosion of families
+                The burden on women in the reserves
+                The reserves become poorer
+                Erosion of families
+                ACTIVITY 8 Summarise information from the text and the sources
+            Eenheid 8: Skilled and unskilled white workers
+                Racial segregation
+                ACTIVITY 9 Analyse, interpret and recall information from sources
+            Eenheid 9: Anti-Indian legislation
+                Laws that discriminated against Indians in the Transvaal
+                ACTIVITY 10 Compare sources on legislation
+            Eenheid 10: Forms of labour resistance
+                How did workers resist?
+                Handel unionism
+                ACTIVITY 11 Recall information and understand cause and effect
+            Eenheid 11: The city of Johannesburg
+                ACTIVITY 12 Analyse source and recall information about before and after the Mineral Revolution
+        Geskiedenis Sub-topic 3 The Mineral Revolution as a turning point in South African history
+            Eenheid 1: The shifting balance of power
+                A turning point in South African history
+                Defeat of the Boer Republics 1902
+                ACTIVITY 1 Work out the change in the balance of power
+                A note about the following section:
+                African Political Organisation (APO) 1902
+                Transvaal Indian Congress (TIC) 1903
+                Bambatha Rebellion 1906
+                Union 1910
+                Formation of South African Native National Congress (SANNC) 1912 (later renamed ANC)
+                Satyagraha Campaign of 1913–1914
+                The Land Act 1913
+                ACTIVITY 2 Arrange events in time order
+            Eenheid 2: Map of southern Africa in 1913 compared with 1860
+                ACTIVITY 3 Recall and discuss information, make recommendations and apply knowledge to write an essay
+        Hersiening and assessment
+            Question 1: Time line
+            Question 2: Interpret a photograph
+            Question 3: Work with a comic strip
+    GESKIEDENIS TOPIC 3 The scramble for Africa Kwartaal 3
+        Geskiedenis Sub-topic 1 European colonisation of Africa in the late 19th century
+            Eenheid 1: Africa before European colonisation
+                Map of Africa 1800
+                ACTIVITY 1 Find information from a map
+            Eenheid 2: Berlin Conference 1884
+                ACTIVITY 2 Interpret a cartoon on the ‘Scramble for Africa’
+                Who divided up Africa?
+                ACTIVITY 3 Interpret sources about the Berlin Conference
+            Eenheid 3: Patterns of colonisation: which countries colonised which parts of Africa
+                Map of Africa (showing different colonising countries)
+                ACTIVITY 4 Interpret a map and match, sort, select, organise and work with data
+        Geskiedenis Sub-topic 2 Causes of colonisation
+            Eenheid 1: What were the reasons for European colonisation of Africa?
+                Reasons for European colonisation of the African continent
+                Search for raw materials and profits
+                Growth of nationalism in Europe
+                Christian missionaries
+                What is a Christian missionary?
+                The discovery of quinine
+                ACTIVITY 1 Write captions for and interpret photographs
+                ACTIVITY 2 Evaluate and understand point of view about the colonisation of Africa
+            Eenheid 2: Why European powers were able to colonise Africa so quickly
+                Rivalries between different African leaders
+                Natural disasters
+                The invention of the machine gun
+                New diseases
+                ACTIVITY 3 Write a paragraph on why Africa was colonised so quickly
+        Geskiedenis Sub-topic 3 Results of colonisation
+            Eenheid 1: A turning point in African history
+                ACTIVITY 1 Analyse point of view of written sources
+            Eenheid 2: Loss of land
+                Loss of natural resources and working for wages
+                Artificial borders
+                ACTIVITY 2 Interpret a cartoon and analyse point of view
+            Eenheid 3: Resistance
+                An example of African resistance – the Maji-Maji rebellion
+                ACTIVITY 3 Compare sources and make deductions
+            Eenheid 4: Christianity, customs and culture
+                Racism
+                ACTIVITY 4 Interpret a visual source
+        Geskiedenis Sub-topic 4 Gevallestudie: The Ashanti kingdom
+            Eenheid 1: The coast of West Africa before the arrival of Europeans
+                Gold in West Africa
+                ACTIVITY 1 Use a map to find information on West Africa
+            Eenheid 2: The Ashanti and their early contact with European traders and explorers
+                Gold and the Ashanti kingdom of West Africa
+                Slaves and the Akan states
+                ACTIVITY 2 Analyse sources to find information
+            Eenheid 3: The British and the colonisation of the Gold Coast
+                The myth of the Golden Stool
+                ACTIVITY 3 Identify and explain similarities and differences between sources
+                The British colonisers and the War of the Golden Stool
+                ACTIVITY 4 Use visual and written sources to find information
+            Eenheid 4: Results of colonisation for Ashanti kingdom and Britain
+                Ashanti lost many golden treasures
+                The Ashanti people lost their independence
+                The British grew richer
+                ACTIVITY 5 Compare and contrast point of view
+        Hersiening and assessment
+            Task 1: Write events in the correct time order
+            Task 2: List causes and effects
+            Task 3: Interpret a cartoon
+            Task 4: Interpret maps
+    GESKIEDENIS TOPIC 4 World War I (1914 – 1918) Kwartaal 4
+        Geskiedenis Sub-topic 1 Reasons why World War I broke out
+            Eenheid 1: Overview of long-term causes: Nationalism, industrial economies, control of seas, colonisation and empires
+                Nationalism
+                Industrial economies
+                Control of the seas
+                Colonisation and empires
+                ACTIVITY 1 Prepare to write an essay on the causes of World War I
+            Eenheid 2: Immediate cause: Assassination of Archduke of Austria at Sarajevo
+                Tension in the Balkans
+                Assassination of Archduke of Austria at Sarajevo
+                War breaks out
+                ACTIVITY 2 Select, organise and summarise information from sources to write an essay on the tension in the Balkans
+            Eenheid 3: Countries in Europe which fought: Allied Powers vs Central Powers
+                Why did Russia withdraw from the war?
+                ACTIVITY 3 Complete a table on Allied and Central Powers
+        Geskiedenis Sub-topic 2 Aspects of experiences in World War I
+            Eenheid 1: Conscription and propaganda in Britain
+                What is propaganda?
+                Conscription in Britain
+                ACTIVITY 1 Define propaganda, analyse cartoons and create a propaganda poster
+            Eenheid 2: Conscientious objectors
+                ACTIVITY 2 Understand, evaluate and explain point of view
+            Eenheid 3: Trench warfare on the Western Front
+                What did these trenches look like?
+                Life in the trenches
+                Shell shock
+                ACTIVITY 3 Recall and deduct information from sources
+            Eenheid 4: Music and poetry
+                Poetry of World War I
+                Music of World War I
+                ACTIVITY 4 Analyse sources and make deductions
+            Eenheid 5: World War I and South Africa
+                Battle of Delville Wood 1916
+                ACTIVITY 5 Write a newspaper article aout a battle in WWI
+                Sinking of the Mendi 1917
+                ACTIVITY 6 Find different interpretations of the same event
+        Geskiedenis Sub-topic 3 Women in Britain during World War I
+            Eenheid 1: Changing roles of women in the workplace in Britain in World War I
+                Women’s role in the economy before World War I
+                Women’s role in the economy during and after World War I
+                Women’s roles during the war
+                Women’s role after the war
+                ACTIVITY 1 Interpret sources
+            Eenheid 2: Emily Pankhurst and the campaign for the vote for women in Britain
+                The Suffragettes
+                ACTIVITY 2 Discuss issues relating to the Suffragette movement
+        Geskiedenis Sub-topic 4 The defeat of Germany and the Treaty of Versailles
+            Eenheid 1: Germany’s punishment at the end of WWI
+                How Germany was punished
+                ACTIVITY 1 Debate what happened to Germany in the Treaty of Versailles and give recommendations
+        Hersiening and assessment
+            Question 1: Work with time
+            Question 2: Find information from a source
+            Question 3: Interpret figures
+            Question 4: Work out point of view
+            Question 5: Extract information from a source
+Kwartaal 2 Exemplar Test
+    Aardrykskunde
+Kwartaal 2 Exemplar Test
+    Geskiedenis
+Kwartaal 4 Exemplar Exam
+    Aardrykskunde
+Kwartaal 4 Exemplar Exam
+    Geskiedenis
+Skills, Exam preparation and Assessment
+    Skills and concepts
+    Exam preparation and Assessment
+    Assessment rubrics
+Woordelys
+Bibliography
+Photo acknowledgments:
+Text acknowledgments:

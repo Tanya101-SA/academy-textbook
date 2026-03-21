@@ -1,0 +1,112 @@
+======================================================================
+Platinum Physical Sciences Grade 11 Learner's Book
+ISBN: 9780636146587
+Publisher: Platinum (Pearson South Africa)
+Curriculum: CAPS
+======================================================================
+
+TABLE OF CONTENTS
+──────────────────────────────────────────────────────────────────────
+
+
+Periodic table of the elements
+Term 1
+    Topic 1: Mechanics
+        Chapter 1: Vectors in two dimensions
+            Unit 1: Resultant of perpendicular vectors
+            Unit 2: Resolution of a vector into two perpendicular components
+        Chapter 2: Newton’s laws and the application of Newton’s laws
+            Unit 1: Different kinds of forces
+            Unit 2: Force diagrams and free-body diagrams
+            Unit 3: Newton’s three laws of motion
+            Unit 4: Newton’s Law of Universal Gravitation
+            Chapter 2 Revision
+        Topic 1 Summary
+        Exam practice Topic 1
+    Topic 2: Matter and materials
+        Chapter 3: Atomic combinations: molecular structure
+            Unit 1: Describing a chemical bond
+            Unit 2: Molecular shape as predicted by the Valence Shell Electron Pair Repulsion theory
+            Unit 3: Electronegativity of atoms to explain the polarity of bonds
+            Unit 4: Bond energy and bond length
+            Chapter 3 Revision
+        Chapter 4: Intermolecular forces
+            Unit 1: Types of intermolecular force
+            Unit 2: Effect of intermolecular forces
+            Unit 3: The chemistry of water
+            Chapter 4 Revision
+        Topic 2 Summary
+        Exam practice Topic 2
+Term 2
+    Topic 3: Waves, sound and light
+        Chapter 5: Geometrical optics
+            Unit 1: Reflection and refraction
+            Unit 2: Snell’s Law
+            Unit 3: Critical angles and total internal reflection
+            Chapter 5 Revision
+        Chapter 6: Two-dimensional and three-dimensional wavefronts
+            Unit 1: Diffraction
+            Chapter 6 Revision
+        Topic 3 Summary
+        Exam practice Topic 3
+    Topic 4: Matter and materials
+        Chapter 7: Ideal gases and thermal properties
+            Unit 1: The kinetic theory of gases and motion of particles
+            Unit 2: Boyle’s Law
+            Unit 3: The general gas equation
+            Unit 4: Comparing ideal gases with real gases
+            Chapter 7 Revision
+        Topic 4 Summary
+        Exam practice Topic 4
+    Topic 5: Chemical change
+        Chapter 8: Quantitative aspects of chemical change
+            Unit 1: Molar volume of gases and concentration of solutions
+            Unit 2: More complex stoichiometric calculations
+            Unit 3: Volume relationships in gaseous reactions
+            Chapter 8 Revision
+        Topic 5 Summary
+        Exam practice Topic 5
+Term 3
+    Topic 6: Electricity and magnetism
+        Chapter 9: Electrostatics
+            Unit 1: Coulomb’s Law
+            Unit 2: Electric field
+            Chapter 9 Revision
+        Chapter 10: Electromagnetism
+            Unit 1: Magnetic field associated with current-carrying wires
+            Unit 2: Faraday’s Law
+        Chapter 11: Electric circuits
+            Unit 1: Ohm’s Law
+            Unit 2: Electrical energy and power
+            Chapter 11 Revision
+        Topic 6 Summary
+        Exam practice Topic 6
+    Topic 7: Chemical change
+        Chapter 12: Energy and chemical change
+            Unit 1: Energy changes in reactions related to bond energy changes
+            Unit 2: Exothermic and endothermic reactions
+            Unit 3: Activation energy
+        Chapter 13: Types of reaction I
+            Unit 1: Acid-base reactions
+            Chapter 13 Revision
+Term 4
+    Chapter 14: Types of reaction II
+        Unit 1: Redox reactions
+        Unit 2: Oxidation numbers
+        Chapter 14 Revision
+    Topic 7 Summary
+    Exam practice Topic 7
+    Topic 8: Chemical systems
+        Chapter 15: Exploiting the lithosphere
+            Unit 1: Mining and mineral processing
+            Unit 2: South Africa’s mineral strengths
+            Unit 3: The environmental impact of mining and mineral processing
+            Chapter 15 Revision
+        TOPIC 8 Summary
+        Exam practice Topic 8
+List of symbols and units
+Conversion of units
+Action words in Science
+Glossary
+Index
+About the authors

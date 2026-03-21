@@ -1,0 +1,77 @@
+Grade 12 Physical Sciences - The Answer Series 3-in-1
+
+Paper 1: Physics Focus
+    Module 1: Mechanics
+    Module 3: Waves, Sound and Light
+    Module 5: Electricity and Magnetism
+
+Paper 2: Chemistry Focus
+    Module 2: Matter and Materials
+    Module 4: Chemical Change
+    Module 6: Chemical Systems (not examined from 2021 until further notice)
+
+Module 1: Mechanics
+    Momentum and impulse
+    Conservation of momentum
+    Impulse-momentum theorem
+    Vertical projectile motion
+    Equations of motion for vertical projectile motion
+    Work, energy and power
+    Work-energy theorem
+    Conservation of mechanical energy
+    Power
+    Force and free-body diagrams
+    Newton's laws revision
+
+Module 2: Matter and Materials
+    2.1: Chemistry
+        Organic chemistry
+        Organic molecules
+        Naming and functional groups
+        IUPAC nomenclature
+        Hydrocarbons (alkanes, alkenes, alkynes)
+        Alcohols, carboxylic acids, esters, aldehydes, ketones
+        Physical properties of organic compounds
+        Reactions of organic compounds
+        Addition, elimination and substitution reactions
+        Polymers
+        Plastics and the environment
+    2.2: Physics
+        Optical phenomena and properties of materials
+        Photoelectric effect
+        Emission and absorption spectra
+
+Module 3: Waves, Sound and Light
+    The Doppler effect
+    Light: wave-particle duality
+
+Module 4: Chemical Change
+    Reaction rate
+    Factors affecting reaction rate
+    Measuring rate of reaction
+    Chemical equilibrium
+    Le Chatelier's principle
+    Equilibrium constant
+    Acids and bases
+    Acid-base reactions
+    pH scale
+    Titrations and neutralisation
+    Oxidation and reduction
+    Galvanic cells
+    Electrolytic cells
+    Standard electrode potentials
+    Electrochemical cells and their applications
+
+Module 5: Electricity and Magnetism
+    Electric circuits
+    Internal resistance and EMF
+    Series and parallel networks
+    Electrodynamics
+    Generators and motors
+    Alternating current
+    Transformers
+    Photoelectric effect
+
+Module 6: Chemical Systems (not examined from 2021)
+    Chemical industry
+    Fertiliser industry

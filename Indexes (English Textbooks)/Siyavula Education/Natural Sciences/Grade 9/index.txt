@@ -1,0 +1,168 @@
+======================================================================
+Siyavula Education - CAPS Approved
+Subject: Natural Sciences
+Grade 9
+Phase: Senior Phase
+Publisher: Siyavula Education
+Series: Siyavula Natural Sciences (Open Textbook)
+Curriculum: CAPS
+Source: CAPS Policy Document / siyavula.com
+Note: Siyavula is an open-source publisher. Page numbers not applicable for open digital textbook. Structure follows CAPS exactly.
+======================================================================
+
+TABLE OF CONTENTS
+──────────────────────────────────────────────────────────────────────
+
+TERM 1
+
+  Strand: Life and Living
+    Topic: Cells as the basic units of life
+      - What is a cell?
+      - Cell theory
+      - Using a microscope
+      - Plant cells and animal cells
+      - Cell structures and their functions (cell membrane, cell wall, cytoplasm, nucleus, chloroplasts, vacuole, mitochondria)
+      - Comparing plant and animal cells
+      - Levels of organisation (cells, tissues, organs, organ systems, organisms)
+      - Unicellular and multicellular organisms
+
+    Topic: Systems in the human body
+      - Digestive system
+        - Parts of the digestive system (mouth, oesophagus, stomach, small intestine, large intestine, liver, pancreas)
+        - Mechanical and chemical digestion
+        - Enzymes and their role in digestion
+        - Absorption of nutrients in the small intestine
+        - Functions of the large intestine
+        - Common digestive disorders
+      - Circulatory system
+        - The heart (structure, chambers, valves)
+        - Blood vessels (arteries, veins, capillaries)
+        - Blood (red blood cells, white blood cells, platelets, plasma)
+        - Pulmonary and systemic circulation
+        - Blood types
+        - Cardiovascular diseases
+      - Respiratory system
+        - Parts of the respiratory system (nose, trachea, bronchi, lungs, diaphragm)
+        - The process of breathing (inhalation and exhalation)
+        - Gas exchange in the alveoli
+        - The link between the respiratory and circulatory systems
+        - Diseases of the respiratory system (asthma, bronchitis, tuberculosis, lung cancer)
+        - Effects of smoking on the respiratory system
+
+TERM 2
+
+  Strand: Matter and Materials
+    Topic: Compounds
+      - Recap: elements, atoms, molecules
+      - Chemical bonds (ionic and covalent bonding — introductory)
+      - Chemical formulae (reading and writing formulae)
+      - Common compounds and their formulae (H₂O, CO₂, NaCl, CaCO₃)
+      - Naming compounds
+      - Difference between elements, compounds and mixtures
+
+    Topic: Chemical reactions
+      - Recap: reactants, products, word equations
+      - Balancing simple chemical equations (symbolic)
+      - Law of conservation of mass
+      - Types of reactions
+        - Synthesis (combination) reactions
+        - Decomposition reactions
+        - Combustion reactions
+      - Reactions of metals with oxygen (formation of metal oxides)
+      - Reactions of non-metals with oxygen (formation of non-metal oxides)
+      - Reactions of metals with water
+      - Reactions of metals with acids
+      - Reactivity series of metals
+      - Acids, bases and pH
+        - Properties of acids and bases
+        - The pH scale
+        - Neutralisation reactions (acid + base → salt + water)
+        - Uses of neutralisation in everyday life
+
+    Topic: Reactions of metals and non-metals with oxygen
+      - Corrosion and rusting
+      - Conditions needed for rusting
+      - Preventing rust (painting, galvanising, electroplating, oiling)
+      - Combustion of fuels (fossil fuels, biomass)
+      - Products of combustion
+      - Fire triangle (fuel, oxygen, heat)
+
+TERM 3
+
+  Strand: Energy and Change
+    Topic: Forces
+      - What is a force?
+      - Contact forces (friction, air resistance, applied force, tension, normal force)
+      - Non-contact forces (gravitational force, electrostatic force, magnetic force)
+      - Measuring forces (newton, spring balance)
+      - Balanced and unbalanced forces
+      - The effect of forces on motion (Newton's first and second laws — qualitative)
+      - Force diagrams (drawing arrows to show forces)
+      - Friction (advantages, disadvantages, ways to reduce friction)
+      - Pressure (force per unit area, pascals)
+      - Pressure in liquids (depth and pressure)
+      - Atmospheric pressure
+
+    Topic: Electric cells and circuits — resistance
+      - Recap: series and parallel circuits
+      - Current strength (amperes, ammeter)
+      - Potential difference (volts, voltmeter)
+      - Resistance (ohms)
+      - Ohm's law (V = IR, calculations)
+      - Resistance in series and parallel circuits
+      - Factors affecting resistance (length, thickness, type of material, temperature)
+      - Energy transfer in circuits
+      - Power (watts, P = VI)
+      - Cost of electricity (kilowatt-hours, tariffs)
+
+    Topic: Waves, sound and light
+      - What is a wave?
+      - Transverse and longitudinal waves
+      - Properties of waves (amplitude, wavelength, frequency, speed)
+      - The wave equation (v = fλ)
+      - Sound waves
+        - How sound is produced (vibrations)
+        - Sound travels through a medium
+        - Speed of sound in different media
+        - Pitch and frequency
+        - Loudness and amplitude
+        - Echoes and sonar
+        - The human ear
+      - Light waves
+        - Light as electromagnetic waves
+        - Reflection (laws of reflection, plane mirrors)
+        - Refraction (bending of light at boundaries)
+        - Lenses (convex and concave lenses, uses)
+        - The human eye (structure, vision defects, corrective lenses)
+
+TERM 4
+
+  Strand: Earth and Beyond
+    Topic: Earth's changing surface
+      - The structure of the Earth (crust, mantle, outer core, inner core)
+      - Plate tectonics (tectonic plates, plate boundaries)
+      - Continental drift (evidence: fossils, rock formations, coastline matching)
+      - Earthquakes (causes, seismic waves, Richter scale, safety)
+      - Volcanoes (types, eruptions, location along plate boundaries)
+      - Mountain formation (folding, faulting)
+      - The rock cycle revisited
+
+    Topic: The Earth in the solar system
+      - The Sun-Earth-Moon system
+      - Day and night (rotation of the Earth)
+      - Seasons (revolution, axial tilt)
+      - Phases of the Moon
+      - Eclipses (solar and lunar)
+      - Tides (effect of Moon's gravity)
+      - Space exploration (history, current programmes, South Africa's role)
+
+    Topic: Birth, life and death of a star
+      - What is a star?
+      - How stars form (nebula, protostar)
+      - Main sequence stars (hydrogen fusion)
+      - The life cycle of stars (red giant, white dwarf, supernova, neutron star, black hole)
+      - Our Sun's place in the life cycle
+      - The Hertzsprung-Russell diagram (introductory)
+      - Galaxies (spiral, elliptical, irregular)
+      - The Milky Way
+      - The expanding universe and the Big Bang theory

@@ -1,0 +1,63 @@
+Via Afrika - CAPS Approved
+Subject: Wiskunde
+Graad 11
+Phase: FET Phase
+Publisher: Via Afrika
+Book: Via Afrika Wiskunde Grade 11
+ISBN: 978-1-41542-338-7
+Source: CAPS Policy Document
+
+--- TABLE OF CONTENTS ---
+
+Term 1
+  Exponents and Surds
+    - Rational exponents
+    - Simplifying surds
+    - Equations involving surds
+  Equations and Inequalities
+    - Quadratic equations
+    - Simultaneous equations
+    - Nature of roots (discriminant)
+    - Quadratic inequalities
+  Number Patterns
+    - Quadratic sequences
+    - General term of quadratic sequences
+
+Term 2
+  Analytical Geometry
+    - Distance, midpoint and gradient
+    - Equation of a line
+    - Inclination of a line
+    - Parallel and perpendicular lines
+  Functions
+    - Quadratic functions (parabolas)
+    - Hyperbolic functions
+    - Exponential functions
+    - Transformations of graphs
+    - Average gradient
+
+Term 3
+  Trigonometry
+    - Trigonometric identities
+    - Reduction formulae
+    - Trigonometric equations
+    - Sine, cosine and area rules
+    - 2D and 3D problems
+  Measurement
+    - Volume and surface area of spheres, cones, pyramids
+    - Combination of shapes
+
+Term 4
+  Euclidean Geometry
+    - Circle geometry theorems
+    - Cyclic quadrilaterals
+    - Tangents to circles
+  Statistics
+    - Histograms and frequency polygons
+    - Ogives (cumulative frequency curves)
+    - Variance and standard deviation
+    - Symmetric and skewed data
+  Probability
+    - Independent and dependent events
+    - Venn diagrams
+    - Tree diagrams and contingency tables

@@ -1,0 +1,41 @@
+Focus CAPS Textbook Index Summary
+==================================================
+Date: 2026-02-17T07:08:29.244Z
+Total books: 15
+Successful: 15
+Failed: 0
+Total time: 6.9 minutes
+
+
+Accounting
+────────────────────────────────────────
+  Grade 10: OK (93 entries)
+  Grade 11: OK (65 entries)
+  Grade 12: OK (93 entries)
+
+Computer Applications Technology
+────────────────────────────────────────
+  Grade 10: OK (152 entries)
+  Grade 11: OK (153 entries)
+  Grade 12: OK (125 entries)
+
+Economics
+────────────────────────────────────────
+  Grade 10: OK (186 entries)
+  Grade 11: OK (119 entries)
+  Grade 12: OK (133 entries)
+
+History
+────────────────────────────────────────
+  Grade 10: OK (523 entries)
+
+Life Orientation
+────────────────────────────────────────
+  Grade 10: OK (90 entries)
+  Grade 11: OK (95 entries)
+  Grade 12: OK (95 entries)
+
+Life Sciences
+────────────────────────────────────────
+  Grade 10: OK (252 entries)
+  Grade 11: OK (696 entries)

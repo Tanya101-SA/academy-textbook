@@ -1,0 +1,231 @@
+======================================================================
+Oxford Successful Physical Sciences Grade 12 Learner's Book
+ISBN: 9780199048250
+Publisher: Oxford University Press Southern Africa
+Curriculum: CAPS
+Note: Page numbers unavailable - no Calameo sample exists for this grade. Structure follows CAPS exactly.
+======================================================================
+
+TABLE OF CONTENTS
+──────────────────────────────────────────────────────────────────────
+
+TERM 1 Mechanics (Physics)
+    Module 1: Momentum and Impulse
+        Unit 1: Momentum (p = mv)
+            1.1 Momentum as a vector quantity
+            1.2 Calculating momentum of moving objects
+        Unit 2: Newton's second law in terms of momentum
+            2.1 F_net = delta_p / delta_t
+            2.2 Impulse (J = F_net x delta_t)
+            2.3 Impulse-momentum theorem (F_net x delta_t = m x delta_v)
+        Unit 3: Conservation of momentum
+            3.1 Isolated systems (internal and external forces)
+            3.2 Elastic and inelastic collisions
+            3.3 Explosions
+        Unit 4: Applications of impulse
+            4.1 Safety features (airbags, crumple zones, seatbelts, arrestor beds, helmets)
+            4.2 Force-time graphs
+    Module 2: Vertical Projectile Motion
+        Unit 1: Gravitational acceleration
+        Unit 2: Equations of motion for vertical projectile motion
+            2.1 Objects thrown upward, downward or dropped
+            2.2 Objects thrown upward from top of a building
+            2.3 Bouncing ball problems
+        Unit 3: Graphs of vertical projectile motion
+            3.1 Position-time graphs
+            3.2 Velocity-time graphs
+            3.3 Acceleration-time graphs
+            3.4 Relationships between graphs
+TERM 1 (continued) Waves, Sound and Light (Physics)
+    Module 3: Doppler Effect
+        Unit 1: The Doppler effect with sound
+            1.1 Definition and explanation using wavefront diagrams
+            1.2 Doppler effect equation: fL = (v +/- vL) / (v +/- vS) x fS
+            1.3 Applications (ultrasound, radar speed traps)
+        Unit 2: The Doppler effect with light
+            2.1 Red shift and blue shift
+            2.2 Expansion of the universe and evidence for the Big Bang
+TERM 1 (continued) Matter and Materials (Chemistry)
+    Module 4: Organic Chemistry
+        Unit 1: Introduction to organic chemistry
+            1.1 Carbon atoms and unique bonding properties
+            1.2 Sources of carbon (coal, petroleum, natural gas)
+            1.3 Organic vs inorganic molecules
+        Unit 2: Organic molecular structures
+            2.1 Molecular, structural and condensed structural formulae
+            2.2 Functional groups
+            2.3 Saturated and unsaturated compounds
+        Unit 3: Homologous series
+            3.1 Alkanes (CnH2n+2)
+            3.2 Alkenes (CnH2n)
+            3.3 Alkynes (CnH2n-2)
+            3.4 Alcohols (-OH)
+            3.5 Carboxylic acids (-COOH)
+            3.6 Esters (-COO-)
+            3.7 Aldehydes (-CHO)
+            3.8 Ketones (-CO-)
+            3.9 Haloalkanes (alkyl halides)
+        Unit 4: IUPAC naming and formulae
+            4.1 Naming rules for each homologous series (up to 8 carbons)
+            4.2 Naming branched molecules and substituents
+        Unit 5: Structural isomers
+            5.1 Chain isomers
+            5.2 Positional isomers
+            5.3 Functional group isomers
+        Unit 6: Physical properties and structure
+            6.1 Intermolecular forces and boiling/melting points
+            6.2 Vapour pressure and solubility
+            6.3 Effect of chain length and branching
+        Unit 7: Reactions of organic compounds
+            7.1 Addition reactions (hydrohalogenation, halogenation, hydration, hydrogenation)
+            7.2 Elimination reactions (dehydrohalogenation, dehydration, cracking)
+            7.3 Substitution reactions (halogenation of alkanes, esterification)
+            7.4 Combustion reactions
+        Unit 8: Plastics and polymers
+            8.1 Addition polymerisation (polyethylene, PVC, polystyrene, polypropylene, Teflon)
+            8.2 Condensation polymerisation (polyesters, nylon)
+            8.3 Uses, recycling and environmental impact
+TERM 2 Mechanics (Physics)
+    Module 5: Work, Energy and Power
+        Unit 1: Work
+            1.1 Definition (W = F x delta_x x cos theta)
+            1.2 Positive work, negative work, zero work
+            1.3 Net work done on an object
+        Unit 2: Work-energy theorem
+            2.1 W_net = delta_Ek = 1/2 mv_f^2 - 1/2 mv_i^2
+        Unit 3: Conservation of energy
+            3.1 Conservative and non-conservative forces
+            3.2 When only conservative forces act: Ek1 + Ep1 = Ek2 + Ep2
+            3.3 When non-conservative forces act: W_nc = delta_Ek + delta_Ep
+        Unit 4: Power
+            4.1 Definition (P = W / delta_t)
+            4.2 P = Fv (at constant velocity)
+            4.3 Efficiency (Eff = P_out / P_in x 100%)
+TERM 2 (continued) Chemical Change (Chemistry)
+    Module 6: Rate and Extent of Reaction
+        Unit 1: Rate of reaction
+            1.1 Definition (change in concentration per unit time)
+            1.2 Measuring rates (volume of gas, mass loss, colour change, precipitate)
+        Unit 2: Factors affecting rate of reaction
+            2.1 Nature of reactants (surface area)
+            2.2 Concentration of reactants
+            2.3 Temperature
+            2.4 Presence of a catalyst
+            2.5 Collision theory explanation for each factor
+        Unit 3: Mechanism of reaction and catalysis
+            3.1 Activation energy and the activated complex
+            3.2 Energy profiles for exothermic and endothermic reactions
+            3.3 Role of a catalyst (alternative pathway with lower activation energy)
+    Module 7: Chemical Equilibrium
+        Unit 1: Open and closed systems
+        Unit 2: Reversible reactions and dynamic equilibrium
+        Unit 3: The equilibrium constant (Kc)
+            3.1 Writing Kc expressions
+            3.2 Calculating Kc from equilibrium concentrations
+            3.3 Interpreting Kc values (products vs reactants favoured)
+        Unit 4: Le Chatelier's principle
+            4.1 Effect of concentration changes
+            4.2 Effect of temperature changes
+            4.3 Effect of pressure changes (gaseous equilibria)
+            4.4 Role of a catalyst (no shift, faster equilibrium)
+        Unit 5: Industrial applications (Haber process, Contact process)
+    Module 8: Acids and Bases
+        Unit 1: Acid-base models
+            1.1 Arrhenius theory (revision)
+            1.2 Bronsted-Lowry theory (proton transfer)
+            1.3 Conjugate acid-base pairs
+            1.4 Ampholytes (amphiprotic substances)
+            1.5 Strong vs weak acids and bases
+        Unit 2: Acid-base reactions
+            2.1 Acid + metal oxide, acid + metal hydroxide
+            2.2 Acid + metal carbonate
+            2.3 Acid + metal
+            2.4 Neutralisation reactions
+        Unit 3: The pH scale
+            3.1 pH = -log[H3O+]
+            3.2 Kw = [H3O+][OH-] = 1 x 10^-14
+            3.3 pH calculations
+        Unit 4: Titrations
+            4.1 Standard solutions and primary standards
+            4.2 Titration procedure (burette, pipette, indicator)
+            4.3 Equivalence point and end point
+            4.4 Titration calculations
+TERM 3 Electricity and Magnetism (Physics)
+    Module 9: Electrostatics
+        Unit 1: Coulomb's law (F = kQ1Q2/r^2)
+            1.1 Force between two point charges
+            1.2 Net force on a charge due to multiple charges
+        Unit 2: Electric fields
+            2.1 E = F/q and E = kQ/r^2
+            2.2 Field patterns (single charges, two like/unlike charges, parallel plates)
+    Module 10: Electric Circuits
+        Unit 1: Series and parallel resistor networks (revision and extension)
+        Unit 2: Batteries and internal resistance
+            2.1 EMF and internal resistance (r)
+            2.2 emf = I(R_ext + r) and V_ext = emf - Ir
+        Unit 3: Power and energy calculations in circuits with internal resistance
+    Module 11: Electrodynamics
+        Unit 1: Electrical machines
+            1.1 AC generator (alternator) - components and working principle
+            1.2 DC generator - components, split-ring commutator
+            1.3 DC motor - components and working principle
+            1.4 Differences between generators and motors
+        Unit 2: Alternating current
+            2.1 AC vs DC
+            2.2 Peak voltage and peak current
+            2.3 RMS values (V_rms = V_peak / sqrt(2), I_rms = I_peak / sqrt(2))
+            2.4 Average power (P_avg = V_rms x I_rms)
+TERM 3 (continued) Matter and Materials (Physics)
+    Module 12: Optical Phenomena and Properties of Materials
+        Unit 1: The photoelectric effect
+            1.1 Definition and observations
+            1.2 Threshold frequency (f0) and work function (W0 = hf0)
+            1.3 Photon energy (E = hf = hc/lambda)
+            1.4 Kinetic energy of photoelectron (Ek_max = hf - W0)
+            1.5 Interpreting Ek vs f graphs
+            1.6 Wave-particle duality of light
+        Unit 2: Emission and absorption spectra
+            2.1 Atomic emission spectra (Bohr model explanation)
+            2.2 Atomic absorption spectra
+            2.3 Line spectra as element fingerprints
+            2.4 Applications (identifying elements in stars)
+TERM 3 (continued) Chemical Change (Chemistry)
+    Module 13: Electrochemical Reactions
+        Unit 1: Revision of oxidation and reduction
+            1.1 Oxidation numbers
+            1.2 Oxidising and reducing agents
+            1.3 Half-reactions
+        Unit 2: Galvanic (voltaic) cells
+            2.1 Components (half-cells, salt bridge, external circuit)
+            2.2 Anode (oxidation) and cathode (reduction)
+            2.3 Cell notation
+            2.4 Standard electrode potentials (E^0)
+            2.5 EMF calculation (EMF = E^0_cathode - E^0_anode)
+            2.6 Predicting spontaneity
+        Unit 3: Electrolytic cells
+            3.1 Components and working principle
+            3.2 Electrolysis of solutions
+            3.3 Comparison of galvanic and electrolytic cells
+        Unit 4: Applications
+            4.1 Electroplating
+            4.2 Chlor-alkali process
+            4.3 Refining of metals
+    Module 14: The Chemical Industry - Fertilisers
+        Unit 1: Nutrients for plant growth (N, P, K)
+        Unit 2: Organic and inorganic fertilisers
+        Unit 3: NPK ratio and calculations
+        Unit 4: Industrial production of fertilisers
+            4.1 Haber process (production of ammonia)
+            4.2 Ostwald process (production of nitric acid)
+            4.3 Contact process (production of sulphuric acid)
+            4.4 Production of phosphoric acid
+            4.5 Production of ammonium nitrate, superphosphate, urea
+        Unit 5: Environmental impact of fertilisers
+            5.1 Eutrophication
+            5.2 Soil degradation and acidification
+            5.3 Water pollution
+TERM 4 Revision and Examinations
+    Revision of all modules from Terms 1-3
+    Paper 1 (Physics - 150 marks): Momentum/Impulse (~63), Doppler Effect (~15), Electrostatics/Circuits/Electrodynamics (~55), Optical Phenomena (~17)
+    Paper 2 (Chemistry - 150 marks): Organic Chemistry (~36), Rate/Equilibrium/Acids/Electrochemistry/Fertilisers (~114)
+    Glossary

@@ -1,0 +1,176 @@
+======================================================================
+Platinum Mathematics Grade 7 Learner's Book
+ISBN: 9780636152595
+Publisher: Platinum (Pearson South Africa)
+Curriculum: CAPS
+======================================================================
+
+TABLE OF CONTENTS
+──────────────────────────────────────────────────────────────────────
+
+
+Title Page
+Contents
+Term 1
+    Topic 1: Whole numbers
+        Compare, order and round off numbers 
+        Properties of whole numbers
+        Calculations with whole numbers
+        Multiples and factors
+        Solve problems
+        Revision
+    Topic 2: Exponents
+        Compare and represent numbers in  exponential form
+        Use laws of operations with exponents
+        Calculations with exponents
+        Solve problems
+        Revision
+    Term 1 Revision Assignment
+    Topic 3: Geometry of straight lines
+        Straight, perpendicular and parallel lines
+        Revision 
+    Topic 4: Constructions
+        Measure and classify angles
+        Construct angles
+        Construct triangles
+        Construct quadrilaterals
+        Construct circles
+        Construct parallel and perpendicular lines
+        Revision 
+    Topic 5: Geometry of 2D shapes
+        Triangles
+        Quadrilaterals
+        Similarity and congruence
+        Circles
+        Revision
+    Term 1 Revision Test
+Term 2
+    Topic 6: Common fractions
+        Fractions
+        Equivalent fractions
+        Compare and order fractions
+        Addition and subtraction of fractions
+        Multiplication of fractions
+        Percentages
+        Revision 
+    Topic 7: Decimal fractions
+        Read and write decimal fractions
+        Rounding off decimal fractions
+        Compare and order decimal fractions
+        Equivalent forms
+        Addition and subtraction of decimal fractions
+        Multiplication and division with decimal fractions
+        Revision 
+    Term 2 Revision Test 1
+    Topic 8: Functions and relationships
+        Number sentences and variables
+        Flow diagrams
+        Tables
+        Revision 
+    Term 2 Revision Investigation
+    Topic 9: Area and perimeter of 2D shapes
+        Perimeters of polygons
+        Areas of polygons
+        Solve problems involving area and perimeter
+        Revision 
+    Topic 10: Surface area and volume of 3D objects
+        Solids
+        Surface area, volume and capacity
+        Solve problems involving surface area and volume
+        Revision 
+    Term 2 Revision Test 2
+Term 3
+    Topic 11: Numeric and geometric patterns
+        Numeric patterns
+        Geometric patterns
+        Revision 
+    Term 3 Revision Assignment
+    Topic 12: Functions and relationships
+        Use formulae to determine inputs and outputs
+        Use flow diagrams to determine inputs  and outputs
+        Use tables to determine inputs and outputs
+        Revision 
+    Topic 13: Algebraic expressions
+        Use mathematical language
+        Use variables in algebra
+        Write terms of an expression
+        Revision 
+    Topic 14: Algebraic equations
+        Solve number sentences by inspection
+        Use number sentences to solve problems
+        Revision 
+    Topic 15: Graphs
+        Interpreting graphs
+        Drawing graphs
+        Revision
+    Topic 16: Transformation geometry
+        Investigate translations
+        Investigate reflections
+        Investigate rotations
+        Enlarge and reduce geometric figures
+        Solve problems involving transformations
+        Revision
+    Term 3 Revision Project
+    Topic 17: Geometry of 3D objects
+        Classify 3D objects
+        Prisms and pyramids
+        Building 3D models
+        Revision
+    Term 3 Revision Test
+Term 4
+    Topic 18: Integers
+        Count, order and compare integers
+        Calculate with integers
+        Properties of integers
+        Solve problems with integers
+        Revision 
+    Topic 19: Numeric and geometric patterns
+        Describing patterns
+        Using rules to complete tables
+        Revision 
+    Topic 20: Functions and relationships
+        Number sentences
+        Number variables
+        Use flow diagrams and tables
+        Revision 
+    Term 4 Revision Assignment
+    Topic 21: Algebraic expressions
+        Algebraic expressions used in number patterns
+        Use flow diagrams to illustrate expressions
+        Use tables to illustrate expressions
+        Revision 
+    Topic 22: Algebraic equations
+        Solve number sentences with integers
+        Use number sentences to solve problems
+        Revision 
+    Term 4 Revision Investigation
+    Topic 23: Collect, organise and summarise data
+        Collect data
+        Organise data
+        Summarise data
+        Revision 
+    Topic 24: Represent data
+        Draw bar graphs and double bar graphs
+        Draw histograms
+        Draw pie charts
+        Revision 
+    Topic 25: Interpret, analyse and report data
+        Interpret data
+        Analyse data
+        Report data
+        Revision 
+    Topic 26: Probability
+        Elementary probability
+        Revision
+    Term 4 Revision Test
+Glossary
+Index
+Useful resources
+    Mathematical symbols
+    Rules for rounding off
+    Useful squares
+    Principal units
+    Capacity
+    Percentages
+    Formulas
+    Hundred square

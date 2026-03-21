@@ -1,0 +1,101 @@
+Study Opportunities - CAPS Approved
+Subject: Computer Applications Technology
+Grade 11
+Phase: FET Phase
+Publisher: Study Opportunities
+Book: Computers part of your life Grade 11 - CAT (3rd Edition)
+Source: Study Opportunities website (studyopportunities.co.za)
+
+--- TABLE OF CONTENTS ---
+
+Section 1: System Technologies and Implications (Terms 1-4)
+  Module 1.1: It's all about ICT
+    - The role of ICT
+    - CAT as a subject
+    - Computers and computing devices
+    - Protecting your devices
+  Module 1.2: Input and output
+    - Biometric input
+    - Barcode scanners
+    - Microphones
+    - Touch screens
+    - Display devices
+    - Printers
+    - ATMs
+    - POS systems
+    - Disabilities
+    - Health
+  Module 1.3: Memory, storage and processing
+    - Cloud storage
+    - Backup
+    - Processing
+    - Interpreting adverts
+    - Troubleshooting
+  Module 1.4: Software
+    - Collaboration software
+    - Versions
+    - Bugs
+    - Updates
+    - Compatibility
+    - Cloud-based apps
+    - Accessibility
+  Module 1.5: Computer management
+    - System requirements
+    - Installation
+    - Managing files
+    - Hardware failure
+  Module 1.6: The dark side of computing
+    - Information accuracy
+    - Computer misuse
+    - Online harassment
+    - Social engineering
+    - Malware
+    - Protection
+
+Section 2: Network and Internet Technologies (Terms 2-4)
+  Module 2.1: Local area networks
+  Module 2.2: The browsing experience
+  Module 2.3: Online lifestyle
+  Module 2.4: Our changing world
+    - Digital transformation
+    - IoT
+    - VR/AR
+    - 4IR
+  Module 2.5: Managing email
+
+Section 3: Word Processing (Terms 1-3)
+  Module 3.1: Working with files
+  Module 3.2: Paragraph formatting
+  Module 3.3: Page formatting
+  Module 3.4: Tables, forms and templates
+  Module 3.5: Styles
+  Module 3.6: Mail merge
+  Module 3.7: Referencing
+
+Section 4: Spreadsheets (Terms 1-3)
+  Module 4.1: Revising and improving spreadsheet skills
+  Module 4.2: Calculations
+  Module 4.3: Decisions (IF, COUNTIF, SUMIF)
+  Module 4.4: Charts
+  Module 4.5: Working with worksheets
+
+Section 5: Databases (Terms 1-3)
+  Module 5.1: Introduction to databases
+  Module 5.2: Forms
+  Module 5.3: Queries
+  Module 5.4: Designing a database table
+  Module 5.5: Reports
+
+Section 6: HTML / Web Design (Terms 2-3)
+  Module 6.1: Basic concepts of web design
+  Module 6.2: More web design techniques
+
+Section 7: Information Management (Terms 2-4)
+  Module 7.1: Artificial Intelligence
+  Module 7.2: Finding information
+  Module 7.3: Processing information
+  Module 7.4: Presenting results
+
+Section 8: Integrated Skills (Term 4)
+  Module 8.1: Working smarter
+  Module 8.2: Case studies

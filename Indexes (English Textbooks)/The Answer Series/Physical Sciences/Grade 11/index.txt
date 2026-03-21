@@ -1,0 +1,70 @@
+Grade 11 Physical Sciences - The Answer Series 3-in-1
+
+Paper 1: Physics Focus
+    Module 1: Mechanics
+    Module 3: Waves, Sound and Light
+    Module 5: Electricity and Magnetism
+
+Paper 2: Chemistry Focus
+    Module 4: Chemical Change
+    Module 6: Chemical Systems
+    Module 2: Matter and Materials
+
+Module 1: Mechanics
+    Vectors in two dimensions
+    Resultant of perpendicular vectors
+    Resolution of a vector into its components
+    Newton's laws and application of Newton's laws
+    Newton's first law, second law and third law
+    Newton's law of universal gravitation
+    Force and free-body diagrams
+    Forces on an inclined plane
+    Momentum and impulse
+    Vertical projectile motion
+    Work, energy and power
+
+Module 2: Matter and Materials
+    Atomic combinations (molecular structure)
+    Intermolecular forces
+    Ideal gases and thermal properties
+    The periodic table
+    Chemical bonding
+    Molecular shapes (VSEPR model)
+    Electronegativity and bond polarity
+    Metal crystal structures
+    Optical phenomena and properties of materials
+
+Module 3: Waves, Sound and Light
+    Geometrical optics
+    Refraction and Snell's Law
+    Critical angle and total internal reflection
+    2D and 3D wavefronts
+    Diffraction
+    The Doppler effect (sound)
+    Electromagnetic radiation
+
+Module 4: Chemical Change
+    Stoichiometry
+    Energy and chemical change
+    Exothermic and endothermic reactions
+    Activation energy
+    Types of reactions
+    Oxidation and reduction
+    Redox reactions
+    Galvanic and electrolytic cells
+
+Module 5: Electricity and Magnetism
+    Electrostatics
+    Coulomb's law
+    Electric field
+    Electric circuits
+    Ohm's law
+    Power and energy
+    Series and parallel circuits
+    Internal resistance and EMF
+    Electromagnetism
+
+Module 6: Chemical Systems
+    The lithosphere
+    Mining and mineral processing
+    The atmosphere

@@ -1,0 +1,131 @@
+======================================================================
+Via Afrika Rekeningkunde Graad 11 Leerderboek
+ISBN: 978-1-41546-026-9
+Uitgewer: Via Afrika
+Kurrikulum: KABV (CAPS)
+Fase: VOO-fase (FET Phase)
+Nota: KABV-gelynstel onderwerp/sub-onderwerp struktuur.
+Bron: https://viaafrika.com/product/via-afrika-rekeningkunde-graad-11-leerderboek/
+======================================================================
+
+INHOUDSOPGAWE
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 1
+
+    Onderwerp 1: Rekonsilasies
+        Eenheid 1: Bankrekonsilasie
+            1.1 Die bankstaat
+            1.2 Vergelyk die kontantjoernale met die bankstaat
+            1.3 Die bankrekonsiliasiestaat
+        Eenheid 2: Etiek en beheer
+            2.1 Interne beheermaatreëls vir kontant en bank
+        Eenheid 3: Krediteurerekonsilasie
+            3.1 Vergelyk krediteurestaat met persoonlike rekening
+
+    Onderwerp 2: Tasbare bates
+        Eenheid 1: Verkryging van tasbare bates
+        Eenheid 2: Waardevermindering van tasbare bates
+            2.1 Reguitlynmetode
+            2.2 Verminderde saldometode
+        Eenheid 3: Vervreemding van tasbare bates
+            3.1 Boekwaarde by vervreemding
+            3.2 Wins of verlies met verkoop
+
+    Onderwerp 3: Rekeningkunde vir vennootskappe
+        Eenheid 1: Vennootskap as 'n tipe eienaarskap
+            1.1 Kenmerke van 'n vennootskap
+            1.2 Vennootskapsooreenkoms
+        Eenheid 2: Verdeling van winste
+            2.1 Salaris, rente op kapitaal, bonusse
+            2.2 Verdeling van oorblywende wins
+        Eenheid 3: AARP-konsepte
+        Eenheid 4: Die rekeningkundige siklus
+            4.1 Joernale en Grootboek vir vennootskappe
+            4.2 Kapitaalrekeninge en lopende rekeninge van vennote
+
+    Onderwerp 4: Jaareinsprosedures vir vennootskappe
+        Eenheid 1: Jaareindaanpassings vir vennootskappe
+        Eenheid 2: Finale rekeninge vir vennootskappe
+            2.1 Handelsrekening
+            2.2 Wins-en-verliesrekening
+            2.3 Toeëieningsrekening
+        Eenheid 3: Finansiële state vir vennootskappe
+            3.1 Inkomstestaat
+            3.2 Balansstaat
+            3.3 Notas tot die finansiële state
+
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 2
+
+    Onderwerp 5: Analise en interpretasie van vennootskappe
+        Eenheid 1: Hersiening van Graad 10-verhoudings
+        Eenheid 2: Likiditeitsverhoudings
+            2.1 Stroomverhouding
+            2.2 Vuurproefverhouding
+        Eenheid 3: Risiko en opbrengs
+            3.1 Skuld-tot-ekwiteitverhouding
+            3.2 Opbrengs op eie kapitaal
+
+    Onderwerp 6: Rekeningkunde vir nie-winsgewende organisasies
+        Eenheid 1: Nie-winsgewende organisasies (klubs) as 'n tipe eienaarskap
+            1.1 Kenmerke van klubs
+            1.2 Bronne van inkomste
+        Eenheid 2: Rekeningkundige siklus vir nie-winsgewende organisasies
+            2.1 Ontvangste en betalings vs inkomste en uitgawes
+
+    Onderwerp 7: Rekeninge en finansiële state vir klubs
+        Eenheid 1: Unieke rekeninge vir klubs
+            1.1 Ledegeldrekening
+            1.2 Opgehoopte fonds
+        Eenheid 2: Rekeningkunde vir inkomstegenererende aktiwiteite
+            2.1 Funksierekening
+            2.2 Winkelrekening
+        Eenheid 3: Finansiële state vir klubs
+            3.1 Inkomste- en uitgawestaat
+            3.2 Balansstaat
+
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 3
+
+    Onderwerp 8: Kosterekeningkunde
+        Eenheid 1: Koste in 'n vervaardigingsomgewing
+            1.1 Direkte materiaalkoste
+            1.2 Direkte arbeidskoste
+            1.3 Fabrieksoorhoofse koste
+        Eenheid 2: Grootboekrekeninge van 'n vervaardigingsonderneming
+            2.1 Grondstofvoorraadrekening
+            2.2 Werk-in-prosesrekening
+            2.3 Klaarprodukrekeninge
+
+    Onderwerp 9: Begrotings
+        Eenheid 1: Geprojekteerde Inkomstestate
+            1.1 Opstel en analise van geprojekteerde Inkomstestate
+        Eenheid 2: Kontantbegrotings
+            2.1 Opstel en analise van kontantbegrotings
+            2.2 Afwykings en interpretering
+
+    Onderwerp 10: Voorraadstelsels
+        Eenheid 1: Definisie en verduideliking van die ewigdurende en periodiese voorraadstelsels
+        Eenheid 2: Optekening van transaksies in die periodiese voorraadstelsel
+            2.1 Aankope- en verkoperekening
+            2.2 Koste van verkope-berekening
+
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 4
+
+    Onderwerp 11: Belasting op Toegevoegde Waarde (BTW)
+        Eenheid 1: BTW-berekeninge
+            1.1 BTW-insluitend en BTW-uitsluitend
+            1.2 BTW-inskrywings in die joernaal en grootboek
+        Eenheid 2: BTW-etiek en -beheermaatreëls
+
+──────────────────────────────────────────────────────────────────────
+
+HERSIENING EN EKSAMEN
+    Hersieningsafdeling
+    Oefeneksamenvraestelle
+    Woordelys

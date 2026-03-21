@@ -1,0 +1,126 @@
+======================================================================
+Platinum Physical Sciences Grade 10 Learner's Book
+ISBN: 9780636155473
+Publisher: Platinum (Pearson South Africa)
+Curriculum: CAPS
+======================================================================
+
+TABLE OF CONTENTS
+──────────────────────────────────────────────────────────────────────
+
+
+Cover
+Title
+Topic 1 Matter and materials
+    Chapter 1 Revision of matter and classification
+        Unit 1: The materials of which an object is composed
+        Unit 2: Mixtures: homogeneous and heterogeneous
+        Unit 3: Pure substances: elements and compounds
+        Unit 4: Names and formulae of substances
+        Unit 5: Metals, metalloids and non-metals
+        Unit 6: Conductors and insulators
+        Unit 7: Magnetic and non-magnetic materials
+    Chapter 2 States of matter and the kinetic molecular theory
+        Unit 1: Three states of matter
+        Unit 2: Kinetic molecular theory
+    Chapter 3 The atom
+        Unit 1: Models of the atom
+        Unit 2: Atomic mass and diameter, and the concept of relative atomic mass
+        Unit 3: Structure of the atom: protons, neutrons and electrons
+        Unit 4: Isotopes
+        Unit 5: Electron configuration
+    Chapter 4 The Periodic Table
+        Unit 1: The position of the elements in the Periodic Table related to their electronic arrangements
+        Unit 2: Similarities in chemical properties among elements in Groups 1, 2, 17 and 18
+    Chapter 5 Chemical bonding
+        Unit 1: Covalent, ionic and metallic bonding
+        Revision
+        Summary of Topic 1
+Topic 2 Waves, sound and light
+    Chapter 6 Transverse pulses on a string or spring
+        Unit 1: Pulses
+        Unit 2: Superposition of pulses
+    Chapter 7 Transverse waves
+        Unit 1: Wave properties
+        Unit 2: Period and frequency
+        Unit 3: Wave speed
+    Chapter 8 Longitudinal waves
+        Unit 1: Longitudinal pulses and waves
+        Unit 2: Amplitude, wavelength, frequency, period and wave speed
+        Unit 3: Sound waves
+    Chapter 9 Sound
+        Unit 1: Pitch, loudness and quality of sound
+        Unit 2: Ultrasound
+    Chapter 10 Electromagnetic radiation
+        Unit 1: The nature of electromagnetic radiation
+        Unit 2: The electromagnetic spectrum
+        Unit 3: The particle nature of electromagnetic radiation – the photon
+        Revision
+        Summary of Topic 2
+Topic 3 Matter and materials
+    Chapter 11 Particles substances are made of
+        Unit 1: Atoms and compounds
+        Revision
+        Summary of Topic 3
+Topic 4 Chemical change
+    Chapter 12 Physical and chemical change
+        Unit 1: Separation of particles in physical change and chemical change
+        Unit 2: Conservation of atoms and mass
+        Unit 3: Law of constant composition
+    Chapter 13 Representing chemical change
+        Unit 1: Balanced chemical equations
+        Revision
+        Summary of Topic 4
+Topic 5 Electricity and magnetism
+    Chapter 14 Magnetism
+        Unit 1: Magnets
+    Chapter 15 Electrostatics
+        Unit 1: Charge
+    Chapter 16 Electric circuits
+        Unit 1: Electric circuits
+        Unit 2: Potential difference and emf
+        Unit 3: Current
+        Unit 4: Resistance
+        Unit 5: Resistors in series
+        Unit 6: Resistors in parallel
+        Unit 7: Measurement of voltage and current
+        Revision
+        Summary of Topic 5
+Topic 6 Chemical change
+    Chapter 17 Reactions in aqueous solution
+        Unit 1: Ions in aqueous solution: their interaction and effects
+        Unit 2: Electrolytes and the extent of ionisation as measured by conductivity
+        Unit 3: Precipitation reactions
+        Unit 4: Other chemical reaction types in aqueous solution
+    Chapter 18 Quantitative aspects of chemical change
+        Unit 1: Atomic mass and the mole concept
+        Unit 2: Molecular and formula masses
+        Unit 3: Determining the composition of substances
+        Unit 4: Amount of substance (mole), molar volume of gases, concentration of solutions
+        Unit 5: Basic stoichiometric calculations
+        Revision
+        Summary of Topic 6
+Topic 7 Mechanics
+    Chapter 19 Vectors and scalars
+        Unit 1: Introduction to vectors and scalars
+    Chapter 20 Motion in one dimension
+        Unit 1: Reference frame and position
+        Unit 2: Distance and displacement
+        Unit 3: Speed, velocity and acceleration
+    Chapter 21 Motion graphs and the equations of motion
+        Unit 1: Graphs of position versus time
+        Unit 2: Graphs of velocity versus time
+        Unit 3: Graphs of acceleration versus time
+        Unit 4: Equations of motion
+    Chapter 22 Energy
+        Unit 1: Acceleration caused by the Earth
+        Revision
+        Summary of Topic 7
+Topic 8 The hydrosphere
+    Chapter 23 The hydrosphere
+        Unit 1: The hydrosphere: its composition and interaction with other global systems
+        Revision
+        Summary of Topic 8
+Glossary
+Periodic table of elements
+Copyright page

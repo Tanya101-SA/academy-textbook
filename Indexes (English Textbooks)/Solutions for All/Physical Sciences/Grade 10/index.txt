@@ -1,0 +1,29 @@
+Solutions for All Physical Sciences - Grade 10 (CAPS)
+Publisher: Macmillan South Africa
+ISBN: 9781431006397
+
+PHYSICS:
+- Mechanics: Vectors and scalars
+- Mechanics: Motion in one dimension (Kinematics)
+- Mechanics: Newton's Laws and application of Newton's Laws
+- Mechanics: Gravitational attraction
+- Waves, Sound and Light: Transverse and longitudinal waves
+- Waves, Sound and Light: Sound
+- Waves, Sound and Light: Electromagnetic radiation
+- Electricity and Magnetism: Magnetism
+- Electricity and Magnetism: Electrostatics
+- Electricity and Magnetism: Electric circuits
+
+CHEMISTRY:
+- Matter and Materials: Classification of matter
+- Matter and Materials: The atom (Models, atomic number, mass number)
+- Matter and Materials: The Periodic Table
+- Matter and Materials: Chemical bonding
+- Matter and Materials: Molecular shapes
+- Chemical Change: Physical and chemical change
+- Chemical Change: Representing chemical change (Balancing equations)
+- Chemical Change: Reactions in aqueous solution
+- Chemical Change: Stoichiometry (Quantitative aspects of chemical change)
+- Chemical Systems: The hydrosphere (Water quality, reactions in water)
+
+Source: Web research - macmillaneducation.co.za, CAPS Physical Sciences curriculum

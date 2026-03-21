@@ -1,0 +1,91 @@
+Mind Action Series - CAPS Approved
+Subject: Fisiese Wetenskappe
+Grade 10
+Phase: FET Phase
+Publisher: Mind Action Series
+Book: Mind Action Series Fisiese Wetenskappe Graad 10
+Source: CAPS Policy Document
+
+--- TABLE OF CONTENTS ---
+
+Term 1
+  Mechanics: Vectors and Scalars
+    - Introduction to vectors and scalars
+    - Resultant of perpendicular vectors
+  Mechanics: Motion in One Dimension
+    - Reference frame, position, displacement and distance
+    - Average speed, average velocity and acceleration
+    - Instantaneous speed and velocity
+    - Equations of motion
+    - Graphs of motion
+  Mechanics: Energy
+    - Gravitational potential energy
+    - Kinetic energy
+    - Mechanical energy
+    - Conservation of mechanical energy
+  Transverse Pulses on a String or Spring
+    - Pulse, amplitude
+    - Superposition of pulses
+  Transverse Waves
+    - Wavelength, frequency, amplitude, period
+    - Wave speed
+
+Term 2
+  Sound
+    - Sound as a longitudinal wave
+    - Pitch, loudness and quality
+    - Speed of sound
+  Electromagnetic Radiation
+    - Nature of EM radiation
+    - EM spectrum
+    - Nature of light (particle/wave)
+  Magnetism
+    - Magnetic field of permanent magnets
+    - Poles, attraction and repulsion
+    - Earth's magnetic field
+  Electrostatics
+    - Two kinds of charge
+    - Charge conservation and quantization
+    - Force exerted by charges
+  Electric Circuits
+    - emf and potential difference
+    - Current
+    - Resistance
+    - Ohm's law
+    - Resistors in series and parallel
+
+Term 3
+  Matter and Materials: The Atom
+    - Atomic models
+    - Atomic number and mass number
+    - Isotopes
+    - Electron configuration
+  The Periodic Table
+    - Groups and periods
+    - Trends in atomic radius, electronegativity, ionisation energy
+  Chemical Bonding
+    - Covalent bonding
+    - Ionic bonding
+    - Metallic bonding
+    - Lewis structures
+  Intermolecular Forces
+    - Types of intermolecular forces
+    - Physical state and properties
+
+Term 4
+  The Hydrosphere
+    - Water cycle
+    - Water as a solvent
+    - Electrolytes and non-electrolytes
+  Physical and Chemical Change
+    - Conservation of mass and atoms
+    - Balancing equations
+    - Energy changes
+  Representing Chemical Change
+    - Balanced chemical equations
+    - Types of reactions
+  Quantitative Aspects of Chemical Change
+    - Mole concept
+    - Molar mass
+    - Avogadro's number
+    - Stoichiometric calculations

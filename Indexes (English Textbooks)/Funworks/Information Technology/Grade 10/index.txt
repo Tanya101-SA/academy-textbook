@@ -1,0 +1,59 @@
+Funworks - CAPS Approved
+Subject: Information Technology
+Grade 10
+Phase: FET Phase
+Publisher: Funworks
+Book: Exploring IT: Theory & Java Programming Grade 10
+Source: CAPS Policy Document
+
+--- TABLE OF CONTENTS ---
+
+Term 1
+  IT Theory: Hardware and Software
+    - Computer systems overview
+    - Hardware components
+    - Software types
+    - Operating systems
+  IT Theory: Data and Information
+    - Data representation
+    - Number systems (binary, octal, hexadecimal)
+  Programming: Introduction to Java
+    - Programming concepts
+    - Variables and data types
+    - Input and output
+
+Term 2
+  IT Theory: Networks
+    - Network concepts
+    - Network types (LAN, WAN)
+    - Network topologies
+    - Internet and email
+  Programming: Selection and Iteration
+    - If-else statements
+    - Switch statements
+    - For loops
+    - While loops
+
+Term 3
+  IT Theory: Internet Technologies
+    - Web development basics
+    - HTML fundamentals
+    - Internet services
+  Programming: Arrays and Strings
+    - One-dimensional arrays
+    - String manipulation
+    - Array algorithms
+  Database: Introduction
+    - Database concepts
+    - SQL basics
+
+Term 4
+  IT Theory: Social Implications
+    - Ethical issues in IT
+    - Computer crimes
+    - Security
+  Programming: Methods
+    - User-defined methods
+    - Parameters and return values
+  Solution Development
+    - Integrated practical project

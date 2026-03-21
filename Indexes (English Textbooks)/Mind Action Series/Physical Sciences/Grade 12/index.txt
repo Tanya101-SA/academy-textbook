@@ -1,0 +1,79 @@
+Mind Action Series - CAPS Approved
+Subject: Physical Sciences
+Grade 12
+Phase: FET Phase
+Publisher: Mind Action Series
+Book: Mind Action Series Physical Sciences Grade 12
+ISBN: 978-1-86921-478-5
+Source: CAPS Policy Document
+
+--- TABLE OF CONTENTS ---
+
+Term 1
+  Momentum and Impulse
+    - Momentum
+    - Newton's second law in terms of momentum
+    - Conservation of momentum
+    - Impulse
+    - Elastic and inelastic collisions
+  Vertical Projectile Motion
+    - Free fall
+    - Equations of motion under gravity
+    - Graphs of vertical projectile motion
+  Organic Chemistry
+    - Organic molecular structures
+    - Functional groups
+    - IUPAC nomenclature
+    - Isomers
+    - Physical properties
+    - Substitution, addition and elimination reactions
+    - Plastics and polymers
+
+Term 2
+  Work, Energy and Power
+    - Work done by a force
+    - Work-energy theorem
+    - Conservation of energy
+    - Power and efficiency
+  Doppler Effect
+    - Doppler effect with sound
+    - Applications (ultrasound, radar)
+  Rate and Extent of Reaction
+    - Factors affecting rate
+    - Collision theory
+    - Mechanism and catalysis
+  Chemical Equilibrium
+    - Dynamic equilibrium
+    - Equilibrium constant (Kc)
+    - Le Chatelier's principle
+  Acids and Bases
+    - Strong and weak acids/bases
+    - pH
+    - Titrations
+    - Indicators
+    - Salt hydrolysis
+
+Term 3
+  Electric Circuits
+    - Internal resistance
+    - Series-parallel networks
+  Electrodynamics
+    - Generators and motors
+    - Alternating current
+  Optical Phenomena
+    - Photoelectric effect
+    - Emission and absorption spectra
+  Electrochemical Reactions
+    - Galvanic cells
+    - Electrolytic cells
+    - Standard electrode potentials
+  The Chemical Industry
+    - Fertiliser industry
+    - Haber process
+    - Ostwald process
+    - Contact process
+
+Term 4
+  Revision
+    - Physics revision
+    - Chemistry revision

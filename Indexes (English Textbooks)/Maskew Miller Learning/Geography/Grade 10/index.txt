@@ -1,0 +1,55 @@
+Maskew Miller Learning - CAPS Approved
+Subject: Geography
+Grade 10
+Phase: FET Phase
+Publisher: Maskew Miller Learning
+Book: Focus Geography Grade 10
+ISBN: 978-0-636-14115-5
+Source: CAPS Policy Document (Geography Grade 10-12)
+
+--- TABLE OF CONTENTS ---
+
+Term 1
+  Topic 1: The Atmosphere
+    - Composition and structure of the atmosphere
+    - Heating of the atmosphere (insolation, reflection, conduction, convection, greenhouse effect, global warming)
+    - Moisture in the atmosphere (evaporation, condensation, humidity, cloud formation, precipitation types)
+    - Reading and interpreting synoptic weather maps (station models, weather elements)
+  Geographical Skills and Techniques
+    - Using atlases
+    - Fieldwork: weather instruments and data collection
+    - GIS: satellite images related to meteorology
+
+Term 2
+  Topic 2: Geomorphology
+    - The structure of the Earth (internal structure, rock classification, rock cycle, intrusive igneous features)
+    - Plate tectonics (continental drift evidence, plate movement mechanics, processes at plate boundaries)
+    - Folding and faulting (rock folding, landforms, types of faults, rift valleys, block mountains)
+    - Earthquakes (occurrence, measurement, impact on people, strategies to reduce impact)
+    - Volcanoes (types, structure, impact on people and environment)
+  Geographical Skills and Techniques
+    - Topographic maps: 1:50 000, conventional signs, compass directions, bearing
+    - Aerial photographs and orthophoto maps
+    - Mapwork: locating position, scale
+
+Term 3
+  Topic 3: Population
+    - Population distribution and density (world patterns, factors affecting distribution)
+    - Population structure (indicators: birth rates, death rates, life expectancy, population pyramids)
+    - Population growth (demographic transition model, overpopulation)
+    - Population movements (migration types, causes and effects, refugees, migrant labour)
+    - HIV and AIDS (infection rates in southern Africa, social and economic effects)
+  Geographical Skills and Techniques
+    - Atlas skills: interpreting graphs, population pyramids, photographs
+    - GIS: satellite images related to population
+
+Term 4
+  Topic 4: Water Resources
+    - Water in the world (hydrological cycle, salt water and fresh water)
+    - The world's oceans (ocean circulation, warm and cold currents, pollution, overfishing)
+    - Water management in South Africa (rivers, dams, inter-basin transfers, water purification)
+    - Floods (causes, flood hydrographs, management strategies, case study)
+  Geographical Skills and Techniques
+    - Topographic maps: landforms and contours
+    - Aerial photographs and orthophoto maps
+    - GIS: spatial objects, lines, points, nodes and scales

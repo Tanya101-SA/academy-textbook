@@ -1,0 +1,79 @@
+======================================================================
+Platinum Wiskunde Graad 5 Leerderboek
+ISBN: 9780636138254
+Uitgewer: Platinum (Pearson Suid-Afrika)
+Kurrikulum: KABV (CAPS)
+======================================================================
+
+INHOUDSOPGAWE
+──────────────────────────────────────────────────────────────────────
+
+
+Voorblad
+Titel
+Kwartaal 1
+    Onderwerp 1: Tel, rangskik, vergelyk en stel heelgetalle voor
+    Onderwerp 2: Getalsinne
+    Hersiening
+    Onderwerp 3: Optelling en aftrekking
+    Onderwerp 4: Getalpatrone
+    Hersiening
+    Onderwerp 5: Vermenigvuldiging en deling
+    Opdrag
+    Onderwerp 6: Tyd
+    Hersiening
+    Onderwerp 7: Datahantering
+    Onderwerp 8: Eienskappe van 2D-vorms
+    Hersiening
+    Onderwerp 9: Kapasiteit en volume
+Kwartaal 2
+    Onderwerp 10: Tel, rangskik, vergelyk en stel heelgetalle voor
+    Onderwerp 11: Optelling en aftrekking
+    Hersiening
+    Onderwerp 12: Gewone breuke
+    Onderwerp 13: Lengte
+    Hersiening
+    Onderwerp 14: Vermenigvuldiging
+    Onderwerp 15: Eienskappe van 3D-voorwerpe
+    Hersiening
+    Onderwerp 16: Meetkundige patrone
+    Onderwerp 17: Simmetrie
+    Hersiening
+    Onderwerp 18: Deling
+Kwartaal 3
+    Onderwerp 19: Gewone breuke
+    Onderwerp 20: Massa
+    Hersiening
+    Onderwerp 21: Tel, rangskik, vergelyk en stel heelgetalle voor
+    Onderwerp 22: Optelling en aftrekking
+    Hersiening
+    Onderwerp 23: Voorwerpe bekyk
+    Onderwerp 24: Eienskappe van 2D-vorms
+    Hersiening
+    Onderwerp 25: Transformasies
+    Onderwerp 26: Temperatuur
+    Hersiening
+    Onderwerp 27: Datahantering
+    Projek
+    Onderwerp 28: Getalpatrone
+    Hersiening
+    Onderwerp 29: Vermenigvuldiging
+Kwartaal 4
+    Onderwerp 30: Tel, rangskik, vergelyk en stel heelgetalle voor
+    Onderwerp 31: Optelling en aftrekking
+    Hersiening
+    Onderwerp 32: Eienskappe van 3D-voorwerpe
+    Onderwerp 33: Gewone breuke
+    Hersiening
+    Opdrag
+    Onderwerp 34: Deling
+    Onderwerp 35: Omtrek, oppervlakte en volume
+    Hersiening
+    Onderwerp 36: Posisie en beweging
+    Onderwerp 37: Transformasies
+    Hersiening
+    Ondersoek
+    Onderwerp 38: Meetkundige patrone
+    Onderwerp 39: Getalsinne
+    Hersiening
+    Onderwerp 40: Waarskynlikheid

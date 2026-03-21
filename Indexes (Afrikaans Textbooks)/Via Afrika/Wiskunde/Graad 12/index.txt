@@ -1,0 +1,146 @@
+======================================================================
+Via Afrika Wiskunde Graad 12 Leerderboek
+ISBN: 978-1-41542-341-7
+Uitgewer: Via Afrika
+Kurrikulum: KABV (CAPS)
+Fase: VOO-fase (FET Phase)
+Nota: KABV-gelynstel onderwerp/sub-onderwerp struktuur.
+Bron: https://viaafrika.com/product/via-afrika-wiskunde-graad-12-leerderboek/
+======================================================================
+
+INHOUDSOPGAWE
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 1
+
+    Onderwerp 1: Getalpatrone, rye en reekse
+        Eenheid 1: Rekenkundige rye en reekse
+            1.1 Algemene term: Tn = a + (n − 1)d
+            1.2 Som van 'n rekenkundige reeks: Sn = n/2(2a + (n − 1)d)
+        Eenheid 2: Meetkundige rye en reekse
+            2.1 Algemene term: Tn = arⁿ⁻¹
+            2.2 Som van 'n meetkundige reeks: Sn = a(rⁿ − 1)/(r − 1)
+        Eenheid 3: Sigma-notasie
+            3.1 Σ-notasie en berekeninge
+        Eenheid 4: Som tot oneindigheid
+            4.1 Konvergente meetkundige reekse (−1 < r < 1)
+            4.2 S∞ = a/(1 − r)
+
+    Onderwerp 2: Funksies en inverse funksies
+        Eenheid 1: Inverse funksies
+            1.1 Definisie van inverse (verruiling van x en y)
+            1.2 Inverse van lineêre funksies
+            1.3 Inverse van kwadratiese funksies (met beperkte domein)
+            1.4 Inverse van eksponensiële funksies
+        Eenheid 2: Logaritmiese funksies
+            2.1 Definisie: y = logₐx as inverse van y = aˣ
+            2.2 Logaritmewette
+            2.3 Grafieke van logaritmiese funksies
+        Eenheid 3: Eksponensiële en logaritmiese vergelykings
+            3.1 Los eksponensiële vergelykings op met logaritmes
+
+    Onderwerp 3: Finansies, groei en verval
+        Eenheid 1: Saamgestelde groei en verval
+            1.1 A = P(1 + i)ⁿ (groei)
+            1.2 A = P(1 − i)ⁿ (verval)
+        Eenheid 2: Nominale en effektiewe rentekoerse
+            2.1 1 + i_eff = (1 + i_nom/m)ᵐ
+        Eenheid 3: Toekomstige waarde en huidige waarde annuïteite
+            3.1 Toekomstige waarde annuïteit (spaarfonds)
+            3.2 Huidige waarde annuïteit (lening)
+        Eenheid 4: Leningsterugbetalings en delgingsfondse
+            4.1 Aflossingskedules
+            4.2 Uitstaande saldo-berekeninge
+
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 2
+
+    Onderwerp 4: Trigonometrie
+        Eenheid 1: Saamgestelde hoek-identiteite
+            1.1 sin(A ± B), cos(A ± B)
+        Eenheid 2: Dubbelhoek-identiteite
+            2.1 sin 2A = 2 sin A cos A
+            2.2 cos 2A = cos²A − sin²A = 2cos²A − 1 = 1 − 2sin²A
+        Eenheid 3: Los trigonometriese vergelykings op (algemene oplossings)
+        Eenheid 4: Trigonometriese grafieke
+            4.1 Grafieke van sin, cos en tan met verskuiwings
+
+    Onderwerp 5: Polinome
+        Eenheid 1: Faktor- en resstelling
+            1.1 Faktorstelling: as f(a) = 0, dan is (x − a) 'n faktor
+            1.2 Resstelling
+        Eenheid 2: Derdegraadse vergelykings
+            2.1 Faktorisering van derdegraadse uitdrukkings
+            2.2 Los derdegraadse vergelykings op
+
+    Onderwerp 6: Differensiaalrekene
+        Eenheid 1: Limiete en eerste beginsels
+            1.1 Die konsep van 'n limiet
+            1.2 Afgeleide uit eerste beginsels: f'(x) = lim[h→0] (f(x+h) − f(x))/h
+        Eenheid 2: Reëls van differensiasie
+            2.1 Magwet: d/dx(xⁿ) = nxⁿ⁻¹
+            2.2 Konstantereël, somreël, verskilreël
+        Eenheid 3: Toepassings — raklyne en tempo van verandering
+            3.1 Vergelyking van 'n raklyn aan 'n kromme
+            3.2 Tempo van verandering
+
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 3
+
+    Onderwerp 6 (vervolg): Differensiaalrekene
+        Eenheid 4: Krommeskets — draaipunte en konkawiteit
+            4.1 Stasionêre punte (f'(x) = 0)
+            4.2 Lokale minimum en maksimum
+            4.3 Buigpunte (f''(x) = 0)
+            4.4 Skets van derdegraadse funksies
+        Eenheid 5: Optimeringsprobleme
+            5.1 Praktiese maksimum- en minimumprobleme
+        Eenheid 6: Grafieke van derdegraadse funksies
+        Eenheid 7: Tempo van verandering-probleme
+
+    Onderwerp 7: Analitiese meetkunde
+        Eenheid 1: Vergelyking van 'n sirkel
+            1.1 (x − a)² + (y − b)² = r² (middelpunt-radius-vorm)
+            1.2 x² + y² + Dx + Ey + F = 0 (algemene vorm)
+        Eenheid 2: Raklyn aan 'n sirkel
+            2.1 Vergelyking van 'n raklyn by 'n punt op die sirkel
+        Eenheid 3: Snypunte van sirkels en lyne
+
+    Onderwerp 8: Euklidiese meetkunde
+        Eenheid 1: Proporsionaliteitstelling
+            1.1 Lyn parallel aan een sy van 'n driehoek verdeel die ander twee sye proporsioneel
+        Eenheid 2: Gelykvormige driehoeke
+            2.1 Voorwaardes vir gelykvormigheid
+            2.2 Bewyse met gelykvormige driehoeke
+        Eenheid 3: Stelling van Pythagoras (bewys)
+
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 4
+
+    Onderwerp 9: Statistiek
+        Eenheid 1: Regressie en korrelasie
+            1.1 Verstrooiingsdiagramme
+            1.2 Lineêre regressielyn (kleinste kwadrate)
+            1.3 Korrelasiekoëffisiënt (r)
+            1.4 Interpretasie van korrelasie
+
+    Onderwerp 10: Teling en waarskynlikheid
+        Eenheid 1: Fundamentele telbeginsel
+        Eenheid 2: Fakulteitnotasie (n!)
+        Eenheid 3: Permutasies
+            3.1 Rangskikking van voorwerpe
+            3.2 Permutasies met herhalings
+        Eenheid 4: Kombinasies
+            4.1 Keuse sonder rangskikking
+
+──────────────────────────────────────────────────────────────────────
+
+HERSIENING EN EKSAMENVOORBEREIDING
+    Hersiening van alle onderwerpe uit Kwartaal 1-3
+    Vraestel 1 (3 uur, 150 punte): Algebra, Rye en Reekse, Funksies, Differensiaalrekene, Finansiële Wiskunde, Waarskynlikheid
+    Vraestel 2 (3 uur, 150 punte): Statistiek, Analitiese Meetkunde, Trigonometrie, Euklidiese Meetkunde
+    Antwoorde
+    Woordelys

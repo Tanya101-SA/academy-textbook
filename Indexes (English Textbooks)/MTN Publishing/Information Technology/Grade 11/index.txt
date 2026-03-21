@@ -1,0 +1,16 @@
+MTN Information Technology - Grade 11 (CAPS IT Theory)
+Publisher: MTN Publishing (Authors: Malan, Tuswa, Naidoo)
+
+Chapter 1: System Technologies (Hardware - CPU, motherboard, buses, ports)
+Chapter 2: Software (Operating systems in more depth, utility software)
+Chapter 3: Networks (LANs, WANs, network topologies, protocols)
+Chapter 4: The Internet and World Wide Web (Web browsers, search engines)
+Chapter 5: Electronic Communications (Advanced)
+Chapter 6: Social Implications / Ethical, Legal and Security Issues
+Chapter 7: Data and Information Management (Databases - concepts, relational model)
+Chapter 8: Solution Development / Problem Solving (Algorithms, pseudocode, flowcharts)
+Chapter 9: Spreadsheets (Intermediate/advanced - functions, charts, what-if analysis)
+Chapter 10: HTML and Web Development
+Chapter 11: Integrated Scenario-based Questions
+
+Source: Web research - CAPS Information Technology theory curriculum

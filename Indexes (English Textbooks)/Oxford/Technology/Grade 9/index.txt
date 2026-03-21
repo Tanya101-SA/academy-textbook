@@ -1,0 +1,31 @@
+Oxford University Press - CAPS Approved
+Subject: Technology
+Grade 9
+Publisher: Oxford University Press Southern Africa
+Series: Oxford Successful Technology
+Source: CAPS Policy Document
+
+--- TABLE OF CONTENTS ---
+
+Term 1
+  Structures
+    - Structural members and forces
+    - Reinforcing structures
+    - Stability and aesthetics
+
+Term 2
+  Systems and Control
+    - Hydraulic and pneumatic systems
+    - Mechanical systems and sub-systems
+
+Term 3
+  Processing
+    - Extraction and processing of materials
+    - Impact on the environment
+    - Recycling
+
+Term 4
+  Systems and Control
+    - Electronic systems
+    - Input and output devices
+    - Design and make an electronic system

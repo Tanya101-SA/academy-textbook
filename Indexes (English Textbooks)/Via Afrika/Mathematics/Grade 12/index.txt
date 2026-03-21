@@ -1,0 +1,66 @@
+Via Afrika - CAPS Approved
+Subject: Mathematics
+Grade 12
+Phase: FET Phase
+Publisher: Via Afrika
+Book: Via Afrika Mathematics Grade 12
+ISBN: 978-1-41542-341-7
+Source: CAPS Policy Document
+
+--- TABLE OF CONTENTS ---
+
+Term 1
+  Number Patterns, Sequences and Series
+    - Arithmetic sequences and series
+    - Geometric sequences and series
+    - Sigma notation
+    - Sum to infinity
+  Functions and Inverse Functions
+    - Inverse functions
+    - Logarithmic functions
+    - Exponential and logarithmic equations
+  Finance, Growth and Decay
+    - Compound growth and decay
+    - Nominal and effective interest rates
+    - Future value and present value annuities
+    - Loan repayments and sinking funds
+
+Term 2
+  Trigonometry
+    - Compound angle identities
+    - Double angle identities
+    - Solving trigonometric equations (general solutions)
+    - Trigonometric graphs
+  Polynomials
+    - Factor and remainder theorem
+    - Cubic equations
+  Differential Calculus
+    - Limits and first principles
+    - Rules of differentiation
+    - Applications: tangents, rates of change
+    - Curve sketching: turning points, concavity
+
+Term 3
+  Analytical Geometry
+    - Equation of a circle
+    - Tangent to a circle
+    - Intersection of circles and lines
+  Euclidean Geometry
+    - Proportionality theorem
+    - Similar triangles
+    - Theorem of Pythagoras (proof)
+  Differential Calculus (continued)
+    - Optimisation problems
+    - Graphs of cubic functions
+    - Rate of change problems
+
+Term 4
+  Statistics
+    - Regression and correlation
+    - Linear regression line
+    - Correlation coefficient
+  Counting and Probability
+    - Fundamental counting principle
+    - Factorial notation
+    - Permutations and combinations
+  Revision and Examination Preparation

@@ -1,0 +1,132 @@
+======================================================================
+Siyavula Education - CAPS Approved
+Subject: Natural Sciences
+Grade 6
+Phase: Intermediate Phase
+Publisher: Siyavula Education
+Series: Siyavula Natural Sciences (Open Textbook)
+Curriculum: CAPS
+Source: CAPS Policy Document / siyavula.com
+Note: Siyavula is an open-source publisher. Page numbers not applicable for open digital textbook. Structure follows CAPS exactly.
+======================================================================
+
+TABLE OF CONTENTS
+──────────────────────────────────────────────────────────────────────
+
+TERM 1
+
+  Strand: Life and Living
+    Topic: Photosynthesis
+      - What is photosynthesis?
+      - What plants need for photosynthesis (sunlight, water, carbon dioxide)
+      - What plants produce during photosynthesis (glucose, oxygen)
+      - Why photosynthesis is important for life on Earth
+      - The role of chlorophyll and chloroplasts
+      - Investigating photosynthesis (testing a leaf for starch)
+
+    Topic: Nutrients in food
+      - Why we need food
+      - The main nutrients (carbohydrates, proteins, fats, vitamins, minerals, water, fibre)
+      - Functions of each nutrient in the body
+      - Sources of nutrients (foods that contain each nutrient)
+      - A balanced diet
+      - The South African food-based dietary guidelines
+      - Reading food labels
+      - Diseases caused by nutrient deficiency (kwashiorkor, marasmus, scurvy, rickets)
+
+    Topic: Food processing
+      - Why food is processed
+      - Methods of food processing (drying, smoking, salting, canning, freezing, pasteurisation)
+      - Advantages and disadvantages of food processing
+      - Food additives (preservatives, colourants, flavourants)
+      - Food safety and hygiene
+
+TERM 2
+
+  Strand: Life and Living
+    Topic: Ecosystems
+      - What is an ecosystem?
+      - Components of an ecosystem (living and non-living)
+      - Different types of ecosystems (grassland, forest, wetland, river, ocean, desert)
+      - Relationships in ecosystems (feeding relationships, competition, symbiosis)
+      - Food webs
+      - Energy flow in ecosystems
+      - How humans affect ecosystems (pollution, deforestation, overfishing)
+      - Conservation and sustainability
+
+  Strand: Matter and Materials
+    Topic: Solids, liquids and gases
+      - Three states of matter
+      - Properties of solids (fixed shape, fixed volume)
+      - Properties of liquids (no fixed shape, fixed volume)
+      - Properties of gases (no fixed shape, no fixed volume)
+      - Comparing solids, liquids and gases
+      - Particle model of matter (how particles are arranged in each state)
+
+    Topic: Changes of state
+      - Melting and freezing (melting point, freezing point)
+      - Evaporation and condensation (boiling point)
+      - Sublimation
+      - The effect of heating and cooling on matter
+      - The water cycle (evaporation, condensation, precipitation)
+      - Investigating changes of state
+
+TERM 3
+
+  Strand: Matter and Materials
+    Topic: Mixtures
+      - What is a mixture?
+      - Types of mixtures (solutions, suspensions, alloys)
+      - Dissolving (solute, solvent, solution)
+      - Factors that affect dissolving (temperature, stirring, particle size)
+      - Saturated solutions
+      - Separating mixtures (sieving, filtering, evaporation, distillation, magnetism, decanting, hand sorting)
+      - Investigating separation methods
+
+  Strand: Energy and Change
+    Topic: Electric circuits
+      - What is an electric circuit?
+      - Components of a circuit (cell/battery, wires, switch, bulb)
+      - Drawing circuit diagrams (symbols)
+      - Series circuits
+      - Parallel circuits
+      - Conductors and insulators in circuits
+      - Building and testing circuits
+      - The effect of adding more cells or bulbs
+
+    Topic: Systems to solve problems
+      - What is a system?
+      - Input, process and output
+      - Electrical systems in everyday life
+      - Designing and making a system to solve a problem
+
+TERM 4
+
+  Strand: Energy and Change
+    Topic: Energy and the Sun
+      - The Sun as the main source of energy on Earth
+      - How energy from the Sun reaches the Earth
+      - The Sun and photosynthesis
+      - The Sun and the water cycle
+      - The Sun and weather
+      - Solar energy (solar panels, solar water heaters)
+      - Fossil fuels and the Sun (how coal, oil and gas formed from ancient living things)
+
+  Strand: Earth and Beyond
+    Topic: The solar system
+      - What is the solar system?
+      - The Sun (a star at the centre)
+      - The eight planets (Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune)
+      - Characteristics of each planet (size, distance from Sun, surface features)
+      - The Moon (Earth's natural satellite)
+      - Other objects in the solar system (asteroids, comets, dwarf planets)
+      - Day and night (rotation of the Earth)
+      - Seasons (revolution of the Earth around the Sun, tilt of the Earth's axis)
+
+    Topic: The Earth and the Moon
+      - The rotation of the Earth (day and night, 24 hours)
+      - The revolution of the Earth around the Sun (a year, 365¼ days)
+      - Phases of the Moon (new moon, crescent, quarter, gibbous, full moon)
+      - The Moon's revolution around the Earth (approximately 28 days)
+      - Eclipses (solar eclipse, lunar eclipse)
+      - Tides and the Moon

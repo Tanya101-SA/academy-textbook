@@ -1,0 +1,54 @@
+Maskew Miller Learning - CAPS Approved
+Subject: Geography
+Grade 11
+Phase: FET Phase
+Publisher: Maskew Miller Learning
+Book: Focus Geography Grade 11
+ISBN: 978-0-636-14116-2
+Source: CAPS Policy Document (Geography Grade 10-12)
+
+--- TABLE OF CONTENTS ---
+
+Term 1
+  Topic 1: The Atmosphere
+    - The Earth's energy balance (unequal heating, significance of axis and revolution)
+    - Global air circulation (pressure belts, tri-cellular circulation, Coriolis force, wind systems)
+    - Africa's weather and climate (climate regions, El Nino and La Nina, synoptic weather maps)
+    - Drought and desertification (areas at risk, causes, effects, management strategies)
+  Geographical Skills and Techniques
+    - Aerial photographs and orthophoto maps
+    - GIS: satellite images, application to climatology
+
+Term 2
+  Topic 2: Geomorphology
+    - Topography associated with horizontally layered rocks (plateaus, canyons, mesa, butte, scarp retreat)
+    - Topography associated with inclined/tilted rock strata (cuesta, homoclinal ridge, hogsback)
+    - Topography associated with massive igneous rocks (batholiths, granite domes and tors)
+    - Slopes (types, slope elements: crest, cliff, talus, pediment, slope development and retreat)
+    - Mass movements and human responses (soil creep, landslides, rock falls, mud flows, strategies)
+  Geographical Skills and Techniques
+    - Topographic maps: contours, cross-sections, vertical exaggeration, gradient
+    - GIS: spatially referenced data, raster and vector data
+    - Fieldwork: observation, collecting and recording data
+
+Term 3
+  Topic 3: Development Geography
+    - The concept of development (terminology, indicators: GDP, HDI, Gini coefficient, life expectancy)
+    - Frameworks for development (Rostow's model, core-periphery, sustainability, community-based)
+    - Trade and development (international trade, free trade, globalisation, export-led development)
+    - Development issues and challenges (role of women, environmental effects, role of state)
+    - Role of development aid (types: technical, conditional, humanitarian, case studies)
+  Geographical Skills and Techniques
+    - Mapwork skills: topographic maps, direction, scale, distance, area
+    - Using atlases: index, locating places, comparing maps
+
+Term 4
+  Topic 4: Resources and Sustainability
+    - Using resources (relationship to economic development, exploitation, sustainability)
+    - Soil and soil erosion (soil formation, causes, evidence in SA, management strategies)
+    - Conventional energy sources (thermal, hydro, nuclear energy in SA, environmental impact)
+    - Non-conventional energy sources (solar, wind energy, future potential in SA)
+    - Energy management in South Africa (changing energy needs, greener economies)
+  Geographical Skills and Techniques
+    - Topographic maps revision: contours, cross-sections, intervisibility
+    - GIS: spatially referenced data, data types

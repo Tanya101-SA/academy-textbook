@@ -1,0 +1,147 @@
+======================================================================
+Via Afrika Rekeningkunde Graad 12 Leerderboek
+ISBN: 978-1-41546-034-4
+Uitgewer: Via Afrika
+Kurrikulum: KABV (CAPS)
+Fase: VOO-fase (FET Phase)
+Nota: KABV-gelynstel onderwerp/sub-onderwerp struktuur.
+Bron: https://viaafrika.com/product/via-afrika-rekeningkunde-graad-12-leerderboek/
+======================================================================
+
+INHOUDSOPGAWE
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 1
+
+    Onderwerp 1: Finansiële rekeningkunde vir maatskappye
+        Eenheid 1: Inleiding tot maatskappye
+            1.1 Wat is 'n maatskappy?
+            1.2 Registrasieprosedures vir 'n maatskappy
+        Eenheid 2: Unieke konsepte vir maatskappye
+            2.1 Aandelekapitaal (gemagtigde en uitgereikte)
+            2.2 Gewone en voorkeuraandele
+            2.3 Dividende
+            2.4 Direksie en aandeelhouers
+        Eenheid 3: IFRS en AARP-beginsels
+        Eenheid 4: Boekhoudkundige inskrywings vir maatskappye
+            4.1 Uitreiking van aandele
+            4.2 Dividende verklaar en betaal
+            4.3 Joernale en Grootboek
+
+    Onderwerp 2: Jaareindverslaggewing vir maatskappye
+        Eenheid 1: Jaareinsprosedures vir maatskappye
+            1.1 Jaareindaanpassings
+            1.2 Finale rekeninge (Handelsrekening, Wins-en-verliesrekening, Toeëieningsrekening)
+        Eenheid 2: Finansiële state vir maatskappye
+            2.1 Inkomstestaat en notas
+            2.2 Balansstaat (Staat van Finansiële Posisie) en notas
+        Eenheid 3: Kontantvloeistaat en notas
+            3.1 Bedryfsaktiwiteite
+            3.2 Beleggingsaktiwiteite
+            3.3 Finansieringsaktiwiteite
+
+    Onderwerp 3: Analise en interpretasie van maatskappye
+        Eenheid 1: Die behoefte om prestasie te meet
+        Eenheid 2: Meet winsgewendheid
+            2.1 Brutowinspersentasie
+            2.2 Nettowinspersentasie
+            2.3 Bedryfsuitgawes as persentasie van verkope
+        Eenheid 3: Meet solvensie
+            3.1 Skuld-tot-ekwiteitverhouding
+        Eenheid 4: Meet likiditeit
+            4.1 Stroomverhouding
+            4.2 Vuurproefverhouding
+        Eenheid 5: Meet risiko
+        Eenheid 6: Meet opbrengs
+            6.1 Opbrengs op eie kapitaal (OEK)
+            6.2 Opbrengs op totale kapitaal geëmploieer
+        Eenheid 7: Waardebepaling van aandele
+            7.1 Netto batewaarde per aandeel (NBW)
+            7.2 Verdienste per aandeel (VPA)
+            7.3 Dividende per aandeel (DPA)
+        Eenheid 8: Analise van gepubliseerde jaarverslae
+
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 2
+
+    Onderwerp 4: Etiek
+        Eenheid 1: Professionele liggame in Rekeningkunde
+            1.1 SAIGR (SAICA), SAIPA, CIMA
+        Eenheid 2: Dissiplinêre maatreëls
+        Eenheid 3: Beleide wat etiese gedrag reguleer
+            3.1 Korporatiewe bestuur (King-verslag)
+        Eenheid 4: Wetgewing wat maatskappye reguleer
+            4.1 Maatskappywet
+
+    Onderwerp 5: Batebestuur
+        Eenheid 1: Tasbare/vaste bates
+        Eenheid 2: Batebestuur
+        Eenheid 3: Batebewegings
+        Eenheid 4: Batebewegingskedules
+            4.1 Kosprys, waardevermindering, boekwaarde
+            4.2 Toevoegings en vervreemdinge
+        Eenheid 5: Analiseer en interpreteer batevervreemding
+
+    Onderwerp 6: Beslote korporasies
+        Eenheid 1: BK's as 'n tipe eienaarskap
+        Eenheid 2: Konsepte verwant aan BK's
+            2.1 Ledebelang, lederekening
+        Eenheid 3: Die verskil tussen die finansiële state van 'n maatskappy en 'n BK
+
+    Onderwerp 7: Interne beheer
+        Eenheid 1: Interne beheer en interne ouditprosesse in 'n besigheid
+        Eenheid 2: Insameling van ouditbewyse
+        Eenheid 3: Basiese steekproeftegnieke
+        Eenheid 4: Die Interne Ouditverslag
+
+    Onderwerp 8: Voorraadstelsels
+        Eenheid 1: Die ewigdurende voorraadstelsel
+        Eenheid 2: Die periodiese voorraadstelsel
+        Eenheid 3: Metodes van voorraadwaardering
+            3.1 EIEU-metode (eerste in, eerste uit / FIFO)
+            3.2 Geweegde gemiddelde metode
+            3.3 Spesifieke identifikasiemetode
+
+    Onderwerp 9: Rekonsilasies
+        Eenheid 1: Analiseer en interpreteer bankstate en bankrekonsilasiestate
+        Eenheid 2: Rekonsilieer krediteurestaat met persoonlike rekening
+        Eenheid 3: Analiseer en interpreteer debiteure-ouderdomsanalise
+        Eenheid 4: Rekonsilieer debiteure- en krediteurlyste met die kontrolerekeninge
+
+    Onderwerp 10: Belasting op Toegevoegde Waarde (BTW)
+        Eenheid 1: BTW-inset
+        Eenheid 2: BTW-uitset
+        Eenheid 3: Inskrywing van BTW-joernaalinskrywings in die Grootboek
+
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 3
+
+    Onderwerp 11: Kosterekeningkunde
+        Eenheid 1: Unieke konsepte vir vervaardigingsondernemings
+            1.1 Direkte materiaal, direkte arbeid, oorhoofse koste
+        Eenheid 2: Finansiële state vir vervaardigingsondernemings
+        Eenheid 3: Die Produksieskostestaat
+            3.1 Direkte materiaalkoste
+            3.2 Direkte arbeidskoste
+            3.3 Fabrieksoorhoofse koste
+            3.4 Eenheidskosteberekening
+        Eenheid 4: Die Verkorte Inkomstestaat
+
+    Onderwerp 12: Begrotings
+        Eenheid 1: Die belangrikheid van beplanning
+        Eenheid 2: Analise van 'n Geprojekteerde Inkomstestaat
+            2.1 Vergelyking van begrote en werklike syfers
+            2.2 Afwykings
+        Eenheid 3: Analise van 'n Kontantbegroting
+            3.1 Kontantontvangstes en -betalings
+            3.2 Kontanttekort/-oorskot
+
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 4 — Hersiening en Eksamen
+    Hersiening van alle onderwerpe uit Kwartaal 1-3
+    Oefeneksamen 1
+    Oefeneksamen 2
+    Woordelys

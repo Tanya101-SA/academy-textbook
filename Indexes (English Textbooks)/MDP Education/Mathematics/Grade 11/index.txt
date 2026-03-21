@@ -1,0 +1,61 @@
+MDP Education - CAPS Approved
+Subject: Mathematics
+Grade 11
+Phase: FET Phase
+Publisher: MDP Education
+Book: Mindbourne Mathematics Textbook Grade 11
+Source: CAPS Policy Document
+
+--- TABLE OF CONTENTS ---
+
+Term 1
+  Exponents and Surds
+    - Simplify expressions
+    - Solve equations
+  Equations and Inequalities
+    - Quadratic equations and inequalities
+    - Nature of roots
+    - Simultaneous equations
+  Number Patterns
+    - Quadratic sequences
+  Analytical Geometry
+    - Equation of a line
+    - Inclination of a line
+    - Parallel and perpendicular lines
+
+Term 2
+  Functions
+    - Inverses of functions
+    - Logarithmic and exponential functions
+  Trigonometry
+    - Reduction formulae
+    - Trigonometric identities
+    - Trig graphs
+    - Trigonometric equations
+
+Term 3
+  Measurement
+    - Volume and surface area of spheres, cones, pyramids
+  Euclidean Geometry
+    - Circle geometry
+    - Tangent-chord angle
+    - Cyclic quadrilaterals
+  Trigonometry
+    - Sine rule
+    - Cosine rule
+    - Area rule
+    - 2D and 3D problems
+  Finance, Growth and Decay
+    - Simple and compound decay
+    - Effective and nominal interest rates
+  Probability
+    - Dependent and independent events
+    - Counting principles
+
+Term 4
+  Statistics
+    - Histograms
+    - Frequency polygons
+    - Ogives
+    - Variance and standard deviation
+    - Symmetric and skewed data

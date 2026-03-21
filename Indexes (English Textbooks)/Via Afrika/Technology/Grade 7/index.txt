@@ -1,0 +1,46 @@
+Via Afrika - CAPS Approved
+Subject: Technology
+Grade 7
+Phase: Senior Phase
+Publisher: Via Afrika
+Book: Via Afrika Technology Grade 7
+ISBN: 978-1-41541-915-1
+Source: CAPS Policy Document
+
+--- TABLE OF CONTENTS ---
+
+Term 1
+  Structures
+    - Frame structures
+    - Shell structures
+    - Types of forces: tension, compression, bending, torsion
+    - Strengthening structures: triangulation, bracing
+  Skills
+    - Design process: investigate, design, make, evaluate, communicate
+    - Technical drawing: 2D freehand sketches
+
+Term 2
+  Processing
+    - Materials and their properties
+    - Processing of materials: shaping, forming, joining
+    - Safety in the workshop
+    - Tools and equipment
+  Skills
+    - Working with resistant materials
+    - Making a processed product
+
+Term 3
+  Systems and Control
+    - Mechanical systems: levers, linkages, gears, pulleys
+    - Types of motion: linear, rotary, reciprocating, oscillating
+    - Input, process and output
+  Skills
+    - Making a mechanical system or toy
+    - Technical drawing: working drawings
+
+Term 4
+  Communication
+    - Graphic communication
+    - Technical drawing: orthographic projections
+    - Isometric drawing
+    - Evaluation of products and solutions

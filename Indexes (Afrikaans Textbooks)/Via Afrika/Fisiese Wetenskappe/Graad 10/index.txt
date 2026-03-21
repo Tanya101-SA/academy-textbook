@@ -1,0 +1,267 @@
+======================================================================
+Via Afrika Fisiese Wetenskappe Graad 10 Leerderboek
+ISBN: 978-1-41546-016-0
+Uitgewer: Via Afrika
+Kurrikulum: KABV (CAPS)
+Fase: VOO-fase (FET Phase)
+Nota: KABV-gelynstel onderwerp/sub-onderwerp struktuur.
+Bron: https://viaafrika.com/product/via-afrika-fisiese-wetenskappe-graad-10-leerderboek/
+======================================================================
+
+INHOUDSOPGAWE
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 1 — Materie en Materiaal
+
+    Onderwerp 1: Klassifikasie van materie
+        Eenheid 1: Materiale
+        Eenheid 2: Mengsels
+            2.1 Heterogene mengsels
+            2.2 Homogene mengsels
+            2.3 Skeiding van mengsels
+        Eenheid 3: Suiwer stowwe
+            3.1 Elemente
+            3.2 Verbindings
+        Eenheid 4: Name en formules van stowwe
+        Eenheid 5: Metale, metalloïede en nie-metale
+        Eenheid 6: Elektriese geleiers, halfgeleiers en isolators
+        Eenheid 7: Termiese geleiers en isolators
+        Eenheid 8: Magnetiese en nie-magnetiese materiale
+
+    Onderwerp 2: Toestande van materie en die kinetiese molekulêre teorie
+        Eenheid 1: Toestande van materie (vas, vloeibaar, gas)
+        Eenheid 2: Die kinetiese molekulêre teorie
+            2.1 Materie bestaan uit klein deeltjies
+            2.2 Deeltjies is in konstante beweging
+            2.3 Brownse beweging as bewys
+        Eenheid 3: Faseveranderings
+            3.1 Smelting, stolling, kook, verdamping, kondensasie, sublimasie, deposisie
+            3.2 Verhittings- en verkoelingskurwes
+            3.3 Smeltpunt en kookpunt
+
+    Onderwerp 3: Die atoom
+        Eenheid 1: Modelle van die atoom (historiese ontwikkeling)
+            1.1 Griekse model (Demokritos)
+            1.2 Dalton-model
+            1.3 Thomson-model (vrugtekoekmodel)
+            1.4 Rutherford-model
+            1.5 Bohr-model
+            1.6 Kwantummeganiese / golfmodel
+        Eenheid 2: Struktuur van die atoom
+            2.1 Protone, neutrone, elektrone
+            2.2 Atoomgetal (Z)
+            2.3 Massagetal (A)
+        Eenheid 3: Isotope
+            3.1 Definisie en voorbeelde
+            3.2 Relatiewe atoommassa
+        Eenheid 4: Elektronkonfigurasie
+            4.1 Energievlakke / elektronskille
+            4.2 Aufbau-diagramme
+            4.3 Notasie vir elektronkonfigurasie
+
+    Onderwerp 4: Die periodieke tabel
+        Eenheid 1: Die rangskikking van die elemente
+            1.1 Periodes en groepe
+            1.2 Ordening volgens atoomgetal
+            1.3 Periodisiteit van fisiese en chemiese eienskappe
+        Eenheid 2: Chemiese eienskappe van die groepe
+            2.1 Groep 1: Alkalimetale
+            2.2 Groep 2: Aardalkalimetale
+            2.3 Groep 17: Halogene
+            2.4 Groep 18: Edelgasse
+        Eenheid 3: Tendense in reaktiwiteit binne groepe
+        Eenheid 4: Verband tussen atoomstruktuur en posisie op die periodieke tabel
+
+    Onderwerp 5: Chemiese binding
+        Eenheid 1: Lewis-strukture (Lewis-koldiagramme)
+        Eenheid 2: Kovalente binding
+            2.1 Deling van elektronpare tussen nie-metaalatome
+            2.2 Enkel-, dubbel- en driebindings
+            2.3 Voorbeelde (H₂, O₂, H₂O, NH₃, HCl, CH₄)
+        Eenheid 3: Ioniese binding
+            3.1 Oordrag van elektrone tussen metaal- en nie-metaalatome
+            3.2 Vorming van katione en anione
+            3.3 Voorbeelde (NaCl, MgO, CaCl₂)
+        Eenheid 4: Metalliese binding
+            4.1 See van gedelokaliseerde elektrone
+            4.2 Eienskappe verklaar deur metalliese binding
+        Eenheid 5: Skryf van chemiese formules
+
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 1 (vervolg) / KWARTAAL 2 — Golwe, Klank en Lig
+
+    Onderwerp 6: Transversale pulse op 'n tou of veer
+        Eenheid 1: Puls, amplitude en pulslengte
+        Eenheid 2: Superposisie van pulse (konstruktiewe en destruktiewe interferensie)
+
+    Onderwerp 7: Transversale golwe
+        Eenheid 1: Kruine en trôe
+        Eenheid 2: Amplitude
+        Eenheid 3: Golflengte
+        Eenheid 4: Punte in fase
+        Eenheid 5: Periode en frekwensie
+        Eenheid 6: Spoed van 'n transversale golf (v = f × λ)
+
+    Onderwerp 8: Longitudinale golwe
+        Eenheid 1: Verdigtings en verdunnings
+        Eenheid 2: Golflengte en amplitude
+        Eenheid 3: Periode en frekwensie
+        Eenheid 4: Spoed van 'n longitudinale golf
+
+    Onderwerp 9: Klank
+        Eenheid 1: Spoed van klank
+        Eenheid 2: Eienskappe van 'n klankgolf
+            2.1 Toonhoogte en frekwensie
+            2.2 Luidheid en amplitude
+        Eenheid 3: Ultraklank en die toepassings daarvan
+
+    Onderwerp 10: Elektromagnetiese straling
+        Eenheid 1: Golfagtige aard van EM-straling
+        Eenheid 2: Die elektromagnetiese spektrum
+            2.1 Radiogolwe, mikrogolwe, infrarooi, sigbare lig, ultraviolet, X-strale, gammastrale
+        Eenheid 3: Deurdringingsvermoë van EM-straling
+        Eenheid 4: Deeltjie-agtige aard van EM-straling (fotone)
+        Eenheid 5: Gebruike en gevare van EM-straling
+
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 2 (vervolg) — Chemiese Verandering (Deel 1)
+
+    Onderwerp 11: Fisiese en chemiese verandering
+        Eenheid 1: Fisiese verandering vs chemiese verandering
+        Eenheid 2: Behoud van atome en massa in reaksies
+        Eenheid 3: Wet van konstante samestelling (wet van vaste verhoudings)
+
+    Onderwerp 12: Voorstelling van chemiese verandering
+        Eenheid 1: Skryf van woordvergelykings
+        Eenheid 2: Skryf van gebalanseerde chemiese vergelykings
+        Eenheid 3: Balansering van chemiese vergelykings deur inspeksie
+
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 2 (vervolg) — Elektrisiteit en Magnetisme (Deel 1)
+
+    Onderwerp 13: Magnetisme
+        Eenheid 1: Magnetiese velde
+            1.1 Veld rondom 'n staafmagneet
+            1.2 Teken van veldlyne
+        Eenheid 2: Permanente magnete
+            2.1 Magnetiese pole (Noord en Suid)
+            2.2 Aantrekking en afstoting
+            2.3 Magnetisering en demagnetisering
+        Eenheid 3: Die kompas en die Aarde se magnetiese veld
+
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 3 — Elektrisiteit en Magnetisme (vervolg)
+
+    Onderwerp 14: Elektrostatika
+        Eenheid 1: Twee soorte lading (positief en negatief)
+            1.1 Lading deur kontak (wrywing)
+            1.2 Aantrekking en afstoting tussen ladings
+        Eenheid 2: Behoud van lading
+        Eenheid 3: Kwantisering van lading (Q = nqₑ)
+
+    Onderwerp 15: Elektriese stroombane
+        Eenheid 1: Potensiaalverskil en EMK
+            1.1 EMK van 'n battery
+            1.2 Potensiaalverskil oor 'n komponent
+            1.3 Voltmeter (hoë weerstand, parallel gekoppel)
+        Eenheid 2: Stroom
+            2.1 Vloei van lading
+            2.2 Ammeter (lae weerstand, in serie gekoppel)
+            2.3 Konvensionele stroom vs elektronvloei
+        Eenheid 3: Weerstand en Ohm se Wet (V = IR)
+            3.1 Ohmiese en nie-ohmiese geleiers
+        Eenheid 4: Seriestroombaankringe
+            4.1 Stroom dieselfde deur alle komponente
+            4.2 Spanning verdeel oor komponente
+            4.3 Totale weerstand: R_totaal = R₁ + R₂ + ...
+        Eenheid 5: Parallelstroombaankringe
+            5.1 Spanning dieselfde oor alle takke
+            5.2 Stroom verdeel tussen takke
+            5.3 Totale weerstand: 1/R_totaal = 1/R₁ + 1/R₂ + ...
+
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 3 (vervolg) — Chemiese Verandering (vervolg)
+
+    Onderwerp 16: Reaksies in waterige oplossing
+        Eenheid 1: Ione in waterige oplossing
+            1.1 Dissosiasie van ioniese verbindings in water
+            1.2 Hidrasie van ione
+        Eenheid 2: Elektroliete, ionisasie en geleidingsvermoë
+            2.1 Sterk elektroliete vs swak elektroliete
+            2.2 Nie-elektroliete
+        Eenheid 3: Presipitasiereaksies
+            3.1 Vorming van onoplosbare soute
+            3.2 Oplosbaarheidsreëls / oplosbaarheidstabel
+            3.3 Skryf van ioniese vergelykings en netto ioniese vergelykings
+        Eenheid 4: Ander tipes reaksies
+            4.1 Suur-basis-reaksies
+            4.2 Suur-karbonaat-reaksies
+            4.3 Redoksreaksies (inleiding)
+
+    Onderwerp 17: Kwantitatiewe aspekte van chemiese verandering (Stoïgiometrie)
+        Eenheid 1: Atoommassa en die mol
+            1.1 Relatiewe atoommassa
+            1.2 Die mol (Avogadro se getal: 6,022 × 10²³)
+            1.3 Molêre massa
+        Eenheid 2: Samestelling
+            2.1 Persentasiesamestelling
+            2.2 Empiriese formule uit persentasiesamestelling
+            2.3 Molekulêre formule uit empiriese formule
+        Eenheid 3: Hoeveelheid stof
+            3.1 Verhouding: n = m/M
+            3.2 Molêre volume van gasse by STP
+            3.3 Konsentrasie van oplossings: c = n/V
+        Eenheid 4: Stoïgiometriese berekeninge
+            4.1 Molverhoudings uit gebalanseerde vergelykings
+            4.2 Massa-tot-massa-berekeninge
+            4.3 Volumeberekeninge met gasse
+            4.4 Berekeninge met konsentrasie van oplossings
+
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 4 — Meganika
+
+    Onderwerp 18: Vektore en skalare
+        Eenheid 1: Skalaargroothede (afstand, spoed, massa, tyd, temperatuur)
+        Eenheid 2: Vektorgroothede (verplasing, snelheid, versnelling, krag)
+        Eenheid 3: Grafiese voorstelling van vektore
+        Eenheid 4: Vektoroptelling (kop-tot-stert-metode, resultante vektor)
+
+    Onderwerp 19: Beweging in een dimensie
+        Eenheid 1: Verwysingsraamwerk, posisie en verplasing
+        Eenheid 2: Spoed en snelheid
+            2.1 Gemiddelde spoed vs gemiddelde snelheid
+            2.2 Oombliklike spoed en snelheid
+        Eenheid 3: Versnelling
+        Eenheid 4: Bewegingsvergelykings
+            4.1 v_f = v_i + at
+            4.2 Δx = (v_i + v_f)/2 × t
+            4.3 Δx = v_i·t + ½·a·t²
+            4.4 v_f² = v_i² + 2·a·Δx
+        Eenheid 5: Grafieke van beweging
+            5.1 Posisie-tyd-grafieke
+            5.2 Snelheid-tyd-grafieke
+            5.3 Versnelling-tyd-grafieke
+            5.4 Verwantskappe tussen grafieke
+
+    Onderwerp 20: Energie (Meganiese energie)
+        Eenheid 1: Gravitasie-potensiaalenergie (Ep = mgh)
+        Eenheid 2: Kinetiese energie (Ek = ½mv²)
+        Eenheid 3: Meganiese energie (EM = Ep + Ek)
+        Eenheid 4: Behoud van meganiese energie
+
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 4 (vervolg) — Chemiese Stelsels
+
+    Onderwerp 21: Die hidrosfeer
+        Eenheid 1: Wisselwerking van die hidrosfeer met atmosfeer, litosfeer en biosfeer
+        Eenheid 2: Samestelling van watermassas en die watersiklus
+        Eenheid 3: Die belangrikheid van die hidrosfeer
+        Eenheid 4: Bedreigings vir die hidrosfeer (besoedeling, oorgebruik, klimaatsverandering)
+        Eenheid 5: Watergehaltetoetsing en -suiwering

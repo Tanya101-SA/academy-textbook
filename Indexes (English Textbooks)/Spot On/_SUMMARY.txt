@@ -1,0 +1,55 @@
+Spot On CAPS Textbook Index Summary
+==================================================
+Date: 2026-02-17T06:53:18.347Z
+Total books: 20
+Successful: 20
+Failed: 0
+Total time: 5.4 minutes
+
+
+Creative Arts
+────────────────────────────────────────
+  Grade 7: OK (208 entries)
+  Grade 8: OK (221 entries)
+
+Economic and Management Sciences
+────────────────────────────────────────
+  Grade 7: OK (107 entries)
+  Grade 8: OK (114 entries)
+  Grade 9: OK (119 entries)
+
+English First Additional Language
+────────────────────────────────────────
+  Grade 7: OK (152 entries)
+  Grade 8: OK (277 entries)
+  Grade 9: OK (257 entries)
+
+Geography
+────────────────────────────────────────
+  Grade 11: OK (113 entries)
+
+History
+────────────────────────────────────────
+  Grade 11: OK (109 entries)
+  Grade 12: OK (130 entries)
+
+Life Orientation
+────────────────────────────────────────
+  Grade 7: OK (119 entries)
+  Grade 8: OK (116 entries)
+  Grade 9: OK (122 entries)
+
+Life Sciences
+────────────────────────────────────────
+  Grade 12: OK (111 entries)
+
+Life Skills
+────────────────────────────────────────
+  Grade 4: OK (176 entries)
+  Grade 5: OK (175 entries)
+  Grade 6: OK (173 entries)
+
+Technology
+────────────────────────────────────────
+  Grade 8: OK (64 entries)
+  Grade 9: OK (46 entries)

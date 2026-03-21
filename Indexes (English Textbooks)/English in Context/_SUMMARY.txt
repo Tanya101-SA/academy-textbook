@@ -1,0 +1,13 @@
+English in Context CAPS Textbook Index Summary
+==================================================
+Date: 2026-03-13
+Total books: 3
+Successful: 3
+Failed: 0
+
+
+English Home Language
+────────────────────────────────────────
+  Grade 10: OK (created from CAPS curriculum, ISBN: 9780636138148)
+  Grade 11: OK (restructured under CAPS topic areas)
+  Grade 12: OK (575 entries)

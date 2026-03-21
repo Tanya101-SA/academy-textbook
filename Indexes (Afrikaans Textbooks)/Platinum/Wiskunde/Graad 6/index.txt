@@ -1,0 +1,226 @@
+======================================================================
+Platinum Wiskunde Graad 6 Leerderboek
+ISBN: 9780636138261
+Uitgewer: Platinum (Pearson Suid-Afrika)
+Kurrikulum: KABV (CAPS)
+======================================================================
+
+INHOUDSOPGAWE
+──────────────────────────────────────────────────────────────────────
+
+
+Titelblad
+Kolofon
+Inhoudsopgawe
+Kwartaal 1
+    Onderwerp 1: Tel, rangskik, vergelyk en stel heelgetalle voor
+        Lees en skryf groot getalle  
+        Tel groot getalle 
+        Gebruik plekwaarde om getalle te rangskik 
+        Gebruik simbole om getalle te vergelyk 
+    Onderwerp 2: Getalsinne
+        Los getalsinne op 
+        Ekwivalente getalstellings  
+        Hersiening 
+    Onderwerp 3: Optelling en aftrekking
+        Skatting 
+        Pret met sakrekenaars  
+        Gebruik die kolommetode om op te tel 
+        Gebruik die kolommetode om af te trek 
+        Optelling en aftrekking is omgekeerde bewerkings
+        Optelling en aftrekking problems 
+    Onderwerp 4: Gewone breuke
+        Wat is 'n breuk? 
+        Breuke deur groepering 
+        Ekwivalente breuke
+        Vergelyk en rangskik breuke
+        Tel breuke op en trek af
+        Los probleme met breuke op
+        Hersiening
+    Opdrag Different number systems
+    Onderwerp 5: Tyd
+        Read and write the time 
+        Skakel eenhede van tyd om 
+        Tydsones
+        Interpreteer kalenders
+    Onderwerp 6: Eienskappe van 2D-vorms
+        Identifiseer en benoem 2D-vorms 
+        Hoeke en lyne in 2D-vorms 
+        Vergelyk en sorteer 2D-vorms 
+        Teken en identifiseer 2D-vorms 
+        Hersiening
+    Onderwerp 7: Datahantering
+        Versamel en organiseer data 
+        Lees en teken piktogramme 
+        Lees en teken staafgrafieke  
+        Die modus en mediaan in 'n datastel 
+        Interpreteer en verstaan grafieke
+        Werk deur 'n datasiklus
+    Onderwerp 8: Getalpatrone
+        Vloeidiagramme
+        Interessante eienskappe van vermenigvuldiging
+        Vermenigvuldiging en deling is omgekeerde bewerkings
+        Vind ontbrekende reëls en getalle
+        Hersiening
+Kwartaal 2
+    Onderwerp 9: Tel, rangskik, vergelyk en stel heelgetalle voor
+        Werk met negesyfergetalle 
+        Rond heelgetalle af 
+    Onderwerp 10: Vermenigvuldiging
+        Faktore en veelvoude
+        Breek getalle op om te vermenigvuldig 
+        Skat antwoorde
+        Gebruik die kolommetode om te vermenigvuldig
+        Los vermenigvuldigingsprobleme op
+        Hersiening
+    Onderwerp 11: Eienskappe van 3D-voorwerpe
+        Identifiseer 3D-voorwerpe 
+        Konstrueer 3D-voorwerpe 
+        Describe, sort and compare  3D-voorwerpe
+        Interpreteer tekeninge van 3D-voorwerpe
+    Onderwerp 12: Meetkundige patrone
+        Brei patrone uit en soek reëls 
+        Tabelle en vloeidiagramme
+        Soek patrone en reëls
+        Meer pret met patrone en reëls
+        Hersiening
+    Onderwerp 13: Simmetrie
+        Lynsimmetrie
+        Rotasiesimmetrie
+    Onderwerp 14: Deling
+        Werk met faktore 
+        Werk met priemgetalle
+        Vermenigvuldiging en deling is omgekeerde bewerkings
+        Gebruik die langdeelmetode
+        Los delingsprobleme op
+        Los probleme op by comparing  quantities of the same kind
+        Los probleme op deur twee verskillende hoeveelhede te vergelyk
+        Hersiening
+    Onderwerp 15: Desimale
+        Lees en skryf desimale breuke
+        Tel in desimale
+        Skakel desimale om
+        Vermenigvuldig en rond desimale af 
+        Vergelyk en rangskik desimale 
+        Tel desimale op en trek af 
+        Meer berekeninge met desimale
+        Los probleme met desimale op
+    Onderwerp 16: Kapasiteit en volume
+        Die kapasiteit van houers
+        Skat en meet kapasiteit  
+        Skakel eenhede van kapasiteit om
+        Vergelyk en rangskik kapasiteite  
+        Los probleme met kapasiteit op
+        Hersiening
+Kwartaal 3
+    Onderwerp 17: Tel, rangskik, vergelyk en stel heelgetalle voor
+        Plekwaarde en uitgebreide notasie 
+        Lees, skryf en rangskik groot getalle 
+    Onderwerp 18: Massa
+        Eenhede van meting vir massa 
+        Lees meetskale 
+        Skat en meet massa 
+        Skakel om tussen eenhede van massa 
+        Los probleme met massa op  
+    Onderwerp 19: Optelling en aftrekking
+        Skat antwoorde 
+        Gebruik die kolommetode om op te tel 
+        Gebruik die kolommetode om af te trek
+        Optelling en aftrekking are  inverse operations
+        Tel op en trek af met hakies
+        Los optel- en aftrekprobleme op
+    Onderwerp 20: Voorwerpe bekyk
+        Verskillende sigpunte 
+        Draw views from different  viewpoints
+        Hersiening 
+    Onderwerp 21: Eienskappe van 2D-vorms
+        Identify, describe and compare  2D-vorms
+        Teken 2D-vorms op ruitjiespapier 
+    Onderwerp 22: Transformasies
+        Gebruik transformasies om patrone te beskryf
+        Beskryf patrone rondom ons
+        Hersiening 
+    Topc 23: Persentasies
+        Wat is 'n persentasie? 
+        Skakel breuke om na persentasies  
+        Desimale breuke en persentasies 
+        Vind die persentasie van 'n heelgetal
+    Onderwerp 24: Temperatuur
+        Read, compare and measure  temperatures
+        Berekeninge met temperatuur
+        Hersiening
+    Onderwerp 25: Datahantering
+        Versamel, organiseer en stel data voor 
+        Find the mode and median of  data sets
+        Interpreteer en ontleed data
+        Vergelyk grafieke oor dieselfde onderwerp
+    Projek Datahantering
+    Onderwerp 26: Getalpatrone
+        Spesiale tipes rye 
+        Vind die reël 
+        Hersiening
+    Onderwerp 27: Lengte
+        Skat en meet lengtes
+        Skakel eenhede van lengte om
+        Rangskik lengtes
+        Los probleme met lengtes op
+Kwartaal 4
+    Onderwerp 28: Tel, rangskik, vergelyk en stel heelgetalle voor
+        Lees en skryf groot getalle 
+        Rond af, vergelyk en rangskik groot getalle
+    Onderwerp 29: Vermenigvuldiging
+        Skat en bereken antwoorde
+        Vermenigvuldig met die kolommetode
+        Los probleme met vermenigvuldiging op
+        Hersiening 
+    Onderwerp 30: Gewone breuke
+        Vind ekwivalente vorme en vergelyk gewone breuke 
+        Verskillende breuke vir verskillende kontekste
+        Skakel desimale om and common  fractions
+        Skakel persentasies en gewone breuke om
+        Tel breuke op en trek af
+        Los probleme met breuke op
+    Bykomende Opdrag Persentasies, profit and loss
+    Onderwerp 31: Eienskappe van 3D-voorwerpe
+        Modelleer 3D-voorwerpe 
+        Sorteer en vergelyk 3D-voorwerpe
+        Interpreteer 3D-tekeninge
+        Identifiseer nette
+        Hersiening
+    Onderwerp 32: Die geskiedenis van meting
+        Waar het meting begin? 
+        Hoe dinge verander het
+    Onderwerp 33: Omtrek, oppervlakte en volume
+        Meet omtrek
+        Oppervlakte
+        Die oppervlakte van reghoeke
+        Volume
+        Oppervlakarea van 'n voorwerp
+        Hersiening 
+    Onderwerp 34: Deling
+        Gebruik langdeling
+        Omgekeerde bewerkings
+        Los probleme met deling op
+    Ondersoek Use simple budgets and accounts
+    Onderwerp 35: Getalsinne
+        Getalsinne en reëls 
+        Los 'n getalsin op
+        Use number sentences when  solving problems
+        Meervoudigekeusevrae
+        Hersiening 
+    Onderwerp 36: Transformasies
+        Herken transformasies in patrone
+        Vergroot 'n vorm
+        Verklein 'n vorm
+        Vergelyk die grootte en vorm van driehoeke en vierhoeke
+    Onderwerp 37: Posisie en beweging
+        Vind posisies op kaarte en roosters
+        Beskryf hoe om posisies op 'n rooster te verander
+        Werk met straatkaarte
+        Kaarte en kompasrigtings
+        Hersiening
+    Onderwerp 38: Waarskynlikheid
+        Lys moontlike uitkomste van eksperimente
+        Noteer uitkomste van eksperimente
+Woordelys
+Nuttige hulpbronne

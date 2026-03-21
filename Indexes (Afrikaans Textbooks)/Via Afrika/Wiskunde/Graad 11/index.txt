@@ -1,0 +1,145 @@
+======================================================================
+Via Afrika Wiskunde Graad 11 Leerderboek
+ISBN: 978-1-41542-333-2
+Uitgewer: Via Afrika
+Kurrikulum: KABV (CAPS)
+Fase: VOO-fase (FET Phase)
+Nota: KABV-gelynstel onderwerp/sub-onderwerp struktuur.
+Bron: https://viaafrika.com/product/via-afrika-wiskunde-graad-11-leerderboek/
+======================================================================
+
+INHOUDSOPGAWE
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 1
+
+    Onderwerp 1: Eksponente en worteltekens
+        Eenheid 1: Rasionale eksponente
+            1.1 Hersiening van eksponentwette
+            1.2 Rasionale eksponente en wortels
+        Eenheid 2: Vereenvoudiging van worteltekens (surds)
+            2.1 Optelling en aftrekking van worteltekens
+            2.2 Vermenigvuldiging en deling van worteltekens
+        Eenheid 3: Vergelykings met worteltekens
+
+    Onderwerp 2: Vergelykings en ongelykhede
+        Eenheid 1: Kwadratiese vergelykings
+            1.1 Los kwadratiese vergelykings op deur faktorisering
+            1.2 Los kwadratiese vergelykings op met die kwadratiese formule
+        Eenheid 2: Gelyktydige vergelykings
+            2.1 Twee lineêre vergelykings
+            2.2 Een lineêre en een kwadratiese vergelyking
+        Eenheid 3: Aard van wortels (diskriminant)
+            3.1 Δ = b² − 4ac
+            3.2 Aard van wortels volgens Δ-waarde
+        Eenheid 4: Kwadratiese ongelykhede
+            4.1 Los kwadratiese ongelykhede op
+
+    Onderwerp 3: Getalpatrone
+        Eenheid 1: Kwadratiese rye
+            1.1 Konstante tweede verskil
+            1.2 Algemene term van kwadratiese rye (Tn = an² + bn + c)
+
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 2
+
+    Onderwerp 4: Analitiese meetkunde
+        Eenheid 1: Afstand, middelpunt en gradiënt (hersiening en uitbreiding)
+        Eenheid 2: Vergelyking van 'n lyn
+            2.1 y = mx + c (gradiënt-afsnit-vorm)
+            2.2 y − y₁ = m(x − x₁) (punt-gradiënt-vorm)
+        Eenheid 3: Hellingshoek van 'n lyn
+            3.1 tan θ = m
+        Eenheid 4: Parallelle en loodregte lyne
+            4.1 Voorwaardes vir parallelle lyne (m₁ = m₂)
+            4.2 Voorwaardes vir loodregte lyne (m₁ × m₂ = −1)
+
+    Onderwerp 5: Funksies
+        Eenheid 1: Kwadratiese funksies (parabole)
+            1.1 y = a(x − p)² + q
+            1.2 Draaipunt, simmetrie-as, domein en waardeversameling
+            1.3 Skets van parabole
+        Eenheid 2: Hiperboliese funksies
+            2.1 y = a/(x − p) + q
+            2.2 Asimptote en eienskappe
+        Eenheid 3: Eksponensiële funksies
+            3.1 y = abˣ⁺ᵖ + q
+            3.2 Asimptote en eienskappe
+        Eenheid 4: Transformasies van grafieke
+            4.1 Verskuiwings, refleksies en verrekkings
+        Eenheid 5: Gemiddelde gradiënt
+            5.1 Berekening van gemiddelde gradiënt tussen twee punte
+
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 3
+
+    Onderwerp 6: Trigonometrie
+        Eenheid 1: Trigonometriese identiteite
+            1.1 sin²θ + cos²θ = 1
+            1.2 tan θ = sin θ / cos θ
+            1.3 Bewys van identiteite
+        Eenheid 2: Reduksieformules
+            2.1 Funksies van (180° ± θ), (360° − θ), (−θ)
+            2.2 Funksies van (90° ± θ) (ko-verhoudings)
+        Eenheid 3: Trigonometriese vergelykings
+            3.1 Los trigonometriese vergelykings op (0° ≤ θ ≤ 360°)
+            3.2 Algemene oplossings
+        Eenheid 4: Sinus-, kosinus- en oppervlaktereëls
+            4.1 Sinusreël (a/sin A = b/sin B = c/sin C)
+            4.2 Kosinusreël (a² = b² + c² − 2bc cos A)
+            4.3 Oppervlaktereël (Oppervlakte = ½ab sin C)
+        Eenheid 5: 2D- en 3D-probleme
+            5.1 Probleme in twee dimensies
+            5.2 Probleme in drie dimensies
+
+    Onderwerp 7: Meting
+        Eenheid 1: Volume en oppervlakte van sfere, kegels en piramides
+            1.1 Reguit kegels
+            1.2 Piramides
+            1.3 Sfere
+        Eenheid 2: Kombinasie van vorms
+
+──────────────────────────────────────────────────────────────────────
+
+KWARTAAL 4
+
+    Onderwerp 8: Euklidiese meetkunde
+        Eenheid 1: Sirkelmeetkunde-stellings
+            1.1 Lyn van middelpunt na middellyn van 'n koord
+            1.2 Hoek in die middelpunt = 2 × hoek op die omtrek
+            1.3 Hoeke in dieselfde segment
+            1.4 Teenoorgestelde hoeke van 'n koordvierhoek
+            1.5 Buitenste hoek van 'n koordvierhoek
+        Eenheid 2: Koordvierhoeke
+            2.1 Eienskappe van koordvierhoeke
+            2.2 Bewyse met koordvierhoeke
+        Eenheid 3: Raklyne aan sirkels
+            3.1 Raklyn loodreeg op radius by raakpunt
+            3.2 Raklyn-koordhoek
+
+    Onderwerp 9: Statistiek
+        Eenheid 1: Histogramme en frekwensieveelhoeke
+        Eenheid 2: Ogiewe (kumulatiewe frekwensiekurwes)
+        Eenheid 3: Variansie en standaardafwyking
+            3.1 Berekening van variansie en standaardafwyking
+        Eenheid 4: Simmetriese en skewe data
+            4.1 Identifisering van simmetriese en skewe verspreidings
+
+    Onderwerp 10: Waarskynlikheid
+        Eenheid 1: Onafhanklike en afhanklike gebeurtenisse
+            1.1 P(A en B) = P(A) × P(B) vir onafhanklike gebeurtenisse
+        Eenheid 2: Venn-diagramme
+            2.1 Oplos van probleme met Venn-diagramme
+        Eenheid 3: Boomdiagramme en gebeurlikheidstabelle
+            3.1 Boomdiagramme vir opeenvolgende gebeurtenisse
+            3.2 Tweerigting-gebeurlikheidstabelle
+
+──────────────────────────────────────────────────────────────────────
+
+HERSIENING EN EKSAMEN
+    Oefeneksamenvraestel 1
+    Oefeneksamenvraestel 2
+    Antwoorde
+    Woordelys

@@ -1,0 +1,786 @@
+======================================================================
+Platinum Physical Sciences Grade 12 Learner's Book
+ISBN: 9780636160088
+Publisher: Platinum (Pearson South Africa)
+Curriculum: CAPS
+======================================================================
+
+TABLE OF CONTENTS
+──────────────────────────────────────────────────────────────────────
+
+
+Platinum Physical Sciences Grade Learner's Book 12
+Contents
+Term 1
+    Topic 1 Practical work
+        CHAPTER 1 Skills for practical investigations
+            Unit 1: Historical development of scientific theory
+                ACTIVITY 1.1 TRACE THE HISTORICAL DEVELOPMENT OF A SCIENTIFIC PRINCIPLE
+            Unit 2: Designing scientific investigations
+                HOW TO DESIGN A SCIENTIFIC INVESTIGATION
+                Design and carry out a simple experiment including appropriate controls
+                Identify an investigative question and formulate a hypothesis
+                Laboratory procedures and tools needed to test a hypothesis
+                ACTIVITY 1.2 ANALYSE COMPONENTS OF A WELL-DESIGNED INVESTIGATION
+            Unit 3: Data gathering, processing and interpretation
+                Accuracy and precision of experimental results
+                Accuracy and uncertainty
+                Errors
+                HOW TO USE A PIPETTE CORRECTLY
+                EXERCISE 1.1 EVALUATE MEASUREMENTS
+                EXERCISE 1.2 READ INSTRUMENTS CORRECTLY
+            Tables, graphs, relationships and equations
+                Tables
+                ACTIVITY 1.3 CHOOSE APPROPRIATE TOOLS TO GATHER PRECISE AND ACCURATE DATA
+                Graphs, relationships and equations
+                HOW TO USE A POSITION VERSUS TIME GRAPH TO FIND VELOCITY
+                ACTIVITY 1.4 EXPORT DATA INTO AN APPROPRIATE FORM, ANALYSE EXPERIMENTAL RESULTS AND DEFEND A CONCLUSION
+            Unit 4: Scientific models
+                Alternative explanations for the same set of observations
+                Case study: The effect of bias on conclusions
+                ACTIVITY 1.5 CONSIDER THE EFFECT OF BIAS ON CONCLUSIONS
+                Different methods of knowing
+                Qualitative and quantitative analysis
+        Chapter 1 Revision
+        Topic 1 Summary
+        Exam practice Topic 1
+            QUESTION 1: MULTIPLE CHOICE QUESTIONS
+    Topic 2 Mechanics
+        CHAPTER 2 Momentum and impulse
+            Unit 1: Momentum
+                WORKED EXAMPLE
+                ANSWER
+                WORKED EXAMPLES
+                ANSWERS
+                EXERCISE 2.1
+            Unit 2: Newton’s Second Law expressed in terms of momentum
+                ACTIVITY 2.1 OBSERVE HOW AN OBJECT’S MOMENTUM CHANGES UNDER DIFFERENT CONDITIONS
+                WORKED EXAMPLES
+                ANSWERS
+                EXERCISE 2.2
+                EXERCISE 2.3
+            Unit 3: Conservation of momentum and collisions
+                Systems
+                Conservation of momentum
+                WORKED EXAMPLE
+                ANSWER
+                EXERCISE 2.4
+                Experiment 2.1 Formal assessment
+                Verify the Law of Conservation of Linear Momentum
+                Elastic and inelastic collisions
+                ACTIVITY 2.2 CLASSIFY COLLISIONS
+                WORKED EXAMPLE
+                ANSWER
+                WORKED EXAMPLE
+                ANSWERS
+                EXERCISE 2.5
+                Practical demonstration
+                Investigate conservation of momentum and energy using Newton’s cradle
+            Unit 4: Impulse
+                WORKED EXAMPLE
+                ANSWERS
+                EXERCISE 2.6
+                Impulse in everyday life
+                ACTIVITY 2.3 APPLY YOUR KNOWLEDGE ABOUT MOMENTUM AND IMPULSE
+                Case study: Momentum and wildlife conservation
+                Chapter 2 Revision
+        CHAPTER 3 Vertical projectile motion in one dimension
+            Unit 1: Vertical projectile motion represented in words, diagrams, equations and graphs
+                Description and diagrams of vertical projectile motion
+                Equations of motion for vertical projectile motion
+                WORKED EXAMPLE
+                ANSWERS
+                HOW TO SOLVE PROBLEMS USING THE EQUATIONS OF MOTION
+                EXERCISE 3.1
+                Motion graphs for vertical projectile motion
+                ACTIVITY 3.1 PLOT GRAPHS FOR AN OBJECT IN FREE FALL
+                REVISION: SHAPES OF MOTION GRAPHS
+                WORKED EXAMPLE
+                ANSWERS
+                WORKED EXAMPLE
+                ANSWERS
+                EXERCISE 3.2
+                Experiment 3.1
+                Investigate the motion of a falling object
+                REVISION: TRANSLATION OF MOTION GRAPHS
+                WORKED EXAMPLE
+                ANSWERS
+                EXERCISE 3.3
+                Chapter 3 Revision
+        Topic 2 Summary
+        Exam practice Topic 2
+            QUESTION 1: MULTIPLE CHOICE QUESTIONS
+    Topic 3 Matter and materials
+        CHAPTER 4 Organic molecules
+            Unit 1: Organic molecular structures
+                Chemistry of life
+                The properties of carbon
+                Representing organic compounds
+                Molecular formulae
+                Structural formulae
+                Condensed structural formulae
+                EXERCISE 4.1
+                ACTIVITY 4.1 BUILD MOLECULAR MODELS OF ORGANIC MOLECULES
+                Functional groups
+                WORKED EXAMPLE
+                ANSWERS
+                ACTIVITY 4.2 IDENTIFY FUNCTIONAL GROUPS AND BUILD MOLECULAR MODELS
+                Homologous series
+                Basic naming
+                Hydrocarbons
+                WORKED EXAMPLE
+                ANSWERS
+                EXERCISE 4.2
+            Experiment 4.1
+                Prepare alkynes and test whether hydrocarbons are saturated or unsaturated
+                Part 1: Distinguish between an alkane and an alkene
+                Part 2: Prepare an alkyne and investigate its saturation
+            Isomers
+                WORKED EXAMPLE
+                ANSWERS
+                ACTIVITY 4.3 IDENTIFY, DRAW AND BUILD MODELS OF ISOMERS
+                Positional isomers of alcohols
+                ACTIVITY 4.4 RESEARCH AND PRESENT INFORMATION ON THE ALCOHOL BREATHALYSER
+            Unit 2: IUPAC naming and formulae
+                HOW TO NAME AN ORGANIC COMPOUND USING THE IUPAC SYSTEM
+                EXERCISE 4.3
+                WORKED EXAMPLE
+                ANSWERS
+                Primary, secondary and tertiary carbons
+                ACTIVITY 4.5 DRAW STRUCTURAL FORMULAE AND BUILD MODELS OF HYDROCARBONS, ALCOHOLS AND CARBOXYLIC ACIDS
+                EXERCISE 4.4
+            Unit 3: Relationship between structure and physical properties
+                Relationship between strength of intermolecular forces and physical properties
+                Strength of intermolecular forces
+                Physical properties
+                Vapour pressure
+                Density
+                Effect of functional group on physical properties
+                Effect of the number of functional groups on physical properties
+                Effect of chain length on physical properties
+                Effect of molecular shape on physical properties
+                WORKED EXAMPLE
+                ANSWER
+                ACTIVITY 4.6 COMPARE PHYSICAL PROPERTIES OF ALKANES AND ALCOHOLS
+            Unit 4: Applications of organic chemistry
+                The oxidation of alkanes.
+                WORKED EXAMPLE
+                ANSWERS
+                EXERCISE 4.5
+                Esters
+                HOW TO NAME ESTERS
+                EXERCISE 4.6
+                Preparation of esters – Esterification
+                HOW TO DRAW THE FORMULA FOR AN ESTER AND WRITE AN EQUATION FOR ITS PREPARATION
+                WORKED EXAMPLE
+                ANSWER
+                EXERCISE 4.7
+                Experiment 4.2 Formal assessment
+                Prepare different esters and identify them by smell
+            Unit 5: Addition, elimination and substitution reactions
+                Addition reactions
+                Hydrohalogenation
+                Halogenation
+                Test for unsaturated compounds
+                Hydration
+                ACTIVITY 4.7 INVESTIGATE THE PREPARATION OF ETHANOL FROM ETHENE
+                ACTIVITY 4.8 RESEARCH THE PRODUCTION OF ETHANOL BY FERMENTATION
+                Case study: Sorghum beer and sour porridge
+                Hydrogenation
+                ACTIVITY 4.9 INVESTIGATE THE HYDROGENATION OF VEGETABLE OILS TO FORM MARGARINE
+                WORKED EXAMPLE
+                ANSWERS
+                EXERCISE 4.8
+                Elimination reactions
+                Dehydrohalogenation
+                Dehydration of alcohols
+                Cracking of hydrocarbons
+                WORKED EXAMPLE
+                ANSWERS
+                EXERCISE 4.9
+                Substitution reactions
+                Conversion of alcohols to haloalkanes
+                Conversion of haloalkanes to alcohols
+                Halogenation from alkanes
+            Experiment 4.3
+                Investigate the reaction of alkenes with potassium permanganate
+            WORKED EXAMPLE
+                ANSWERS
+            EXERCISE 4.10
+            Chapter 4 Revision
+        CHAPTER 5 Applications of organic chemistry
+            Unit 1: Plastics and polymers
+                Synthetic and natural polymers
+                Natural polymers
+                Synthetic polymers
+                ACTIVITY 5.1 RESEARCH POLYMERS
+                Reactions in polymer chemistry
+                Addition polymerisation
+                ACTIVITY 5.2 BUILD MODELS OF ADDITION POLYMERS
+            Experiment 5.1
+                Prepare an addition polymer
+        Chapter 5 Revision
+        Topic 3 Summary
+            Chapter 4
+            Chapter 5
+        Exam practice Topic 3
+            SECTION A
+            SECTION B
+Term 2
+    Topic 4 Mechanics
+        CHAPTER 6 Work, energy and power
+            Unit 1: The definition of work
+                The definition of work in Physics
+                Instances in which work is or is not done
+                Positive and negative work
+                WORKED EXAMPLE
+                ANSWER
+                ACTIVITY 6.1 IDENTIFY WHEN WORK IS DONE
+                The net work done on an object
+                HOW TO DETERMINE THE NET WORK DONE ON AN OBJECT USING AN ALTERNATIVE METHOD
+                WORKED EXAMPLE
+                ANSWER
+                EXERCISE 6.1
+            Unit 2: The Work-Energy Theorem
+                Relationship between work and energy
+                The Work-Energy Theorem
+            Applying the Work-Energy Theorem in various instances
+                The Work-Energy theorem in a horizontal, frictionless plane
+                WORKED EXAMPLE
+                ANSWER
+                The Work-Energy Theorem in a horizontal plane with friction
+                WORKED EXAMPLE
+                ANSWER
+                The Work-Energy Theorem on an inclined, frictionless plane
+                WORKED EXAMPLE
+                ANSWER
+                The Work-Energy Theorem in an inclined plane with friction
+                WORKED EXAMPLE
+                ANSWER
+                EXERCISE 6.2
+        Unit 3: Conservation of energy with non-conservative forces present
+            Conservative forces
+                Non-conservative forces
+                The conservation of mechanical energy with only conservative forces present
+                WORKED EXAMPLE
+                ANSWERS
+                Conservation of energy with non-conservative forces present
+                WORKED EXAMPLE
+                ANSWER
+                EXERCISE 6.3
+                Mechanical energy in the absence of non-conservative forces
+                WORKED EXAMPLE
+                ANSWER
+                EXERCISE 6.4
+            Unit 4: Power
+                The scientific meaning of power
+                Calculating power
+                WORKED EXAMPLE
+                ANSWER
+                Practical investigation
+                Measure the power of a source of work
+                Calculating total energy from power
+                WORKED EXAMPLE
+                ANSWER
+                EXERCISE 6.6
+                The average power required to keep an object moving across a rough surface
+                WORKED EXAMPLE
+                ANSWER
+                Using Wnc = ∆Ek + ∆Ep to calculate minimum power required to pump water
+            Chapter 6 Revision
+        Topic 4 Summary
+        Exam practice Topic 4
+            SECTION A
+            SECTION B
+    Topic 5 Waves, sound and light
+        CHAPTER 7 The Doppler effect
+            Unit 1: The Doppler effect with sound and ultrasound
+                The effect of relative motion between a sound source and an observer
+                A stationary source
+                A moving source
+                ACTIVITY 7.1 OBSERVE HOW SOUND DIFFERS WHEN A SOURCE MOVES RELATIVE TO AN OBSERVER
+                The Doppler effect
+                ACTIVITY 7.2 PRACTICAL DEMONSTRATION OF THE DOPPLER EFFECT
+                Part A
+                Part B
+                The Doppler effect with ultrasound
+                ACTIVITY 7.3 RESEARCH THE IMPACT OF THE DOPPLER EFFECT USING ULTRASOUND ON HUMAN DEVELOPMENT
+            Unit 2: The Doppler effect with light – red shift in the universe
+                ACTIVITY 7.4 DEBATE THE ORIGIN OF THE EXPANDING UNIVERSE
+                Case study: Early astronomers of Africa
+                Chapter 7 Revision
+        Topic 5 Summary
+        Exam practice Topic 5
+            SECTION A
+            SECTION B
+    Topic 6 Chemical change
+        CHAPTER 8 Rate and extent of reaction
+            Unit 1: Reaction rate and factors affecting the rate
+                The meaning of reaction rate
+                Collision theory
+                Factors that can affect the rate of a reaction
+                Nature of the reacting substances
+                Surface area
+                ACTIVITY 8.1 INVESTIGATE THE EFFECT OF THE SURFACE AREA OF A REACTANT ON THE RATE OF A REACTION
+                EXERCISE 8.1
+                Concentration
+                Experiment 8.1
+                Investigate the effect of the concentration of a reactant on the rate of a reaction
+                Experiment 8.2
+                Investigate the effect of temperature on the rate of a reaction
+                Experiment 8.3
+                Investigate how concentration and temperature affect the rate of the iodine clock reaction
+                Experiment 8.4
+                Investigate the effect of a catalyst on the rate of a reaction
+                Experiment 8.5
+                Investigate activated carbon and copper as catalysts
+                Part 1: The effect of activated carbon on the rate at which sugar burns
+                Part 2: The effect of a copper catalyst on the reaction between zinc and hydrochloric acid
+                EXERCISE 8.3
+            Unit 2: Measuring rates of reaction
+                Measuring the rate of a reaction
+                Measuring reaction rate using the concentration of a product
+                WORKED EXAMPLE
+                ANSWER
+                EXERCISE 8.4
+                Measuring the rate using the concentration of a reactant
+                WORKED EXAMPLE
+                ANSWER
+                EXERCISE 8.5
+                Using a graph to find average reaction rate
+                WORKED EXAMPLE
+                ANSWER
+                EXERCISE 8.6
+                Experimental techniques for measuring reaction rate
+                Experiment 8.6
+                Investigate the influence of rate factors on the reaction between zinc and dilute hydrochloric acid
+                Another experiment to investigate factors affecting reaction rate
+                Experiment 8.7
+                Determine quantitative reaction rates for the reaction between sodium thiosulfate and dilute hydrochloric acid
+                Part 1: Changing the concentration
+                Part 2: Changing the temperature
+            Unit 3: Mechanism of reaction and of catalysis
+                Reaction mechanism
+                Activation energy
+                The effect of increasing temperature
+                Catalysts
+                EXERCISE 8.7
+                Reaction progress
+                ACTIVITY 8.2 PROGRESS OF REACTION WHEN INTERMEDIATE IS FORMED
+            Chapter 8 Revision
+        CHAPTER 9 Chemical equilibrium
+            Unit 1: Chemical equilibrium and factors affecting equilibrium
+                Reversible processes
+                ACTIVITY 9.1 INVESTIGATE EXAMPLES OF REVERSIBLE AND NON-REVERSIBLE REACTIONS
+                ACTIVITY 9.2 OBSERVE A REVERSIBLE PROCESS
+                Open and closed systems
+                EXERCISE 9.1
+                Dynamic equilibrium
+                EXERCISE 9.2
+                ACTIVITY 9.3 DEMONSTRATE EQUILIBRIUM IN A REACTION
+                Equilibrium on a macroscopic level
+                Factors influencing the position of equilibrium
+                Experiment 9.1
+                Design and perform experiments to investigate equilibrium and factors influencing equilibrium
+                Part 1: Investigate different factors that influence a CoCl2–H2O equilibrium
+                Part 2: Design and perform an experiment to investigate the effect of pH on equilibrium systems
+                Use the chromate-dichromate system to investigate equilibrium
+                Design an experiment to investigate the effect of pH on the bromine-water equilibrium
+            Unit 2: Equilibrium constant
+                Calculating amounts of substance at equilibrium
+                ACTIVITY 9.4 USE A BALANCED CHEMICAL EQUATION TO CALCULATE AMOUNT OF MOLES
+                HOW TO DETERMINE THE AMOUNT OF MOLES OF REACTANTS AND PRODUCTS AT EQUILIBRIUM
+                EXERCISE 9.3
+                Graphical representation of amounts of substance
+                WORKED EXAMPLE
+                ANSWER
+                EXERCISE 9.4
+                Calculating equilibrium concentrations
+                WORKED EXAMPLE
+                ANSWER
+                EXERCISE 9.5
+                Alternative method to calculate equilibrium concentrations
+                Calculating the equilibrium constant
+                Writing an equilibrium expression
+                WORKED EXAMPLE
+                ANSWERS
+                EXERCISE 9.6
+                Calculating Kc from equilibrium concentrations
+                WORKED EXAMPLE
+                ANSWER
+                EXERCISE 9.7
+                Calculating Kc from initial concentrations and the equilibrium concentration of one substance
+                HOW TO CALCULATE Kc WHEN NOT ALL THE EQUILIBRIUM CONCENTRATIONS ARE GIVEN
+                EXERCISE 9.8
+                The factor which influences the value of Kc
+                Interpreting the value of Kc
+                EXERCISE 9.9
+            Unit 3: Application of equilibrium principles
+                Le Chatelier’s Principle
+                Changing the equilibrium concentration of a reagent
+                ACTIVITY 9.5 INVESTIGATE THE EFFECT OF CHANGING THE EQUILIBRIUM CONCENTRATION OF A REAGENT
+                Adding a common ion to a system at equilibrium
+                Changing the temperature of an equilibrium system
+                Practical demonstration
+                Investigate the effect of changing the temperature of an equilibrium system
+                Changing the pressure of an equilibrium system
+                Practical demonstration
+                Investigate the effect of changing the pressure of a system at equilibrium
+                EXERCISE 9.10
+                EXERCISE 9.11
+                Adding a catalyst to a system at equilibrium
+                ACTIVITY 9.6 INVESTIGATE COMPUTER SIMULATIONS OF THE EFFECT OF CHANGING THE EQUILIBRIUM CONDITIONS
+                Interpreting simple graphs of equilibrium
+                WORKED EXAMPLE
+                ANSWERS
+                EXERCISE 9.12
+                Chemical equilibrium in everyday life
+                ACTIVITY 9.7 RESEARCH ISSUES RELATED TO CHEMICAL EQUILIBRIUM
+                Case study: The formation of stalactites and stalagmites
+                ACTIVITY 9.8 APPLY YOUR KNOWLEDGE OF EQUILIBRIUM REACTIONS
+                Industrial applications of equilibrium principles
+                The Haber process
+                EXERCISE 9.13
+                The Contact process
+                EXERCISE 9.14
+                Chapter 9 Revision
+        CHAPTER 10 Acids and bases
+            Unit 1: Acid-base reactions
+                What are acids and bases?
+                ACTIVITY 10.1 IDENTIFY NATURALLY OCCURRING ACIDS AND BASES AND WRITE THEIR FORMULAE
+                The corrosive nature of concentrated acids and bases
+                Experiment 10.1
+                Investigate the corrosive nature of concentrated acids and bases
+                ACTIVITY 10.2 EXPLAIN THE HAZARDOUS NATURE OF ACIDS AND BASES
+                Experiment 10.2
+                Investigate the reactions of dilute acid
+                EXERCISE 10.1
+                Experiment 10.3
+                Investigate the action of dilute bases on aqueous solutions of metal ions
+                EXERCISE 10.2
+            Unit 2: Scientific models of acids and bases
+                The Arrhenius model of acids and bases
+                WORKED EXAMPLE
+                ANSWERS
+                EXERCISE 10.3
+                HOW TO WRITE NEUTRALISATION REACTIONS USING THE ARRHENIUS MODEL
+                EXERCISE 10.4
+                Experiment 10.4
+                Investigate the temperature change during neutralisation reactions
+                Problems with the Arrhenius model
+                The Br⊘nsted-Lowry model of acids and bases
+                WORKED EXAMPLE
+                ANSWERS
+                EXERCISE 10.5
+                Identify acid-base conjugate pairs
+                WORKED EXAMPLE
+                ANSWERS
+                EXERCISE 10.6
+                WORKED EXAMPLE
+                ANSWERS
+                EXERCISE 10.7
+            Unit 3: Relative strengths of acids and bases
+                Strong and weak acids and bases
+                ACTIVITY 10.3 INVESTIGATE THE CONDUCTIVITY OF DIFFERENT ACIDS AND DIFFERENT BASES OF THE SAME CONCENTRATION
+                WORKED EXAMPLE
+                ANSWERS
+                ACTIVITY 10.4 STUDY MICROSCOPIC REPRESENTATIONS OF STRONG AND WEAK ACIDS AND BASES
+                Concentrated and dilute versus strong and weak acids and alkalis
+                Auto-ionisation of water
+                WORKED EXAMPLE
+                ANSWER
+                EXERCISE 10.8
+                The pH scale
+                WORKED EXAMPLE
+                ANSWERS
+                EXERCISE 10.9
+                Reactions of weak acids with strong alkalis and weak alkalis with strong acids
+                A weak acid can neutralise a strong base and vice versa
+                EXERCISE 10.10
+                Salt Hydrolysis
+                WORKED EXAMPLE
+                ANSWER
+            Unit 4: Titrations
+                Indicators
+                Why does the colour of an indicator change?
+                ACTIVITY 10.5 CONSIDER HOW INDICATORS WORK
+                Choosing indicators
+                WORKED EXAMPLE
+                ANSWERS
+                ACTIVITY 10.6 CHOOSING INDICATORS
+                Standard solutions
+                Making up a standard solution
+                WORKED EXAMPLE
+                ANSWER
+                Experiment 10.5: Formal assessment
+                Prepare a standard solution for volumetric analysis
+                HOW TO CALCULATE AN UNKNOWN CONCENTRATION WITH TITRATION RESULTS
+                WORKED EXAMPLE
+                ANSWER
+                Experiment 10.6: Formal assessment
+                Standardise a sodium hydroxide solution against oxalic acid
+                EXERCISE 10.11
+                Dilutions of standard solutions
+                HOW TO DETERMINE THE AMOUNT OF WATER NEEDED FOR A DILUTION
+                EXERCISE 10.12
+                Experiment 10.7
+                Determine the concentration and percentage of ethanoic acid in vinegar
+            Unit 5: Applications of acid-base reactions
+                Acid and base reactions associated with the chlor-alkali industry
+                ACTIVITY 10.7 CONSIDER THE APPLICATION OF ACID-BASE REACTION EQUATIONS IN THE CHLOR-ALKALI INDUSTRY
+                Acids and bases in the chemistry of hair treatment
+                Case study: The structure of hair and chemical treatment in hairdressing
+        Chapter 10 Revision
+        Topic 6 Summary
+            Chapter 8
+            Chapter 9
+                Chapter 10
+            Exam practice Topic 6
+                SECTION A
+                SECTION B
+Term 3
+    Topic 7 Electricity and magnetism
+        CHAPTER 11 Electric circuits
+            Unit 1: Internal resistance and series-parallel networks
+                Internal resistance
+                WORKED EXAMPLE
+                ANSWERS
+                WORKED EXAMPLE
+                ANSWER
+                EXERCISE 11.1
+                Series-parallel circuits
+                WORKED EXAMPLE
+                ANSWER
+                EXERCISE 11.2
+                ACTIVITY 11.1 EXPLORE THE BEHAVIOUR OF A SERIES-PARALLEL CIRCUIT
+                WORKED EXAMPLE
+                ANSWERS
+                EXERCISE 11.3
+                HOW TO CONNECT METERS SAFELY IN AN ELECTRIC CIRCUIT
+                HOW TO READ THE RESISTANCE OF STANDARD RESISTORS (FOR ENRICHMENT)
+                Experiment Experiment 11.1: Formal assessment
+                Part 1: Determine the internal resistance of a battery
+                Part 2: Determine the equivalent resistance of a series-parallel circuit
+                Practical demonstration
+                Investigate short circuits and open circuits
+                Chapter 11 Revision
+        CHAPTER 12 Electrodynamics
+            Unit 1: Electrical machines
+                Faraday’s Law and the magnetic force on a moving charge
+                WORKED EXAMPLE
+                ANSWER
+                Generators
+                Basic principle of an AC generator
+                ACTIVITY 12.1 DETERMINE THE INDUCED EMF AS A FUNCTION OF TIME FOR A GENERATOR
+                Basic principles of a DC generator
+                Practical applications of generators
+                ACTIVITY 12.2 IDENTIFY SUITABLE GENERATORS
+                Project: Build a simple electric generator
+                Motors
+                Force experienced by a current-carrying coil in a magnetic field
+                EXERCISE 12.1
+                Practical applications of motors
+                Project: Build a simple electric motor
+                Version 1
+                Version 2
+            Unit 2: Alternating current
+                Advantages of AC
+                Current and voltage in an AC circuit
+                WORKED EXAMPLES
+                ANSWERS
+                EXERCISE 12.2
+            Chapter 12 Revision
+        Summary
+        Exam practice Topic 4
+            SECTION A
+            SECTION B
+    Topic 8 Matter and materials
+        CHAPTER 13 Optical phenomena and properties of materials
+            Unit 1: The photoelectric effect
+                Evidence that light can also behave as particles
+                The photoelectric effect
+                Practical demonstration
+                The emission of electrons from zinc by ultraviolet light
+                Planck’s hypothesis: the quantum theory
+                Einstein’s explanation of the photoelectric effect
+                ACTIVITY 13.1 INVESTIGATE THE EFFECT OF INTENSITY ON THE EMISSION OF PHOTOELECTRONS
+                WORKED EXAMPLE
+                ANSWERS
+                Some everyday uses of the photoelectric effect
+                The dual nature of light
+                The significance of the photoelectric effect
+            Unit 2: Emission and absorption spectra
+                Atomic spectra
+                Continuous emission spectra
+                Line emission spectra
+                Experiment 13.1
+                Observe the colours of the flames of certain elements and their emission spectra
+                Absorption spectra
+                Chapter 13 Revision
+        Summary
+        Exam practice Topic 5
+            SECTION A
+            SECTION B
+    Topic 9 Chemical change
+        CHAPTER 14 Electrochemical reactions
+            Unit 1: Electrolytic cells and galvanic cells
+                Oxidation numbers
+                REVISION: HOW TO ASSIGN OXIDATION NUMBERS
+                EXERCISE 14.1
+                Oxidation and reduction processes
+                Experiment 14.1
+                Investigate the reduction of metal ions by metals and the halogens by halide ions
+                Part 1: Investigate the reduction of metal ions
+                Part 2: Investigate the reduction of halogens
+                Summary of redox processes in terms of electron transfer
+                ACTIVITY 14.1 IDENTIFY REACTIONS AS EITHER ACID-BASE OR REDOX
+                Electrochemical cells
+                The difference between electrolytic and galvanic cells
+                ACTIVITY 14.2 STUDY ELECTROLYTIC AND GALVANIC (VOLTAIC) CELLS
+                Experiment 14.2
+                Investigate the cell potential of different galvanic cells
+                Experiment 14.3
+                The electrolysis of aqueous copper chloride
+            Unit 2: Relation of current and potential to rate and equilibrium
+                Cell potential and chemical equilibrium
+                The equilibrium in a half-cell
+                Cell potential
+                Relationship between current and rate of reaction
+                Effect of concentration and equilibrium on cell
+                WORKED EXAMPLE
+                ANSWERS
+                ACTIVITY 14.3 STUDY GALVANIC CELLS, CHEMICAL EQUILIBRIUM AND RATES OF REACTION
+            Unit 3: Processes and redox reactions in galvanic cells
+                Movement of ions and electrons
+                The movement of electrons
+                The movement of charge through the non-metallic part of the circuit
+                Cell notation for galvanic cells
+                HOW TO REPRESENT A GALVANIC CELL WITH CELL NOTATION
+                ACTIVITY 14.4 PRACTISE CELL NOTATION
+            Unit 4: Standard electrode potentials and the reference electrode
+                Standard conditions for measuring electrode potentials
+                The reference electrode
+                Determining standard half-cell potentials
+                The Table of Standard Reduction Potentials
+                Using the Table of Standard Reduction Potentials
+                ACTIVITY 14.5 Label galvanic cells containing the reference electrode
+            Unit 5: Working with standard electrochemical cells
+                Predict the half-cell reactions in a galvanic cell
+                HOW TO WRITE EQUATIONS USING THE TABLE OF STANDARD REDUCTION POTENTIALS
+                EXERCISE 14.2
+                Calculating standard cell potential
+                WORKED EXAMPLE
+                ANSWER
+                EXERCISE 14.3
+                Spontaneous redox reactions under standard conditions
+            Unit 6: Electrolytic processes
+                Predicting electrolysis reactions
+                HOW TO WRITE EQUATIONS FOR ELECTROLYTIC REACTIONS USING THE TABLE OF STANDARD REDUCTION POTENTIALS
+                EXERCISE 14.4
+                Experiment 14.4
+                Investigate the electrolysis of water and sodium iodide
+                Electrolytic processes used industrially
+                Electrolytic refining of copper
+                The industrial production of chlorine by electrolysis
+                The electrolytic recovery of aluminium metal from its ore
+                Chapter 14 Revision
+        Topic 9 Summary
+        Exam practice Topic 9
+            SECTION A
+            SECTION B
+    Topic 10 Chemical systems
+        CHAPTER 15 Chemical industry
+            Unit 1: The nutritional needs of plants
+                Plant nutrients
+                The source of primary nutrients
+                The functions of primary nutrients in plants
+                Treating soil with fertiliser
+                Fertilisers before First World War
+                Development of nitrogen fertilisers during and after the First World War
+            Unit 2: The fertiliser industry
+                The NPK ratio
+                HOW TO INTERPRET THE NPK RATIO ON FERTILISER BAGS
+                EXERCISE 15.1
+                Advantages of inorganic fertilisers
+                ACTIVITY 15.1 DISCUSS ADVANTAGES OF INORGANIC FERTILISERS
+                Industrial processes used for the production of fertilisers
+                The Haber Process
+                The Ostwald process
+                The contact process
+                Producing nitrogen fertilisers
+                Producing phosphate fertilisers
+                Case study: Mining rock phospate
+                Potassium fertilisers
+                EXERCISE 15.2
+            Unit 3: Fertilisers and the environment
+                Eutrophication
+                Sources of eutrophication
+                ACTIVITY 15.2 INVESTIGATE THE POLLUTION OF RIVERS IN YOUR AREA
+                Case study: Eutrophication at Zandvlei
+                Preventing eutrophication
+                ACTIVITY 15.3 DISCUSS EUTROPHICATION
+                Alternatives to inorganic fertilisers
+                Comparing fertilisers
+                ACTIVITY 15.4 COMPARE ORGANIC AND INORGANIC FERTILISERS
+                Case study: Traditional farming methods
+                Chapter 15 Revision
+        Topic 10 Summary
+        Exam practice Topic 4
+            SECTION A
+            SECTION B
+Term 4
+    Topic 11 Revision
+        CHAPTER 16 Examination tips
+            Unit 1: How to approach a Physical Sciences examination paper
+                Format of the final Grade 12 national examination
+                Writing the final examination
+                General tips
+                Time management
+                Problem solving strategies
+        CHAPTER 17 Revise Physics
+            Unit 1: Mechanics
+                Basic mechanics principles covered in Grade 11
+                EXERCISE 17.1
+                Basic principles related to work and energy
+                EXERCISE 17.2
+            Unit 2: Waves, sound and light; Matter and materials
+                Basic principles related to the Doppler effect
+                EXERCISE 17.3
+                Basic principles related to optical phenomena and the properties of matter
+                The photoelectric effect
+                Emission and absorption spectra
+                EXERCISE 17.4
+            Unit 3: Electricity and magnetism
+                Basic principles covered in Grade 11
+                EXERCISE 17.5
+        CHAPTER 18 Revise chemistry
+            Unit 1: Matter and materials
+                Basic principles related to intermolecular forces covered in Grade 11
+                EXERCISE 18.1
+                Basic principles related to organic chemistry
+                EXERCISE 18.2
+            Unit 2: Chemical change
+                Basic principles related to chemical change covered in Grade 10
+                EXERCISE 18.3
+                Basic principles related to stoichiometry covered in Grade 11
+                WORKED EXAMPLE
+                EXERCISE 18.4
+                Basic principles related to energy and chemical change covered in Grade 11
+                Basic principles related to reaction rate and equilibrium
+                EXERCISE 18.5
+                Basic principles related to acids and bases
+                EXERCISE 18.6
+                Basic principles related to electrochemical reactions
+                EXERCISE 18.7
+Midyear Practice Examination
+    Paper 1: Physics
+Midyear Practice Examination
+    Paper 2: Chemistry
+    Practice Trial Examination
+    Practice Trial Examination
+Table of standard reduction potentials
+Table of common ions
+List of symbols and units
+Conversion of units
+Glossary
+Action words in science

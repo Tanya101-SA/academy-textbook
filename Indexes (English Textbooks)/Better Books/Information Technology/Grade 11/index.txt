@@ -1,0 +1,14 @@
+Delphi Programming for Grade 10 to 12 - Grade 11 Section (CAPS IT Practical)
+Publisher: Better Books (Authors: Heathcote and Sobey)
+
+Chapter 1: Arrays (One-dimensional)
+Chapter 2: Sorting Algorithms (Bubble sort, selection sort)
+Chapter 3: Searching Algorithms (Linear search, binary search)
+Chapter 4: Two-dimensional Arrays
+Chapter 5: Advanced String Manipulation
+Chapter 6: Records
+Chapter 7: User-defined Methods (Procedures and functions with parameters)
+Chapter 8: Text File Processing (Advanced)
+Chapter 9: Basic Database Concepts with Delphi (Introduction to DB components)
+
+Source: Web research - CAPS Information Technology practical curriculum

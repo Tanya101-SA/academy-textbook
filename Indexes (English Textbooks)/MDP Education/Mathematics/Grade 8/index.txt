@@ -1,0 +1,82 @@
+MDP Education - CAPS Approved
+Subject: Mathematics
+Grade 8
+Phase: Senior Phase
+Publisher: MDP Education
+Book: Mindbourne Mathematics Textbook Grade 8
+Source: CAPS Policy Document
+
+--- TABLE OF CONTENTS ---
+
+Term 1
+  Whole Numbers
+    - Properties of whole numbers
+    - Calculations with whole numbers
+  Integers
+    - Counting, ordering and comparing integers
+    - Calculations with integers
+  Exponents
+    - Laws of exponents
+    - Calculations using exponents
+  Numeric and Geometric Patterns
+    - Investigate and extend patterns
+    - Describe and justify rules
+  Functions and Relationships
+    - Input and output values
+    - Equivalent forms
+  Algebraic Expressions
+    - Expand and simplify expressions
+    - Factorise
+  Algebraic Equations
+    - Solve equations by inspection, trial and systematic methods
+
+Term 2
+  Algebraic Expressions (continued)
+    - Products of binomials
+    - Simplifying expressions
+  Algebraic Equations (continued)
+    - Solving linear equations
+  Construction of Geometric Figures
+    - Bisecting lines and angles
+    - Constructing triangles and quadrilaterals
+  Geometry of 2D Shapes
+    - Properties of triangles and quadrilaterals
+    - Similar and congruent triangles
+  Geometry of Straight Lines
+    - Angles on a straight line
+    - Parallel lines cut by a transversal
+
+Term 3
+  Common Fractions
+    - Calculations with common fractions
+    - Solving problems involving fractions
+  Decimal Fractions
+    - Calculations with decimal fractions
+    - Rounding off
+  Theorem of Pythagoras
+    - Investigate the theorem
+    - Solve problems using the theorem
+  Area and Perimeter of 2D Shapes
+    - Calculate area and perimeter of polygons and circles
+  Surface Area and Volume of 3D Objects
+    - Rectangular prisms and cylinders
+
+Term 4
+  Functions and Relationships
+    - Tables, equations and graphs
+  Algebraic Equations
+    - Equations involving fractions
+  Graphs
+    - Drawing and interpreting graphs
+    - Linear and non-linear graphs
+  Transformation Geometry
+    - Translations, reflections, rotations
+    - Enlargements and reductions
+  Geometry of 3D Objects
+    - Classifying 3D objects
+  Data Handling
+    - Collect, organise and summarise data
+    - Represent data
+    - Interpret and analyse data
+  Probability
+    - Probability of outcomes of events

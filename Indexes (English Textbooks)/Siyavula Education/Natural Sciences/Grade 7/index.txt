@@ -1,0 +1,136 @@
+======================================================================
+Siyavula Education - CAPS Approved
+Subject: Natural Sciences
+Grade 7
+Phase: Senior Phase
+Publisher: Siyavula Education
+Series: Siyavula Natural Sciences (Open Textbook)
+Curriculum: CAPS
+Source: CAPS Policy Document / siyavula.com
+Note: Siyavula is an open-source publisher. Page numbers not applicable for open digital textbook. Structure follows CAPS exactly.
+======================================================================
+
+TABLE OF CONTENTS
+──────────────────────────────────────────────────────────────────────
+
+TERM 1
+
+  Strand: Life and Living
+    Topic: The biosphere
+      - What is the biosphere?
+      - The atmosphere, hydrosphere and lithosphere
+      - Requirements for sustaining life (water, nutrients, gases, suitable temperatures)
+      - Biodiversity on Earth
+      - South Africa's biodiversity
+
+    Topic: Biodiversity
+      - What is biodiversity?
+      - Classification of living things
+      - The five kingdoms (animals, plants, fungi, protists, bacteria)
+      - Vertebrates and invertebrates
+      - Classifying vertebrates (mammals, birds, reptiles, amphibians, fish)
+      - Classifying invertebrates (insects, arachnids, crustaceans, worms, molluscs)
+      - Classifying plants (flowering and non-flowering, monocotyledons and dicotyledons)
+      - Using a dichotomous key
+
+    Topic: Sexual reproduction in angiosperms
+      - Parts of a flower (sepals, petals, stamens, pistil/carpel)
+      - Functions of each part of the flower
+      - Pollination (self-pollination and cross-pollination)
+      - Agents of pollination (wind, insects, birds)
+      - Fertilisation in plants
+      - Seed and fruit formation
+      - Seed dispersal (wind, water, animals, explosive mechanisms)
+      - Germination (conditions needed, investigating germination)
+
+TERM 2
+
+  Strand: Matter and Materials
+    Topic: Properties of materials
+      - Physical properties (hardness, strength, flexibility, density, melting point, boiling point)
+      - Thermal conductors and insulators
+      - Electrical conductors and insulators
+      - Magnetic and non-magnetic materials
+      - Testing and comparing materials
+
+    Topic: Separating mixtures
+      - Mixtures (heterogeneous and homogeneous)
+      - Solutions (solute, solvent, saturated solutions)
+      - Methods of separating mixtures
+        - Sorting and sieving
+        - Filtration
+        - Evaporation and crystallisation
+        - Distillation
+        - Magnetism
+        - Chromatography
+      - Practical investigations on separating mixtures
+
+    Topic: Acids, bases and neutrals
+      - What are acids?
+      - What are bases?
+      - What are neutral substances?
+      - Indicators (litmus paper, universal indicator, pH scale)
+      - Natural indicators (red cabbage, turmeric)
+      - Strong and weak acids and bases
+      - Neutralisation reactions
+      - Acids and bases in everyday life
+      - Safety when using acids and bases
+
+TERM 3
+
+  Strand: Energy and Change
+    Topic: Sources of energy
+      - Renewable energy sources (solar, wind, hydroelectric, biomass, geothermal)
+      - Non-renewable energy sources (coal, oil, natural gas, nuclear)
+      - Advantages and disadvantages of each energy source
+      - Energy sources in South Africa (Eskom, coal-fired power stations)
+      - The need for sustainable energy
+      - Saving energy
+
+    Topic: Potential and kinetic energy
+      - What is potential energy?
+      - Gravitational potential energy
+      - Elastic potential energy
+      - What is kinetic energy?
+      - Energy conversions (potential to kinetic and back)
+      - Conservation of energy
+      - Investigating potential and kinetic energy
+
+    Topic: Heat transfer
+      - What is heat?
+      - Temperature and thermometers
+      - Conduction (how heat moves through solids)
+      - Convection (how heat moves through liquids and gases)
+      - Radiation (how heat travels through space)
+      - Conductors and insulators of heat
+      - Practical applications of heat transfer (insulation in homes, cooking)
+
+TERM 4
+
+  Strand: Earth and Beyond
+    Topic: The relationship between the Sun and the Earth
+      - The Sun as a source of heat and light
+      - The tilt of the Earth's axis (23.5°)
+      - Seasons (caused by the tilt and revolution of the Earth)
+      - Length of day and night in different seasons
+      - Solstices and equinoxes
+      - The effect of latitude on seasons
+
+    Topic: The solar system
+      - The Sun as a star
+      - The eight planets and their characteristics
+      - Inner planets (rocky planets: Mercury, Venus, Earth, Mars)
+      - Outer planets (gas giants: Jupiter, Saturn, Uranus, Neptune)
+      - Dwarf planets (Pluto, Eris)
+      - Moons, asteroids, comets and meteoroids
+      - Gravity and orbits
+      - Exploring the solar system (telescopes, space probes, satellites)
+
+    Topic: Beyond the solar system
+      - Stars and constellations
+      - The Milky Way galaxy
+      - Other galaxies
+      - The scale of the universe
+      - Light years
+      - Southern African Large Telescope (SALT)
+      - Square Kilometre Array (SKA) in South Africa

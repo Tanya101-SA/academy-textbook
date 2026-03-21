@@ -1,0 +1,23 @@
+Solutions for All Physical Sciences - Grade 11 (CAPS)
+Publisher: Macmillan South Africa
+
+PHYSICS:
+- Mechanics: Vectors in two dimensions
+- Mechanics: Newton's Laws (Momentum, impulse, conservation of momentum)
+- Mechanics: Work, energy and power
+- Waves, Sound and Light: Geometrical optics (Refraction, lenses, optical instruments)
+- Waves, Sound and Light: 2D and 3D wave fronts (Diffraction, interference)
+- Electricity and Magnetism: Electrostatics (Coulomb's Law, electric field)
+- Electricity and Magnetism: Electric circuits (Internal resistance, series-parallel networks)
+- Electricity and Magnetism: Electrodynamics (Generators, motors, alternating current)
+
+CHEMISTRY:
+- Matter and Materials: Atomic combinations (Molecular structure, electronegativity, bond energy)
+- Matter and Materials: Intermolecular forces
+- Matter and Materials: Ideal gases and gas laws
+- Chemical Change: Stoichiometry
+- Chemical Change: Energy and chemical change (Exothermic/endothermic, activation energy)
+- Chemical Change: Types of reactions (Acid-base, redox, reactions of metals with acids)
+- Chemical Systems: The lithosphere (Mining, minerals in South Africa, environmental impact)
+
+Source: Web research - macmillaneducation.co.za, CAPS Physical Sciences curriculum

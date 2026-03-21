@@ -1,0 +1,101 @@
+======================================================================
+Platinum Mathematics Grade 10 Learner's Book
+ISBN: 9780636155527
+Publisher: Platinum (Pearson South Africa)
+Curriculum: CAPS
+======================================================================
+
+TABLE OF CONTENTS
+──────────────────────────────────────────────────────────────────────
+
+
+Cover
+Title page
+Term 1
+    Topic 1: Algebraic expressions and exponents
+        Unit 1 Real numbers
+        Unit 2 Surds
+        Unit 3 Appropriate rounding
+        Unit 4 Multiply a binomial by a trinomial
+        Unit 5 Factorising
+        Unit 6 Factorise to simplify algebraic fractions
+        Unit 7 Add and subtract algebraic fractions
+        Revision
+        Unit 8 Revise the laws of exponents
+        Unit 9 Use the laws of exponents to simplify expressions and solve equations
+        Revision
+    Topic 2: Number patterns, sequences and series
+        Unit 1 Number patterns
+        Revision
+    Topic 3: Equations and inequalities
+        Unit 1 Solve linear equations
+        Unit 2 Solve quadratic equations by factorisation
+        Unit 3 Solve simultaneous linear equations
+        Unit 4 Solve literal equations by changing the subject of the formula
+        Unit 5 Solve linear inequalities
+        Revision
+    Topic 4: Trigonometry
+        Unit 1 Similar triangles and trigonometric definitions
+        Unit 2 Special angles and reciprocal ratios
+        Unit 3 Solve right-angled triangle problems
+        Unit 4 Solve simple trigonometric equations
+        Unit 5 Define trigonometric functions and plot graphs
+        Revision
+        Investigation: Polygon patterns
+        Programme of assessment: Term 1
+Term 2
+    Topic 5: Functions
+        Unit 1 The concept of a function
+        Unit 2 Plot basic graphs and investigate the effect of a and q on the graphs
+        Unit 3 The effect of a and q on trigonometric graphs
+        Unit 4 Sketch, use and interpret graphs
+        Revision
+    Topic 6: Euclidean geometry
+        Unit 1 Geometry: Revision of earlier grades
+        Unit 2 Investigate special quadrilaterals
+        Unit 3 Investigate the line joining the midpoints of two sides of a triangle
+        Revision
+        Programme of assessment: Term 2
+        Term 2 Summary
+Term 3
+    Topic 7: Analytical geometry
+        Unit 1 The distance between two points
+        Unit 2 The gradient of a line segment
+        Unit 3 The midpoint of a line segment
+        Revision
+    Topic 8: Finance and growth
+        Unit 1 Simple and compound growth
+        Unit 2 Foreign exchange rates
+        Revision
+    Topic 9: Statistics
+        Unit 1 Measures of central tendency: mean, median and mode
+        Unit 2 Measures of dispersion: range, percentiles, quartiles and interquartile and semi-interquartile range
+        Unit 3 Five-number summaries and box-and-whisker plots
+        Unit 4 Analysing and interpreting statistical summaries of data
+        Revision
+    Topic 10: Euclidean geometry
+        Unit 1 Problems and proofs using geometric properties
+        Revision
+    Topic 11: Trigonometry
+        Unit 1 Trigonometric problems with geometric properties
+        Unit 2 Problems in two dimensions
+        Revision
+    Topic 12: Measurement
+        Unit 1 Volume and surface area of shapes
+        Unit 2 Volume and surface area of combined shapes
+        Revision
+        Investigation: Midpoints of triangles and quadrilaterals
+        Programme of assessment: Term 3
+        Term 3 Summary
+Term 4
+    Topic 13: Probability
+        Unit 1 Probability models
+        Unit 2 Venn diagrams and symbols
+        Revision
+        Programme of assessment: Term 4
+        Term 4 Summary
+Exam practice paper 1
+Exam practice paper 2
+Anwers
+Glossary
+Imprint page

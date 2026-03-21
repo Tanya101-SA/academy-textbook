@@ -1,0 +1,391 @@
+======================================================================
+Platinum Mathematical Literacy Grade 11 Learner's Book
+ISBN: 9780636158733
+Publisher: Platinum (Pearson South Africa)
+Curriculum: CAPS
+======================================================================
+
+TABLE OF CONTENTS
+──────────────────────────────────────────────────────────────────────
+
+
+Platinum Mathematical Literacy Grade 11 Learner’s Book
+Term 1
+    TOPIC 1 Patterns, relationships and representation
+        Unit 1 Graphs that tell a story
+            Interpreting graphs found in the media
+                WORKED EXAMPLE
+                SOLUTION
+            Understanding and interpreting points of intersection
+                WORKED EXAMPLE
+                SOLUTION
+            Graphs in real life situations
+                WORKED EXAMPLE
+                SOLUTION
+        Unit 2 Patterns and relationships
+            Linear relationships
+            Constant (fixed) relationships
+            Constant difference relationships
+            Combination relationships
+            Inverse relationships
+            Geometric patterns and relationships
+                WORKED EXAMPLE
+                SOLUTION
+            Relationships with no obvious pattern
+                WORKED EXAMPLE
+                SOLUTION
+        Unit 3 Tables, equations and graphs
+            Choosing a suitable cellphone contract
+                WORKED EXAMPLE
+                SOLUTION
+            Interpreting graphs by completing tables of values
+                WORKED EXAMPLE
+                SOLUTION
+            Interpreting graphs and matching equations
+                WORKED EXAMPLE
+                SOLUTION
+            Working with and identifying equations
+                WORKED EXAMPLE
+                SOLUTION
+            Choosing an effective or the most effective representation when solving problems
+                WORKED EXAMPLE
+                SOLUTION
+        Revision
+    TOPIC 2 Measurement: Conversions and time
+        Unit 1 Conversions
+            WORKED EXAMPLE 1
+                SOLUTION
+            WORKED EXAMPLE 2
+                SOLUTION
+            WORKED EXAMPLE 3
+                SOLUTION
+            WORKED EXAMPLE 4
+                SOLUTION
+            Unit 2 Time
+                Time recording formats
+                WORKED EXAMPLE
+                SOLUTION
+                Calculate elapsed time between two events
+                WORKED EXAMPLE
+                SOLUTION
+        Revision
+    TOPIC 3 Finance: Documents, systems, statements and budgets
+        Unit 1 Financial documents
+            Bank statements
+            Household accounts, invoices and statements
+            Telephone (landline) invoices
+            Till slips
+                WORKED EXAMPLE
+                SOLUTION
+            Quotations
+            Salary slips
+            Travelling allowance claim forms
+                WORKED EXAMPLE
+                SOLUTION
+            Daily or weekly travelling allowance
+                WORKED EXAMPLE
+                SOLUTION
+        Unit 2 Tariff systems
+            Household utilities
+            Electricity tariffs
+                Pre-paid meters
+                Post-paid meters
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 9
+            Water and sewage tariffs
+                WORKED EXAMPLE
+                SOLUTION
+            Landline and cellphone tariffs
+                WORKED EXAMPLE
+                SOLUTION
+            Parking Tariffs
+        Unit 3 Income statements and budgets
+            Personal income, expenditure and budgets
+                Personal income
+                Personal expenditure
+                Personal budgets
+                WORKED EXAMPLE
+                SOLUTION
+            Household budgets
+                WORKED EXAMPLE
+                SOLUTION
+            Budgeting for trips and holidays
+                WORKED EXAMPLE
+                SOLUTION
+            Working with and comparing budgets
+                WORKED EXAMPLE
+                SOLUTION
+            Small business income statements and budgets
+            Setting up a projected budget
+                WORKED EXAMPLE
+                SOLUTION
+            Comparing actual income and expenditure with a projected budget
+                WORKED EXAMPLE
+                SOLUTION
+        Unit 4 Cost price and selling price
+            Determining the cost price
+            Determining profit and an appropriate selling price
+                WORKED EXAMPLE
+                SOLUTION
+            Calculations involving cost price, selling price and profit
+                WORKED EXAMPLE
+                SOLUTION
+        Unit 5 Break-even analysis
+            WORKED EXAMPLE
+                SOLUTION
+            Calculating Profit and Loss
+                WORKED EXAMPLE
+                SOLUTION
+        Revision
+        Assessment: Term 1 Investigation
+        Assessment: Term 1 Assignment
+            Represent cellphone package deals graphically
+        Assessment: Control Test
+        Term 1 Summary
+            Topic 1 Patterns, relationships and representations
+            Topic 2 Measurement: Conversions and time
+            Topic 3 Finance: Documents, systems, statements and budgets
+            Topic 3 Finance: Documents, systems, statements and budgets
+Term 2
+    TOPIC 4 Finance: Interest, banking and inflation
+        Unit 1 Interest
+            Comparing simple and compound interest
+                WORKED EXAMPLE
+                SOLUTION
+            Using graphs to understand and represent interest growth patterns
+                WORKED EXAMPLE
+                SOLUTION
+            Calculating interest on bank accounts with frequently changing balances
+                WORKED EXAMPLE
+                SOLUTION
+        Unit 2 Banking, loans and investments
+            Different types of bank accounts
+                Savings accounts
+                Fixed deposit accounts
+                Cheque or current accounts (also known as transactional accounts)
+                Credit cards
+                Understanding credit cards and how interest is charged on them
+                WORKED EXAMPLE
+                SOLUTION
+                Debit cards
+            Bank charges and fees (transaction charges)
+                WORKED EXAMPLE
+                SOLUTION
+            Comparing bank charges
+        Unit 3 Inflation
+            WORKED EXAMPLE
+                SOLUTION
+            The impact of inflation on purchasing power and the value of goods and services
+                WORKED EXAMPLE
+                SOLUTION
+            The impact of inflation on savings and investments
+                WORKED EXAMPLE
+                SOLUTION
+        Revision
+    TOPIC 5 Measurement: Length, mass, volume and temperature
+        Unit 1 Measuring length and distance
+            Unit 2 Measuring mass
+                Body Mass Index
+                What the BMI value means
+                EXERCISE 5
+            Unit 3 Measuring volume
+            Unit 4 Measuring temperature
+                WORKED EXAMPLE
+                SOLUTION
+        Revision
+    TOPIC 6 Maps, plans and other representations of the physical world: Scale and maps
+        Unit 1 Scale
+            Revision: Scales can be expressed in three different ways.
+                WORKED EXAMPLE
+                SOLUTION
+                WORKED EXAMPLE
+                SOLUTION
+            Unit 2 Maps
+                Road maps and grid references
+                WORKED EXAMPLE
+                SOLUTION
+                Profile Or Elevation Maps
+                WORKED EXAMPLE
+                SOLUTION
+        Revision
+        Assessment - Term 2 Assignment
+            Which bank account?
+        Assessment: Term 2 Investigation
+            Simple and compound interest
+        Assessment - Term 2 Assignment
+            Planning an outdoor outing for a group of learners
+                Stage 1
+                Stage 2
+                Stage 3
+        Exam Practice Paper 1
+        Exam Practice Paper 2
+        Term 2 Summary
+            Topic 4 Finance: Interest, banking and inflation
+            Topic 5 Measurement: Length, mass, volume and temperature
+            Topic 6 Maps, plans and other representations of the physical world: Scale and maps
+Term 3
+    Topic 7 Measurement: Perimeter, area and volume
+        Unit 1 Perimeter
+        Unit 2 Area
+            WORKED EXAMPLE
+                SOLUTION
+        Unit 3 Volume
+            WORKED EXAMPLE
+                SOLUTION
+        Revision
+    TOPIC 8 Maps, plans and other representations of the physical world: Plans and models
+        Unit 1 Plans
+            Plans used for houses
+                WORKED EXAMPLE
+                SOLUTION
+            Shopping mall floor plans
+            Theatre seating plans
+            Assembly instructions
+                WORKED EXAMPLE
+                SOLUTION
+        Unit 2 Models
+            Packaging containers within containers
+                WORKED EXAMPLE
+                SOLUTION
+        Revision
+    TOPIC 9 Finance: Taxation
+        Unit 1 Taxation
+            The Unemployment Insurance Fund (UIF)
+                WORKED EXAMPLE
+                SOLUTION
+        Revision
+    TOPIC 10 Probability
+        Unit 1 Expressions of probability
+            WORKED EXAMPLE
+                SOLUTION
+            WORKED EXAMPLE
+                SOLUTION
+        Unit 2 Prediction
+            WORKED EXAMPLE
+                SOLUTION
+            CLASS ACTIVITY: SIMULATE THE CLAIM THAT ‘80% OF WOMEN EXPERIENCE LESS WRINKLES WITH X NIGHT CREAM’.
+        Unit 3 Determining possible outcomes
+            WORKED EXAMPLE
+                SOLUTION
+            WORKED EXAMPLE
+                SOLUTION
+        Revision
+        Assessment: Term 3 Investigation
+            Painting the walls of your classroom
+        Assessment: Term 3 Investigation
+            Household water consumption
+        Assessment: Control test
+        Term 3 Summary
+            Topic 7 Measurement: Perimeter, area and volume
+            Topic 8 Maps, plans and other representations of the physical world: Plans and models
+            Topic 9 Finance: Taxation
+            Topic 10 Probability
+Term 4
+    TOPIC 11 Finance: Exchange rates
+        Unit 1 Exchange rates
+            WORKED EXAMPLE
+                SOLUTION
+        Revision
+    TOPIC 12 Data Handling
+        Unit 1 Develop questions and collect data
+            Developing questions
+                WORKED EXAMPLE
+                SOLUTION
+            Collecting data
+                Observation
+                Interview
+                Questionnaires
+                WORKED EXAMPLE
+                SOLUTION
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 2
+        Unit 2
+            Classify and organise data
+                Categorical data (this is also called qualitative data)
+                Numerical data is divided into two types: discrete and continuous.
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 3
+            Sorting collected data using tally marks and frequency tables
+                WORKED EXAMPLE
+                SOLUTION
+        Unit 3 Summarise data
+            Measures of central tendency – mean, median, and mode
+                Mean
+                Median
+                Mode
+                WORKED EXAMPLE 1
+                SOLUTION
+                WORKED EXAMPLE 2
+                SOLUTION
+                WORKED EXAMPLE 3
+                SOLUTION
+                WORKED EXAMPLE 4
+                SOLUTION
+                EXERCISE 6
+        Unit 4 Represent data
+            Pie charts
+                WORKED EXAMPLE
+                SOLUTION
+            Histograms
+                WORKED EXAMPLE
+                SOLUTION
+            Bar graphs
+                Single bar graphs
+                WORKED EXAMPLE
+                SOLUTION
+                Multiple bar graphs
+                WORKED EXAMPLE
+                SOLUTIONS
+                EXERCISE 7
+            Line graphs
+                WORKED EXAMPLE
+                SOLUTION
+                Scatter plots
+                WORKED EXAMPLE
+                SOLUTION
+                EXERCISE 8
+        Unit 5 Interpret and analyse data
+            WORKED EXAMPLE 1
+                SOLUTION
+            WORKED EXAMPLE 2
+                SOLUTION
+            WORKED EXAMPLE 3
+                SOLUTION
+        Revision
+        Assessment: Term 4 Investigation
+            Healthy living for adults
+        Exam Practice Paper 1
+            2 hours [100 marks]
+        Exam Practice Paper 2
+            2 hours [100 marks]
+        Term 4 Summary
+            Topic 11 finance: exchange rates
+            Topic 12 Data Handling
+            Overview of graph types and their uses
+Answers
+Glossary
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
