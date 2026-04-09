@@ -20,7 +20,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
   try {
     const result = await db
       .insert(textbookMappings)
-      .values({ systemTopicId, publisherId, textbookTopic: textbookTopic || null, textbookTopicName: textbookTopicName || '', notes: notes || null, createdBy: user.email })
+      .values({ systemTopicId, publisherId, textbookTopic: textbookTopic || null, textbookTopicName: textbookTopicName || '', notes: notes || null, updatedBy: user.email, source: 'manual' })
       .returning();
     res.status(201).json(result[0]);
   } catch (error: any) {

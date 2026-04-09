@@ -14,7 +14,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
     const { textbookTopic, textbookTopicName, notes } = req.body;
     const result = await db
       .update(textbookMappings)
-      .set({ textbookTopic: textbookTopic || null, textbookTopicName, notes: notes || null, updatedBy: user.email, updatedAt: new Date() })
+      .set({ textbookTopic: textbookTopic || null, textbookTopicName, notes: notes || null, updatedBy: user.email, updatedAt: new Date(), source: 'manual' })
       .where(eq(textbookMappings.id, id))
       .returning();
 
