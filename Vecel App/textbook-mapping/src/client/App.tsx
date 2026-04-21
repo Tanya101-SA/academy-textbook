@@ -5,7 +5,6 @@ import Dashboard from './pages/Dashboard';
 import BrowseTopics from './pages/BrowseTopics';
 import AdminUsers from './pages/AdminUsers';
 import MissingTopics from './pages/MissingTopics';
-import Textbooks from './pages/Textbooks';
 
 function App() {
   const location = useLocation();
@@ -64,16 +63,6 @@ function App() {
               >
                 Missing Textbook Topics
               </Link>
-              <Link
-                to="/textbooks"
-                className={`px-3 py-2 rounded-md text-sm font-medium ${
-                  location.pathname === '/textbooks'
-                    ? 'bg-green-100 text-green-700'
-                    : 'text-gray-600 hover:text-gray-900 hover:bg-gray-100'
-                }`}
-              >
-                Textbooks
-              </Link>
               {isAdmin && (
                 <Link
                   to="/admin/users"
@@ -106,7 +95,6 @@ function App() {
           <Route path="/" element={<Dashboard />} />
           <Route path="/topics" element={<BrowseTopics />} />
           <Route path="/missing-topics" element={<MissingTopics />} />
-          <Route path="/textbooks" element={<Textbooks />} />
           {isAdmin && <Route path="/admin/users" element={<AdminUsers />} />}
           <Route path="*" element={<Navigate to="/" />} />
         </Routes>
