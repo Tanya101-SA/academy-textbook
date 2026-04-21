@@ -1,0 +1,15 @@
+{
+  "textbooks": [
+    {
+      "id": "platinum-en-g4-natural-sciences-and-technology",
+      "language": "English",
+      "grade": 4,
+      "subject": "Natural Sciences and Technology",
+      "publisher": "Platinum",
+      "title": "Platinum Natural Sciences and Technology Grade 4 Learner's Book",
+      "isbn": "9780636154216",
+      "curriculum": "CAPS",
+      "indexPath": "/textbook-indexes/platinum-en-g4-natural-sciences-and-technology.txt"
+    }
+  ]
+}
